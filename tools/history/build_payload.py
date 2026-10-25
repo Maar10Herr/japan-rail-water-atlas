@@ -4,11 +4,13 @@
 """Normalize licensed historical inputs into the embedded layer (standard library only)."""
 from __future__ import annotations
 import collections
+import argparse
 import csv
 import gzip
 import hashlib
 import json
 import math
+import io
 import re
 from pathlib import Path
 
@@ -168,7 +170,7 @@ def group_connected_osm(items):
     return passthrough
 
 
-def build():
+def build(check=False):
     conflicts=read('current-history-conflicts.json')
     excluded=set(conflicts['exclude_history_osm_ids'])
     updates={r['history_id']:r['set'] for r in conflicts.get('historical_updates',[])}
@@ -219,13 +221,32 @@ def build():
     html='History: <a href="https://naeboworks.com/haisen/" target="_blank" rel="noopener">©苗穂工房</a> (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY4.0</a>, adapted; GSI aerial-photo / site-coordinate references) · <a href="https://www.openhistoricalmap.org/copyright" target="_blank" rel="noopener">OpenHistoricalMap (CC0)</a> · <a href="https://commons.wikimedia.org/wiki/File:Minami-Daito-Sugartrain-line.gif" target="_blank" rel="noopener">Tamurono157</a> (<a href="https://creativecommons.org/licenses/by/3.0/" target="_blank" rel="noopener">CC BY3.0</a>, adapted)'
     sources={'osm':{'name':'OpenStreetMap','license':'ODbL-1.0','url':'https://www.openstreetmap.org/copyright'},'naeboworks':{'name':'苗穂工房','license':'CC-BY-4.0','url':'https://naeboworks.com/haisen/'},'ohm':{'name':'OpenHistoricalMap','license':'CC0-1.0','url':'https://www.openhistoricalmap.org/copyright'},'sugar_diagram':{'name':'Tamurono157','license':'CC-BY-3.0','url':'https://commons.wikimedia.org/wiki/File:Minami-Daito-Sugartrain-line.gif'}}
     payload={'schema_version':1,'lines':{'type':'FeatureCollection','features':lines},'points':{'type':'FeatureCollection','features':points},'records':records,'count':count,'sources':sources,'attribution_html':html,'attribution_text':credits,'period_policy':'All recorded eras combined; no simultaneous-network claim. Source dates retain their individual scopes.'}
-    OUTPUT.write_bytes(gzip.compress(json.dumps(payload,ensure_ascii=False,separators=(',',':')).encode(),compresslevel=9,mtime=0))
-    (INPUT/'integration-audit.json').write_text(json.dumps({'counts':count,'decisions':audit,'grouping':'Only identically named/dated OSM sections sharing a source vertex are grouped. No missing geometry or source dates are inferred.'},ensure_ascii=False,indent=2)+'\n')
-    with (INPUT/'stations-and-sites.csv').open('w',newline='') as f:
-        w=csv.writer(f,lineterminator='\n');w.writerow(['id','kind','name','name_en','longitude','latitude','source_component','geometry_quality','license','sources'])
-        for r in records:
-            if r['kind']!='line':w.writerow([r['id'],r['kind'],r['name'],r['en'],*r['xy'],r['source_component'],r['geometry_quality'],r['license'],' | '.join(r['source_urls'])])
-    print(json.dumps(count,indent=2));print(f'Historical payload: {OUTPUT.stat().st_size:,} bytes')
+    raw=json.dumps(payload,ensure_ascii=False,separators=(',',':')).encode()
+    audit_bytes=(json.dumps({'counts':count,'decisions':audit,'grouping':'Only identically named/dated OSM sections sharing a source vertex are grouped. No missing geometry or source dates are inferred.'},ensure_ascii=False,indent=2)+'\n').encode()
+    inventory=io.StringIO(newline='')
+    w=csv.writer(inventory,lineterminator='\n');w.writerow(['id','kind','name','name_en','longitude','latitude','source_component','geometry_quality','license','sources'])
+    for r in records:
+        if r['kind']!='line':w.writerow([r['id'],r['kind'],r['name'],r['en'],*r['xy'],r['source_component'],r['geometry_quality'],r['license'],' | '.join(r['source_urls'])])
+    generated={INPUT/'integration-audit.json':audit_bytes,INPUT/'stations-and-sites.csv':inventory.getvalue().encode()}
+    if check:
+        # gzip headers and compression streams can differ across Python/zlib
+        # versions. Check exact uncompressed JSON, and leave the frozen gzip
+        # bytes untouched; the manifest separately verifies their SHA-256.
+        if not OUTPUT.exists() or gzip.decompress(OUTPUT.read_bytes())!=raw:
+            raise SystemExit('Historical payload is stale. Run: python3 tools/history/build_payload.py')
+        for path,contents in generated.items():
+            if not path.exists() or path.read_bytes()!=contents:
+                raise SystemExit(f'Historical audit is stale: {path.name}')
+        print('Historical payload and audits match checked-in source inputs')
+    else:
+        compressed=bytearray(gzip.compress(raw,compresslevel=9,mtime=0))
+        compressed[9]=255  # OS-independent gzip header.
+        OUTPUT.write_bytes(compressed)
+        for path,contents in generated.items():path.write_bytes(contents)
+        print(json.dumps(count,indent=2));print(f'Historical payload: {OUTPUT.stat().st_size:,} bytes')
     return payload
 
-if __name__=='__main__':build()
+if __name__=='__main__':
+    parser=argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('--check',action='store_true',help='Verify normalized JSON and audits without recompressing the frozen payload')
+    build(check=parser.parse_args().check)
