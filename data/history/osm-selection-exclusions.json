@@ -1,0 +1,1615 @@
+[
+  {
+    "id": "osm-history-n11045734096",
+    "name": "",
+    "tags": {
+      "historic": "railway_station",
+      "inscription": "井笠鉄道小平井駅跡"
+    }
+  },
+  {
+    "id": "osm-history-n11045734122",
+    "name": "",
+    "tags": {
+      "historic": "railway_station",
+      "inscription": "井笠鉄道 太井村駅跡"
+    }
+  },
+  {
+    "id": "osm-history-n11046144856",
+    "name": "",
+    "tags": {
+      "historic": "railway_station",
+      "inscription": "井笠鉄道 井原駅跡"
+    }
+  },
+  {
+    "id": "osm-history-n12193752762",
+    "name": "三菱大夕張鉄道南大夕張駅",
+    "tags": {
+      "historic": "railway",
+      "name": "三菱大夕張鉄道南大夕張駅",
+      "name:en": "Mitsubishi Ōyūbari Railway Minami-Ōyūbari Station",
+      "name:ja": "三菱大夕張鉄道南大夕張駅"
+    }
+  },
+  {
+    "id": "osm-history-n12632034420",
+    "name": "中耕地駅",
+    "tags": {
+      "historic": "railway",
+      "name": "中耕地駅",
+      "ruins": "yes",
+      "was:public_transport": "station"
+    }
+  },
+  {
+    "id": "osm-history-n12632034421",
+    "name": "吉沢駅",
+    "tags": {
+      "historic": "railway",
+      "name": "吉沢駅",
+      "ruins": "yes",
+      "was:public_transport": "station"
+    }
+  },
+  {
+    "id": "osm-history-n12632034422",
+    "name": "砧駅",
+    "tags": {
+      "historic": "railway",
+      "name": "砧駅",
+      "ruins": "yes",
+      "was:public_transport": "station"
+    }
+  },
+  {
+    "id": "osm-history-w332834340",
+    "name": "",
+    "tags": {
+      "construction": "monorail",
+      "electrified": "rail",
+      "railway": "construction",
+      "rebuilt": "2009",
+      "start_date": "1930",
+      "was:railway": "funicular"
+    }
+  },
+  {
+    "id": "osm-history-w368637633",
+    "name": "戸井線（未成線）",
+    "tags": {
+      "name": "戸井線（未成線）",
+      "railway": "abandoned",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": "osm-history-w431480969",
+    "name": "岩日北線 (未成線)",
+    "tags": {
+      "name": "岩日北線 (未成線)",
+      "railway": "abandoned",
+      "tunnel": "yes"
+    }
+  },
+  {
+    "id": "osm-history-w431480979",
+    "name": "岩日北線 (未成線)",
+    "tags": {
+      "bridge": "yes",
+      "name": "岩日北線 (未成線)",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w431480980",
+    "name": "岩日北線 (未成線)",
+    "tags": {
+      "name": "岩日北線 (未成線)",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w431481050",
+    "name": "岩日北線 (未成線)",
+    "tags": {
+      "name": "岩日北線 (未成線)",
+      "railway": "abandoned",
+      "tunnel": "yes"
+    }
+  },
+  {
+    "id": "osm-history-w431481934",
+    "name": "岩日北線 (未成線)",
+    "tags": {
+      "name": "岩日北線 (未成線)",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w431481949",
+    "name": "岩日北線 (未成線)",
+    "tags": {
+      "name": "岩日北線 (未成線)",
+      "railway": "abandoned",
+      "tunnel": "yes"
+    }
+  },
+  {
+    "id": "osm-history-w431481970",
+    "name": "岩日北線 (未成線)",
+    "tags": {
+      "name": "岩日北線 (未成線)",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w431481974",
+    "name": "岩日北線 (未成線)",
+    "tags": {
+      "bridge": "yes",
+      "name": "岩日北線 (未成線)",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w431481975",
+    "name": "岩日北線 (未成線)",
+    "tags": {
+      "name": "岩日北線 (未成線)",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w431482096",
+    "name": "岩日北線 (未成線)",
+    "tags": {
+      "name": "岩日北線 (未成線)",
+      "railway": "abandoned",
+      "tunnel": "yes"
+    }
+  },
+  {
+    "id": "osm-history-w431482244",
+    "name": "岩日北線 (未成線)",
+    "tags": {
+      "name": "岩日北線 (未成線)",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w431482245",
+    "name": "岩日北線 (未成線)",
+    "tags": {
+      "bridge": "yes",
+      "name": "岩日北線 (未成線)",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w431482246",
+    "name": "岩日北線 (未成線)",
+    "tags": {
+      "name": "岩日北線 (未成線)",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w683050861",
+    "name": "東武熊谷線",
+    "tags": {
+      "name": "東武熊谷線",
+      "name:en": "Tobu Kumagaya Line",
+      "name:ja": "東武熊谷線",
+      "note": "this last little section was never completed, though the line was graded for use.",
+      "railway": "abandoned",
+      "usage": "main",
+      "wikidata": "Q7862638",
+      "wikipedia": "ja:東武熊谷線"
+    }
+  },
+  {
+    "id": "osm-history-w732263094",
+    "name": "東武熊谷線",
+    "tags": {
+      "demolished:bridge": "yes",
+      "demolished:man_made": "bridge",
+      "end_date": "1983-6-1",
+      "name": "東武熊谷線",
+      "name:en": "Tobu Kumagaya Line",
+      "name:ja": "東武熊谷線",
+      "note": "This was the location of the unfinished bridge. all pillars were fully built, but the bridge (to be made of other salvaged bridge spans) was never completed. Only one pillar remains, the rest were demolished.",
+      "railway": "abandoned",
+      "start_date": "1943-12-5",
+      "usage": "main",
+      "wikipedia": "ja:東武熊谷線"
+    }
+  },
+  {
+    "id": "osm-history-w933969281",
+    "name": "根室標津駅転車台",
+    "tags": {
+      "abandoned:railway": "turntable",
+      "area": "yes",
+      "historic": "railway",
+      "name": "根室標津駅転車台"
+    }
+  },
+  {
+    "id": "osm-history-w936759414",
+    "name": "岩日北線 (未成線)",
+    "tags": {
+      "name": "岩日北線 (未成線)",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w946439265",
+    "name": "諏訪ノ森駅下り駅舎跡",
+    "tags": {
+      "historic": "railway",
+      "name": "諏訪ノ森駅下り駅舎跡"
+    }
+  },
+  {
+    "id": "osm-history-w990215417",
+    "name": "名羽線跡（未成線）",
+    "tags": {
+      "name": "名羽線跡（未成線）",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w1000325689",
+    "name": "油須原線",
+    "tags": {
+      "bridge": "yes",
+      "description": "未成線",
+      "layer": "1",
+      "name": "油須原線",
+      "railway": "abandoned",
+      "source": "GSImaps/seamlessphoto;survey",
+      "usage": "branch"
+    }
+  },
+  {
+    "id": "osm-history-w1000325691",
+    "name": "油須原線",
+    "tags": {
+      "description": "未成線",
+      "name": "油須原線",
+      "railway": "abandoned",
+      "source": "GSImaps/seamlessphoto;survey",
+      "usage": "branch"
+    }
+  },
+  {
+    "id": "osm-history-w1000325692",
+    "name": "油須原線",
+    "tags": {
+      "description": "未成線",
+      "name": "油須原線",
+      "railway": "abandoned",
+      "source": "GSImaps/seamlessphoto;survey",
+      "usage": "branch"
+    }
+  },
+  {
+    "id": "osm-history-w1000325693",
+    "name": "油須原線",
+    "tags": {
+      "bridge": "yes",
+      "description": "未成線",
+      "layer": "1",
+      "name": "油須原線",
+      "railway": "abandoned",
+      "source": "GSImaps/seamlessphoto;survey",
+      "usage": "branch"
+    }
+  },
+  {
+    "id": "osm-history-w1009480293",
+    "name": "国鉄宮原線未成線跡",
+    "tags": {
+      "name": "国鉄宮原線未成線跡",
+      "railway": "abandoned",
+      "source": "bing,2012",
+      "wikidata": "Q11453419",
+      "wikipedia": "ja:宮原線"
+    }
+  },
+  {
+    "id": "osm-history-w1087753328",
+    "name": "名羽線跡（未成線）",
+    "tags": {
+      "name": "名羽線跡（未成線）",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w1087753329",
+    "name": "名羽線跡（未成線）",
+    "tags": {
+      "highway": "unclassified",
+      "layer": "-1",
+      "name": "名羽線跡（未成線）",
+      "railway": "abandoned",
+      "tunnel": "yes"
+    }
+  },
+  {
+    "id": "osm-history-w1087753330",
+    "name": "名羽線跡（未成線）",
+    "tags": {
+      "highway": "unclassified",
+      "layer": "-1",
+      "name": "名羽線跡（未成線）",
+      "railway": "abandoned",
+      "tunnel": "yes"
+    }
+  },
+  {
+    "id": "osm-history-w1087753331",
+    "name": "名羽線跡（未成線）",
+    "tags": {
+      "highway": "unclassified",
+      "layer": "-1",
+      "name": "名羽線跡（未成線）",
+      "railway": "abandoned",
+      "tunnel": "yes"
+    }
+  },
+  {
+    "id": "osm-history-w1087753332",
+    "name": "名羽線跡（未成線）",
+    "tags": {
+      "highway": "unclassified",
+      "name": "名羽線跡（未成線）",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w1087753333",
+    "name": "名羽線跡（未成線）",
+    "tags": {
+      "highway": "unclassified",
+      "name": "名羽線跡（未成線）",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w1087753334",
+    "name": "名羽線跡（未成線）",
+    "tags": {
+      "highway": "unclassified",
+      "layer": "-1",
+      "name": "名羽線跡（未成線）",
+      "railway": "abandoned",
+      "tunnel": "yes"
+    }
+  },
+  {
+    "id": "osm-history-w1087753335",
+    "name": "名羽線跡（未成線）",
+    "tags": {
+      "highway": "unclassified",
+      "name": "名羽線跡（未成線）",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w1087753337",
+    "name": "名羽線跡（未成線）",
+    "tags": {
+      "bridge": "yes",
+      "highway": "unclassified",
+      "layer": "1",
+      "name": "名羽線跡（未成線）",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w1087753338",
+    "name": "名羽線跡（未成線）",
+    "tags": {
+      "highway": "unclassified",
+      "name": "名羽線跡（未成線）",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w1087753339",
+    "name": "名羽線跡（未成線）",
+    "tags": {
+      "highway": "unclassified",
+      "name": "名羽線跡（未成線）",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w1087753340",
+    "name": "名羽線跡（未成線）",
+    "tags": {
+      "highway": "unclassified",
+      "name": "名羽線跡（未成線）",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w1087753341",
+    "name": "名羽線跡（未成線）",
+    "tags": {
+      "bridge": "yes",
+      "highway": "unclassified",
+      "layer": "1",
+      "name": "名羽線跡（未成線）",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w1087753342",
+    "name": "名羽線跡（未成線）",
+    "tags": {
+      "highway": "unclassified",
+      "name": "名羽線跡（未成線）",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w1087753343",
+    "name": "名羽線跡（未成線）",
+    "tags": {
+      "highway": "unclassified",
+      "layer": "-1",
+      "name": "名羽線跡（未成線）",
+      "railway": "abandoned",
+      "tunnel": "yes"
+    }
+  },
+  {
+    "id": "osm-history-w1087753344",
+    "name": "名羽線跡（未成線）",
+    "tags": {
+      "highway": "unclassified",
+      "name": "名羽線跡（未成線）",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w1168861469",
+    "name": "丸山変電所",
+    "tags": {
+      "area": "yes",
+      "historic": "railway",
+      "name": "丸山変電所"
+    }
+  },
+  {
+    "id": "osm-history-w1287377422",
+    "name": "",
+    "tags": {
+      "area": "yes",
+      "historic": "railway"
+    }
+  },
+  {
+    "id": "osm-history-w1336879054",
+    "name": "横川火力発電所貯水池跡",
+    "tags": {
+      "area": "yes",
+      "historic": "railway",
+      "name": "横川火力発電所貯水池跡"
+    }
+  },
+  {
+    "id": "osm-history-w1450291452",
+    "name": "旧立川機関区車止め",
+    "tags": {
+      "area": "yes",
+      "historic": "railway",
+      "name": "旧立川機関区車止め"
+    }
+  },
+  {
+    "id": "osm-history-w1476832269",
+    "name": "小港鉄道未成線跡",
+    "tags": {
+      "name": "小港鉄道未成線跡",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w1492034541",
+    "name": "岩日北線 (未成線)",
+    "tags": {
+      "name": "岩日北線 (未成線)",
+      "railway": "abandoned",
+      "tunnel": "yes"
+    }
+  },
+  {
+    "id": "osm-history-w1492034542",
+    "name": "岩日北線 (未成線)",
+    "tags": {
+      "name": "岩日北線 (未成線)",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w182116266",
+    "name": "松前線未成区間",
+    "tags": {
+      "name": "松前線未成区間",
+      "railway": "abandoned",
+      "wikipedia": "ja:松前線"
+    }
+  },
+  {
+    "id": "osm-history-w182144607",
+    "name": "松前線 (未成区間)",
+    "tags": {
+      "name": "松前線 (未成区間)",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w183037398",
+    "name": "松前線 (未成区間)",
+    "tags": {
+      "name": "松前線 (未成区間)",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w211321787",
+    "name": "戸井線",
+    "tags": {
+      "name": "戸井線",
+      "railway": "abandoned",
+      "source": "bing"
+    }
+  },
+  {
+    "id": "osm-history-w368637634",
+    "name": "戸井線",
+    "tags": {
+      "name": "戸井線",
+      "railway": "abandoned",
+      "source": "bing"
+    }
+  },
+  {
+    "id": "osm-history-w547914979",
+    "name": "大間鉄道橋脚跡",
+    "tags": {
+      "bridge": "yes",
+      "layer": "1",
+      "name": "大間鉄道橋脚跡",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w658946745",
+    "name": "美幸線未成区間",
+    "tags": {
+      "name": "美幸線未成区間",
+      "name:en": "Biko line unfinished section",
+      "note": "line never was in service",
+      "railway": "abandoned",
+      "wikipedia": "ja:美幸線"
+    }
+  },
+  {
+    "id": "osm-history-w658946746",
+    "name": "美幸線未成区間",
+    "tags": {
+      "abandoned:railway": "rail",
+      "layer": "-1",
+      "name": "美幸線未成区間",
+      "name:en": "Biko line unfinished section",
+      "note": "line never was in service",
+      "railway": "abandoned",
+      "tunnel": "yes",
+      "wikipedia": "ja:美幸線"
+    }
+  },
+  {
+    "id": "osm-history-w658946747",
+    "name": "美幸線未成区間",
+    "tags": {
+      "abandoned:railway": "rail",
+      "name": "美幸線未成区間",
+      "name:en": "Biko line unfinished section",
+      "note": "line was never in service",
+      "railway": "abandoned",
+      "wikipedia": "ja:美幸線"
+    }
+  },
+  {
+    "id": "osm-history-w658946748",
+    "name": "美幸線未成区間",
+    "tags": {
+      "abandoned:railway": "rail",
+      "layer": "-1",
+      "name": "美幸線未成区間",
+      "name:en": "Biko line unfinished section",
+      "note": "line never was in service",
+      "railway": "abandoned",
+      "tunnel": "yes",
+      "wikipedia": "ja:美幸線"
+    }
+  },
+  {
+    "id": "osm-history-w658946749",
+    "name": "美幸線未成区間",
+    "tags": {
+      "abandoned:railway": "rail",
+      "name": "美幸線未成区間",
+      "name:en": "Biko line unfinished section",
+      "note": "line never was in service",
+      "railway": "abandoned",
+      "wikipedia": "ja:美幸線"
+    }
+  },
+  {
+    "id": "osm-history-w658946750",
+    "name": "美幸線未成区間",
+    "tags": {
+      "abandoned:railway": "rail",
+      "layer": "-1",
+      "name": "美幸線未成区間",
+      "name:en": "Biko line unfinished section",
+      "note": "line never was in service",
+      "railway": "abandoned",
+      "tunnel": "yes",
+      "wikipedia": "ja:美幸線"
+    }
+  },
+  {
+    "id": "osm-history-w658946751",
+    "name": "美幸線未成区間",
+    "tags": {
+      "abandoned:railway": "rail",
+      "name": "美幸線未成区間",
+      "name:en": "Biko line unfinished section",
+      "note": "line never was in service",
+      "railway": "abandoned",
+      "wikipedia": "ja:美幸線"
+    }
+  },
+  {
+    "id": "osm-history-w658946752",
+    "name": "美幸線未成区間",
+    "tags": {
+      "name": "美幸線未成区間",
+      "name:en": "Biko line unfinished section",
+      "note": "line was never in service",
+      "railway": "abandoned",
+      "wikipedia": "ja:美幸線"
+    }
+  },
+  {
+    "id": "osm-history-w658946753",
+    "name": "美幸線未成区間",
+    "tags": {
+      "layer": "-1",
+      "name": "美幸線未成区間",
+      "name:en": "Biko line unfinished section",
+      "note": "line was never in service",
+      "railway": "abandoned",
+      "tunnel": "yes",
+      "wikipedia": "ja:美幸線"
+    }
+  },
+  {
+    "id": "osm-history-w658946754",
+    "name": "美幸線未成区間",
+    "tags": {
+      "name": "美幸線未成区間",
+      "name:en": "Biko line unfinished section",
+      "note": "line never was in service",
+      "railway": "abandoned",
+      "wikipedia": "ja:美幸線"
+    }
+  },
+  {
+    "id": "osm-history-w658946755",
+    "name": "美幸線未成区間",
+    "tags": {
+      "layer": "-1",
+      "name": "美幸線未成区間",
+      "name:en": "Biko line unfinished section",
+      "note": "line was never in service",
+      "railway": "abandoned",
+      "tunnel": "yes",
+      "wikipedia": "ja:美幸線"
+    }
+  },
+  {
+    "id": "osm-history-w658946756",
+    "name": "美幸線未成区間",
+    "tags": {
+      "name": "美幸線未成区間",
+      "name:en": "Biko line unfinished section",
+      "note": "line was never in service",
+      "railway": "abandoned",
+      "wikipedia": "ja:美幸線"
+    }
+  },
+  {
+    "id": "osm-history-w658946757",
+    "name": "美幸線未成区間",
+    "tags": {
+      "name": "美幸線未成区間",
+      "name:en": "Biko line unfinished section",
+      "note": "line was never in service",
+      "railway": "abandoned",
+      "wikipedia": "ja:美幸線"
+    }
+  },
+  {
+    "id": "osm-history-w658946758",
+    "name": "美幸線未成区間",
+    "tags": {
+      "layer": "-1",
+      "name": "美幸線未成区間",
+      "name:en": "Biko line unfinished section",
+      "note": "line was never in service",
+      "railway": "abandoned",
+      "tunnel": "yes",
+      "wikipedia": "ja:美幸線"
+    }
+  },
+  {
+    "id": "osm-history-w658946759",
+    "name": "美幸線未成区間",
+    "tags": {
+      "name": "美幸線未成区間",
+      "name:en": "Biko line unfinished section",
+      "note": "line was never in service",
+      "railway": "abandoned",
+      "wikipedia": "ja:美幸線"
+    }
+  },
+  {
+    "id": "osm-history-w658946760",
+    "name": "美幸線未成区間",
+    "tags": {
+      "name": "美幸線未成区間",
+      "name:en": "Biko line unfinished section",
+      "note": "line was never in service",
+      "railway": "abandoned",
+      "wikipedia": "ja:美幸線"
+    }
+  },
+  {
+    "id": "osm-history-w658946761",
+    "name": "美幸線未成区間",
+    "tags": {
+      "name": "美幸線未成区間",
+      "name:en": "Biko line unfinished section",
+      "note": "line was never in service",
+      "railway": "abandoned",
+      "wikipedia": "ja:美幸線"
+    }
+  },
+  {
+    "id": "osm-history-w689485448",
+    "name": "興浜線未成区間",
+    "tags": {
+      "end_date": "1989-05-01",
+      "name": "興浜線未成区間",
+      "note": "line never was in service",
+      "railway": "razed"
+    }
+  },
+  {
+    "id": "osm-history-w689485449",
+    "name": "興浜線未成区間",
+    "tags": {
+      "end_date": "1989-05-01",
+      "name": "興浜線未成区間",
+      "note": "line never was in service",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w689485450",
+    "name": "興浜線未成区間",
+    "tags": {
+      "name": "興浜線未成区間",
+      "note": "line never was in service",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w689485451",
+    "name": "興浜線未成区間",
+    "tags": {
+      "name": "興浜線未成区間",
+      "note": "line never was in service",
+      "railway": "razed"
+    }
+  },
+  {
+    "id": "osm-history-w689485452",
+    "name": "興浜線未成区間",
+    "tags": {
+      "name": "興浜線未成区間",
+      "note": "line never was in service",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w689485453",
+    "name": "興浜線未成区間",
+    "tags": {
+      "name": "興浜線未成区間",
+      "note": "line never was in service",
+      "railway": "razed"
+    }
+  },
+  {
+    "id": "osm-history-w689485454",
+    "name": "興浜線未成区間",
+    "tags": {
+      "name": "興浜線未成区間",
+      "note": "line never was in service",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w689485455",
+    "name": "興浜線未成区間",
+    "tags": {
+      "name": "興浜線未成区間",
+      "note": "line never was in service",
+      "railway": "razed"
+    }
+  },
+  {
+    "id": "osm-history-w689485456",
+    "name": "興浜線未成区間",
+    "tags": {
+      "name": "興浜線未成区間",
+      "note": "line never was in service",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w689485457",
+    "name": "興浜線未成区間",
+    "tags": {
+      "name": "興浜線未成区間",
+      "note": "line never was in service",
+      "railway": "razed"
+    }
+  },
+  {
+    "id": "osm-history-w689485458",
+    "name": "興浜線未成区間",
+    "tags": {
+      "name": "興浜線未成区間",
+      "note": "line never was in service",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w689485459",
+    "name": "興浜線未成区間",
+    "tags": {
+      "name": "興浜線未成区間",
+      "note": "line never was in service",
+      "railway": "razed"
+    }
+  },
+  {
+    "id": "osm-history-w689485460",
+    "name": "興浜線未成区間",
+    "tags": {
+      "name": "興浜線未成区間",
+      "note": "line never was in service",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w689485461",
+    "name": "興浜線未成区間",
+    "tags": {
+      "name": "興浜線未成区間",
+      "note": "line never was in service",
+      "railway": "razed"
+    }
+  },
+  {
+    "id": "osm-history-w689500749",
+    "name": "美幸線未成区間",
+    "tags": {
+      "layer": "-1",
+      "name": "美幸線未成区間",
+      "name:en": "Biko line unfinished section",
+      "note": "line never was in service",
+      "railway": "abandoned",
+      "tunnel": "yes",
+      "wikipedia": "ja:美幸線"
+    }
+  },
+  {
+    "id": "osm-history-w689500750",
+    "name": "美幸線未成区間",
+    "tags": {
+      "name": "美幸線未成区間",
+      "name:en": "Biko line unfinished section",
+      "note": "line never was in service",
+      "railway": "abandoned",
+      "wikipedia": "ja:美幸線"
+    }
+  },
+  {
+    "id": "osm-history-w689501138",
+    "name": "興浜線未成区間",
+    "tags": {
+      "end_date": "1989-05-01",
+      "name": "興浜線未成区間",
+      "note": "line never was in service",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w958479684",
+    "name": "美幸線未成区間",
+    "tags": {
+      "name": "美幸線未成区間",
+      "name:en": "Biko line unfinished section",
+      "note": "line was never in service",
+      "railway": "abandoned",
+      "tunnel": "yes",
+      "wikipedia": "ja:美幸線"
+    }
+  },
+  {
+    "id": "osm-history-w990256558",
+    "name": "美幸線未成区間",
+    "tags": {
+      "abandoned:railway": "rail",
+      "name": "美幸線未成区間",
+      "name:en": "Biko line unfinished section",
+      "note": "line never was in service",
+      "railway": "abandoned",
+      "wikipedia": "ja:美幸線"
+    }
+  },
+  {
+    "id": "osm-history-w990256559",
+    "name": "美幸線未成区間",
+    "tags": {
+      "abandoned:railway": "rail",
+      "name": "美幸線未成区間",
+      "name:en": "Biko line unfinished section",
+      "note": "line never was in service",
+      "railway": "abandoned",
+      "wikipedia": "ja:美幸線"
+    }
+  },
+  {
+    "id": "osm-history-w990256560",
+    "name": "美幸線未成区間",
+    "tags": {
+      "abandoned:railway": "rail",
+      "layer": "-1",
+      "name": "美幸線未成区間",
+      "name:en": "Biko line unfinished section",
+      "note": "line never was in service",
+      "railway": "abandoned",
+      "tunnel": "yes",
+      "wikipedia": "ja:美幸線"
+    }
+  },
+  {
+    "id": "osm-history-w990256561",
+    "name": "美幸線未成区間",
+    "tags": {
+      "abandoned:railway": "rail",
+      "name": "美幸線未成区間",
+      "name:en": "Biko line unfinished section",
+      "note": "line never was in service",
+      "railway": "abandoned",
+      "wikipedia": "ja:美幸線"
+    }
+  },
+  {
+    "id": "osm-history-w990256562",
+    "name": "美幸線未成区間",
+    "tags": {
+      "abandoned:railway": "rail",
+      "layer": "-1",
+      "name": "美幸線未成区間",
+      "name:en": "Biko line unfinished section",
+      "note": "line never was in service",
+      "railway": "abandoned",
+      "tunnel": "yes",
+      "wikipedia": "ja:美幸線"
+    }
+  },
+  {
+    "id": "osm-history-w990256563",
+    "name": "美幸線未成区間",
+    "tags": {
+      "name": "美幸線未成区間",
+      "name:en": "Biko line unfinished section",
+      "note": "line never was in service",
+      "railway": "abandoned",
+      "wikipedia": "ja:美幸線"
+    }
+  },
+  {
+    "id": "osm-history-w990256564",
+    "name": "美幸線未成区間",
+    "tags": {
+      "layer": "-1",
+      "name": "美幸線未成区間",
+      "name:en": "Biko line unfinished section",
+      "note": "line never was in service",
+      "railway": "abandoned",
+      "tunnel": "yes",
+      "wikipedia": "ja:美幸線"
+    }
+  },
+  {
+    "id": "osm-history-w990256565",
+    "name": "美幸線未成区間",
+    "tags": {
+      "name": "美幸線未成区間",
+      "name:en": "Biko line unfinished section",
+      "note": "line never was in service",
+      "railway": "abandoned",
+      "wikipedia": "ja:美幸線"
+    }
+  },
+  {
+    "id": "osm-history-w1082463625",
+    "name": "上信鉱業専用鉄道（未成）",
+    "tags": {
+      "electrified": "no",
+      "gauge": "762",
+      "name": "上信鉱業専用鉄道（未成）",
+      "railway": "abandoned",
+      "usage": "industrial"
+    }
+  },
+  {
+    "id": "osm-history-w1082463626",
+    "name": "上信鉱業専用鉄道（未成）",
+    "tags": {
+      "electrified": "no",
+      "gauge": "762",
+      "name": "上信鉱業専用鉄道（未成）",
+      "railway": "abandoned",
+      "usage": "industrial"
+    }
+  },
+  {
+    "id": "osm-history-w1082463628",
+    "name": "上信鉱業専用鉄道（未成）",
+    "tags": {
+      "electrified": "no",
+      "gauge": "762",
+      "name": "上信鉱業専用鉄道（未成）",
+      "railway": "abandoned",
+      "usage": "industrial"
+    }
+  },
+  {
+    "id": "osm-history-w1082463630",
+    "name": "上信鉱業専用鉄道（未成）",
+    "tags": {
+      "electrified": "no",
+      "gauge": "762",
+      "name": "上信鉱業専用鉄道（未成）",
+      "railway": "abandoned",
+      "usage": "industrial"
+    }
+  },
+  {
+    "id": "osm-history-w1082463632",
+    "name": "上信鉱業専用鉄道（未成）",
+    "tags": {
+      "electrified": "no",
+      "gauge": "762",
+      "name": "上信鉱業専用鉄道（未成）",
+      "railway": "abandoned",
+      "usage": "industrial"
+    }
+  },
+  {
+    "id": "osm-history-w1082463634",
+    "name": "上信鉱業専用鉄道（未成）",
+    "tags": {
+      "electrified": "no",
+      "gauge": "762",
+      "name": "上信鉱業専用鉄道（未成）",
+      "railway": "abandoned",
+      "usage": "industrial"
+    }
+  },
+  {
+    "id": "osm-history-w1082463636",
+    "name": "上信鉱業専用鉄道（未成）",
+    "tags": {
+      "electrified": "no",
+      "gauge": "762",
+      "name": "上信鉱業専用鉄道（未成）",
+      "railway": "abandoned",
+      "usage": "industrial"
+    }
+  },
+  {
+    "id": "osm-history-w1082463637",
+    "name": "隧道跡（未貫通）",
+    "tags": {
+      "electrified": "no",
+      "gauge": "762",
+      "layer": "-1",
+      "name": "隧道跡（未貫通）",
+      "railway": "abandoned",
+      "tunnel": "yes",
+      "usage": "industrial"
+    }
+  },
+  {
+    "id": "osm-history-w1267444344",
+    "name": "佐久間線",
+    "tags": {
+      "abandoned:railway": "rail",
+      "layer": "-1",
+      "name": "佐久間線",
+      "railway": "abandoned",
+      "tunnel": "yes",
+      "tunnel:name": "白山トンネル"
+    }
+  },
+  {
+    "id": "osm-history-w1267444355",
+    "name": "佐久間線",
+    "tags": {
+      "abandoned:railway": "rail",
+      "name": "佐久間線",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w1267444356",
+    "name": "佐久間線",
+    "tags": {
+      "abandoned:railway": "rail",
+      "bridge": "yes",
+      "layer": "1",
+      "name": "佐久間線",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w1267444357",
+    "name": "佐久間線",
+    "tags": {
+      "abandoned:railway": "rail",
+      "name": "佐久間線",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w1267444359",
+    "name": "佐久間線",
+    "tags": {
+      "abandoned:railway": "rail",
+      "name": "佐久間線",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w1267444360",
+    "name": "佐久間線",
+    "tags": {
+      "abandoned:railway": "rail",
+      "bridge": "yes",
+      "layer": "1",
+      "name": "佐久間線",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w1267444361",
+    "name": "佐久間線",
+    "tags": {
+      "abandoned:railway": "rail",
+      "name": "佐久間線",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w1267444362",
+    "name": "佐久間線",
+    "tags": {
+      "abandoned:railway": "rail",
+      "layer": "-1",
+      "name": "佐久間線",
+      "railway": "abandoned",
+      "tunnel": "yes",
+      "tunnel:name": "山王トンネル"
+    }
+  },
+  {
+    "id": "osm-history-w1267444363",
+    "name": "佐久間線",
+    "tags": {
+      "abandoned:railway": "rail",
+      "name": "佐久間線",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w1267444364",
+    "name": "佐久間線",
+    "tags": {
+      "abandoned:railway": "rail",
+      "bridge": "yes",
+      "layer": "1",
+      "name": "佐久間線",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w1267444365",
+    "name": "佐久間線",
+    "tags": {
+      "abandoned:railway": "rail",
+      "name": "佐久間線",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w1267444366",
+    "name": "佐久間線",
+    "tags": {
+      "abandoned:railway": "rail",
+      "bridge": "yes",
+      "layer": "1",
+      "name": "佐久間線",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w1267444367",
+    "name": "佐久間線",
+    "tags": {
+      "abandoned:railway": "rail",
+      "name": "佐久間線",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w1267444372",
+    "name": "佐久間線",
+    "tags": {
+      "abandoned:railway": "rail",
+      "name": "佐久間線",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w1267444373",
+    "name": "佐久間線",
+    "tags": {
+      "abandoned:railway": "rail",
+      "bridge": "yes",
+      "layer": "1",
+      "name": "佐久間線",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w1267444376",
+    "name": "佐久間線",
+    "tags": {
+      "abandoned:railway": "rail",
+      "layer": "-1",
+      "name": "佐久間線",
+      "railway": "abandoned",
+      "tunnel": "yes",
+      "tunnel:name": "船明トンネル"
+    }
+  },
+  {
+    "id": "osm-history-w1267444377",
+    "name": "佐久間線",
+    "tags": {
+      "abandoned:railway": "rail",
+      "bridge": "yes",
+      "bridge:name": "第一天竜川橋梁",
+      "layer": "1",
+      "name": "佐久間線",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w1267444378",
+    "name": "佐久間線",
+    "tags": {
+      "abandoned:railway": "rail",
+      "name": "佐久間線",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w1267444379",
+    "name": "佐久間線",
+    "tags": {
+      "abandoned:railway": "rail",
+      "name": "佐久間線",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w1267444380",
+    "name": "佐久間線",
+    "tags": {
+      "abandoned:railway": "rail",
+      "layer": "-1",
+      "name": "佐久間線",
+      "railway": "abandoned",
+      "tunnel": "yes"
+    }
+  },
+  {
+    "id": "osm-history-w1267708005",
+    "name": "今福線",
+    "tags": {
+      "abandoned:railway": "rail",
+      "bridge": "yes",
+      "bridge:name": "今福橋梁",
+      "layer": "1",
+      "name": "今福線",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w1325571004",
+    "name": "今福線跡",
+    "tags": {
+      "name": "今福線跡",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w1325571005",
+    "name": "今福線跡",
+    "tags": {
+      "name": "今福線跡",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w1383578149",
+    "name": "呼子線跡",
+    "tags": {
+      "name": "呼子線跡",
+      "railway": "razed",
+      "razed:railway": "rail"
+    }
+  },
+  {
+    "id": "osm-history-w1428284541",
+    "name": "佐久間線",
+    "tags": {
+      "abandoned:railway": "rail",
+      "name": "佐久間線",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w1492024876",
+    "name": "佐久間線",
+    "tags": {
+      "abandoned:railway": "rail",
+      "layer": "-1",
+      "name": "佐久間線",
+      "railway": "abandoned",
+      "tunnel": "yes"
+    }
+  },
+  {
+    "id": "osm-history-w1492024877",
+    "name": "佐久間線",
+    "tags": {
+      "abandoned:railway": "rail",
+      "name": "佐久間線",
+      "railway": "abandoned"
+    }
+  },
+  {
+    "id": "osm-history-w1492037291",
+    "name": "呼子線跡",
+    "tags": {
+      "layer": "-1",
+      "name": "呼子線跡",
+      "railway": "razed",
+      "razed:railway": "rail",
+      "tunnel": "yes"
+    }
+  },
+  {
+    "id": "osm-history-w1492037292",
+    "name": "呼子線跡",
+    "tags": {
+      "name": "呼子線跡",
+      "railway": "razed",
+      "razed:railway": "rail"
+    }
+  },
+  {
+    "id": "osm-history-w1492037293",
+    "name": "呼子線跡",
+    "tags": {
+      "name": "呼子線跡",
+      "railway": "razed",
+      "razed:railway": "rail"
+    }
+  },
+  {
+    "id": "osm-history-w1492037294",
+    "name": "呼子線跡",
+    "tags": {
+      "layer": "-1",
+      "name": "呼子線跡",
+      "railway": "razed",
+      "razed:railway": "rail",
+      "tunnel": "yes"
+    }
+  },
+  {
+    "id": "osm-history-w1492037295",
+    "name": "呼子線跡",
+    "tags": {
+      "name": "呼子線跡",
+      "railway": "razed",
+      "razed:railway": "rail"
+    }
+  },
+  {
+    "id": "osm-history-w1496556477",
+    "name": "南方貨物線",
+    "tags": {
+      "abandoned:railway": "rail",
+      "bridge": "yes",
+      "layer": "1",
+      "name": "南方貨物線",
+      "railway": "abandoned",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": "osm-history-w1496556478",
+    "name": "南方貨物線",
+    "tags": {
+      "abandoned:railway": "rail",
+      "bridge": "yes",
+      "layer": "1",
+      "name": "南方貨物線",
+      "railway": "abandoned",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": "osm-history-w1496556479",
+    "name": "南方貨物線",
+    "tags": {
+      "abandoned:railway": "rail",
+      "bridge": "yes",
+      "layer": "1",
+      "name": "南方貨物線",
+      "railway": "abandoned",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": "osm-history-w1496556480",
+    "name": "南方貨物線",
+    "tags": {
+      "abandoned:railway": "rail",
+      "bridge": "yes",
+      "layer": "1",
+      "name": "南方貨物線",
+      "railway": "abandoned",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": "osm-history-w1496556481",
+    "name": "南方貨物線",
+    "tags": {
+      "abandoned:railway": "rail",
+      "bridge": "yes",
+      "layer": "1",
+      "name": "南方貨物線",
+      "railway": "abandoned",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": "osm-history-w1496556482",
+    "name": "南方貨物線",
+    "tags": {
+      "abandoned:railway": "rail",
+      "bridge": "yes",
+      "layer": "1",
+      "name": "南方貨物線",
+      "railway": "abandoned",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": "osm-history-w1496556483",
+    "name": "南方貨物線",
+    "tags": {
+      "abandoned:railway": "rail",
+      "bridge": "yes",
+      "layer": "1",
+      "name": "南方貨物線",
+      "railway": "abandoned",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": "osm-history-w1496556484",
+    "name": "南方貨物線",
+    "tags": {
+      "abandoned:railway": "rail",
+      "bridge": "yes",
+      "layer": "1",
+      "name": "南方貨物線",
+      "railway": "abandoned",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": "osm-history-w1492040664",
+    "name": "油須原線",
+    "tags": {
+      "layer": "-1",
+      "name": "油須原線",
+      "railway": "razed",
+      "razed:railway": "rail",
+      "tunnel": "yes"
+    }
+  },
+  {
+    "id": "osm-history-w1492040665",
+    "name": "油須原線",
+    "tags": {
+      "name": "油須原線",
+      "railway": "razed",
+      "razed:railway": "rail"
+    }
+  },
+  {
+    "id": "osm-history-w1492040666",
+    "name": "油須原線",
+    "tags": {
+      "name": "油須原線",
+      "railway": "razed",
+      "razed:railway": "rail"
+    }
+  },
+  {
+    "id": "osm-history-w1492040667",
+    "name": "油須原線",
+    "tags": {
+      "layer": "-1",
+      "name": "油須原線",
+      "railway": "razed",
+      "razed:railway": "rail",
+      "tunnel": "yes"
+    }
+  }
+]

@@ -1,0 +1,335 @@
+{
+  "schema": 1,
+  "reviewed_date": "2026-10-25",
+  "input_atlas_sha256": "6cc152d6241875135d57a35dc63c41ee48db95c019937acc839dcf37f0429cbf",
+  "method": "Compared 1,784 Naeboworks historical point objects against current search/station records using normalized Japanese name equality and an 80 m equirectangular distance threshold. Normalization only removes whitespace, 駅 suffix and source role markers (乗/停/貨/信/臨). No bulk current deletion or historical deduplication was applied.",
+  "counts": {
+    "historical_points_compared": 1784,
+    "current_station_objects": 11104,
+    "same_name_pairs_within_80m": 4,
+    "definite_stale_current_station_removals": 0
+  },
+  "candidate_csv": "current_station_closure_candidates.csv",
+  "candidate_reviews": [
+    {
+      "name": "高千穂",
+      "current_id": "n270048203",
+      "current_i": "2217",
+      "current_operator": "",
+      "distance_m": "21.99",
+      "historical_id": "naeboworks-kyushu-865656d2eafedccad8b8",
+      "historical_class": "closed_line",
+      "historical_role": "former_station_or_stop",
+      "line_ja": "高千穂鉄道",
+      "notes_ja": "",
+      "closed_year": "",
+      "passenger_closed_year": "",
+      "current_name_source": "OpenStreetMap / ferry inventory",
+      "current_sources": "[]",
+      "decision": "retain_current_object_with_heritage_context",
+      "reason": "Former regular railway closed, but the operating successor provides tourist cart rides from this site; its current operator describes the reuse. Historical former-railway layer and current visitor operation can coexist.",
+      "sources": [
+        "https://amaterasu-railway.jp/company",
+        "https://amaterasu-railway.jp/brand/"
+      ]
+    },
+    {
+      "name": "澄川",
+      "current_id": "n353677470",
+      "current_i": "8610",
+      "current_operator": "",
+      "distance_m": "38.38",
+      "historical_id": "naeboworks-hokkaido-fe09b2109cd30c04da13",
+      "historical_class": "closed_line",
+      "historical_role": "former_station_or_stop",
+      "line_ja": "定山渓鉄道",
+      "notes_ja": "※位置は推定",
+      "closed_year": "",
+      "passenger_closed_year": "",
+      "current_name_source": "OpenStreetMap / ferry inventory",
+      "current_sources": "[]",
+      "decision": "retain_current_station",
+      "reason": "The current object is Sapporo Namboku metro station, not the former Jozankei Railway site nearby. Current official timetable confirms service.",
+      "sources": [
+        "https://www.city.sapporo.jp/st/subway/route_time/h26/n14.html"
+      ]
+    },
+    {
+      "name": "恋路",
+      "current_id": "n7924683443",
+      "current_i": "5832",
+      "current_operator": "",
+      "distance_m": "5.16",
+      "historical_id": "naeboworks-hokuriku-7ac98bb5418196f87c24",
+      "historical_class": "closed_line",
+      "historical_role": "former_station_or_stop",
+      "line_ja": "のと鉄道能登線",
+      "notes_ja": "",
+      "closed_year": "",
+      "passenger_closed_year": "",
+      "current_name_source": "OpenStreetMap / ferry inventory",
+      "current_sources": "[]",
+      "decision": "no_automatic_removal_current_status_needs_review",
+      "reason": "Former Noto railway station later reused for a short human-powered heritage rail cycle attraction. Do not infer current scheduled passenger service from a railway=station tag. Current post-earthquake operating status was not verified from an accessible primary page. Keep historical former-station record; any removal/reclassification of current object needs a separate service-scope decision.",
+      "sources": [
+        "https://notocho.jp/experience/1317/"
+      ],
+      "source_access_note": "Tourism association primary URL is cited by regional visitor information, but was inaccessible during this check."
+    },
+    {
+      "name": "宇美",
+      "current_id": "n265925746",
+      "current_i": "7525",
+      "current_operator": "",
+      "distance_m": "71.63",
+      "historical_id": "naeboworks-kyushu-e4b80b2936397c8cabcf",
+      "historical_class": "closed_line",
+      "historical_role": "former_station_or_stop",
+      "line_ja": "勝田線・香椎線",
+      "notes_ja": "",
+      "closed_year": "",
+      "passenger_closed_year": "",
+      "current_name_source": "OpenStreetMap / ferry inventory",
+      "current_sources": "[]",
+      "decision": "retain_current_station",
+      "reason": "Current JR Kashii Line terminus remains in service. The nearby historical Katsuta Line site does not justify deleting it.",
+      "sources": [
+        "https://www.jrkyushu-timetable.jp/cgi-bin/sp/sp-tt_dep.cgi/2807800/",
+        "https://www.town.umi.lg.jp/uploaded/attachment/17745.pdf"
+      ]
+    }
+  ],
+  "recent_hokkaido_closure_checks": [
+    {
+      "name": "蕨岱",
+      "historical_id": "osm-history-n264424426",
+      "osm_id": 264424426,
+      "source_url": "https://www.openstreetmap.org/node/264424426",
+      "end_date": "2017-03-04",
+      "current_matches": []
+    },
+    {
+      "name": "石狩沼田",
+      "historical_id": "osm-history-n264428891",
+      "osm_id": 264428891,
+      "source_url": "https://www.openstreetmap.org/node/264428891",
+      "end_date": "2026-04-01",
+      "current_matches": []
+    },
+    {
+      "name": "北一已",
+      "historical_id": "osm-history-n264429457",
+      "osm_id": 264429457,
+      "source_url": "https://www.openstreetmap.org/node/264429457",
+      "end_date": "2026-04-01",
+      "current_matches": []
+    },
+    {
+      "name": "秩父別",
+      "historical_id": "osm-history-n264429593",
+      "osm_id": 264429593,
+      "source_url": "https://www.openstreetmap.org/node/264429593",
+      "end_date": "2026-04-01",
+      "current_matches": []
+    },
+    {
+      "name": "北秩父別",
+      "historical_id": "osm-history-n264429922",
+      "osm_id": 264429922,
+      "source_url": "https://www.openstreetmap.org/node/264429922",
+      "end_date": "2026-04-01",
+      "current_matches": []
+    },
+    {
+      "name": "東滝川",
+      "historical_id": "osm-history-n264445634",
+      "osm_id": 264445634,
+      "source_url": "https://www.openstreetmap.org/node/264445634",
+      "end_date": "2025-03-15",
+      "current_matches": []
+    },
+    {
+      "name": "雄信内",
+      "historical_id": "osm-history-n264452692",
+      "osm_id": 264452692,
+      "source_url": "https://www.openstreetmap.org/node/264452692",
+      "end_date": "2025-03-15",
+      "current_matches": []
+    },
+    {
+      "name": "抜海",
+      "historical_id": "osm-history-n264453545",
+      "osm_id": 264453545,
+      "source_url": "https://www.openstreetmap.org/node/264453545",
+      "end_date": "2025-03-15",
+      "current_matches": []
+    },
+    {
+      "name": "南幌延",
+      "historical_id": "osm-history-n264455599",
+      "osm_id": 264455599,
+      "source_url": "https://www.openstreetmap.org/node/264455599",
+      "end_date": "2025-03-15",
+      "current_matches": []
+    },
+    {
+      "name": "東根室",
+      "historical_id": "osm-history-n5729337758",
+      "osm_id": 5729337758,
+      "source_url": "https://www.openstreetmap.org/node/5729337758",
+      "end_date": "2025-03-15",
+      "current_matches": []
+    },
+    {
+      "name": "仁山",
+      "historical_id": "naeboworks-hokkaido-5984537493b07904d83d",
+      "osm_id": null,
+      "source_url": "https://naeboworks.com/haisen/hokkaido.htm",
+      "end_date": "2026-03-14",
+      "current_matches": []
+    },
+    {
+      "name": "二股",
+      "historical_id": "naeboworks-hokkaido-948863d76c7488f9a9ae",
+      "osm_id": null,
+      "source_url": "https://naeboworks.com/haisen/hokkaido.htm",
+      "end_date": null,
+      "current_matches": []
+    },
+    {
+      "name": "蕨岱",
+      "historical_id": "naeboworks-hokkaido-2765a0e227ed2a98e242",
+      "osm_id": null,
+      "source_url": "https://naeboworks.com/haisen/hokkaido.htm",
+      "end_date": null,
+      "current_matches": []
+    },
+    {
+      "name": "東滝川",
+      "historical_id": "naeboworks-hokkaido-76170e78e0403e02f7f5",
+      "osm_id": null,
+      "source_url": "https://naeboworks.com/haisen/hokkaido.htm",
+      "end_date": "2025-03-15",
+      "current_matches": []
+    },
+    {
+      "name": "東根室",
+      "historical_id": "naeboworks-hokkaido-f9b0b13b989ca56a78ac",
+      "osm_id": null,
+      "source_url": "https://naeboworks.com/haisen/hokkaido.htm",
+      "end_date": null,
+      "current_matches": []
+    },
+    {
+      "name": "雄信内",
+      "historical_id": "naeboworks-hokkaido-551a512f0b140747d927",
+      "osm_id": null,
+      "source_url": "https://naeboworks.com/haisen/hokkaido.htm",
+      "end_date": "2025-03-15",
+      "current_matches": []
+    },
+    {
+      "name": "南幌延",
+      "historical_id": "naeboworks-hokkaido-a3d24acb85a9cd737d34",
+      "osm_id": null,
+      "source_url": "https://naeboworks.com/haisen/hokkaido.htm",
+      "end_date": null,
+      "current_matches": []
+    },
+    {
+      "name": "抜海",
+      "historical_id": "naeboworks-hokkaido-639427817f5db643471e",
+      "osm_id": null,
+      "source_url": "https://naeboworks.com/haisen/hokkaido.htm",
+      "end_date": null,
+      "current_matches": []
+    },
+    {
+      "name": "北一已",
+      "historical_id": "naeboworks-hokkaido-c352194723b45e18e58a",
+      "osm_id": null,
+      "source_url": "https://naeboworks.com/haisen/hokkaido.htm",
+      "end_date": null,
+      "current_matches": []
+    },
+    {
+      "name": "秩父別",
+      "historical_id": "naeboworks-hokkaido-b6e027dc56f7dc133208",
+      "osm_id": null,
+      "source_url": "https://naeboworks.com/haisen/hokkaido.htm",
+      "end_date": null,
+      "current_matches": []
+    },
+    {
+      "name": "北秩父別",
+      "historical_id": "naeboworks-hokkaido-1cffd41a2767f961b947",
+      "osm_id": null,
+      "source_url": "https://naeboworks.com/haisen/hokkaido.htm",
+      "end_date": null,
+      "current_matches": []
+    },
+    {
+      "name": "石狩沼田",
+      "historical_id": "naeboworks-hokkaido-9e949b774ddf52dcbeb8",
+      "osm_id": null,
+      "source_url": "https://naeboworks.com/haisen/hokkaido.htm",
+      "end_date": null,
+      "current_matches": []
+    }
+  ],
+  "primary_closure_evidence": [
+    {
+      "names": [
+        "仁山",
+        "二股"
+      ],
+      "closed_date": "2026-03-14",
+      "url": "https://www.jrhokkaido.co.jp/CM/Info/news_sc/pdf/timetable_change_202603_sc.pdf",
+      "fact": "Official JR Hokkaido March 2026 timetable change notice lists closure of Niyama and Futamata."
+    },
+    {
+      "names": [
+        "東滝川",
+        "東根室",
+        "雄信内",
+        "南幌延",
+        "抜海"
+      ],
+      "closed_date": "2025-03-15",
+      "url": "https://www.jrhokkaido.co.jp/CM/Info/news_tc/pdf/timetable_change_202503_tc.pdf",
+      "fact": "Official JR Hokkaido March 2025 timetable notice lists these five station closures."
+    },
+    {
+      "names": [
+        "蕨岱"
+      ],
+      "last_service_date": "2017-03-03",
+      "url": "https://www.town.oshamambe.lg.jp/uploaded/attachment/5693.pdf",
+      "fact": "Oshamambe municipal retrospective reproduces its April 2017 newsletter, recording Kitato-yotsu and Warabitai ending service on March 3, 2017. Warabitai is not a March 2026 closure."
+    }
+  ],
+  "proposals": [
+    {
+      "action": "enrich_historical_closure_date",
+      "historical_id": "naeboworks-hokkaido-948863d76c7488f9a9ae",
+      "name": "二股",
+      "closed_date": "2026-03-14",
+      "closed_year": 2026,
+      "source_url": "https://www.jrhokkaido.co.jp/CM/Info/news_sc/pdf/timetable_change_202603_sc.pdf",
+      "safe_to_apply": true,
+      "reason": "Primary operator explicitly confirms closure; this source historical feature currently lacks its operation date. Current dataset has no Futamata Hokkaido station to remove."
+    },
+    {
+      "action": "correct_source_changelog_interpretation",
+      "name": "蕨岱",
+      "safe_to_apply": true,
+      "reason": "Do not use the Naeboworks March 2026 changelog date as this station closure date. Actual final service was March 3, 2017; historical OSM record already has effective end_date 2017-03-04."
+    }
+  ],
+  "limits": [
+    "Name-and-distance check catches exact-name overlaps but cannot establish complete absence of unnamed stale features.",
+    "No evidence was found requiring a current station removal in this check.",
+    "Historical sites can share a name and location with current metro, JR or heritage use.",
+    "No frozen current or historical dataset was modified."
+  ]
+}

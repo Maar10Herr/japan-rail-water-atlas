@@ -1,0 +1,5 @@
+name,current_id,current_i,current_operator,distance_m,historical_id,historical_class,historical_role,line_ja,notes_ja,closed_year,passenger_closed_year,current_name_source,current_sources
+高千穂,n270048203,2217,,21.99,naeboworks-kyushu-865656d2eafedccad8b8,closed_line,former_station_or_stop,高千穂鉄道,,,,OpenStreetMap / ferry inventory,[]
+澄川,n353677470,8610,,38.38,naeboworks-hokkaido-fe09b2109cd30c04da13,closed_line,former_station_or_stop,定山渓鉄道,※位置は推定,,,OpenStreetMap / ferry inventory,[]
+恋路,n7924683443,5832,,5.16,naeboworks-hokuriku-7ac98bb5418196f87c24,closed_line,former_station_or_stop,のと鉄道能登線,,,,OpenStreetMap / ferry inventory,[]
+宇美,n265925746,7525,,71.63,naeboworks-kyushu-e4b80b2936397c8cabcf,closed_line,former_station_or_stop,勝田線・香椎線,,,,OpenStreetMap / ferry inventory,[]

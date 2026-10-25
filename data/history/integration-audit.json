@@ -1,0 +1,2445 @@
+{
+  "counts": {
+    "line_features": 5712,
+    "station_objects": 2267,
+    "site_objects": 3,
+    "hokkaido_station_objects": 803,
+    "approximate_line_features": 7
+  },
+  "decisions": [
+    {
+      "id": "osm-history-n265908658",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-n265909358",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-n265909633",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-n265909635",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-n265909639",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-n265909710",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-n265909878",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-n265909899",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-n265912818",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-n265912885",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-n265913448",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-n265913515",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-n265913620",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-n265915756",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-n265915961",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-n265915964",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-n265928862",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w24462730",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w24462732",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w24462737",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w24462747",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w24462749",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w24462750",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w24462751",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w24462759",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w24462760",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w24462767",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w24462768",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w24462770",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w24462778",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w24462781",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w24462786",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w24462798",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w24462983",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w24462985",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w24462987",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w24462989",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w24462991",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w58636829",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w219507921",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w219507922",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w219511863",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w219511865",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w219511871",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w219512086",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w219512846",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w219512847",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w219512848",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w219512855",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w219512856",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w219512857",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w219512858",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w219512860",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w219512861",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w219512862",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w219512863",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w219513911",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w219513912",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w230631215",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w369001069",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w464706190",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w636878346",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w636878348",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w636878351",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w636878361",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w636878363",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w739563346",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w739563349",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w739563350",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w739563352",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w739563353",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w739563354",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w739563355",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w739563356",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w739563357",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w739563358",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w739563359",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w739563360",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w739563361",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w739563362",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w739563363",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w739563365",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w787805639",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w823059433",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w823152643",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w823152645",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w823152646",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w823387845",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w823494716",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w823494717",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w823494718",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w825357412",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w838211221",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w838211222",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w838211223",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1007895614",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1007895615",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1014445255",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1015611512",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1034934035",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1066436524",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1066443903",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1066450391",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1066450392",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1066492647",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1066492648",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1066492649",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1066492650",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1066495977",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1066495978",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1066498815",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1066498816",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1066498817",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1066498818",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1066498819",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1066498820",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1066498821",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1066498822",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1066505138",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1066505139",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1066505140",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1066505141",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1066505142",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1066505143",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1074102269",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1074102271",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1074102276",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1074102279",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1074102280",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1074102281",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1074102283",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1074102284",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1074102285",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1074102286",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1074102287",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1074102288",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1074102289",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1326043705",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1326043706",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1326043707",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1326043708",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1330384314",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1330384315",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1330384325",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1510431529",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1561939486",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1561939487",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1561939493",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1561939494",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1561939495",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1561939496",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-w1562526692",
+      "decision": "omit",
+      "reason": "Active, suspended or flood-damaged infrastructure; historical closure not established."
+    },
+    {
+      "id": "osm-history-n264406472",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-touhoku-39841fc7b24024bdbf3e",
+      "distance_m": 11.6,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264407357",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-touhoku-f7cc2d8e058499096a02",
+      "distance_m": 26.0,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264423449",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-4260cf4b8ee4194eb2c0",
+      "distance_m": 6.8,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264423624",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-bc429b059b14f8a577ae",
+      "distance_m": 9.7,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264423732",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-523520ecb37a612af1fd",
+      "distance_m": 11.0,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264423753",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-f091426f191ea485eb33",
+      "distance_m": 31.1,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264423814",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-fabd1d33532e212a3bef",
+      "distance_m": 18.0,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264424426",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-2765a0e227ed2a98e242",
+      "distance_m": 9.6,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264427250",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-ab949a862be742b27115",
+      "distance_m": 11.1,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264428851",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-39f04e8c640c42d11466",
+      "distance_m": 5.4,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264428855",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-e7a8f405723ffc47fe2d",
+      "distance_m": 4.4,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264428859",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-6b4e27ca495edcd1f6fe",
+      "distance_m": 4.9,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264428891",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-9e949b774ddf52dcbeb8",
+      "distance_m": 1.9,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264429135",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-3505b998c55a4c916c78",
+      "distance_m": 7.1,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264429388",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-e28e2b65fa638b99ec7d",
+      "distance_m": 53.8,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264429453",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-e7cb92e461ecd3872edf",
+      "distance_m": 1.6,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264429457",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-c352194723b45e18e58a",
+      "distance_m": 9.5,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264429527",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-b6fdfefdad129af412f0",
+      "distance_m": 7.2,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264429587",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-c713b73c348f3b4399a4",
+      "distance_m": 3.0,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264429593",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-b6e027dc56f7dc133208",
+      "distance_m": 7.5,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264429922",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-1cffd41a2767f961b947",
+      "distance_m": 9.3,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264430133",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-d19e80b19385175f7205",
+      "distance_m": 7.3,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264430138",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-678e697ffd505322814b",
+      "distance_m": 32.2,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264431345",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-9280fd5ab8a1c84c8fc7",
+      "distance_m": 6.4,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264431677",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-f129a188e98dd489f943",
+      "distance_m": 64.4,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264434819",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-b884c3a5f26aafccc97c",
+      "distance_m": 2.8,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264436048",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-6295174b8e5c1795a615",
+      "distance_m": 55.9,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264436108",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-f0a81e5249246686fa39",
+      "distance_m": 13.6,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264436490",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-3818fb88435c88920c53",
+      "distance_m": 49.9,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264436658",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-4e0a7096397c840f6fc3",
+      "distance_m": 43.6,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264436958",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-8a4e802e77f9c4308f1e",
+      "distance_m": 8.7,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264437045",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-dc1190ae275211f9f683",
+      "distance_m": 60.1,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264438830",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-c58729a05e9553e1b993",
+      "distance_m": 5.0,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264439699",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-f21d0828d1adcbebd422",
+      "distance_m": 1.0,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264442416",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-fbe06cc32cf33d357e8a",
+      "distance_m": 8.1,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264442420",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-9f2def44a5a40011c099",
+      "distance_m": 40.7,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264442545",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-6d8302568f14f3be313f",
+      "distance_m": 67.3,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264442725",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-7daa4f363ec47ce531d0",
+      "distance_m": 27.3,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264443480",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-4b512871a0935ee04ae8",
+      "distance_m": 10.7,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264443788",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-ebad119742b065bf5a34",
+      "distance_m": 10.5,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264443792",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-0f8f5b8674f538a2b740",
+      "distance_m": 74.0,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264444817",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-10bd14e92e0ef4bcf820",
+      "distance_m": 12.5,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264444938",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-9d13f313a1cc63f57d2a",
+      "distance_m": 4.3,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264445634",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-76170e78e0403e02f7f5",
+      "distance_m": 11.7,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264446994",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-09bdcb96807c4f1cd5f4",
+      "distance_m": 46.5,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264447914",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-d404b19cf3e2b293e4a5",
+      "distance_m": 10.3,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264449893",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-8779a3cb68822d43a501",
+      "distance_m": 13.3,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264450340",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-c602e0380d28b8b7abb4",
+      "distance_m": 6.8,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264450421",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-a2479726749065f4243d",
+      "distance_m": 11.6,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264450769",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-ff6e3ef614bb4db3808a",
+      "distance_m": 7.5,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264450827",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-79b7eeec5b6c2180bbd6",
+      "distance_m": 4.7,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264451028",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-13846ca3a82be48df4bf",
+      "distance_m": 1.9,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264451154",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-c362bc0fbdf7b8edb283",
+      "distance_m": 10.2,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264451325",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-f6621f9589e007b564e2",
+      "distance_m": 3.9,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264451381",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-fac18ae3b7c591138c4c",
+      "distance_m": 8.4,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264451507",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-74ac3dd4f4802e9db2af",
+      "distance_m": 5.3,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264451624",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-4018d1074d40fded82e8",
+      "distance_m": 18.9,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264451630",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-cb25db492c453447aefd",
+      "distance_m": 16.5,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264451632",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-08f7d7a05c35501eb8f8",
+      "distance_m": 3.7,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264451799",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-14a9b8407fc28bdb132f",
+      "distance_m": 26.5,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264451805",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-074897e47a77d6c3a68f",
+      "distance_m": 9.9,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264451906",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-7d23126141ba3671b341",
+      "distance_m": 0.9,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264452116",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-3cc2da604fc579e24977",
+      "distance_m": 7.1,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264452128",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-3bf39f275689962868cf",
+      "distance_m": 42.7,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264452136",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-ad5644b2e6d846a9a3bf",
+      "distance_m": 5.0,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264452302",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-65cf859b19fed7fcb660",
+      "distance_m": 30.1,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264452354",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-306a41db5f5724c115c5",
+      "distance_m": 3.6,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264452522",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-1e019068ac88f068d17c",
+      "distance_m": 4.6,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264452529",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-24a52a961ec41822e36b",
+      "distance_m": 57.7,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264452561",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-04fc5eb00584ba507b48",
+      "distance_m": 6.8,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264452692",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-551a512f0b140747d927",
+      "distance_m": 10.6,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264452779",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-c72f255833a5feb3059d",
+      "distance_m": 2.1,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264452861",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-a2e80a1729baeb7a3195",
+      "distance_m": 40.0,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264453123",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-c37911a518bb68b8b485",
+      "distance_m": 6.5,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264453233",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-0e6d1fb4c0c69af2e712",
+      "distance_m": 34.7,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264453545",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-639427817f5db643471e",
+      "distance_m": 4.6,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264453578",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-151abcafefb20340e47d",
+      "distance_m": 1.9,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264453580",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-d175f294cbe4ed701cb8",
+      "distance_m": 4.6,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264453585",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-7972cb36a59154663bdb",
+      "distance_m": 15.3,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264453923",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-8cd87d66c8881086d528",
+      "distance_m": 7.5,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264453979",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-9980f2558fd89342f50e",
+      "distance_m": 2.0,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264453982",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-933b0fdebde2272a33ad",
+      "distance_m": 15.9,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264454228",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-ebe9cdd25c47ddf05f70",
+      "distance_m": 4.7,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264454719",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-960797013b3681a84e17",
+      "distance_m": 23.7,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264455039",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-270e7e5cf2e558e8d660",
+      "distance_m": 3.9,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264455052",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-f972024d5ba3985a4b70",
+      "distance_m": 47.1,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264455214",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-ac7211009cc2ac230481",
+      "distance_m": 3.4,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264455250",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-9ee708c0e5cd89970b57",
+      "distance_m": 4.8,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264455252",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-31d888662825110e8a1d",
+      "distance_m": 7.6,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264455284",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-6b35fde7dca05169a94c",
+      "distance_m": 44.6,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264455287",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-a24c4ad997906dc92e7f",
+      "distance_m": 8.5,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264455350",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-dee4690edad3b50d7570",
+      "distance_m": 4.2,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264455373",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-f4b0e2f5f50f957a08c1",
+      "distance_m": 5.8,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264455425",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-e304523d067fb0ce7a9a",
+      "distance_m": 1.9,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264455446",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-f2af4edd8ef76d41edd6",
+      "distance_m": 21.7,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264455592",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-582be954abddfcd444d8",
+      "distance_m": 7.0,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264455599",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-a3d24acb85a9cd737d34",
+      "distance_m": 4.8,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264455663",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-363880e24b98471b2aab",
+      "distance_m": 48.6,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264456010",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-0b06dfbdc093d82642e0",
+      "distance_m": 38.0,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264456073",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-870e80a02a100c4dffda",
+      "distance_m": 13.4,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264456385",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-c9cc24b06639168cd408",
+      "distance_m": 12.7,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264456766",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-2e1150556840ed2ceda5",
+      "distance_m": 7.5,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n264457484",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-afc320e9e5915e1be5f3",
+      "distance_m": 8.1,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n270047605",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kyushu-36d148ef718a71d743cd",
+      "distance_m": 15.4,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n270047615",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kyushu-4186c5dd786b298385dd",
+      "distance_m": 73.2,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n270047664",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kyushu-ce49cf91fdea38e7039f",
+      "distance_m": 71.8,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n270047716",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kyushu-78ceeb0e3d36c0d42735",
+      "distance_m": 49.5,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n270047814",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kyushu-9688d7b5392f27876cdc",
+      "distance_m": 36.0,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n270047931",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kyushu-dcf923bbb44d2922d8c0",
+      "distance_m": 55.1,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n270048055",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kyushu-34bf968a7ba8772d352e",
+      "distance_m": 28.2,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n270048098",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kyushu-5a35f4bc793f8ce64b62",
+      "distance_m": 29.6,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n270048104",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kyushu-06327ac2bc627a6bcbdc",
+      "distance_m": 70.5,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n270048205",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kyushu-3aa7262b22e14d9b915d",
+      "distance_m": 45.5,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n270048408",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kyushu-da4ebb1651ec6df515ba",
+      "distance_m": 18.0,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n270048558",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kyushu-b71d764e179aaea7a2e6",
+      "distance_m": 56.9,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n270048561",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kyushu-7973a6009f282656ed96",
+      "distance_m": 66.1,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n282413229",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kyushu-4822db13e3718fe3f3d0",
+      "distance_m": 6.5,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n282414163",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kyushu-24b50e5e9bbc5e3a413c",
+      "distance_m": 32.4,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n1382585341",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kyushu-6b39ffd681ccb4294ae8",
+      "distance_m": 6.1,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n1734798805",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-26901b9209e7eeaf8967",
+      "distance_m": 27.7,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n2630762415",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-77f8118251a585b804d4",
+      "distance_m": 37.2,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n4257761661",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kansai-d26f0f2b355a12bea9e1",
+      "distance_m": 1.9,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n5379845510",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kyushu-0c8ca0f0f3725dfed80a",
+      "distance_m": 19.1,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n5729337758",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-f9b0b13b989ca56a78ac",
+      "distance_m": 4.1,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n6432988340",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-a3e993122bf86e220678",
+      "distance_m": 35.6,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n6468386613",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-0c7f734b9617ed48f4ca",
+      "distance_m": 4.4,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n6476430016",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-0d24d77456c688d91c64",
+      "distance_m": 35.5,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n7023352211",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kyushu-b524ce9b1a144005de2c",
+      "distance_m": 21.6,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n7023352213",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kyushu-d98ca05a42ae0b7e264c",
+      "distance_m": 17.7,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n7023352214",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kyushu-6b9e1e46606d15b3a09c",
+      "distance_m": 24.1,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n7023352215",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kyushu-d466e4d9a4f0d30b4e25",
+      "distance_m": 5.5,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n7023352216",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kyushu-f4f215e44068d57a2410",
+      "distance_m": 19.0,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n7023352217",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kyushu-bbdfb5ad23b26a47c142",
+      "distance_m": 15.3,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n7023352218",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kyushu-aebe32c7fd233c389024",
+      "distance_m": 36.4,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n7023352219",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kyushu-bb964d87e82d91648091",
+      "distance_m": 9.6,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n7023352220",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kyushu-bfb8b384c725c48203c6",
+      "distance_m": 63.9,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n7023368352",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kyushu-7ad40b0cf35ca2d2df82",
+      "distance_m": 6.7,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n7039928035",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-2fdc73bc074cd993d9f7",
+      "distance_m": 6.4,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n7096968037",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-3e2cc70b17f1ef16a759",
+      "distance_m": 15.9,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n7560754123",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-shinetsu-17a0d4705300acb9c1bd",
+      "distance_m": 27.3,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n7869617033",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-879eb5159177a7f887fa",
+      "distance_m": 7.8,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n7873101853",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kansai-2c6d11065fc698e42b23",
+      "distance_m": 50.9,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n7881407152",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-chugoku-7a183a6082cd3e616eaf",
+      "distance_m": 27.0,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n8354198653",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-e89c96ec7b11a6aa0c92",
+      "distance_m": 23.2,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n8354198803",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-67f83e19cdfdae47a1de",
+      "distance_m": 42.5,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n8354198836",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-f3ca61baac12059386ba",
+      "distance_m": 25.6,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n8656384032",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-f5dd2fa57965e0bb81cc",
+      "distance_m": 6.5,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n8656384056",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-f18e7b42563e63d06c7e",
+      "distance_m": 47.4,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n8656384063",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-1a20fcf7f7e856780bf1",
+      "distance_m": 4.7,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n8656384088",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-58cb783e79d05e4c054e",
+      "distance_m": 10.5,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n8656384117",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-77f3d2146752c3269361",
+      "distance_m": 17.5,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n8656384130",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-2803b686bce0c31331c0",
+      "distance_m": 8.4,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n8656384142",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-cadf7ee1065b7c878032",
+      "distance_m": 23.3,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n8656384161",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-fda054ce159782a3b914",
+      "distance_m": 5.3,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n8656384245",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-9d5e57d784b458009ead",
+      "distance_m": 16.2,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n8656384246",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-54c7c21470c8c370aa4e",
+      "distance_m": 12.6,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n8656384256",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-227520510868a595674c",
+      "distance_m": 10.5,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n8868444656",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-3ae1187e40955b9b0304",
+      "distance_m": 26.6,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n8868463104",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-a455db9a09c92a2dd984",
+      "distance_m": 19.8,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n8868463109",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-dded487488b5a2f4291e",
+      "distance_m": 3.7,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n8868464984",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-70740c671d9007fcfb67",
+      "distance_m": 14.0,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n9147299563",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kantou-869c57489759eb3ef768",
+      "distance_m": 18.0,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n9150571065",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kansai-615ebaaa4cc6eac2d803",
+      "distance_m": 51.8,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n9191644846",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokuriku-25acc30dc1128fddc512",
+      "distance_m": 11.8,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n9191644860",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokuriku-df1d9a054d3abb1a850f",
+      "distance_m": 1.8,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n9194899794",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokuriku-0ac9fce336caf4746670",
+      "distance_m": 55.1,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n9194899795",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokuriku-71584919c01b91f92409",
+      "distance_m": 24.8,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n9194937224",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokuriku-942f712585f076f8624a",
+      "distance_m": 56.3,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n9194937237",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokuriku-5ef37bb683fd0f798d0d",
+      "distance_m": 34.8,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n9203015387",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokuriku-0a5088f7c9c5984769b5",
+      "distance_m": 47.2,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n9203573901",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokuriku-1242decd8a0ee1beb662",
+      "distance_m": 36.5,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n9213125775",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokuriku-6e25079eae5c107e6d37",
+      "distance_m": 5.6,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n9213125796",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokuriku-038c1f3365fed549a19e",
+      "distance_m": 20.4,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n9213128247",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokuriku-48f9b85f140158c64d49",
+      "distance_m": 39.4,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n9213128322",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokuriku-29de457a9cec31e4ce24",
+      "distance_m": 40.9,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n9320656032",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kyushu-4697db71fe575bf8606a",
+      "distance_m": 48.7,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n9320656082",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kyushu-a536e7c2c2cc632fe7fa",
+      "distance_m": 25.6,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n9856867898",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-a702c4f095df9e11d9e1",
+      "distance_m": 3.0,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n9859389430",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-be1f1601106bc611739f",
+      "distance_m": 49.7,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n9876328380",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-9f62b38a6ffaf57af50b",
+      "distance_m": 2.2,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n9880048381",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-6462864c26dc4db9a263",
+      "distance_m": 3.8,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n10780352042",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-chugoku-d9038b2b04795849bb55",
+      "distance_m": 21.1,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n11306775371",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-640bfb53ac93efeb7cd8",
+      "distance_m": 1.8,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n13301223592",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-530e4d0c4545b1dceecb",
+      "distance_m": 17.5,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n13301223595",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-2b5fff6bba1539544411",
+      "distance_m": 74.3,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n13301223596",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-bd7ebdff871af8099600",
+      "distance_m": 53.6,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n13301223598",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-460dc01b7de72d3a2815",
+      "distance_m": 67.4,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n13301223599",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-88e0ff2f2f7ebeeadfed",
+      "distance_m": 25.8,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n13301246867",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-c2ebf0796da738170b0b",
+      "distance_m": 10.3,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n13301246884",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-f813c64d058a98550999",
+      "distance_m": 30.6,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n13301246901",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-3818fb88435c88920c53",
+      "distance_m": 15.6,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n13301246908",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-41095f7178adb6e00e25",
+      "distance_m": 11.2,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n13301246916",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-6651815ab04b87e7ac43",
+      "distance_m": 10.0,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n13301246920",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-570d2ce8f0f74a8eea59",
+      "distance_m": 44.4,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n13301246936",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-c69145938a5addc745ec",
+      "distance_m": 45.3,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n13301246947",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-45ad3039a71eaa228b87",
+      "distance_m": 29.3,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n13301247048",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-a66cbe8f9af7ede7d2ad",
+      "distance_m": 28.2,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n13301247064",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-632d82f530261e679a7b",
+      "distance_m": 2.6,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n13301247152",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-6af74c7d0a8fd04c159d",
+      "distance_m": 9.7,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n13301828819",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-bb1883074d900aa4882d",
+      "distance_m": 20.7,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n13301828825",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-7efb62a7f12e15c396fc",
+      "distance_m": 13.2,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n13301828827",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-4f90ebc9422f6668e7fc",
+      "distance_m": 38.0,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n13301828835",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-c9a18c4792878f631347",
+      "distance_m": 22.6,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n13301828837",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-297004f9abd304c9fdeb",
+      "distance_m": 9.1,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n13301828838",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-c04e2de25169b2503ab9",
+      "distance_m": 53.5,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n13301828839",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-4fb644aaec067d254728",
+      "distance_m": 4.8,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n13301828840",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-74a537635309bf7281fe",
+      "distance_m": 19.4,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n13301828841",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-454acf988d3bfcdaea37",
+      "distance_m": 37.2,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n13353096399",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kyushu-6322b2171bdf1d25d63c",
+      "distance_m": 33.4,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n13353096400",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kyushu-891b5ffa3f6c20b3b02a",
+      "distance_m": 14.8,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n13353117901",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kyushu-36f4aa60a3e28243ef53",
+      "distance_m": 14.2,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n13353117902",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kyushu-f3f0b45b6235d390a53f",
+      "distance_m": 10.9,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n13353117903",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kyushu-83ce717d817907d5313e",
+      "distance_m": 66.5,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n13353118254",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kyushu-f5eb521335ed04152765",
+      "distance_m": 3.6,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n13353118321",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kyushu-4e593fc7777d4f11f852",
+      "distance_m": 16.1,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n13353118383",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kyushu-ac662d2a67a2c68d82d4",
+      "distance_m": 23.4,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n13353118444",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kyushu-5c7f5e89075411445ab4",
+      "distance_m": 25.3,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n13353118527",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kyushu-3eaa2c706a06ba68ef30",
+      "distance_m": 17.6,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n13353118581",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kyushu-1aa1eed4531394db14f3",
+      "distance_m": 1.0,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n13353118715",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kyushu-68ac75a23aef087f7315",
+      "distance_m": 8.5,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n13353118807",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kyushu-d1ff4fe17266c5cd3a97",
+      "distance_m": 60.0,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n13353118925",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kyushu-3408b170758f7020a46c",
+      "distance_m": 3.0,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n14053246697",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kantou-5a979a0171cbac8ad6ff",
+      "distance_m": 22.3,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n14053260915",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kantou-aa78d3cbe3089c9e1893",
+      "distance_m": 14.9,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n14053833650",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kantou-0d401e9634f0657088dc",
+      "distance_m": 41.3,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n14053833651",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kantou-4b148535b22d718c958f",
+      "distance_m": 27.8,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n14053833674",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kantou-4cbe603127e43504edc1",
+      "distance_m": 14.1,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-n14053833685",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kantou-e202f28c4fa871b635e3",
+      "distance_m": 7.0,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-w285840909",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-cc3c1c0232441f8b94ce",
+      "distance_m": 14.8,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-w844002188",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-kansai-07f70c609110b132f1b8",
+      "distance_m": 4.3,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-w909795067",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-c0e32a8d6b1a828590dd",
+      "distance_m": 25.5,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "osm-history-w1429036150",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-151abcafefb20340e47d",
+      "distance_m": 11.6,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "ohm-node-2093639565",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-042b1429d054938e0509",
+      "distance_m": 6.3,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "ohm-node-2093639566",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-0195a37e2196fc2422a3",
+      "distance_m": 19.4,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "ohm-node-2093711499",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-hokkaido-08654292edcb53f8116a",
+      "distance_m": 19.2,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "ohm-node-2110575475",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "osm-history-n10101317526",
+      "distance_m": 60.9,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "ohm-node-2182322010",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "osm-history-n3585109236",
+      "distance_m": 4.3,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "ohm-node-2182524064",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "osm-history-n264402993",
+      "distance_m": 13.2,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    },
+    {
+      "id": "ohm-node-2182680990",
+      "decision": "omit_duplicate_point",
+      "displayed_id": "naeboworks-touhoku-b24592b85472c7f6a99d",
+      "distance_m": 3.9,
+      "reason": "Same named former stop within80m from another source; original source inputs remain available."
+    }
+  ],
+  "grouping": "Only identically named/dated OSM sections sharing a source vertex are grouped. No missing geometry or source dates are inferred."
+}

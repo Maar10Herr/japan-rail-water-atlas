@@ -1,0 +1,57 @@
+{
+  "source": "OpenHistoricalMap",
+  "license": "CC0-1.0 default; explicit non-CC0 feature licenses excluded",
+  "license_url": "https://www.openhistoricalmap.org/copyright",
+  "overpass_endpoint": "https://overpass-api.openhistoricalmap.org/api/interpreter",
+  "query_file": "probe.py",
+  "source_timestamp": "2026-10-25T16:10:50Z",
+  "raw_elements": 11458,
+  "selected_count": 401,
+  "selected_by_kind": {
+    "historical_station": 111,
+    "historical_rail": 290
+  },
+  "selected_by_region": {
+    "Hokkaido": 15,
+    "Japan": 386
+  },
+  "historical_periods_collapsed_on_identical_geometry": 29,
+  "excluded_by_reason": {
+    "no_unambiguous_past_end_date": 2724,
+    "outside_present_day_japanese_geographic_scope": 6871,
+    "not_selected_track_or_station_geometry": 456,
+    "near_same_class_current_station_identity_not_proven_closed": 34,
+    "unnamed_station_or_stop_position": 10,
+    "inverted_mapped_period": 1,
+    "known_restricted_source_reference": 3,
+    "mostly_overlaps_current_track_identity_not_proven_closed": 240,
+    "identical_geometry_to_unended_ohm_track_period": 688,
+    "same_name_period_duplicate_station_stop_position": 1
+  },
+  "selection": {
+    "geographic_scope": "Current atlas Japanese land mask, simplified at0.001 degrees, with0.025-degree coastal allowance; original OHM geometries retained whole.",
+    "temporal_scope": "Explicit ISO-like end_date in the past; no inferred dates or historic year slider.",
+    "current_track_rejection": "At least65% of100m-spaced samples(max300) within50m of current track in the same heavy-rail/tram family: excluded as an unproven historical identity of current track.",
+    "current_station_rejection": "Within120m of a current station in the same heavy-rail/tram family: conservatively excluded.",
+    "duplicate_station_rejection": "Same normalized name and end date within120m: retain one station rather than stop_position duplicate.",
+    "identical_track_periods": "Unended OHM periods with identical geometry screen out current identities. Multiple historical identities of identical track geometry are rendered once with all periods retained."
+  },
+  "limitations": [
+    "Community coverage is incomplete and varies geographically.",
+    "Dates describe a mapped feature period and do not necessarily prove whole-railway closure.",
+    "Proximity tests are conservative screens, not independently verified closure determinations.",
+    "Current alignment screening can omit former stations and railway sections near extant infrastructure.",
+    "No geometry is invented or connected across unmapped gaps."
+  ],
+  "selected_track_length_km": 461.825,
+  "files": {
+    "raw_japan_bbox.json": {
+      "bytes": 14707144,
+      "sha256": "22e71f52c40c1faa6c89fec84177f9ae39cc3d6afc34b68af23529365c6977e7"
+    },
+    "historical_ohm.geojson.gz": {
+      "bytes": 54759,
+      "sha256": "8ab1ace3f186ce973632fcd2e51d0b6fb31f1751489359c4e29d53a22c8a7130"
+    }
+  }
+}

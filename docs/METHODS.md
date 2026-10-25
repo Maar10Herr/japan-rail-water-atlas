@@ -106,10 +106,82 @@ The evidence-backed station and infrastructure review is documented in
 existing Latin tags, same-station identity transfers, linked CC0 Wikidata
 labels and explicit-kana romanization. Arbitrary kanji readings are not guessed.
 
-## 7. Render locally in the browser
+## 7. Assemble the historical record
 
-`tools/build.py` embeds the gzip-compressed payload, MapLibre module, worker,
-styles, application and license notices into `index.html`.
+Historical data is compiled separately from the current passenger network.
+The historical scope includes former freight, forestry, industrial and rural
+light railways. It combines OSM lifecycle-tagged geometry, Naeboworks regional
+KML reconstructions, selected OpenHistoricalMap feature periods and documented
+Okinawan industrial history. Source components retain their own licenses and
+provenance rather than being relabeled as one uniformly licensed database.
+
+OSM selection requires positive past-use evidence. Proposed/construction-only
+projects and unsupported historic structures are excluded. Lifecycle tags are
+reviewed alongside exact current-network overlaps: physical flood damage,
+temporary suspension and continuing heritage operation do not alone establish
+permanent closure. Station relocations are evaluated separately, preserving
+both a supported former location and its operating replacement where relevant.
+
+Naeboworks KML points are classified using the creator's legend. Current and
+planned markers are excluded; former station locations and documented closed
+passenger places that became signal locations can be retained. Reviewed
+never-opened extensions are removed, with cuts made on existing source paths
+at the documented operated terminus. Changes, exclusions and source hashes are
+recorded in the Hokkaido and regional provenance files. Coordinates are source
+reconstructions, not survey positions.
+
+OHM selection requires an explicit ended feature period. Current-track
+proximity and identical unended OHM geometry screen out historical names or
+operators on extant infrastructure. Same-family station proximity is screened
+conservatively, and repeated identities of identical historical track geometry
+are collapsed while their source periods remain available. An OHM period end
+can describe an identity/alignment change rather than closure of the whole
+railway. Explicit non-CC0 feature licenses and known restricted-source
+references are excluded from this selection.
+
+For Minami-Daitō, seven line sections are manually transcribed from
+Tamurono157's CC BY 3.0 schematic and georeferenced with a thin-plate-spline
+transformation using island-frame controls. OSM geography provides the
+registration reference. A conservative 1,000-metre display uncertainty and
+the diagram's undated, mixed-period character remain explicit. This is not a
+surveyed railway centreline. The island network's documented 1983 closure is
+kept at network scope, without invented branch operating dates.
+
+Miyako's factory location is geocoded from GSI address data; research supports
+the former sugar railway, but no route geometry is inferred from its length
+or the factory's location. Kitadaitō likewise uses a representative official
+heritage-site location. These are site markers, not reconstructed stations.
+
+Integration reconciles source identifiers, overlapping station names/locations
+and duplicate line fragments using the recorded rules. It retains raw source
+IDs, source components, credits, licenses, geometry-quality classes and scoped
+dates in the metadata. Gaps remain gaps. No missing link or kanji reading is
+invented to produce a visually continuous network.
+
+`data/history.json.gz` stores separate line/point GeoJSON collections and a
+matching `records` index. Each feature's numeric `i` links to its record;
+record fields include `source_component`, `source_ids`, `source_urls`,
+`license`, `credit`, `dates`, `notes` and `geometry_quality`. Dates carry a
+label and scope rather than silently becoming a common opening/closure field.
+The layer combines all recorded eras and does not support a synchronized
+historical-year filter. Source components, point CSV and integration audits
+are published in [`data/history/`](../data/history/).
+`tools/history/build_payload.py` deterministically compiles those checked-in
+components and review decisions into the combined payload using Python's
+standard library. Fetching and preparing updated upstream components is a
+separate research operation.
+
+MLIT N05 was reviewed but not ingested: its source-specific permission and
+redistribution restriction are incompatible with publishing copies of its
+feature data in this atlas. The source decision is published with the audits.
+
+## 8. Render locally in the browser
+
+`tools/build.py` embeds the gzip-compressed current and historical payloads,
+MapLibre module, worker, styles, application and license notices into
+`index.html`. The historical payload is decompressed and indexed only when its
+toggle is enabled. Historical search entries and attribution are active with
+that layer; a separate control governs its station/site markers.
 
 The browser decompresses the payload, creates the MapLibre worker and indexes
 GeoJSON into vector tiles. The renderer draws lines and labels for the current
@@ -128,7 +200,7 @@ The web build is deterministic from checked-in inputs. Re-running the original
 GIS compilation against “latest” upstream data can produce a different network;
 manual selection and service-status review are part of that compilation.
 
-## 8. Export rasters without a multi-gigabyte framebuffer
+## 9. Export rasters without a multi-gigabyte framebuffer
 
 The national PNG is 36,000 × 44,000 pixels. Rendering uses spatial indexes,
 overlapping tiles, antialiasing and a streaming PNG writer. Only a strip of
@@ -138,3 +210,6 @@ pixel RGB/RGBA image in a single in-memory canvas.
 The nine regional sheets are 10,000 × 12,600 pixels. Those images are release
 assets rather than part of Git history. The web application's PNG export is
 independent: it captures the current map view and adds attribution.
+The published v0.2.0 national/regional rasters are current-network snapshots
+without the historical overlay. The view export includes enabled historical
+geometry and its source credits.

@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "dataset_id": "japan-rail-water-atlas-v0.2.0",
+  "dataset_id": "japan-rail-water-atlas-v0.3.0",
   "coordinate_reference_system": "EPSG:4326",
   "counts": {
-    "station_objects": 11104,
-    "rail_station_objects": 9305,
+    "station_objects": 11103,
+    "rail_station_objects": 9304,
     "water_services": 587,
     "active_water_services": 565,
     "route_groups": 2313
@@ -17,24 +17,12 @@
   },
   "files": {
     "data/atlas.json.gz": {
-      "bytes": 5617603,
-      "sha256": "6cc152d6241875135d57a35dc63c41ee48db95c019937acc839dcf37f0429cbf"
+      "bytes": 5617484,
+      "sha256": "888634178fa4d068e7e5d8122881732b9e35b7de5c50302e9161be01be8ce721"
     },
-    "data/network.geojson.gz": {
-      "bytes": 7947748,
-      "sha256": "f4620012b65e7297c1fdd9cc26572de59344e9dd855a2b605b437878a8b99278"
-    },
-    "data/inventories/ground_lines_index.csv": {
-      "bytes": 135929,
-      "sha256": "1265f8a3a0f0cd64cfa223ecfb5d216cae62cac5f02a1bda5d2f5f95b2d9d76c"
-    },
-    "data/inventories/stations_and_terminals.csv": {
-      "bytes": 1243055,
-      "sha256": "684934a71cd9503675132dfdf2f54a8c5ad9bb183e4279812b71d2bde363b07e"
-    },
-    "data/inventories/water_services.csv": {
-      "bytes": 208983,
-      "sha256": "5f1781fd06920927fd2d938d1d9f604c725332d8a75dc93940ce76cd401e7924"
+    "data/audits/missing_latin_labels.csv": {
+      "bytes": 182511,
+      "sha256": "afd9ddb37e24750aa30b8a57dfab767d117b0e0b386314bbda074a2a7c0c75eb"
     },
     "data/audits/mlit_ferry_operator_audit.csv": {
       "bytes": 28922,
@@ -43,6 +31,130 @@
     "data/audits/rail_2022_coverage_audit.csv": {
       "bytes": 27328,
       "sha256": "859d2718a9e7642c2dd23af45f42dfcfcff11835eed7a6e4097f88bd61932941"
+    },
+    "data/audits/unresolved_station_names.csv": {
+      "bytes": 14023,
+      "sha256": "3b96c6f3d938fc1fad29a28e10736289a8c1df5a38a244ec2e05906a0b7506f4"
+    },
+    "data/history.json.gz": {
+      "bytes": 1491976,
+      "sha256": "023f0b96f116526bec1acad79f1444300ab61f9c216cbe361458a04ee523bc8d"
+    },
+    "data/history/current-history-conflicts.json": {
+      "bytes": 242181,
+      "sha256": "ecd6ceba8a2d7808f03e6cbc43c03b2d4961acd7deaffed24695b9189b2cc77b"
+    },
+    "data/history/current_station_closure_candidates.csv": {
+      "bytes": 857,
+      "sha256": "b5f7514ba8eaa9146ca39fc71f3b01f555649e129a9848f4dbe4c031bb576c85"
+    },
+    "data/history/current_station_closure_review.json": {
+      "bytes": 12534,
+      "sha256": "42c619a370b00a5ba7cf490395d0191ae9ceb81df42ed05fc542bea9f6bd2aa2"
+    },
+    "data/history/excluded-source-decision.json": {
+      "bytes": 2465,
+      "sha256": "41857e23defa5f92a1ab1a2fe2100f0eb72466b9848ad278216416b26b4b5a99"
+    },
+    "data/history/industrial-coal-review.json": {
+      "bytes": 3258,
+      "sha256": "a8ce6fe519a6ea5bbff8d4e66612b648749e24feffab8860176d17e48dde497e"
+    },
+    "data/history/integration-audit.json": {
+      "bytes": 99143,
+      "sha256": "1f9a9063765fbb4e4e1ea7fcbd0fc5493eb8f3e845cedfc6d7a76616374bc1b0"
+    },
+    "data/history/kitadaito-site.geojson": {
+      "bytes": 1512,
+      "sha256": "c85d3c681fb30d286a0c1add06361bb00f999caaa1fd9b65ad314aaa0a4b1c33"
+    },
+    "data/history/naeboworks-hokkaido-audit.csv": {
+      "bytes": 119539,
+      "sha256": "1cf2622caefc2e0d97c5329eb5a0df47cff0332e33f2683847c50187295280e1"
+    },
+    "data/history/naeboworks-hokkaido-provenance.json": {
+      "bytes": 4324,
+      "sha256": "8dc0600086f642f691c6afddc85a92d69fbb1d3bfda60687095e3302df806228"
+    },
+    "data/history/naeboworks-hokkaido.geojson.gz": {
+      "bytes": 241910,
+      "sha256": "b4ae7a981dbf2b9be87b749b1868619651291fce9698077ffc583ff3ec74c436"
+    },
+    "data/history/naeboworks-regions-audit.csv": {
+      "bytes": 184495,
+      "sha256": "2a5433041d1d4ab9a414180a4b11e64924238882383b90733e9dd151a42bc42e"
+    },
+    "data/history/naeboworks-regions-provenance.json": {
+      "bytes": 3949,
+      "sha256": "4d987d98c5681227c5f3babd91300122cbc0e7d055d7d48c873eef52ebd3ab1a"
+    },
+    "data/history/naeboworks-regions.geojson.gz": {
+      "bytes": 296126,
+      "sha256": "cc738dbbd3ffa2c0aa06d6d36fd335608539532aac6ab937f6a2d5e300ea7686"
+    },
+    "data/history/ohm-exclusions.json": {
+      "bytes": 1093232,
+      "sha256": "31dba4881b23204ed232bb17d679c49b6ead58456ee9fff4873fd6048cebc563"
+    },
+    "data/history/ohm-provenance.json": {
+      "bytes": 2947,
+      "sha256": "8ffb348ca96d4762f6890b69eb002fd1e64cf100d3aaad6c6f712908d0fb9921"
+    },
+    "data/history/ohm.geojson.gz": {
+      "bytes": 54759,
+      "sha256": "8ab1ace3f186ce973632fcd2e51d0b6fb31f1751489359c4e29d53a22c8a7130"
+    },
+    "data/history/okinawa-sugar-provenance.json": {
+      "bytes": 9491,
+      "sha256": "3c5d2c6a091f0f01380ecf7867f600852a81a4b3ef076ac078b753dbeff1e3ca"
+    },
+    "data/history/okinawa-sugar.geojson.gz": {
+      "bytes": 2998,
+      "sha256": "c4f653c947fcbb7bd0f7ce6e7496cca8aa298752a2d9dee84b2e1cf4a689ce0a"
+    },
+    "data/history/osm-never-opened-audit.json": {
+      "bytes": 1918,
+      "sha256": "8839d55f2be53cc2681dc0fc98d1288e1f2ee38fa3ceebf10ed6e26536e49063"
+    },
+    "data/history/osm-provenance.json": {
+      "bytes": 4021,
+      "sha256": "019b43c7e142bd3871e35198bef3f867f6321f479ea0f9fd916186a1159e0ebd"
+    },
+    "data/history/osm-selection-exclusions.json": {
+      "bytes": 38068,
+      "sha256": "d6e0d143e429184fa785df9df49fce2e03d12b9b9672ed5fd6e66ed261adcc71"
+    },
+    "data/history/osm.geojson.gz": {
+      "bytes": 1160133,
+      "sha256": "edb79c6ca19f8e96cd206107e23823b9944089b50a26c2dd4e545bf396dc9ee3"
+    },
+    "data/history/station-relocation-review.json": {
+      "bytes": 1756,
+      "sha256": "f6e96ecd2220d08ec8fb1dde6168c51a63f1ad03499dd183e4ceec4ae318507e"
+    },
+    "data/history/stations-and-sites.csv": {
+      "bytes": 512918,
+      "sha256": "d6485b5767cfffdcbde9bf2d821a5a622547075d831f2d249d6ab9e5ef63ec7d"
+    },
+    "data/inventories/ground_lines_index.csv": {
+      "bytes": 135929,
+      "sha256": "1265f8a3a0f0cd64cfa223ecfb5d216cae62cac5f02a1bda5d2f5f95b2d9d76c"
+    },
+    "data/inventories/stations_and_terminals.csv": {
+      "bytes": 1242949,
+      "sha256": "1db2558c813c1ee3fef22fbb54fecdcf43ca7c65a580791621c840ee3c4c44d0"
+    },
+    "data/inventories/water_services.csv": {
+      "bytes": 208983,
+      "sha256": "5f1781fd06920927fd2d938d1d9f604c725332d8a75dc93940ce76cd401e7924"
+    },
+    "data/network.geojson.gz": {
+      "bytes": 7947748,
+      "sha256": "f4620012b65e7297c1fdd9cc26572de59344e9dd855a2b605b437878a8b99278"
+    },
+    "data/reviews/README.md": {
+      "bytes": 2784,
+      "sha256": "7e1987b39678be23a79cc8b2092b0824d3868ac2e9a817523a1bd98f73416ea7"
     },
     "data/reviews/applied_summary.json": {
       "bytes": 338,
@@ -75,30 +187,22 @@
     "data/reviews/station_names.json": {
       "bytes": 128182,
       "sha256": "f5a23692af46cc4ec04d13cd9e6b198252bbcb7a97de7f76bb48b64e1012a294"
-    },
-    "data/audits/missing_latin_labels.csv": {
-      "bytes": 182511,
-      "sha256": "afd9ddb37e24750aa30b8a57dfab767d117b0e0b386314bbda074a2a7c0c75eb"
-    },
-    "data/audits/unresolved_station_names.csv": {
-      "bytes": 14023,
-      "sha256": "3b96c6f3d938fc1fad29a28e10736289a8c1df5a38a244ec2e05906a0b7506f4"
-    },
-    "data/reviews/README.md": {
-      "bytes": 2784,
-      "sha256": "7e1987b39678be23a79cc8b2092b0824d3868ac2e9a817523a1bd98f73416ea7"
     }
   },
   "licenses": {
     "original_code": "GPL-3.0-only",
     "OSM_derived_database": "ODbL-1.0",
-    "renderer": "BSD-3-Clause; see LICENSES/MapLibre-BSD-3-Clause.txt"
+    "renderer": "BSD-3-Clause; see LICENSES/MapLibre-BSD-3-Clause.txt",
+    "historical_components": "ODbL-1.0; CC-BY-4.0; CC0-1.0; CC-BY-3.0; GSI Public Data License 1.0. Per-source attribution and adaptations retained in data/history/."
   },
   "limitations": [
     "Nationwide completeness is not certified.",
     "Station/terminal objects are not a count of distinct commercial stations.",
     "Route groups and geometry sections are not service counts or unique route-kilometres.",
-    "Some water connections are approximate or partial; some sightseeing services have departure markers only."
+    "Some water connections are approximate or partial; some sightseeing services have departure markers only.",
+    "Historical coverage is partial and combines different recorded eras; it is not a synchronized historical snapshot.",
+    "Historical line features are geometry objects, not unique routes or route-kilometres. Former station objects include some former signal/freight sites.",
+    "Minami-Daito paths are schematic reconstructions with 1 km display uncertainty. Miyako and Kitadaito are site locations only."
   ],
   "review": {
     "unnamed_labels": 133,
@@ -109,5 +213,12 @@
     "verified_omitted_station_objects_restored": 6,
     "public_sightseeing_lifts_restored": 6,
     "scope": "Evidence-backed review; not exhaustive certification."
+  },
+  "historical_counts": {
+    "line_features": 5712,
+    "station_objects": 2267,
+    "site_objects": 3,
+    "hokkaido_station_objects": 803,
+    "approximate_line_features": 7
   }
 }

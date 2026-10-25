@@ -1,0 +1,49 @@
+{
+  "source": "https://kumagawa-rail.com/2026/09/19/4880/",
+  "source_type": "official railway operator notice",
+  "old_station": {
+    "osm_id": "n265927763",
+    "name": "川村",
+    "name_en": "Kawamura",
+    "coordinates": [
+      130.795717,
+      32.207248
+    ],
+    "action": "remove from current station/search; retain in historical station layer",
+    "formal_relocation_date": "2026-09-20"
+  },
+  "replacement_existing_current_station": {
+    "osm_id": "n14203032905",
+    "name": "相良十島",
+    "name_en": "Sagara Toshima",
+    "coordinates": [
+      130.786536,
+      32.209933
+    ],
+    "raw_osm_start_date": "2026-09-20",
+    "action": "keep existing current object; no new station required"
+  },
+  "same_location_renaming_already_correct": {
+    "osm_id": "n265927760",
+    "old_name": "東多良木",
+    "current_name": "多良木青蓮寺",
+    "action": "keep current point and name; do not add a historical location duplicate"
+  },
+  "historical_update": {
+    "osm_id": "n265927763",
+    "history_id": "osm-history-n265927763",
+    "set": {
+      "lifecycle": "closed_station_site",
+      "end_date": "2026-09-20",
+      "end_date_type": "formal relocation/replacement date; not the date of the last train before flood suspension",
+      "replacement_station": "相良十島 / Sagara Toshima",
+      "replacement_osm_id": "n14203032905",
+      "sources": [
+        "https://kumagawa-rail.com/2026/09/19/4880/",
+        "https://www.openstreetmap.org/node/265927763"
+      ],
+      "certainty": "former location confirmed by operator; replacement present in current OSM snapshot",
+      "notes": "Kawamura station was relocated and renamed Sagara-Toshima when Kumagawa Railway reopened its full line on 2026-09-20."
+    }
+  }
+}

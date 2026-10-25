@@ -1,0 +1,92 @@
+{
+  "schema": 1,
+  "source_id": "naeboworks_other_regions",
+  "creator": "苗穂工房 (naeboworks)",
+  "title": "北海道廃線路線図 — eight regional KML datasets outside Hokkaido",
+  "source_site": "https://naeboworks.com/haisen/",
+  "license": "CC-BY-4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "license_evidence_url": "https://naeboworks.com/haisen/about.htm",
+  "attribution": "北海道廃線路線図 © 2007–2026 苗穂工房 (naeboworks); mapped from GSI Japan aerial photographs (CC BY 4.0).",
+  "retrieved_date": "2026-10-25",
+  "sources": [
+    {
+      "region": "chugoku",
+      "url": "https://naeboworks.com/haisen/_chugoku.kml",
+      "sha256": "194c47520a13093943760c9a6aa210fa4193137329251de1fb06b4043c0e5d2b",
+      "bytes": 82500
+    },
+    {
+      "region": "hokuriku",
+      "url": "https://naeboworks.com/haisen/_hokuriku.kml",
+      "sha256": "8fb7846ca5dc71ab2bbdd8fa4c9f4ca801bc74fecfabe925d1002d6ecf15ce2e",
+      "bytes": 183695
+    },
+    {
+      "region": "kansai",
+      "url": "https://naeboworks.com/haisen/_kansai.kml",
+      "sha256": "cabee1e860d45f961634c35b7459f6cb65259667115aef4f84c90c68cfff8f79",
+      "bytes": 89945
+    },
+    {
+      "region": "kantou",
+      "url": "https://naeboworks.com/haisen/_kantou.kml",
+      "sha256": "3ea10bee03d9662a8b1b2b47b69469632097e072710c74dd6a22fa86d3bbe386",
+      "bytes": 137301
+    },
+    {
+      "region": "kyushu",
+      "url": "https://naeboworks.com/haisen/_kyushu.kml",
+      "sha256": "f68c3f2724276fc6e78feeee2fc60ae71f79eccb9ebada6857914ed078241b0a",
+      "bytes": 463135
+    },
+    {
+      "region": "shinetsu",
+      "url": "https://naeboworks.com/haisen/_shinetsu.kml",
+      "sha256": "8a0ee6e4b5e540ca3e5fb70d5e803612d9c9883c0c3f43f1c6f4ab424502b4ff",
+      "bytes": 127604
+    },
+    {
+      "region": "touhoku",
+      "url": "https://naeboworks.com/haisen/_touhoku.kml",
+      "sha256": "bdbf04dde02789f532bd2a13ca22e0581478c93dd24eb31d6e2f301b8c48bf24",
+      "bytes": 178372
+    },
+    {
+      "region": "toukai",
+      "url": "https://naeboworks.com/haisen/_toukai.kml",
+      "sha256": "1a098405be6445e46a4927e8b6d74172b301352d9cdbf61ca2a671d8453a9025",
+      "bytes": 30925
+    }
+  ],
+  "counts": {
+    "included_line_paths": 196,
+    "included_point_objects": 1044,
+    "input_line_paths": 199,
+    "input_point_objects": 1217
+  },
+  "output_sha256": "cc738dbbd3ffa2c0aa06d6d36fd335608539532aac6ab937f6a2d5e300ea7686",
+  "changes": [
+    "Converted KML to GeoJSON; kept explicit closed/converted markers and the creator's former railway paths.",
+    "Excluded active markers, unbuilt Ohma/Yobuko/Yusubaru paths and three Yobuko construction/planned-site markers.",
+    "Retained the former operated Menuma station; cut the Tobu Kumagaya path at its source station location, removing its never-opened northern continuation.",
+    "No missing route connection, operation date or station position was inferred; no source station was moved."
+  ],
+  "status_evidence": [
+    {
+      "url": "https://www.kumagaya-bunkazai.jp/museum/jousetu/t_kumagaya_line/haisi.htm",
+      "purpose": "Kumagaya municipal museum distinguishes the never-opened second phase from the former passenger railway terminating at Menuma."
+    },
+    {
+      "url": "https://naeboworks.com/haisen/",
+      "purpose": "Creator's legend distinguishes active, closed-line and earlier-closed station markers."
+    }
+  ],
+  "limits": [
+    "All-era approximate reconstruction, not a single synchronized historical snapshot.",
+    "Inherits creator coverage and station-position caveats; not an exhaustive historical inventory.",
+    "Route path counts include sections and sidings; point counts are source objects, not unique public passenger stations.",
+    "Dataset remains a distinct CC BY 4.0 component; application and OSM licenses do not replace it.",
+    "Source Wikipedia links retained; linked article prose was not imported."
+  ]
+}

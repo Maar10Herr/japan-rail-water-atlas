@@ -1,0 +1,76 @@
+{
+  "schema": 1,
+  "source_id": "naeboworks_hokkaido",
+  "title": "北海道廃線路線図 — 北海道",
+  "creator": "苗穂工房 (naeboworks)",
+  "source_site": "https://naeboworks.com/haisen/",
+  "source_data_url": "https://naeboworks.com/haisen/_hokkaido.kml",
+  "source_license_evidence_url": "https://naeboworks.com/haisen/about.htm",
+  "source_license_evidence_section": "廃線路線図データ(KMLファイル)のご利用案内",
+  "license": "CC-BY-4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "北海道廃線路線図 © 2007–2026 苗穂工房 (naeboworks); mapped from GSI Japan aerial photographs (CC BY 4.0).",
+  "retrieved_date": "2026-10-25",
+  "source_kml_sha256": "cfbfa299d144f3a57a3d753b9bce010556e6273e81636ce835a8385d59034698",
+  "output_sha256": "b4ae7a981dbf2b9be87b749b1868619651291fce9698077ffc583ff3ec74c436",
+  "changes": [
+    "Converted KML coordinates and metadata to GeoJSON.",
+    "Filtered out current, threatened and signal-only markers; retained explicit closed/converted markers.",
+    "Excluded four paths containing never-opened railway construction, five construction endpoints and one never-used bridge marker. The mixed Meiu path also contained an industrially operated section; that working corridor is represented separately by OSM w990215687, with museum evidence.",
+    "Trimmed never-opened continuations after Omu (Kohinnan line) and Koshikawa (Konpoku line) by cutting on the existing source polylines nearest the source station positions.",
+    "Excluded two mine-site rail paths whose closure was not established.",
+    "Assigned historical status/type and preserved source notes; no missing operation dates were inferred.",
+    "Station coordinates were not snapped or moved; no route connections were invented. Except for those two documented terminal cuts, source path coordinates were preserved."
+  ],
+  "counts": {
+    "input_line_paths": 107,
+    "input_point_objects": 1094,
+    "included_line_paths": 101,
+    "included_point_objects": 740,
+    "input_point_status_classes": {
+      "exists_station": 292,
+      "changed_signal": 25,
+      "closing_station": 31,
+      "closed_station": 87,
+      "closed_line": 634,
+      "exists_signal": 22,
+      "ignore_poi": 3
+    },
+    "rural_tramway_points": 75
+  },
+  "status_filter_evidence": {
+    "author_legend": "https://naeboworks.com/haisen/",
+    "author_renderer": "https://naeboworks.com/haisen/haisenmap14.js",
+    "included_point_classes": [
+      "changed_signal",
+      "closed_line",
+      "closed_station"
+    ]
+  },
+  "supplemental_primary_status_evidence": [
+    {
+      "url": "https://www.esashi.jp/files/00000200/00000209/6-02.pdf",
+      "purpose": "Esashi municipal museum study distinguishes operated Bifuka–Niupu Biko railway from never-completed Niupu–Kitami-Esashi extension."
+    },
+    {
+      "url": "https://www.city.kushiro.lg.jp/sangyou/sanshien/1006425/1006427.html",
+      "purpose": "2026 municipal page reports continuing Kushiro coal mining; closure of mine-site tracks not established, so excluded."
+    },
+    {
+      "url": "https://www.city.kushiro.lg.jp/museum/tenji/kikaku/1002368/1002378.html",
+      "purpose": "Kushiro museum documents Taiheiyo Rinko railway transport ending March 2019 and closure June 2019; its former paths remain included."
+    },
+    {
+      "url": "https://shiretoko-museum.jpn.org/shizen_rekishi/bunkazai/kompokusen/",
+      "purpose": "Shari municipal museum documents Koshikawa bridge as never used; bridge point and continuation after Koshikawa station excluded."
+    }
+  ],
+  "limits": [
+    "Not a complete historical railway inventory; it inherits the creator's mapped coverage.",
+    "Approximate routes reconstructed from historical aerial imagery and creator site visits; no positional accuracy guarantee.",
+    "Different dates and realignments coexist; this is an all-era layer, not a synchronized historical snapshot.",
+    "Station markers are former sites, boarding places and some signal/freight sites; they are not a count of unique public passenger stations.",
+    "Naeboworks data remains a separate CC BY 4.0 source; it is not represented as OSM data or relicensed as ODbL/GPL.",
+    "Source descriptions link Wikipedia, but no prose from linked articles was imported."
+  ]
+}

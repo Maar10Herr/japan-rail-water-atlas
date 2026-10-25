@@ -19,6 +19,8 @@ def build() -> bytes:
         "MAP_CODE": ("vendor/maplibre-gl.mjs", True),
         "WORKER_CODE": ("vendor/maplibre-gl-worker.mjs", True),
         "MAP_DATA": ("data/atlas.json.gz", True),
+        "HISTORY_CODE": ("src/history.mjs", True),
+        "HISTORY_DATA": ("data/history.json.gz", True),
         "APP_CODE": ("src/app.mjs", False),
         "APP_LICENSE": ("LICENSE", False),
         "DEPENDENCY_LICENSES": ("LICENSES/Renderer-Dependencies.md", False),

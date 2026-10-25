@@ -11,10 +11,62 @@
 | [OpenStreetMap standard tiles](https://operations.osmfoundation.org/policies/tiles/) | Live, optional | Roads, buildings and place labels; visible-view requests and normal browser caching |
 | [GSI tile catalogue](https://maps.gsi.go.jp/development/ichiran.html) | Live, optional | Seamless aerial imagery requested only when enabled, with GSI/Landsat/GRUS credits |
 
-The latest MLIT rail inventory inspected was historical, not a current service
+The N02 2022 inventory is a dated comparison baseline, not a current service
 register. MLIT N09 ferry geometry was from 2012 and was not used as a current
 network. The newer Project LINKS ferry material is a sample and was not treated
 as nationwide route geometry.
+
+## Historical geometry and site records
+
+| Source | Use and adaptation | Source terms |
+| --- | --- | --- |
+| [OSM / Geofabrik Japan](https://download.geofabrik.de/asia/japan.html) | Lifecycle-tagged former tracks and station/site objects from the same OSM snapshot; operational, never-opened and duplicate candidates reviewed | [ODbL 1.0](https://www.openstreetmap.org/copyright) |
+| [Naeboworks / 苗穂工房](https://naeboworks.com/haisen/) | Hokkaido and eight regional KML datasets converted to GeoJSON; status selection, reviewed unbuilt-extension removal, metadata normalization and integration | [CC BY 4.0 KML reuse terms](https://naeboworks.com/haisen/about.htm); © 2007–2026 苗穂工房 / naeboworks, mapped from GSI Japan aerial photographs; adapted |
+| [OpenHistoricalMap](https://www.openhistoricalmap.org/copyright) | Ended mapped alignment/station periods, with current-identity screening and repeated-geometry period reconciliation | CC0 default; explicit non-CC0 feature licenses and known restricted-source references excluded |
+| [Minami-Daito-Sugartrain-line.gif](https://commons.wikimedia.org/wiki/File:Minami-Daito-Sugartrain-line.gif), Tamurono157 | Seven approximate Minami-Daitō sugar-railway sections digitized from the schematic and georeferenced using OSM geography | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/); adapted. OSM geographic registration remains separately credited |
+| [Minamidaitō Village school history](https://www.vill.minamidaito.okinawa.jp/uploaded/attachment/28.pdf) | Network history and 1983 closure; network-level facts, not branch-by-branch dates | Factual reference; source artwork not reproduced |
+| [Tsujihara & Imamura, 2015](https://www.pu-kumamoto.ac.jp/users_site/m-tsuji/ronbun.html/paper15.html/pap1503.pdf) and [2017](https://www.pu-kumamoto.ac.jp/users_site/m-tsuji/ronbun.html/paper17.html/pap1702.pdf) | Architectural historical research supporting Miyako's former factory railway and Okinawan sugar-railway context | Factual summaries with citations; paper illustrations and map artwork not reproduced |
+| [GSI address search and content terms](https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html) | Representative geocoded Miyako factory location, not a track alignment | Public Data License 1.0; GSI credited |
+| [Agency for Cultural Affairs: Kitadaitō phosphate-mine remains](https://kunishitei.bunka.go.jp/heritage/detail/401/00003973) | Representative heritage-site marker and historical facts; no inferred railway line | Original atlas annotation from factual record, dedicated CC0; source artwork not reproduced |
+
+Naeboworks' KML-data license explicitly permits redistributed and modified
+data with attribution. Its independent website, interface and background map
+are not reproduced. Original dataset links, hashes, status classifications,
+adaptations and limits are preserved in the
+[Hokkaido provenance](../data/history/naeboworks-hokkaido-provenance.json) and
+[regional provenance](../data/history/naeboworks-regions-provenance.json).
+
+OHM extraction uses its documented
+[Overpass endpoint](https://wiki.openstreetmap.org/wiki/OpenHistoricalMap/Overpass).
+The [provenance record](../data/history/ohm-provenance.json) records the source
+timestamp and conservative selection. The
+[Okinawa provenance](../data/history/okinawa-sugar-provenance.json) includes
+the schematic control points, transcription, geographic registration,
+uncertainty and excluded inferences. A modern factory's presence is not used
+as evidence for an invented sugar-railway network.
+
+Component files can contain candidates that are omitted during final
+integration. The [integration audit](../data/history/integration-audit.json),
+[current/history conflict review](../data/history/current-history-conflicts.json),
+[station relocation review](../data/history/station-relocation-review.json),
+[current/historical station review](../data/history/current_station_closure_review.json)
+and [industrial-coal review](../data/history/industrial-coal-review.json)
+record these decisions. They include primary operator, museum, municipal and
+archive references. The station review links JR Hokkaido's official closure
+notices and distinguishes a source update date from an actual service-end
+date.
+
+### Reviewed source not redistributed: MLIT N05
+
+[MLIT N05 Railway Time Series, 2025 edition](https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N05-2025.html)
+was inspected as a possible nationwide historical source. Its source-specific
+conditions remain noncommercial, and the linked
+[content terms](https://nlftp.mlit.go.jp/ksj/other/agreement_02.html) exclude
+redistribution of copies for that category. No N05 line geometry or station
+table is included. The public
+[source decision](../data/history/excluded-source-decision.json) records the
+exclusion. This source is distinct from the N02 reference data used elsewhere
+in the atlas.
 
 ## Selected supplementary checks
 

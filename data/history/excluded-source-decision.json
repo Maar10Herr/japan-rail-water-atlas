@@ -1,0 +1,38 @@
+{
+  "source": "MLIT National Land Numerical Information N05 Railway Time Series",
+  "source_japanese": "国土数値情報 鉄道時系列データ",
+  "reviewed_utc_date": "2026-10-25",
+  "latest_verified_release": "N05-25_GML.zip",
+  "latest_release_published": "2026-04",
+  "coverage_start": "1950-01-01",
+  "coverage_end": "2025-12-31",
+  "decision": "excluded_from_redistributable_atlas",
+  "ingested_geometry_count": 0,
+  "ingested_station_count": 0,
+  "reason": "The source-specific N05 conditions explicitly restrict use to noncommercial purposes. Their linked content terms exclude redistribution of copies for that category. The atlas distributes its database and embeds it in a public downloadable application, so N05 is not an eligible source under those terms without separate permission.",
+  "source_pages": [
+    {
+      "url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N05-2025.html",
+      "relevant_sections": "Content; data reference date; source permission conditions",
+      "finding": "Current 2025 edition still labels permission as noncommercial because JTB Publishing reference works were used. Excludes freight-only railway lines and stations."
+    },
+    {
+      "url": "https://nlftp.mlit.go.jp/ksj/other/agreement_02.html",
+      "relevant_sections": "Article 1; particularly the noncommercial category and inheritance of terms",
+      "finding": "Source-specific permissions apply; the noncommercial category excludes redistribution of copies."
+    }
+  ],
+  "temporal_schema_reference_only": {
+    "N05_004": "Year the section opened for service; 999 means unknown.",
+    "N05_005b": "Start year for this installation/attribute period; pre-1950 installations are clamped to 1950.",
+    "N05_005e": "Year before a change or closure; 9999 indicates extant, 999 unknown. A finite value does not alone prove railway closure because attribute changes also end periods.",
+    "N05_006": "Group identifying the same railway or station across attribute periods.",
+    "N05_007": "Attribute-change identifier, including multiple changes in the same year.",
+    "N05_009": "Comments about positional uncertainty."
+  },
+  "rejected_processing": [
+    "Do not bulk import, trace, copy, or redistribute N05 station coordinates or line geometries into the open atlas.",
+    "Do not classify every ended attribute period as an abandoned railway.",
+    "Do not treat the 1950 lower bound as the actual opening year of older railways."
+  ]
+}

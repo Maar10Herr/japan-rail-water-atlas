@@ -1,0 +1,40 @@
+{
+  "method": "Explicit uncompleted/never-opened source tags and a small reviewed name exclusion list. This is a conservative audit rather than proof that all other lifecycle-tagged remnants once carried trains.",
+  "sources": [
+    {
+      "line": "戸井線",
+      "url": "https://www.city.hakodate.hokkaido.jp/citizensvoice/docs/2024100700026/",
+      "evidence": "Hakodate City describes construction followed by cancellation; never opened."
+    },
+    {
+      "line": "今福線",
+      "url": "https://www.city.hamada.shimane.jp/www/contents/1574151922846/index.html",
+      "evidence": "Hamada City describes the old and new unfinished lines and their surviving structures."
+    },
+    {
+      "line": "呼子線",
+      "url": "https://www.pref.saga.lg.jp/kiji003118812/index.html",
+      "evidence": "Saga Prefectural Government Archives classifies the former JNR Yobuko project as uncompleted."
+    },
+    {
+      "line": "大間鉄道",
+      "url": "https://www.mlit.go.jp/common/000022145.pdf",
+      "evidence": "MLIT describes the extension beyond Ohata to Oma as an unfinished line."
+    },
+    {
+      "line": "佐久間線",
+      "url": "https://www.jabank-shizuoka.gr.jp/pdf/jamp17.pdf",
+      "evidence": "JA Shizuoka describes the unfinished railway project and former tunnel now reused for wine storage."
+    },
+    {
+      "line": "南方貨物線",
+      "url": "https://www.railforum.jp/ftrain/public/dl/opencontents/haisenato/aichi.html",
+      "evidence": "Railway Forum historical-line bibliography identifies this as an uncompleted line."
+    },
+    {
+      "line": "油須原線",
+      "url": "https://www.akamura.net/government/truck.html",
+      "evidence": "Akamura states the original project was never used, while its later tourist trolley opened in 2003. Original abandoned project sections without later-use evidence are excluded when source tags say never opened."
+    }
+  ]
+}

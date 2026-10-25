@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "reviewed_date": "2026-10-25",
+  "osm_reviews": [
+    {
+      "id": "osm-history-w990215687",
+      "osm_id": 990215687,
+      "name": "名羽線跡",
+      "decision": "retain_as_former_industrial_railway",
+      "historical_use": "industrial",
+      "former_kind": "industrial",
+      "start_year": 1962,
+      "end_year": 1970,
+      "source_urls": [
+        "https://www.suzukishoten-museum.com/photo_archive/25-4.php",
+        "https://haboro.tv/wp/wp-content/uploads/2024/02/tankou_map2019.pdf"
+      ],
+      "evidence": [
+        "Suzuki Shoten Memorial Museum's Akebono archive states that the Meiu railway's Akebono–Sankebetsu section opened in 1962, allowing direct coal transport from the Haboro and Kamihaboro pits to Chikubetsu.",
+        "Haboro Tourism Association's 2019 coal-mine guide records completion of the 3.9 km Akebono–Sankebetsu section in December 1962 and the Haboro mine/railway closure in 1970. Its timeline distinguishes this working section from Meiu construction being frozen in 1981."
+      ],
+      "geometry_assessment": "The OSM feature runs southeast from immediately south of former Akebono station to the Sankebetsu/Haboro mine area. It is the coal-working corridor, rather than the remote never-opened Shumarinai continuation.",
+      "limits": [
+        "This evidence confirms industrial operation of the corridor, not public passenger service.",
+        "The exact historical end of the working track was not independently surveyed. Preserve OSM remnant geometry with its source-quality caveat; do not claim survey precision or add missing connections.",
+        "No exact opening or closing day is assigned."
+      ]
+    },
+    {
+      "name_match": "戸井線",
+      "decision": "exclude_from_previously_operated_network",
+      "source_url": "https://www.city.hakodate.hokkaido.jp/citizensvoice/docs/2024100700026/",
+      "evidence": "Hakodate city's response describes Toi railway construction being stopped, with former construction land later reused as a walking route. It was not a former operating railway."
+    }
+  ],
+  "hokkaido_supplement_clarification": {
+    "source_path": "名羽線(築別側)",
+    "decision": "Full mixed KML path conservatively excluded; frozen Hokkaido supplement unchanged.",
+    "reason": "The KML path includes the industrially operated Akebono–Sankebetsu beginning AND a long never-opened continuation. The exclusion must not be described as proving the entire path never carried trains. OSM w990215687 supplies the retained coal-working remnant."
+  },
+  "other_naeboworks_regions": {
+    "license": "CC-BY-4.0",
+    "license_evidence": "https://naeboworks.com/haisen/about.htm",
+    "files": ["_touhoku.kml", "_kantou.kml", "_shinetsu.kml", "_toukai.kml", "_hokuriku.kml", "_kansai.kml", "_chugoku.kml", "_kyushu.kml"],
+    "status": "Downloaded and separately filtered into naeboworks_regions/supplement.geojson.gz.",
+    "source_paths_excluded": ["大間線", "呼子線", "油須原線"],
+    "mixed_path_cut": "東武熊谷線 cut at the source's former 妻沼 station, preserving the source polyline up to that position.",
+    "mixed_path_primary_evidence": "https://www.kumagaya-bunkazai.jp/museum/jousetu/t_kumagaya_line/haisi.htm"
+  }
+}
