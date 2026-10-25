@@ -1,0 +1,695 @@
+{
+  "schema": 1,
+  "features": [
+    {
+      "id": "w31895857",
+      "mode": "ropeway",
+      "name": "アルペンクワッドリフト",
+      "name_en": "Alpen Quad Lift",
+      "operator": "白馬観光開発",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.814567,
+            36.6979233
+          ],
+          [
+            137.8138325,
+            36.697957
+          ],
+          [
+            137.8133398,
+            36.6979795
+          ],
+          [
+            137.8127654,
+            36.6980059
+          ],
+          [
+            137.8121401,
+            36.6980345
+          ],
+          [
+            137.8115935,
+            36.6980596
+          ],
+          [
+            137.8113914,
+            36.6980688
+          ],
+          [
+            137.8109187,
+            36.6980905
+          ],
+          [
+            137.8105693,
+            36.6981065
+          ],
+          [
+            137.8100464,
+            36.6981305
+          ],
+          [
+            137.8094365,
+            36.6981584
+          ],
+          [
+            137.8088178,
+            36.6981868
+          ],
+          [
+            137.8086406,
+            36.6981949
+          ],
+          [
+            137.8078081,
+            36.698233
+          ],
+          [
+            137.807437,
+            36.69825
+          ],
+          [
+            137.8071663,
+            36.6982624
+          ],
+          [
+            137.806399,
+            36.6982976
+          ]
+        ]
+      },
+      "tags": {
+        "aerialway": "chair_lift",
+        "aerialway:capacity": "750",
+        "aerialway:duration": "7",
+        "aerialway:occupancy": "4",
+        "name": "アルペンクワッドリフト",
+        "name:en": "Alpen Quad"
+      },
+      "source": "OpenStreetMap; operator sightseeing schedule",
+      "sources": [
+        "https://www.openstreetmap.org/way/31895857",
+        "https://www.happo-one.jp/trekking/alpenline/"
+      ],
+      "geometry_quality": "mapped; operator-confirmed public sightseeing lift",
+      "reason": "A scheduled public summer leg of the Happo Alpen Line, named and timetabled by the operator; not limited to ski use."
+    },
+    {
+      "id": "w697290292",
+      "mode": "ropeway",
+      "name": "グラートクワッドリフト",
+      "name_en": "Grat Quad Lift",
+      "operator": "白馬観光開発",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.8053701,
+            36.6974059
+          ],
+          [
+            137.8048596,
+            36.6973694
+          ],
+          [
+            137.8044356,
+            36.6973391
+          ],
+          [
+            137.8040116,
+            36.6973087
+          ],
+          [
+            137.8035868,
+            36.6972783
+          ],
+          [
+            137.8032831,
+            36.6972566
+          ],
+          [
+            137.8028633,
+            36.6972266
+          ],
+          [
+            137.8024208,
+            36.6971949
+          ],
+          [
+            137.8019804,
+            36.6971634
+          ],
+          [
+            137.8014257,
+            36.6971238
+          ],
+          [
+            137.8009714,
+            36.6970913
+          ],
+          [
+            137.8004525,
+            36.6970542
+          ],
+          [
+            137.8002391,
+            36.6970389
+          ],
+          [
+            137.799902,
+            36.6970148
+          ],
+          [
+            137.7992746,
+            36.6969699
+          ]
+        ]
+      },
+      "tags": {
+        "aerialway": "chair_lift",
+        "aerialway:capacity": "1200",
+        "aerialway:duration": "5",
+        "aerialway:occupancy": "4",
+        "name": "グラートクワッドリフト",
+        "name:en": "Grat Quad"
+      },
+      "source": "OpenStreetMap; operator sightseeing schedule",
+      "sources": [
+        "https://www.openstreetmap.org/way/697290292",
+        "https://www.happo-one.jp/trekking/alpenline/"
+      ],
+      "geometry_quality": "mapped; operator-confirmed public sightseeing lift",
+      "reason": "A scheduled public summer leg of the Happo Alpen Line, named and timetabled by the operator; not limited to ski use."
+    },
+    {
+      "id": "w61414272",
+      "mode": "ropeway",
+      "name": "天神峠ペアリフト",
+      "name_en": "Tenjin-tōge Pair Lift",
+      "operator": "谷川岳ヨッホ",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            138.949105,
+            36.8181105
+          ],
+          [
+            138.9488378,
+            36.8178936
+          ],
+          [
+            138.9485959,
+            36.8176972
+          ],
+          [
+            138.9483001,
+            36.817457
+          ],
+          [
+            138.948115,
+            36.8173067
+          ],
+          [
+            138.9479591,
+            36.8171801
+          ],
+          [
+            138.947891,
+            36.8171248
+          ],
+          [
+            138.9478356,
+            36.8170798
+          ],
+          [
+            138.9476161,
+            36.8169016
+          ],
+          [
+            138.9473461,
+            36.8166824
+          ],
+          [
+            138.9470906,
+            36.816475
+          ],
+          [
+            138.9470059,
+            36.8164062
+          ],
+          [
+            138.9468378,
+            36.8162697
+          ],
+          [
+            138.9465921,
+            36.8160702
+          ],
+          [
+            138.9463752,
+            36.8158941
+          ],
+          [
+            138.9460795,
+            36.815654
+          ]
+        ]
+      },
+      "tags": {
+        "aerialway": "chair_lift",
+        "aerialway:occupancy": "2",
+        "name": "天神峠ペアリフト",
+        "name:en": "Tenjintoge Pair Lift"
+      },
+      "source": "OpenStreetMap; operator sightseeing schedule",
+      "sources": [
+        "https://www.openstreetmap.org/way/61414272",
+        "https://tanigawadake-joch.com/",
+        "https://tanigawadake-joch.com/faq/"
+      ],
+      "geometry_quality": "mapped; operator-confirmed public sightseeing lift",
+      "reason": "Operator explicitly publishes spring/autumn public sightseeing operation and a ropeway/lift through ticket."
+    },
+    {
+      "id": "w452284901",
+      "mode": "ropeway",
+      "name": "ホーライリフト",
+      "name_en": "Horai Lift",
+      "operator": "びわ湖バレイ",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.8900134,
+            35.2114225
+          ],
+          [
+            135.8893288,
+            35.2110603
+          ],
+          [
+            135.8886397,
+            35.2106957
+          ],
+          [
+            135.8881662,
+            35.2104451
+          ],
+          [
+            135.8875827,
+            35.2101363
+          ],
+          [
+            135.8871138,
+            35.2098883
+          ],
+          [
+            135.8864053,
+            35.2095134
+          ],
+          [
+            135.886261,
+            35.209437
+          ]
+        ]
+      },
+      "tags": {
+        "aerialway": "chair_lift",
+        "aerialway:occupancy": "4",
+        "name": "ホーライクワッドリフト"
+      },
+      "source": "OpenStreetMap; operator sightseeing schedule",
+      "sources": [
+        "https://www.openstreetmap.org/way/452284901",
+        "https://www.biwako-valley.com/g_season/tourist_lift",
+        "https://www.biwako-valley.com/tips/biwako_terrace_en/biwako.html"
+      ],
+      "geometry_quality": "mapped; operator-confirmed public sightseeing lift",
+      "reason": "Operator explicitly lists public tourist-lift operation April-November. Raw OSM winter name is ホーライクワッドリフト; English source uses Horai Lift."
+    },
+    {
+      "id": "w452284902",
+      "mode": "ropeway",
+      "name": "打見リフト",
+      "name_en": "Uchimi Lift",
+      "operator": "びわ湖バレイ",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.8900617,
+            35.212173
+          ],
+          [
+            135.8903802,
+            35.2122857
+          ],
+          [
+            135.8908911,
+            35.2124665
+          ],
+          [
+            135.8912999,
+            35.2126112
+          ],
+          [
+            135.8916852,
+            35.2127475
+          ],
+          [
+            135.892224,
+            35.2129381
+          ],
+          [
+            135.8925545,
+            35.2130551
+          ],
+          [
+            135.8929398,
+            35.2131914
+          ],
+          [
+            135.8935298,
+            35.2134002
+          ]
+        ]
+      },
+      "tags": {
+        "aerialway": "chair_lift",
+        "aerialway:occupancy": "2",
+        "name": "打見ペアリフト"
+      },
+      "source": "OpenStreetMap; operator sightseeing schedule",
+      "sources": [
+        "https://www.openstreetmap.org/way/452284902",
+        "https://www.biwako-valley.com/g_season/tourist_lift",
+        "https://www.biwako-valley.com/tips/biwako_terrace_en/biwako.html"
+      ],
+      "geometry_quality": "mapped; operator-confirmed public sightseeing lift",
+      "reason": "Operator explicitly lists public tourist-lift operation April-November. Raw OSM winter name is 打見ペアリフト; English source uses Uchimi Lift."
+    },
+    {
+      "id": "w452317204",
+      "mode": "ropeway",
+      "name": "びわこビューリフト",
+      "name_en": "Biwako View Lift",
+      "operator": "びわこ箱館山",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.987865,
+            35.4384274
+          ],
+          [
+            135.9873875,
+            35.4385432
+          ],
+          [
+            135.9870828,
+            35.438617
+          ],
+          [
+            135.9863626,
+            35.4387916
+          ],
+          [
+            135.9859978,
+            35.43888
+          ],
+          [
+            135.9856423,
+            35.4389662
+          ]
+        ]
+      },
+      "tags": {
+        "aerialway": "chair_lift",
+        "aerialway:occupancy": "2",
+        "name": "びわこビューリフト"
+      },
+      "source": "OpenStreetMap; operator sightseeing schedule",
+      "sources": [
+        "https://www.openstreetmap.org/way/452317204",
+        "https://www.hakodateyama.com/green/price/"
+      ],
+      "geometry_quality": "mapped; operator-confirmed public sightseeing lift",
+      "reason": "Operator explicitly includes this lift in green-season admission and publishes its public operating hours."
+    }
+  ],
+  "stations": [
+    {
+      "id": "n357210481",
+      "osm_way_id": 31895857,
+      "name": "兎平",
+      "name_en": "Usagidaira",
+      "mode": "ropeway",
+      "operator": "白馬観光開発",
+      "xy": [
+        137.814567,
+        36.6979233
+      ],
+      "tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/357210481",
+        "https://www.happo-one.jp/trekking/alpenline/"
+      ],
+      "name_kind": "operator terminal/place name",
+      "name_source": "Operator Happo Alpen Line endpoint list and specific mapped lift topology"
+    },
+    {
+      "id": "n357210485",
+      "osm_way_id": 31895857,
+      "name": "黒菱平",
+      "name_en": "Kurobishidaira",
+      "mode": "ropeway",
+      "operator": "白馬観光開発",
+      "xy": [
+        137.806399,
+        36.6982976
+      ],
+      "tags": {},
+      "sources": [
+        "https://www.openstreetmap.org/node/357210485",
+        "https://www.happo-one.jp/trekking/alpenline/"
+      ],
+      "name_kind": "operator terminal/place name",
+      "name_source": "Operator Happo Alpen Line endpoint list and specific mapped lift topology"
+    },
+    {
+      "id": "n6549032698",
+      "osm_way_id": 697290292,
+      "name": "黒菱平",
+      "name_en": "Kurobishidaira",
+      "mode": "ropeway",
+      "operator": "白馬観光開発",
+      "xy": [
+        137.8053701,
+        36.6974059
+      ],
+      "tags": {},
+      "sources": [
+        "https://www.openstreetmap.org/node/6549032698",
+        "https://www.happo-one.jp/trekking/alpenline/"
+      ],
+      "name_kind": "operator terminal/place name",
+      "name_source": "Operator Happo Alpen Line endpoint list and specific mapped lift topology"
+    },
+    {
+      "id": "n6549032699",
+      "osm_way_id": 697290292,
+      "name": "八方池山荘（第1ケルン）",
+      "name_en": "Happō-ike Sansō (First Cairn)",
+      "mode": "ropeway",
+      "operator": "白馬観光開発",
+      "xy": [
+        137.7992746,
+        36.6969699
+      ],
+      "tags": {},
+      "sources": [
+        "https://www.openstreetmap.org/node/6549032699",
+        "https://www.happo-one.jp/trekking/alpenline/"
+      ],
+      "name_kind": "operator terminal/place name",
+      "name_source": "Operator Happo Alpen Line endpoint list and specific mapped lift topology"
+    },
+    {
+      "id": "n766785417",
+      "osm_way_id": 61414272,
+      "name": "天神平",
+      "name_en": "",
+      "mode": "ropeway",
+      "operator": "谷川岳ヨッホ",
+      "xy": [
+        138.949105,
+        36.8181105
+      ],
+      "tags": {
+        "aerialway": "station",
+        "name": "天神平",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/766785417",
+        "https://tanigawadake-joch.com/",
+        "https://tanigawadake-joch.com/faq/"
+      ],
+      "name_kind": "osm_name"
+    },
+    {
+      "id": "n766785418",
+      "osm_way_id": 61414272,
+      "name": "天神峠",
+      "name_en": "",
+      "mode": "ropeway",
+      "operator": "谷川岳ヨッホ",
+      "xy": [
+        138.9460795,
+        36.815654
+      ],
+      "tags": {
+        "aerialway": "station",
+        "name": "天神峠",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/766785418",
+        "https://tanigawadake-joch.com/",
+        "https://tanigawadake-joch.com/faq/"
+      ],
+      "name_kind": "osm_name"
+    },
+    {
+      "id": "n4491022838",
+      "osm_way_id": 452284901,
+      "name": "",
+      "name_en": "",
+      "mode": "ropeway",
+      "operator": "びわ湖バレイ",
+      "xy": [
+        135.8900134,
+        35.2114225
+      ],
+      "tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/4491022838",
+        "https://www.biwako-valley.com/g_season/tourist_lift",
+        "https://www.biwako-valley.com/tips/biwako_terrace_en/biwako.html"
+      ],
+      "name_kind": "unnamed mapped terminal"
+    },
+    {
+      "id": "n4491022837",
+      "osm_way_id": 452284901,
+      "name": "",
+      "name_en": "",
+      "mode": "ropeway",
+      "operator": "びわ湖バレイ",
+      "xy": [
+        135.886261,
+        35.209437
+      ],
+      "tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/4491022837",
+        "https://www.biwako-valley.com/g_season/tourist_lift",
+        "https://www.biwako-valley.com/tips/biwako_terrace_en/biwako.html"
+      ],
+      "name_kind": "unnamed mapped terminal"
+    },
+    {
+      "id": "n4491022840",
+      "osm_way_id": 452284902,
+      "name": "",
+      "name_en": "",
+      "mode": "ropeway",
+      "operator": "びわ湖バレイ",
+      "xy": [
+        135.8900617,
+        35.212173
+      ],
+      "tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/4491022840",
+        "https://www.biwako-valley.com/g_season/tourist_lift",
+        "https://www.biwako-valley.com/tips/biwako_terrace_en/biwako.html"
+      ],
+      "name_kind": "unnamed mapped terminal"
+    },
+    {
+      "id": "n4491022839",
+      "osm_way_id": 452284902,
+      "name": "",
+      "name_en": "",
+      "mode": "ropeway",
+      "operator": "びわ湖バレイ",
+      "xy": [
+        135.8935298,
+        35.2134002
+      ],
+      "tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/4491022839",
+        "https://www.biwako-valley.com/g_season/tourist_lift",
+        "https://www.biwako-valley.com/tips/biwako_terrace_en/biwako.html"
+      ],
+      "name_kind": "unnamed mapped terminal"
+    },
+    {
+      "id": "n4491336937",
+      "osm_way_id": 452317204,
+      "name": "",
+      "name_en": "",
+      "mode": "ropeway",
+      "operator": "びわこ箱館山",
+      "xy": [
+        135.987865,
+        35.4384274
+      ],
+      "tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/4491336937",
+        "https://www.hakodateyama.com/green/price/"
+      ],
+      "name_kind": "unnamed mapped terminal"
+    },
+    {
+      "id": "n4491336936",
+      "osm_way_id": 452317204,
+      "name": "",
+      "name_en": "",
+      "mode": "ropeway",
+      "operator": "びわこ箱館山",
+      "xy": [
+        135.9856423,
+        35.4389662
+      ],
+      "tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/4491336936",
+        "https://www.hakodateyama.com/green/price/"
+      ],
+      "name_kind": "unnamed mapped terminal"
+    }
+  ],
+  "notes": "These six currently omitted chairlifts have explicit operator evidence of scheduled non-ski public sightseeing operation. Restore their endpoint objects rather than removing them with unselected ski-lift stops. Unknown terminal names remain empty rather than invented."
+}

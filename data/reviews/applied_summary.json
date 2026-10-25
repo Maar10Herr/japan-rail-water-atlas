@@ -1,0 +1,14 @@
+{
+  "removed_stations": 162,
+  "removed_ways": 19,
+  "added_ways": 8,
+  "updated_ways": 3,
+  "renamed_stations": 99,
+  "added_stations": 15,
+  "retained_public_lift_stations": 3,
+  "updated_stations": 3,
+  "linimo_operator_identities": 7,
+  "romanizations_applied": 370,
+  "source_geometry_sections": 96088,
+  "raw_stop_objects": 11141
+}

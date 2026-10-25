@@ -1,0 +1,2179 @@
+{
+  "schema": 1,
+  "scope": "Current public passenger boarding places and point-to-point transport; no private training, freight terminals, operational signal posts or amusement-only loops.",
+  "remove_stations": [
+    {
+      "id": "n264204213",
+      "name": "仙人台信号場",
+      "xy": [
+        139.068815,
+        35.23825
+      ],
+      "reason": "Operational signal/loop location with no regular public passenger boarding. Preserve through railway geometry.",
+      "sources": [
+        "https://www.openstreetmap.org/node/264204213",
+        "https://www.hakonenavi.jp/hakone-tozan/"
+      ],
+      "osm_tags": {
+        "ele": "398",
+        "name": "仙人台信号場",
+        "name:en": "Sennindai",
+        "name:ja": "仙人台信号場",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "train": "yes"
+      }
+    },
+    {
+      "id": "n264427250",
+      "name": "旭浜",
+      "xy": [
+        140.416288,
+        42.549351
+      ],
+      "reason": "Closed former station survives as an active-looking stop_position object; lifecycle tag says abandoned/disused.",
+      "sources": [
+        "https://www.openstreetmap.org/node/264427250"
+      ],
+      "osm_tags": {
+        "KSJ2:LIN": "室蘭本線",
+        "KSJ2:STN": "旭浜",
+        "abandoned:railway": "station",
+        "name": "旭浜",
+        "name:en": "Asahihama",
+        "name:ja": "旭浜",
+        "name:ja-Hira": "あさひはま",
+        "name:ko": "아사히하마",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "public_transport": "station",
+        "railway": "stop",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "wikidata": "Q11087107",
+        "wikipedia": "ja:旭浜駅"
+      }
+    },
+    {
+      "id": "n264429202",
+      "name": "仁山信号場",
+      "xy": [
+        140.635262,
+        41.930004
+      ],
+      "reason": "Operational signal/loop location with no regular public passenger boarding. Preserve through railway geometry.",
+      "sources": [
+        "https://www.openstreetmap.org/node/264429202",
+        "https://www.jrhokkaido.co.jp/CM/Info/news_tc/pdf/timetable_change_202603_tc.pdf"
+      ],
+      "osm_tags": {
+        "name": "仁山信号場",
+        "name:en": "Niyama Signalling Station",
+        "name:ja": "仁山信号場",
+        "name:ko": "니야마",
+        "railway": "halt",
+        "source": "KSJ2",
+        "wikidata": "Q766391",
+        "wikipedia": "ja:仁山駅"
+      }
+    },
+    {
+      "id": "n1250743978",
+      "name": "福岡貨物ターミナル",
+      "xy": [
+        130.420272,
+        33.629777
+      ],
+      "reason": "Freight-only terminal. Freight rail operating locations are not public passenger boarding stations.",
+      "sources": [
+        "https://www.openstreetmap.org/node/1250743978",
+        "https://www.jrfreight.co.jp/service/area"
+      ],
+      "osm_tags": {
+        "name": "福岡貨物ターミナル",
+        "name:en": "Fukuoka Cargo Terminal",
+        "name:ja": "福岡貨物ターミナル",
+        "name:ja-Hira": "ふくおかかもつたーみなる",
+        "name:ko": "후쿠오카화물터미널",
+        "public_transport": "station",
+        "railway": "station",
+        "wikidata": "Q11592946",
+        "wikipedia": "ja:福岡貨物ターミナル駅"
+      }
+    },
+    {
+      "id": "n2754278058",
+      "name": "上大平台信号場",
+      "xy": [
+        139.075501,
+        35.235114
+      ],
+      "reason": "Operational signal/loop location with no regular public passenger boarding. Preserve through railway geometry.",
+      "sources": [
+        "https://www.openstreetmap.org/node/2754278058",
+        "https://www.hakonenavi.jp/hakone-tozan/"
+      ],
+      "osm_tags": {
+        "access": "no",
+        "ele": "346",
+        "name": "上大平台信号場",
+        "name:en": "Kami-Ohiradai",
+        "name:ja": "上大平台信号場",
+        "railway": "halt",
+        "wikidata": "Q11358735",
+        "wikipedia": "ja:上大平台信号場"
+      }
+    },
+    {
+      "id": "n2754278066",
+      "name": "出山信号場",
+      "xy": [
+        139.087385,
+        35.232408
+      ],
+      "reason": "Operational signal/loop location with no regular public passenger boarding. Preserve through railway geometry.",
+      "sources": [
+        "https://www.openstreetmap.org/node/2754278066",
+        "https://www.hakonenavi.jp/hakone-tozan/"
+      ],
+      "osm_tags": {
+        "access": "no",
+        "ele": "222",
+        "name": "出山信号場",
+        "name:en": "Deyama",
+        "name:ja": "出山信号場",
+        "railway": "halt",
+        "wikidata": "Q11395608",
+        "wikipedia": "ja:出山信号場"
+      }
+    },
+    {
+      "id": "n3626687146",
+      "name": "吹田貨物ターミナル駅",
+      "xy": [
+        135.531217,
+        34.770437
+      ],
+      "reason": "Freight-only terminal. Freight rail operating locations are not public passenger boarding stations.",
+      "sources": [
+        "https://www.openstreetmap.org/node/3626687146",
+        "https://www.jrfreight.co.jp/service/area"
+      ],
+      "osm_tags": {
+        "name": "吹田貨物ターミナル駅",
+        "operator": "日本貨物鉄道",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "train": "yes",
+        "wikidata": "Q106225380",
+        "wikipedia": "ja:吹田貨物ターミナル駅"
+      }
+    },
+    {
+      "id": "n5123297084",
+      "name": "百済貨物ターミナル",
+      "xy": [
+        135.542454,
+        34.635638
+      ],
+      "reason": "Freight-only terminal. Freight rail operating locations are not public passenger boarding stations.",
+      "sources": [
+        "https://www.openstreetmap.org/node/5123297084",
+        "https://www.jrfreight.co.jp/service/area"
+      ],
+      "osm_tags": {
+        "name": "百済貨物ターミナル",
+        "operator": "日本貨物鉄道",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "train": "yes",
+        "wikidata": "Q10855493",
+        "wikipedia": "ja:百済貨物ターミナル駅"
+      }
+    },
+    {
+      "id": "n5123297361",
+      "name": "百済貨物ターミナル",
+      "xy": [
+        135.541688,
+        34.637295
+      ],
+      "reason": "Freight-only terminal. Freight rail operating locations are not public passenger boarding stations.",
+      "sources": [
+        "https://www.openstreetmap.org/node/5123297361",
+        "https://www.jrfreight.co.jp/service/area"
+      ],
+      "osm_tags": {
+        "name": "百済貨物ターミナル",
+        "operator": "日本貨物鉄道",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "train": "yes",
+        "wikidata": "Q10855493",
+        "wikipedia": "ja:百済貨物ターミナル駅"
+      }
+    },
+    {
+      "id": "n5500219547",
+      "name": "鬼怒立岩信号場",
+      "xy": [
+        139.712885,
+        36.817105
+      ],
+      "reason": "Operational signal/loop location with no regular public passenger boarding. Preserve through railway geometry.",
+      "sources": [
+        "https://www.openstreetmap.org/node/5500219547"
+      ],
+      "osm_tags": {
+        "name": "鬼怒立岩信号場",
+        "railway": "stop",
+        "wikidata": "Q11673478",
+        "wikipedia": "ja:鬼怒立岩信号場"
+      }
+    },
+    {
+      "id": "n5705224137",
+      "name": "神戸貨物ターミナル駅",
+      "xy": [
+        135.135957,
+        34.652739
+      ],
+      "reason": "Freight-only terminal. Freight rail operating locations are not public passenger boarding stations.",
+      "sources": [
+        "https://www.openstreetmap.org/node/5705224137",
+        "https://www.jrfreight.co.jp/service/area"
+      ],
+      "osm_tags": {
+        "name": "神戸貨物ターミナル駅",
+        "operator": "日本貨物鉄道",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "train": "yes",
+        "wikidata": "Q3518424",
+        "wikipedia": "ja:神戸貨物ターミナル駅"
+      }
+    },
+    {
+      "id": "n5966241206",
+      "name": "峰ヶ原信号場",
+      "xy": [
+        139.505135,
+        35.306351
+      ],
+      "reason": "Operational signal/loop location with no regular public passenger boarding. Preserve through railway geometry.",
+      "sources": [
+        "https://www.openstreetmap.org/node/5966241206"
+      ],
+      "osm_tags": {
+        "junction": "yes",
+        "name": "峰ヶ原信号場",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "wikidata": "Q5366211",
+        "wikipedia": "ja:峰ヶ原信号場"
+      }
+    },
+    {
+      "id": "n6321208662",
+      "name": "吹田貨物ターミナル駅",
+      "xy": [
+        135.539208,
+        34.776499
+      ],
+      "reason": "Freight-only terminal. Freight rail operating locations are not public passenger boarding stations.",
+      "sources": [
+        "https://www.openstreetmap.org/node/6321208662",
+        "https://www.jrfreight.co.jp/service/area"
+      ],
+      "osm_tags": {
+        "name": "吹田貨物ターミナル駅",
+        "operator": "日本貨物鉄道",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "train": "yes",
+        "wikidata": "Q106225380",
+        "wikipedia": "ja:吹田貨物ターミナル駅"
+      }
+    },
+    {
+      "id": "n6549784706",
+      "name": "郡山貨物ターミナル",
+      "xy": [
+        140.376258,
+        37.369541
+      ],
+      "reason": "Freight-only terminal. Freight rail operating locations are not public passenger boarding stations.",
+      "sources": [
+        "https://www.openstreetmap.org/node/6549784706",
+        "https://www.jrfreight.co.jp/service/area"
+      ],
+      "osm_tags": {
+        "name": "郡山貨物ターミナル",
+        "name:ko": "고리야마화물터미널",
+        "operator": "日本貨物鉄道株式会社",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q5357915",
+        "wikipedia": "ja:郡山貨物ターミナル駅"
+      }
+    },
+    {
+      "id": "n7028747955",
+      "name": "八戸貨物",
+      "xy": [
+        141.444485,
+        40.519723
+      ],
+      "reason": "Freight-only terminal. Freight rail operating locations are not public passenger boarding stations.",
+      "sources": [
+        "https://www.openstreetmap.org/node/7028747955",
+        "https://www.jrfreight.co.jp/service/area"
+      ],
+      "osm_tags": {
+        "name": "八戸貨物",
+        "operator": "JR貨物",
+        "railway": "halt"
+      }
+    },
+    {
+      "id": "n8462727199",
+      "name": "阿波海南信号場",
+      "xy": [
+        134.350856,
+        33.605929
+      ],
+      "reason": "Operational signal/loop location with no regular public passenger boarding. Preserve through railway geometry.",
+      "sources": [
+        "https://www.openstreetmap.org/node/8462727199"
+      ],
+      "osm_tags": {
+        "name": "阿波海南信号場",
+        "name:en": "Awakai Signal Station",
+        "railway": "stop"
+      }
+    },
+    {
+      "id": "n11768527665",
+      "name": "甲浦信号場",
+      "xy": [
+        134.288243,
+        33.547112
+      ],
+      "reason": "Operational signal/loop location with no regular public passenger boarding. Preserve through railway geometry.",
+      "sources": [
+        "https://www.openstreetmap.org/node/11768527665"
+      ],
+      "osm_tags": {
+        "name": "甲浦信号場",
+        "name:en": "Kannoura Signal Station",
+        "railway": "stop",
+        "train": "yes",
+        "wikidata": "Q8191686",
+        "wikipedia": "ja:甲浦信号場"
+      }
+    },
+    {
+      "id": "n12200712410",
+      "name": "岡山貨物ターミナル",
+      "xy": [
+        133.893876,
+        34.656276
+      ],
+      "reason": "Freight-only terminal. Freight rail operating locations are not public passenger boarding stations.",
+      "sources": [
+        "https://www.openstreetmap.org/node/12200712410",
+        "https://www.jrfreight.co.jp/service/area"
+      ],
+      "osm_tags": {
+        "KSJ2:LIN": "山陽線",
+        "KSJ2:STN": "岡山貨物ターミナル",
+        "name": "岡山貨物ターミナル",
+        "name:en": "Okayama Freight Terminal",
+        "name:ja": "岡山貨物ターミナル",
+        "name:ko": "니시오카야마역",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "日本貨物鉄道",
+        "operator:en": "Okayama Freight Terminal",
+        "operator:ja": "日本貨物鉄道",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "train": "yes"
+      }
+    },
+    {
+      "id": "n12200712416",
+      "name": "岡山貨物ターミナル",
+      "xy": [
+        133.900654,
+        34.657883
+      ],
+      "reason": "Freight-only terminal. Freight rail operating locations are not public passenger boarding stations.",
+      "sources": [
+        "https://www.openstreetmap.org/node/12200712416",
+        "https://www.jrfreight.co.jp/service/area"
+      ],
+      "osm_tags": {
+        "KSJ2:LIN": "山陽線",
+        "KSJ2:STN": "岡山貨物ターミナル",
+        "name": "岡山貨物ターミナル",
+        "name:en": "Okayama Freight Terminal",
+        "name:ja": "岡山貨物ターミナル",
+        "name:ko": "니시오카야마역",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "日本貨物鉄道",
+        "operator:en": "Okayama Freight Terminal",
+        "operator:ja": "日本貨物鉄道",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "train": "yes"
+      }
+    },
+    {
+      "id": "n12973629790",
+      "name": "神戸貨物ターミナル",
+      "xy": [
+        135.13347,
+        34.651024
+      ],
+      "reason": "Freight-only terminal. Freight rail operating locations are not public passenger boarding stations.",
+      "sources": [
+        "https://www.openstreetmap.org/node/12973629790",
+        "https://www.jrfreight.co.jp/service/area"
+      ],
+      "osm_tags": {
+        "name": "神戸貨物ターミナル",
+        "operator": "日本貨物鉄道",
+        "railway": "station",
+        "wikidata": "Q3518424",
+        "wikipedia": "ja:神戸貨物ターミナル駅"
+      }
+    },
+    {
+      "id": "n12973629791",
+      "name": "神戸貨物ターミナル駅",
+      "xy": [
+        135.133555,
+        34.650868
+      ],
+      "reason": "Freight-only terminal. Freight rail operating locations are not public passenger boarding stations.",
+      "sources": [
+        "https://www.openstreetmap.org/node/12973629791",
+        "https://www.jrfreight.co.jp/service/area"
+      ],
+      "osm_tags": {
+        "name": "神戸貨物ターミナル駅",
+        "operator": "日本貨物鉄道",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "train": "yes",
+        "wikidata": "Q3518424",
+        "wikipedia": "ja:神戸貨物ターミナル駅"
+      }
+    },
+    {
+      "id": "n12985575683",
+      "name": "大田",
+      "xy": [
+        139.713691,
+        35.557487
+      ],
+      "reason": "Private staff training facility, not a scheduled public passenger station.",
+      "sources": [
+        "https://www.openstreetmap.org/node/12985575683",
+        "https://www.jreast.co.jp/press/2019/tokyo/20190618_to02.pdf"
+      ],
+      "osm_tags": {
+        "access": "private",
+        "description": "蒲田トレーニングセンターに設置された訓練駅",
+        "name": "大田",
+        "name:ja": "大田",
+        "name:ja-Hira": "おおた",
+        "name:ko": "오타",
+        "name:zh": "大田",
+        "operator": "東日本旅客鉄道株式会社",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "KTC01",
+        "usage": "training"
+      }
+    },
+    {
+      "id": "n12985575684",
+      "name": "志茂田",
+      "xy": [
+        139.712004,
+        35.556579
+      ],
+      "reason": "Private staff training facility, not a scheduled public passenger station.",
+      "sources": [
+        "https://www.openstreetmap.org/node/12985575684",
+        "https://www.jreast.co.jp/press/2019/tokyo/20190618_to02.pdf"
+      ],
+      "osm_tags": {
+        "access": "private",
+        "description": "蒲田トレーニングセンターに設置された訓練駅",
+        "name": "志茂田",
+        "name:ja": "志茂田",
+        "name:ja-Hira": "しもだ",
+        "name:ko": "시모다",
+        "operator": "東日本旅客鉄道株式会社",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "KTC02",
+        "usage": "training"
+      }
+    },
+    {
+      "id": "n13362855144",
+      "name": "吹田貨物ターミナル",
+      "xy": [
+        135.534184,
+        34.772121
+      ],
+      "reason": "Freight-only terminal. Freight rail operating locations are not public passenger boarding stations.",
+      "sources": [
+        "https://www.openstreetmap.org/node/13362855144",
+        "https://www.jrfreight.co.jp/service/area"
+      ],
+      "osm_tags": {
+        "name": "吹田貨物ターミナル",
+        "name:en": "Suita Freight Terminal",
+        "name:ja": "吹田貨物ターミナル",
+        "name:ja-Hira": "すいたかもつたーみなる",
+        "name:ko": "스이타화물터미널",
+        "operator": "日本貨物鉄道",
+        "operator:ja": "日本貨物鉄道",
+        "railway": "station",
+        "wikidata": "Q106225380",
+        "wikipedia": "ja:吹田貨物ターミナル駅"
+      }
+    },
+    {
+      "id": "n13362857406",
+      "name": "大阪貨物ターミナル",
+      "xy": [
+        135.564548,
+        34.772628
+      ],
+      "reason": "Freight-only terminal. Freight rail operating locations are not public passenger boarding stations.",
+      "sources": [
+        "https://www.openstreetmap.org/node/13362857406",
+        "https://www.jrfreight.co.jp/service/area"
+      ],
+      "osm_tags": {
+        "name": "大阪貨物ターミナル",
+        "name:en": "Ōsaka Freight Terminal",
+        "name:ja": "大阪貨物ターミナル",
+        "name:ja-Hira": "おおさかかもつたーみなる",
+        "name:ko": "오사카화물터미널",
+        "operator": "日本貨物鉄道",
+        "operator:ja": "日本貨物鉄道",
+        "railway": "station",
+        "wikidata": "Q11261326",
+        "wikipedia": "ja:大阪貨物ターミナル駅"
+      }
+    },
+    {
+      "id": "n13469758867",
+      "name": "平野川信号場",
+      "xy": [
+        142.891077,
+        42.964612
+      ],
+      "reason": "Operational signal/loop location with no regular public passenger boarding. Preserve through railway geometry.",
+      "sources": [
+        "https://www.openstreetmap.org/node/13469758867"
+      ],
+      "osm_tags": {
+        "name": "平野川信号場",
+        "name:en": "Hiranogawa Signal Station",
+        "railway": "halt",
+        "wikidata": "Q8516052",
+        "wikipedia": "ja:平野川信号場"
+      }
+    },
+    {
+      "id": "n13469758868",
+      "name": "上芽室信号場",
+      "xy": [
+        142.985223,
+        42.922555
+      ],
+      "reason": "Operational signal/loop location with no regular public passenger boarding. Preserve through railway geometry.",
+      "sources": [
+        "https://www.openstreetmap.org/node/13469758868"
+      ],
+      "osm_tags": {
+        "name": "上芽室信号場",
+        "name:en": "Kami-memuro Signal Station",
+        "railway": "halt",
+        "wikidata": "Q8515562",
+        "wikipedia": "ja:上芽室信号場"
+      }
+    },
+    {
+      "id": "n9198462022",
+      "name": "岐阜県駅、仮称",
+      "xy": [
+        137.448705,
+        35.480492
+      ],
+      "reason": "Chuo Shinkansen Gifu Prefecture station is under construction, not open passenger service.",
+      "sources": [
+        "https://www.openstreetmap.org/node/9198462022",
+        "https://www.pref.gifu.lg.jp/page/16609.html",
+        "https://company.jr-central.co.jp/chuoshinkansen/efforts/gifu/_pdf/gifu-ken_station.pdf"
+      ],
+      "osm_tags": {}
+    },
+    {
+      "id": "w946491557",
+      "name": "オサワ信号場",
+      "xy": [
+        142.176014,
+        42.933641
+      ],
+      "reason": "Osawa signalling location building, not a passenger station.",
+      "sources": [
+        "https://www.openstreetmap.org/way/946491557"
+      ],
+      "osm_tags": {}
+    },
+    {
+      "id": "n14203211463",
+      "name": "モノレールのりば",
+      "xy": [
+        135.625512,
+        34.878462
+      ],
+      "reason": "Takatsuki Field Athletic mountain monorail attraction; not maglev and not point-to-point passenger transport.",
+      "sources": [
+        "https://www.openstreetmap.org/node/14203211463",
+        "https://ameblo.jp/takatuki569fa/entry-12827211734.html"
+      ],
+      "osm_tags": {}
+    },
+    {
+      "id": "n4861071991",
+      "name": "Unnamed station (n4861071991)",
+      "xy": [
+        137.047998,
+        35.042878
+      ],
+      "reason": "Boarding object on excluded amusement-only circuit.",
+      "sources": [
+        "https://www.openstreetmap.org/way/493864226",
+        "https://www.kariya-guide.com/sightseeing/000158.html"
+      ],
+      "osm_tags": {
+        "public_transport": "station",
+        "railway": "station"
+      }
+    },
+    {
+      "id": "n6057423304",
+      "name": "Unnamed station (n6057423304)",
+      "xy": [
+        134.401232,
+        34.730909
+      ],
+      "reason": "Boarding object on excluded amusement-only circuit.",
+      "sources": [
+        "https://www.openstreetmap.org/way/255035596",
+        "https://www.todagawa.jp/guide.html",
+        "https://www.hyogo-park.or.jp/akokaihin/contents/sisetsu/area_wakuwakuland.html",
+        "https://www.koriyamaculturepark.com/dreamland",
+        "https://www.park-tochigi.com/tochinoki/information/fee/info",
+        "https://www.city.anjo.aichi.jp/shisei/koho/202310/line/documents/2310event-kouza.pdf"
+      ],
+      "osm_tags": {
+        "railway": "station"
+      }
+    },
+    {
+      "id": "n10036683333",
+      "name": "Unnamed station (n10036683333)",
+      "xy": [
+        137.532551,
+        36.547536
+      ],
+      "reason": "Unnamed funicular terminals within restricted Mizutani erosion-control works site; no scheduled public passenger service. The unrelated Mitake English name came from faulty cross-Japan grouping.",
+      "sources": [
+        "https://www.hrr.mlit.go.jp/tateyama/jigyo/shisetsu/torokko.html",
+        "https://www.openstreetmap.org/way/1095940899"
+      ],
+      "osm_tags": {}
+    },
+    {
+      "id": "n10036683334",
+      "name": "Unnamed station (n10036683334)",
+      "xy": [
+        137.534787,
+        36.547632
+      ],
+      "reason": "Unnamed funicular terminals within restricted Mizutani erosion-control works site; no scheduled public passenger service. The unrelated Mitake English name came from faulty cross-Japan grouping.",
+      "sources": [
+        "https://www.hrr.mlit.go.jp/tateyama/jigyo/shisetsu/torokko.html",
+        "https://www.openstreetmap.org/way/1095940899"
+      ],
+      "osm_tags": {}
+    },
+    {
+      "id": "w1184731042",
+      "name": "Unnamed station (w1184731042)",
+      "xy": [
+        140.758417,
+        38.05486
+      ],
+      "reason": "Funaoka Castle Park Slope Car has documented long-term suspension; hide passenger boarding dots from active inventory and keep suspended alignment context.",
+      "sources": [
+        "https://www.skbk.or.jp/cms/information/%E3%82%B9%E3%83%AD%E3%83%BC%E3%83%97%E3%82%AB%E3%83%BC%E8%BB%8A%E4%B8%A1%E6%95%85%E9%9A%9C%E3%81%AB%E3%82%88%E3%82%8B%E9%81%8B%E4%BC%91%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.html",
+        "https://www.town.shibata.miyagi.jp/index.cfm/88%2C66478%2C202%2C417%2Chtml"
+      ],
+      "osm_tags": {}
+    },
+    {
+      "id": "w1184731043",
+      "name": "Unnamed station (w1184731043)",
+      "xy": [
+        140.756146,
+        38.053056
+      ],
+      "reason": "Funaoka Castle Park Slope Car has documented long-term suspension; hide passenger boarding dots from active inventory and keep suspended alignment context.",
+      "sources": [
+        "https://www.skbk.or.jp/cms/information/%E3%82%B9%E3%83%AD%E3%83%BC%E3%83%97%E3%82%AB%E3%83%BC%E8%BB%8A%E4%B8%A1%E6%95%85%E9%9A%9C%E3%81%AB%E3%82%88%E3%82%8B%E9%81%8B%E4%BC%91%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.html",
+        "https://www.town.shibata.miyagi.jp/index.cfm/88%2C66478%2C202%2C417%2Chtml"
+      ],
+      "osm_tags": {}
+    }
+  ],
+  "remove_ways": [
+    {
+      "id": "w177281300",
+      "name": "サイクルモノレール",
+      "reason": "Amusement-only circuit or pedal/go-kart ride, not scheduled point-to-point passenger transport.",
+      "sources": [
+        "https://www.openstreetmap.org/way/177281300",
+        "https://www.todagawa.jp/guide.html",
+        "https://www.hyogo-park.or.jp/akokaihin/contents/sisetsu/area_wakuwakuland.html",
+        "https://www.koriyamaculturepark.com/dreamland",
+        "https://www.park-tochigi.com/tochinoki/information/fee/info",
+        "https://www.city.anjo.aichi.jp/shisei/koho/202310/line/documents/2310event-kouza.pdf"
+      ],
+      "osm_tags": {
+        "bridge": "yes",
+        "layer": "1",
+        "name": "サイクルモノレール",
+        "railway": "monorail",
+        "source": "bing"
+      }
+    },
+    {
+      "id": "w255035596",
+      "name": "サイクルモノレール",
+      "reason": "Amusement-only circuit or pedal/go-kart ride, not scheduled point-to-point passenger transport.",
+      "sources": [
+        "https://www.openstreetmap.org/way/255035596",
+        "https://www.todagawa.jp/guide.html",
+        "https://www.hyogo-park.or.jp/akokaihin/contents/sisetsu/area_wakuwakuland.html",
+        "https://www.koriyamaculturepark.com/dreamland",
+        "https://www.park-tochigi.com/tochinoki/information/fee/info",
+        "https://www.city.anjo.aichi.jp/shisei/koho/202310/line/documents/2310event-kouza.pdf"
+      ],
+      "osm_tags": {
+        "layer": "1",
+        "name": "サイクルモノレール",
+        "railway": "monorail",
+        "source": "GSI/KIBAN 2500; NARO; bing"
+      }
+    },
+    {
+      "id": "w407987373",
+      "name": "サイクルモノレール",
+      "reason": "Amusement-only circuit or pedal/go-kart ride, not scheduled point-to-point passenger transport.",
+      "sources": [
+        "https://www.openstreetmap.org/way/407987373",
+        "https://www.todagawa.jp/guide.html",
+        "https://www.hyogo-park.or.jp/akokaihin/contents/sisetsu/area_wakuwakuland.html",
+        "https://www.koriyamaculturepark.com/dreamland",
+        "https://www.park-tochigi.com/tochinoki/information/fee/info",
+        "https://www.city.anjo.aichi.jp/shisei/koho/202310/line/documents/2310event-kouza.pdf"
+      ],
+      "osm_tags": {
+        "name": "サイクルモノレール",
+        "oneway": "yes",
+        "railway": "monorail"
+      }
+    },
+    {
+      "id": "w449843549",
+      "name": "スカイパンダ",
+      "reason": "Amusement-only circuit or pedal/go-kart ride, not scheduled point-to-point passenger transport.",
+      "sources": [
+        "https://www.openstreetmap.org/way/449843549",
+        "https://www.park-tochigi.com/igashira/wp/wp-content/uploads/2016/06/dayori2016sp1.pdf"
+      ],
+      "osm_tags": {
+        "layer": "1",
+        "name": "スカイパンダ",
+        "railway": "monorail"
+      }
+    },
+    {
+      "id": "w449843553",
+      "name": "サイクルモノレール",
+      "reason": "Amusement-only circuit or pedal/go-kart ride, not scheduled point-to-point passenger transport.",
+      "sources": [
+        "https://www.openstreetmap.org/way/449843553",
+        "https://www.todagawa.jp/guide.html",
+        "https://www.hyogo-park.or.jp/akokaihin/contents/sisetsu/area_wakuwakuland.html",
+        "https://www.koriyamaculturepark.com/dreamland",
+        "https://www.park-tochigi.com/tochinoki/information/fee/info",
+        "https://www.city.anjo.aichi.jp/shisei/koho/202310/line/documents/2310event-kouza.pdf"
+      ],
+      "osm_tags": {
+        "name": "サイクルモノレール",
+        "railway": "monorail"
+      }
+    },
+    {
+      "id": "w465655902",
+      "name": "ルンルンバルーン",
+      "reason": "Amusement-only circuit or pedal/go-kart ride, not scheduled point-to-point passenger transport.",
+      "sources": [
+        "https://www.openstreetmap.org/way/465655902",
+        "https://sp.suzukacircuit.jp/park/attraction/runrun-balloon/"
+      ],
+      "osm_tags": {
+        "name": "ルンルンバルーン",
+        "name:en": "Run Run One",
+        "name:es": "Run Run One",
+        "railway": "monorail"
+      }
+    },
+    {
+      "id": "w466005783",
+      "name": "ルンルンバルーン",
+      "reason": "Amusement-only circuit or pedal/go-kart ride, not scheduled point-to-point passenger transport.",
+      "sources": [
+        "https://www.openstreetmap.org/way/466005783",
+        "https://sp.suzukacircuit.jp/park/attraction/runrun-balloon/"
+      ],
+      "osm_tags": {
+        "layer": "-1",
+        "name": "ルンルンバルーン",
+        "name:en": "Run Run One",
+        "name:es": "Run Run One",
+        "railway": "monorail"
+      }
+    },
+    {
+      "id": "w466058479",
+      "name": "フライングシップ",
+      "reason": "Amusement-only circuit or pedal/go-kart ride, not scheduled point-to-point passenger transport.",
+      "sources": [
+        "https://www.openstreetmap.org/way/466058479",
+        "https://www.suzukacircuit.jp/park/attraction/"
+      ],
+      "osm_tags": {
+        "name": "フライングシップ",
+        "oneway": "yes",
+        "railway": "monorail"
+      }
+    },
+    {
+      "id": "w493864226",
+      "name": "ゴーカート",
+      "reason": "Amusement-only circuit or pedal/go-kart ride, not scheduled point-to-point passenger transport.",
+      "sources": [
+        "https://www.openstreetmap.org/way/493864226",
+        "https://www.kariya-guide.com/sightseeing/000158.html"
+      ],
+      "osm_tags": {
+        "name": "ゴーカート",
+        "railway": "monorail"
+      }
+    },
+    {
+      "id": "w575504143",
+      "name": "スカイサイクル",
+      "reason": "Amusement-only circuit or pedal/go-kart ride, not scheduled point-to-point passenger transport.",
+      "sources": [
+        "https://www.openstreetmap.org/way/575504143",
+        "https://www.city.arakawa.tokyo.jp/documents/3914/dantaimanual.pdf",
+        "https://www.nasuhai.co.jp/attraction/detail.php?n=108"
+      ],
+      "osm_tags": {
+        "layer": "2",
+        "name": "スカイサイクル",
+        "railway": "monorail",
+        "usage": "tourism"
+      }
+    },
+    {
+      "id": "w619357816",
+      "name": "スペースジェット",
+      "reason": "Amusement-only circuit or pedal/go-kart ride, not scheduled point-to-point passenger transport.",
+      "sources": [
+        "https://www.openstreetmap.org/way/619357816",
+        "https://www.nasuhai.co.jp/attraction/detail.php?n=108"
+      ],
+      "osm_tags": {
+        "bridge": "yes",
+        "layer": "1",
+        "name": "スペースジェット",
+        "railway": "monorail"
+      }
+    },
+    {
+      "id": "w619357817",
+      "name": "スカイサイクル",
+      "reason": "Amusement-only circuit or pedal/go-kart ride, not scheduled point-to-point passenger transport.",
+      "sources": [
+        "https://www.openstreetmap.org/way/619357817",
+        "https://www.city.arakawa.tokyo.jp/documents/3914/dantaimanual.pdf",
+        "https://www.nasuhai.co.jp/attraction/detail.php?n=108"
+      ],
+      "osm_tags": {
+        "bridge": "yes",
+        "layer": "1",
+        "name": "スカイサイクル",
+        "railway": "monorail"
+      }
+    },
+    {
+      "id": "w638627223",
+      "name": "サイクルモノレール",
+      "reason": "Amusement-only circuit or pedal/go-kart ride, not scheduled point-to-point passenger transport.",
+      "sources": [
+        "https://www.openstreetmap.org/way/638627223",
+        "https://www.todagawa.jp/guide.html",
+        "https://www.hyogo-park.or.jp/akokaihin/contents/sisetsu/area_wakuwakuland.html",
+        "https://www.koriyamaculturepark.com/dreamland",
+        "https://www.park-tochigi.com/tochinoki/information/fee/info",
+        "https://www.city.anjo.aichi.jp/shisei/koho/202310/line/documents/2310event-kouza.pdf"
+      ],
+      "osm_tags": {
+        "bridge": "yes",
+        "layer": "2",
+        "name": "サイクルモノレール",
+        "railway": "monorail"
+      }
+    },
+    {
+      "id": "w655931813",
+      "name": "チャレンジサイクル",
+      "reason": "Amusement-only circuit or pedal/go-kart ride, not scheduled point-to-point passenger transport.",
+      "sources": [
+        "https://www.openstreetmap.org/way/655931813"
+      ],
+      "osm_tags": {
+        "bridge": "yes",
+        "layer": "1",
+        "name": "チャレンジサイクル",
+        "railway": "monorail"
+      }
+    },
+    {
+      "id": "w687333948",
+      "name": "サイクルカー",
+      "reason": "Amusement-only circuit or pedal/go-kart ride, not scheduled point-to-point passenger transport.",
+      "sources": [
+        "https://www.openstreetmap.org/way/687333948",
+        "https://www.viewland.jp/%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%82%AB%E3%83%BC%E3%81%AB%E3%83%93%E3%83%A5%E3%83%BC%E3%81%8F%E3%82%93%E3%83%BB%E3%83%A9%E3%83%B3%E3%81%A1%E3%82%83%E3%82%93%E3%83%A9%E3%83%83%E3%83%94%E3%83%B3/"
+      ],
+      "osm_tags": {
+        "layer": "1",
+        "name": "サイクルカー",
+        "railway": "monorail"
+      }
+    },
+    {
+      "id": "w1560985773",
+      "name": "",
+      "reason": "Amusement-only circuit or pedal/go-kart ride, not scheduled point-to-point passenger transport.",
+      "sources": [
+        "https://www.openstreetmap.org/way/1560985773",
+        "https://ameblo.jp/takatuki569fa/entry-12827211734.html"
+      ],
+      "osm_tags": {
+        "note": "いわゆる山岳用のモノレール。2地点間の輸送を行わない飽くまでもアトラクションとしての立ち位置である。",
+        "railway": "monorail"
+      }
+    },
+    {
+      "id": "w1560985774",
+      "name": "",
+      "reason": "Amusement-only circuit or pedal/go-kart ride, not scheduled point-to-point passenger transport.",
+      "sources": [
+        "https://www.openstreetmap.org/way/1560985774",
+        "https://ameblo.jp/takatuki569fa/entry-12827211734.html"
+      ],
+      "osm_tags": {
+        "covered": "yes",
+        "note": "いわゆる山岳用のモノレール。2地点間の輸送を行わない飽くまでもアトラクションとしての立ち位置である。",
+        "railway": "monorail"
+      }
+    },
+    {
+      "id": "w1560985775",
+      "name": "",
+      "reason": "Amusement-only circuit or pedal/go-kart ride, not scheduled point-to-point passenger transport.",
+      "sources": [
+        "https://www.openstreetmap.org/way/1560985775",
+        "https://ameblo.jp/takatuki569fa/entry-12827211734.html"
+      ],
+      "osm_tags": {
+        "note": "いわゆる山岳用のモノレール。2地点間の輸送を行わない飽くまでもアトラクションとしての立ち位置である。",
+        "railway": "monorail"
+      }
+    },
+    {
+      "id": "w1095940899",
+      "name": "",
+      "reason": "Restricted Mizutani works-site funicular, not public scheduled transport. Adjacent railway is explicitly industrial Tateyama Sabo Works Service Train. Special educational tours do not establish a scheduled public funicular service.",
+      "sources": [
+        "https://www.hrr.mlit.go.jp/tateyama/jigyo/shisetsu/torokko.html",
+        "https://www.openstreetmap.org/way/1095940899"
+      ],
+      "osm_tags": {
+        "railway": "funicular"
+      }
+    }
+  ],
+  "add_stations": [
+    {
+      "id": "n3548915148",
+      "name": "土合",
+      "name_en": "Doai",
+      "mode": "jr",
+      "operator": "東日本旅客鉄道",
+      "xy": [
+        138.964686,
+        36.8304169
+      ],
+      "near_route_groups": [
+        805
+      ],
+      "sources": [
+        "https://www.jreast-timetable.jp/timetable/list1035.html",
+        "https://www.openstreetmap.org/node/3548915148"
+      ],
+      "reason": "Station entrance lies205m from selected track geometry; original180m proximity filter dropped it. Operator timetable confirms public service.",
+      "osm_tags": {
+        "KSJ2:LIN": "上越線",
+        "KSJ2:STN": "土合",
+        "name": "土合",
+        "name:en": "Doai",
+        "name:ja": "土合",
+        "name:ja_rm": "Doai",
+        "name:ko": "도아이",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "wikidata": "Q5286466",
+        "wikipedia": "ja:土合駅"
+      },
+      "lon": 138.964686,
+      "lat": 36.8304169
+    },
+    {
+      "id": "n6158531345",
+      "name": "天王寺駅前",
+      "name_en": "Tennoji-Ekimae",
+      "mode": "tram",
+      "operator": "阪堺電気軌道",
+      "xy": [
+        135.5128022,
+        34.6459095
+      ],
+      "near_route_groups": [
+        1839
+      ],
+      "sources": [
+        "https://www.hankai.co.jp/route/hn01",
+        "https://www.openstreetmap.org/node/6158531345"
+      ],
+      "reason": "OSM public_transport=station + tram=yes has no railway tag; original station filter dropped it despite exact selected tram alignment.",
+      "osm_tags": {
+        "name": "天王寺駅前",
+        "public_transport": "station",
+        "tram": "yes"
+      },
+      "lon": 135.5128022,
+      "lat": 34.6459095
+    },
+    {
+      "id": "n14118641835",
+      "name": "企救丘",
+      "name_en": "Kikugaoka",
+      "mode": "guideway",
+      "operator": "北九州高速鉄道",
+      "xy": [
+        130.8776442,
+        33.8196474
+      ],
+      "near_route_groups": [
+        540
+      ],
+      "sources": [
+        "https://www.kitakyushu-monorail.co.jp/route/kikugaoka.php",
+        "https://www.kitakyushu-monorail.co.jp/schedule/kikugaoka.php",
+        "https://www.openstreetmap.org/node/14118641835"
+      ],
+      "reason": "Passenger platform tracks mistakenly tagged service=siding were excluded; OSM route relations and operator station timetable establish public service. Add one station object, not the two platform duplicates.",
+      "osm_tags": {
+        "KSJ2:LIN": "小倉線",
+        "KSJ2:STN": "企救丘",
+        "monorail": "yes",
+        "name": "企救丘",
+        "name:en": "Kikugaoka",
+        "name:ja": "企救丘",
+        "name:ko": "기쿠가오카",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年 国土交通省",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "station": "monorail",
+        "wheelchair": "yes",
+        "wikidata": "Q6406401",
+        "wikipedia": "ja:企救丘駅"
+      },
+      "lon": 130.8776442,
+      "lat": 33.8196474
+    },
+    {
+      "id": "n1026028515",
+      "name": "山麓",
+      "name_en": "Sanroku",
+      "mode": "funicular",
+      "operator": "皿倉登山鉄道",
+      "xy": [
+        130.7964676,
+        33.8565267
+      ],
+      "near_route_groups": [
+        496
+      ],
+      "sources": [
+        "https://www.sarakurayama-cablecar.co.jp/about/",
+        "https://www.sarakurayama-cablecar.co.jp/fare/",
+        "https://www.openstreetmap.org/node/1026028515"
+      ],
+      "reason": "Funicular terminal is tagged aerialway=station in OSM; original orphan ropeway filter dropped it. Operator names both cablecar terminals.",
+      "osm_tags": {
+        "KSJ2:LIN": "帆柱ケーブル",
+        "KSJ2:RAS": "eb03_8899",
+        "KSJ2:STN": "山麓",
+        "KSJ2:segment": "eb02_18957",
+        "aerialway": "station",
+        "name": "山麓",
+        "name:ja": "山麓",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"
+      },
+      "lon": 130.7964676,
+      "lat": 33.8565267
+    }
+  ],
+  "add_ways": [
+    {
+      "id": "w24463153",
+      "name": "北九州高速鉄道小倉線",
+      "name_en": "Kitakyushu Monorail Kokura Line",
+      "mode": "guideway",
+      "operator": "北九州高速鉄道",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            130.8776583,
+            33.8196618
+          ],
+          [
+            130.8773282,
+            33.8198059
+          ],
+          [
+            130.8770791,
+            33.8199058
+          ],
+          [
+            130.8766205,
+            33.8201386
+          ],
+          [
+            130.8749037,
+            33.8209265
+          ],
+          [
+            130.8713532,
+            33.8225715
+          ],
+          [
+            130.8707697,
+            33.8228408
+          ]
+        ]
+      },
+      "sources": [
+        "https://www.kitakyushu-monorail.co.jp/schedule/kikugaoka.php",
+        "https://www.openstreetmap.org/relation/4568069"
+      ],
+      "reason": "Actual public passenger track to Kikugaoka terminal in operating route relation. service=siding tag does not justify cutting off the passenger platform. Do not add depot tails w1551301989/w1551301990.",
+      "osm_tags": {
+        "KSJ2:LIN": "小倉線",
+        "bridge": "viaduct",
+        "electrified": "rail",
+        "frequency": "0",
+        "layer": "1",
+        "name": "北九州高速鉄道小倉線",
+        "name:ja": "北九州高速鉄道小倉線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年 国土交通省",
+        "operator": "北九州高速鉄道",
+        "operator:ja": "北九州高速鉄道",
+        "railway": "monorail",
+        "railway:atc": "yes",
+        "service": "siding",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "voltage": "1500"
+      }
+    },
+    {
+      "id": "w687710747",
+      "name": "北九州高速鉄道小倉線",
+      "name_en": "Kitakyushu Monorail Kokura Line",
+      "mode": "guideway",
+      "operator": "北九州高速鉄道",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            130.863875,
+            33.8251579
+          ],
+          [
+            130.8637319,
+            33.8247879
+          ],
+          [
+            130.8636366,
+            33.8245607
+          ],
+          [
+            130.8635762,
+            33.8243791
+          ],
+          [
+            130.8635233,
+            33.8241749
+          ],
+          [
+            130.8634994,
+            33.824038
+          ],
+          [
+            130.8635311,
+            33.8238857
+          ],
+          [
+            130.8636045,
+            33.8237217
+          ],
+          [
+            130.8637199,
+            33.823568
+          ],
+          [
+            130.8638757,
+            33.823455
+          ],
+          [
+            130.8640359,
+            33.823378
+          ],
+          [
+            130.8642634,
+            33.8233345
+          ],
+          [
+            130.8644963,
+            33.8233054
+          ],
+          [
+            130.8648624,
+            33.8232849
+          ],
+          [
+            130.8653093,
+            33.8232887
+          ],
+          [
+            130.8657334,
+            33.8233091
+          ],
+          [
+            130.8668523,
+            33.8233997
+          ],
+          [
+            130.8676354,
+            33.8234614
+          ],
+          [
+            130.8682256,
+            33.8234527
+          ],
+          [
+            130.8686198,
+            33.8234276
+          ],
+          [
+            130.8689165,
+            33.8233845
+          ],
+          [
+            130.8692258,
+            33.8233254
+          ],
+          [
+            130.8696133,
+            33.8232358
+          ],
+          [
+            130.8699751,
+            33.823122
+          ],
+          [
+            130.8703802,
+            33.822965
+          ],
+          [
+            130.8708513,
+            33.8227608
+          ],
+          [
+            130.871336,
+            33.822537
+          ],
+          [
+            130.8748767,
+            33.8208992
+          ],
+          [
+            130.8765749,
+            33.8201205
+          ],
+          [
+            130.8770679,
+            33.8198904
+          ],
+          [
+            130.8772869,
+            33.8197858
+          ],
+          [
+            130.8776306,
+            33.8196336
+          ]
+        ]
+      },
+      "sources": [
+        "https://www.kitakyushu-monorail.co.jp/schedule/kikugaoka.php",
+        "https://www.openstreetmap.org/relation/4567944"
+      ],
+      "reason": "Actual public passenger track to Kikugaoka terminal in operating route relation. service=siding tag does not justify cutting off the passenger platform. Do not add depot tails w1551301989/w1551301990.",
+      "osm_tags": {
+        "bridge": "viaduct",
+        "electrified": "rail",
+        "frequency": "0",
+        "layer": "2",
+        "name": "北九州高速鉄道小倉線",
+        "name:ja": "北九州高速鉄道小倉線",
+        "operator": "北九州高速鉄道",
+        "operator:ja": "北九州高速鉄道",
+        "railway": "monorail",
+        "railway:atc": "yes",
+        "service": "siding",
+        "voltage": "1500"
+      }
+    }
+  ],
+  "update_stations": [
+    {
+      "id": "n1524304330",
+      "name": "山上",
+      "name_en": "Sanjō",
+      "mode": "funicular",
+      "operator": "皿倉登山鉄道",
+      "sources": [
+        "https://www.sarakurayama-cablecar.co.jp/about/"
+      ],
+      "reason": "Cablecar upper station, interchange with slope car; nearest generic guideway segment misclassified its mode."
+    },
+    {
+      "id": "n1524304334",
+      "name": "展望台",
+      "name_en": "Tenbōdai",
+      "mode": "guideway",
+      "operator": "皿倉登山鉄道",
+      "sources": [
+        "https://www.sarakurayama-cablecar.co.jp/about/"
+      ],
+      "reason": "Slope car observation-deck terminal, incorrectly filled as 山上 from nearest MLIT cablecar station."
+    },
+    {
+      "id": "n10742638637",
+      "mode": "jr",
+      "operator": "東日本旅客鉄道",
+      "sources": [
+        "https://www.jreast.co.jp/press/2022/20221216_ho02.pdf"
+      ],
+      "reason": "Maegata is a Tazawako Line conventional JR station, not Shinkansen; shared standard-gauge mini-Shinkansen corridor does not make local station a Shinkansen station."
+    }
+  ],
+  "update_ways": [
+    {
+      "id": "w139051394",
+      "name": "皿倉山スロープカー",
+      "name_en": "Sarakurayama Slope Car",
+      "operator": "皿倉登山鉄道",
+      "mode": "guideway",
+      "sources": [
+        "https://www.sarakurayama-cablecar.co.jp/about/"
+      ],
+      "reason": "Verified self-propelled monorail slope car linking cablecar to observation deck; keep point-to-point public transport and name the previously generic segment."
+    },
+    {
+      "id": "w1184731039",
+      "name": "船岡城址公園スロープカー（長期運休）",
+      "name_en": "Funaoka Castle Park Slope Car (suspended)",
+      "mode": "rail_suspended",
+      "status": "suspended",
+      "sources": [
+        "https://www.skbk.or.jp/cms/information/%E3%82%B9%E3%83%AD%E3%83%BC%E3%83%97%E3%82%AB%E3%83%BC%E8%BB%8A%E4%B8%A1%E6%95%85%E9%9A%9C%E3%81%AB%E3%82%88%E3%82%8B%E9%81%8B%E4%BC%91%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.html",
+        "https://www.town.shibata.miyagi.jp/index.cfm/88%2C66478%2C202%2C417%2Chtml"
+      ],
+      "reason": "Municipality and local operator confirm multi-year equipment-renewal suspension. Operator projects reopening in autumn2027; do not show as active service."
+    },
+    {
+      "id": "w1184731041",
+      "name": "船岡城址公園スロープカー（長期運休）",
+      "name_en": "Funaoka Castle Park Slope Car (suspended)",
+      "mode": "rail_suspended",
+      "status": "suspended",
+      "sources": [
+        "https://www.skbk.or.jp/cms/information/%E3%82%B9%E3%83%AD%E3%83%BC%E3%83%97%E3%82%AB%E3%83%BC%E8%BB%8A%E4%B8%A1%E6%95%85%E9%9A%9C%E3%81%AB%E3%82%88%E3%82%8B%E9%81%8B%E4%BC%91%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.html",
+        "https://www.town.shibata.miyagi.jp/index.cfm/88%2C66478%2C202%2C417%2Chtml"
+      ],
+      "reason": "Municipality and local operator confirm multi-year equipment-renewal suspension. Operator projects reopening in autumn2027; do not show as active service."
+    }
+  ],
+  "retained_examples": [
+    {
+      "name": "Linimo",
+      "route_groups": [
+        553,
+        554
+      ],
+      "sources": [
+        "https://www.linimo.jp/language/en/ride/timetable.php"
+      ],
+      "reason": "Nine operating public stations; genuine maglev. Preserve current geometry and station objects."
+    },
+    {
+      "name": "Amanohashidate View Land access monorail",
+      "route_groups": [
+        550
+      ],
+      "sources": [
+        "https://www.viewland.jp/"
+      ],
+      "reason": "Published regular access service to hilltop; keep access monorail and lift, while excluding separate pedal cycle ride."
+    },
+    {
+      "name": "Sky Fish Express",
+      "route_groups": [
+        532
+      ],
+      "sources": [
+        "https://www.tobuzoo.com/park/attraction/search/"
+      ],
+      "reason": "Operator explicitly says one-way service connecting two park districts. Retained as point-to-point park transport; do not confuse with pedal/circuit rides."
+    }
+  ],
+  "coverage_audit": {
+    "baseline": "MLIT N02 station geometry2022",
+    "distance_threshold_m": 220,
+    "candidate_operator_station_pairs": 91,
+    "verified_omissions_added": [
+      "n3548915148",
+      "n6158531345",
+      "n14118641835",
+      "n1026028515"
+    ],
+    "not_bulk_added_reason": "Most candidates are closures, suspended services, buses/trolleybuses, old station locations, or already mapped under current names. No unchecked historical station import.",
+    "candidates_file": "mlit_station_spatial_candidates.json",
+    "recent_openings_already_present": [
+      "手柄山平和公園",
+      "しきぶ",
+      "上所",
+      "夢洲",
+      "幕張豊砂",
+      "新綱島",
+      "箕面萱野",
+      "越前たけふ",
+      "新富山口"
+    ]
+  },
+  "notes": [
+    "The cited monorail really exists as an attraction; calling it fake or maglev is inaccurate. The bucket label caused confusion.",
+    "This audit does not certify every Japanese station current or complete. Four verified omissions were in raw OSM but were missed by atlas selection; independent MLIT geometry uncovered them.",
+    "Station objects are not unique station counts: OSM platforms, stop positions and station polygons may represent one public station. Additions deliberately choose one useful station object.",
+    "A series of unnamed monorails remains without enough operation evidence; retain for review rather than invent identities or delete public accessibility systems blindly.",
+    "Generic unnamed groups formerly combined disconnected lines nationally and borrowed English names from the first feature; e.g.Funicular group469 associated Mizutani industrial funicular with Mitake Cableway. Name grouping must be corrected when regenerating.",
+    "Funaoka is real public transport but currently suspended; route context should use rail_suspended and active boarding dots should be omitted."
+  ],
+  "systematic_station_screen": {
+    "selected_station_objects": 11251,
+    "raw_osm_stop_records": 29231,
+    "raw_station_area_records": 765,
+    "candidate_records": [
+      {
+        "id": "n264204213",
+        "name": "仙人台信号場",
+        "action": "remove",
+        "triggers": {
+          "lifecycle": false,
+          "restricted": false,
+          "freight": false,
+          "signal": true
+        },
+        "tags": {
+          "ele": "398",
+          "name": "仙人台信号場",
+          "name:en": "Sennindai",
+          "name:ja": "仙人台信号場",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        },
+        "retention_note": ""
+      },
+      {
+        "id": "n264427250",
+        "name": "旭浜",
+        "action": "remove",
+        "triggers": {
+          "lifecycle": true,
+          "restricted": false,
+          "freight": false,
+          "signal": false
+        },
+        "tags": {
+          "KSJ2:LIN": "室蘭本線",
+          "KSJ2:STN": "旭浜",
+          "abandoned:railway": "station",
+          "name": "旭浜",
+          "name:en": "Asahihama",
+          "name:ja": "旭浜",
+          "name:ja-Hira": "あさひはま",
+          "name:ko": "아사히하마",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+          "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+          "public_transport": "station",
+          "railway": "stop",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "wikidata": "Q11087107",
+          "wikipedia": "ja:旭浜駅"
+        },
+        "retention_note": ""
+      },
+      {
+        "id": "n264429202",
+        "name": "仁山信号場",
+        "action": "remove",
+        "triggers": {
+          "lifecycle": false,
+          "restricted": false,
+          "freight": false,
+          "signal": true
+        },
+        "tags": {
+          "name": "仁山信号場",
+          "name:en": "Niyama Signalling Station",
+          "name:ja": "仁山信号場",
+          "name:ko": "니야마",
+          "railway": "halt",
+          "source": "KSJ2",
+          "wikidata": "Q766391",
+          "wikipedia": "ja:仁山駅"
+        },
+        "retention_note": ""
+      },
+      {
+        "id": "n1250743978",
+        "name": "福岡貨物ターミナル",
+        "action": "remove",
+        "triggers": {
+          "lifecycle": false,
+          "restricted": false,
+          "freight": true,
+          "signal": false
+        },
+        "tags": {
+          "name": "福岡貨物ターミナル",
+          "name:en": "Fukuoka Cargo Terminal",
+          "name:ja": "福岡貨物ターミナル",
+          "name:ja-Hira": "ふくおかかもつたーみなる",
+          "name:ko": "후쿠오카화물터미널",
+          "public_transport": "station",
+          "railway": "station",
+          "wikidata": "Q11592946",
+          "wikipedia": "ja:福岡貨物ターミナル駅"
+        },
+        "retention_note": ""
+      },
+      {
+        "id": "n2754278058",
+        "name": "上大平台信号場",
+        "action": "remove",
+        "triggers": {
+          "lifecycle": false,
+          "restricted": true,
+          "freight": false,
+          "signal": true
+        },
+        "tags": {
+          "access": "no",
+          "ele": "346",
+          "name": "上大平台信号場",
+          "name:en": "Kami-Ohiradai",
+          "name:ja": "上大平台信号場",
+          "railway": "halt",
+          "wikidata": "Q11358735",
+          "wikipedia": "ja:上大平台信号場"
+        },
+        "retention_note": ""
+      },
+      {
+        "id": "n2754278066",
+        "name": "出山信号場",
+        "action": "remove",
+        "triggers": {
+          "lifecycle": false,
+          "restricted": true,
+          "freight": false,
+          "signal": true
+        },
+        "tags": {
+          "access": "no",
+          "ele": "222",
+          "name": "出山信号場",
+          "name:en": "Deyama",
+          "name:ja": "出山信号場",
+          "railway": "halt",
+          "wikidata": "Q11395608",
+          "wikipedia": "ja:出山信号場"
+        },
+        "retention_note": ""
+      },
+      {
+        "id": "n3626687146",
+        "name": "吹田貨物ターミナル駅",
+        "action": "remove",
+        "triggers": {
+          "lifecycle": false,
+          "restricted": false,
+          "freight": true,
+          "signal": false
+        },
+        "tags": {
+          "name": "吹田貨物ターミナル駅",
+          "operator": "日本貨物鉄道",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes",
+          "wikidata": "Q106225380",
+          "wikipedia": "ja:吹田貨物ターミナル駅"
+        },
+        "retention_note": ""
+      },
+      {
+        "id": "n5123297084",
+        "name": "百済貨物ターミナル",
+        "action": "remove",
+        "triggers": {
+          "lifecycle": false,
+          "restricted": false,
+          "freight": true,
+          "signal": false
+        },
+        "tags": {
+          "name": "百済貨物ターミナル",
+          "operator": "日本貨物鉄道",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes",
+          "wikidata": "Q10855493",
+          "wikipedia": "ja:百済貨物ターミナル駅"
+        },
+        "retention_note": ""
+      },
+      {
+        "id": "n5123297361",
+        "name": "百済貨物ターミナル",
+        "action": "remove",
+        "triggers": {
+          "lifecycle": false,
+          "restricted": false,
+          "freight": true,
+          "signal": false
+        },
+        "tags": {
+          "name": "百済貨物ターミナル",
+          "operator": "日本貨物鉄道",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes",
+          "wikidata": "Q10855493",
+          "wikipedia": "ja:百済貨物ターミナル駅"
+        },
+        "retention_note": ""
+      },
+      {
+        "id": "n5500219547",
+        "name": "鬼怒立岩信号場",
+        "action": "remove",
+        "triggers": {
+          "lifecycle": false,
+          "restricted": false,
+          "freight": false,
+          "signal": true
+        },
+        "tags": {
+          "name": "鬼怒立岩信号場",
+          "railway": "stop",
+          "wikidata": "Q11673478",
+          "wikipedia": "ja:鬼怒立岩信号場"
+        },
+        "retention_note": ""
+      },
+      {
+        "id": "n5705224137",
+        "name": "神戸貨物ターミナル駅",
+        "action": "remove",
+        "triggers": {
+          "lifecycle": false,
+          "restricted": false,
+          "freight": true,
+          "signal": false
+        },
+        "tags": {
+          "name": "神戸貨物ターミナル駅",
+          "operator": "日本貨物鉄道",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes",
+          "wikidata": "Q3518424",
+          "wikipedia": "ja:神戸貨物ターミナル駅"
+        },
+        "retention_note": ""
+      },
+      {
+        "id": "n5966241206",
+        "name": "峰ヶ原信号場",
+        "action": "remove",
+        "triggers": {
+          "lifecycle": false,
+          "restricted": false,
+          "freight": false,
+          "signal": true
+        },
+        "tags": {
+          "junction": "yes",
+          "name": "峰ヶ原信号場",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "wikidata": "Q5366211",
+          "wikipedia": "ja:峰ヶ原信号場"
+        },
+        "retention_note": ""
+      },
+      {
+        "id": "n6321208662",
+        "name": "吹田貨物ターミナル駅",
+        "action": "remove",
+        "triggers": {
+          "lifecycle": false,
+          "restricted": false,
+          "freight": true,
+          "signal": false
+        },
+        "tags": {
+          "name": "吹田貨物ターミナル駅",
+          "operator": "日本貨物鉄道",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes",
+          "wikidata": "Q106225380",
+          "wikipedia": "ja:吹田貨物ターミナル駅"
+        },
+        "retention_note": ""
+      },
+      {
+        "id": "n6549784706",
+        "name": "郡山貨物ターミナル",
+        "action": "remove",
+        "triggers": {
+          "lifecycle": false,
+          "restricted": false,
+          "freight": true,
+          "signal": false
+        },
+        "tags": {
+          "name": "郡山貨物ターミナル",
+          "name:ko": "고리야마화물터미널",
+          "operator": "日本貨物鉄道株式会社",
+          "public_transport": "station",
+          "railway": "station",
+          "train": "yes",
+          "wikidata": "Q5357915",
+          "wikipedia": "ja:郡山貨物ターミナル駅"
+        },
+        "retention_note": ""
+      },
+      {
+        "id": "n7028747955",
+        "name": "八戸貨物",
+        "action": "remove",
+        "triggers": {
+          "lifecycle": false,
+          "restricted": false,
+          "freight": true,
+          "signal": false
+        },
+        "tags": {
+          "name": "八戸貨物",
+          "operator": "JR貨物",
+          "railway": "halt"
+        },
+        "retention_note": ""
+      },
+      {
+        "id": "n8462727199",
+        "name": "阿波海南信号場",
+        "action": "remove",
+        "triggers": {
+          "lifecycle": false,
+          "restricted": false,
+          "freight": false,
+          "signal": true
+        },
+        "tags": {
+          "name": "阿波海南信号場",
+          "name:en": "Awakai Signal Station",
+          "railway": "stop"
+        },
+        "retention_note": ""
+      },
+      {
+        "id": "n11768527665",
+        "name": "甲浦信号場",
+        "action": "remove",
+        "triggers": {
+          "lifecycle": false,
+          "restricted": false,
+          "freight": false,
+          "signal": true
+        },
+        "tags": {
+          "name": "甲浦信号場",
+          "name:en": "Kannoura Signal Station",
+          "railway": "stop",
+          "train": "yes",
+          "wikidata": "Q8191686",
+          "wikipedia": "ja:甲浦信号場"
+        },
+        "retention_note": ""
+      },
+      {
+        "id": "n12200712410",
+        "name": "岡山貨物ターミナル",
+        "action": "remove",
+        "triggers": {
+          "lifecycle": false,
+          "restricted": false,
+          "freight": true,
+          "signal": false
+        },
+        "tags": {
+          "KSJ2:LIN": "山陽線",
+          "KSJ2:STN": "岡山貨物ターミナル",
+          "name": "岡山貨物ターミナル",
+          "name:en": "Okayama Freight Terminal",
+          "name:ja": "岡山貨物ターミナル",
+          "name:ko": "니시오카야마역",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+          "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+          "operator": "日本貨物鉄道",
+          "operator:en": "Okayama Freight Terminal",
+          "operator:ja": "日本貨物鉄道",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "train": "yes"
+        },
+        "retention_note": ""
+      },
+      {
+        "id": "n12200712416",
+        "name": "岡山貨物ターミナル",
+        "action": "remove",
+        "triggers": {
+          "lifecycle": false,
+          "restricted": false,
+          "freight": true,
+          "signal": false
+        },
+        "tags": {
+          "KSJ2:LIN": "山陽線",
+          "KSJ2:STN": "岡山貨物ターミナル",
+          "name": "岡山貨物ターミナル",
+          "name:en": "Okayama Freight Terminal",
+          "name:ja": "岡山貨物ターミナル",
+          "name:ko": "니시오카야마역",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+          "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+          "operator": "日本貨物鉄道",
+          "operator:en": "Okayama Freight Terminal",
+          "operator:ja": "日本貨物鉄道",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "train": "yes"
+        },
+        "retention_note": ""
+      },
+      {
+        "id": "n12973629790",
+        "name": "神戸貨物ターミナル",
+        "action": "remove",
+        "triggers": {
+          "lifecycle": false,
+          "restricted": false,
+          "freight": true,
+          "signal": false
+        },
+        "tags": {
+          "name": "神戸貨物ターミナル",
+          "operator": "日本貨物鉄道",
+          "railway": "station",
+          "wikidata": "Q3518424",
+          "wikipedia": "ja:神戸貨物ターミナル駅"
+        },
+        "retention_note": ""
+      },
+      {
+        "id": "n12973629791",
+        "name": "神戸貨物ターミナル駅",
+        "action": "remove",
+        "triggers": {
+          "lifecycle": false,
+          "restricted": false,
+          "freight": true,
+          "signal": false
+        },
+        "tags": {
+          "name": "神戸貨物ターミナル駅",
+          "operator": "日本貨物鉄道",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes",
+          "wikidata": "Q3518424",
+          "wikipedia": "ja:神戸貨物ターミナル駅"
+        },
+        "retention_note": ""
+      },
+      {
+        "id": "n12985575683",
+        "name": "大田",
+        "action": "remove",
+        "triggers": {
+          "lifecycle": false,
+          "restricted": true,
+          "freight": false,
+          "signal": false
+        },
+        "tags": {
+          "access": "private",
+          "description": "蒲田トレーニングセンターに設置された訓練駅",
+          "name": "大田",
+          "name:ja": "大田",
+          "name:ja-Hira": "おおた",
+          "name:ko": "오타",
+          "name:zh": "大田",
+          "operator": "東日本旅客鉄道株式会社",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "KTC01",
+          "usage": "training"
+        },
+        "retention_note": ""
+      },
+      {
+        "id": "n12985575684",
+        "name": "志茂田",
+        "action": "remove",
+        "triggers": {
+          "lifecycle": false,
+          "restricted": true,
+          "freight": false,
+          "signal": false
+        },
+        "tags": {
+          "access": "private",
+          "description": "蒲田トレーニングセンターに設置された訓練駅",
+          "name": "志茂田",
+          "name:ja": "志茂田",
+          "name:ja-Hira": "しもだ",
+          "name:ko": "시모다",
+          "operator": "東日本旅客鉄道株式会社",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "KTC02",
+          "usage": "training"
+        },
+        "retention_note": ""
+      },
+      {
+        "id": "n13362855144",
+        "name": "吹田貨物ターミナル",
+        "action": "remove",
+        "triggers": {
+          "lifecycle": false,
+          "restricted": false,
+          "freight": true,
+          "signal": false
+        },
+        "tags": {
+          "name": "吹田貨物ターミナル",
+          "name:en": "Suita Freight Terminal",
+          "name:ja": "吹田貨物ターミナル",
+          "name:ja-Hira": "すいたかもつたーみなる",
+          "name:ko": "스이타화물터미널",
+          "operator": "日本貨物鉄道",
+          "operator:ja": "日本貨物鉄道",
+          "railway": "station",
+          "wikidata": "Q106225380",
+          "wikipedia": "ja:吹田貨物ターミナル駅"
+        },
+        "retention_note": ""
+      },
+      {
+        "id": "n13362857406",
+        "name": "大阪貨物ターミナル",
+        "action": "remove",
+        "triggers": {
+          "lifecycle": false,
+          "restricted": false,
+          "freight": true,
+          "signal": false
+        },
+        "tags": {
+          "name": "大阪貨物ターミナル",
+          "name:en": "Ōsaka Freight Terminal",
+          "name:ja": "大阪貨物ターミナル",
+          "name:ja-Hira": "おおさかかもつたーみなる",
+          "name:ko": "오사카화물터미널",
+          "operator": "日本貨物鉄道",
+          "operator:ja": "日本貨物鉄道",
+          "railway": "station",
+          "wikidata": "Q11261326",
+          "wikipedia": "ja:大阪貨物ターミナル駅"
+        },
+        "retention_note": ""
+      },
+      {
+        "id": "n13469758867",
+        "name": "平野川信号場",
+        "action": "remove",
+        "triggers": {
+          "lifecycle": false,
+          "restricted": false,
+          "freight": false,
+          "signal": true
+        },
+        "tags": {
+          "name": "平野川信号場",
+          "name:en": "Hiranogawa Signal Station",
+          "railway": "halt",
+          "wikidata": "Q8516052",
+          "wikipedia": "ja:平野川信号場"
+        },
+        "retention_note": ""
+      },
+      {
+        "id": "n13469758868",
+        "name": "上芽室信号場",
+        "action": "remove",
+        "triggers": {
+          "lifecycle": false,
+          "restricted": false,
+          "freight": false,
+          "signal": true
+        },
+        "tags": {
+          "name": "上芽室信号場",
+          "name:en": "Kami-memuro Signal Station",
+          "railway": "halt",
+          "wikidata": "Q8515562",
+          "wikipedia": "ja:上芽室信号場"
+        },
+        "retention_note": ""
+      },
+      {
+        "id": "w946491557",
+        "name": "オサワ信号場",
+        "action": "remove",
+        "triggers": {
+          "lifecycle": false,
+          "restricted": false,
+          "freight": false,
+          "signal": true
+        },
+        "tags": {
+          "building": "yes",
+          "name": "オサワ信号場",
+          "name:ja": "オサワ信号場",
+          "public_transport": "station",
+          "railway": "station",
+          "train": "yes",
+          "wikidata": "Q11291922",
+          "wikipedia": "ja:オサワ信号場"
+        },
+        "retention_note": ""
+      }
+    ],
+    "method": "Screened every selected raw node and station-area object for proposed/construction/planned/abandoned/disused lifecycle tags, private/no access, industrial/freight/training/test/military usage, explicit freight station names/tags and signal-post names. disused:ref alone does not mark station disused."
+  }
+}

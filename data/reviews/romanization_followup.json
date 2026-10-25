@@ -1,0 +1,775 @@
+{
+  "schema_version": 1,
+  "purpose": "Focused Latin-label follow-up for newly named ferry ports and public lift terminals",
+  "notes": [
+    "316 of 317 first-pass corrections were integrated by the parent; one excluded object did not remain.",
+    "Only newly named/newly added target objects with empty Latin labels are considered.",
+    "Existing Latin labels on the 11 named ropeway stations and other new public lift terminals are retained.",
+    "Port, West/East and parentheses are translated/composed atlas descriptors where stated, not claimed verbatim official full English names.",
+    "Kanji readings are source-verified, not machine-guessed. Unsupported names remain unfilled."
+  ],
+  "source_licenses": {
+    "OpenStreetMap": "ODbL 1.0",
+    "official tourism/operator sources": "Individual factual names transcribed; no document artwork, maps, timetable tables or prose redistributed."
+  },
+  "counts": {
+    "proposed": 54,
+    "by_method": {
+      "official Okinawa tourism English port names": 5,
+      "official local tourism English names; port descriptor translated": 10,
+      "official Sasebo and Shinkamigoto tourism English port names": 3,
+      "Tokyo Metropolitan Government English terminal name": 1,
+      "official prefectural tourism island spelling; east/west port descriptor translated": 2,
+      "Amami official tourism English ports and explicit Japanese kana readings": 2,
+      "official visitor-center English names": 2,
+      "official ferry operator English destination": 3,
+      "official local tourism English port names": 4,
+      "official Setouchi Triennale bilingual ferry-route names; port descriptor translated": 5,
+      "official local tourism English port name": 1,
+      "official local tourism English island and port names": 3,
+      "municipal bilingual Nakada port label and official Izena island spelling": 1,
+      "official airport English ferry destination": 2,
+      "official ropeway/lift operator English terminal-place names": 2,
+      "official local transport operator English port name": 2,
+      "official Toba tourism bilingual island and port names": 4,
+      "official Ojika tourism island/locality spelling": 2
+    },
+    "by_mode": {
+      "ferry": 52,
+      "ropeway": 2
+    }
+  },
+  "corrections": [
+    {
+      "id": "n11333075351",
+      "name": "阿嘉港",
+      "original_en": "",
+      "en": "Aka Port",
+      "method": "official Okinawa tourism English port names",
+      "sources": [
+        "https://visitokinawajapan.com/plan-your-trip/getting-around-okinawa/ferries-between-islands/"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "阿嘉港"
+    },
+    {
+      "id": "n12430279359",
+      "name": "小豆島（坂手港）",
+      "original_en": "",
+      "en": "Shodoshima (Sakate Port)",
+      "method": "official local tourism English names; port descriptor translated",
+      "sources": [
+        "https://shodoshima.or.jp/datas/booklet/pdf/020260601114448_6RXMt.pdf",
+        "https://www.town.tonosho.kagawa.jp/material/files/group/15/roadmap-english.pdf"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "小豆島（坂手港）"
+    },
+    {
+      "id": "n1441184740",
+      "name": "宇久平",
+      "original_en": "",
+      "en": "Uku Taira",
+      "method": "official Sasebo and Shinkamigoto tourism English port names",
+      "sources": [
+        "https://www.sasebo99.com/downloads/media/14678.pdf",
+        "https://shinkamigoto.nagasaki-tabinet.com/downloads/media/1086"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "宇久平"
+    },
+    {
+      "id": "n1527601711",
+      "name": "高松港",
+      "original_en": "",
+      "en": "Takamatsu Port",
+      "method": "official local tourism English names; port descriptor translated",
+      "sources": [
+        "https://shodoshima.or.jp/datas/booklet/pdf/020260601114448_6RXMt.pdf",
+        "https://www.town.tonosho.kagawa.jp/material/files/group/15/roadmap-english.pdf"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "高松港"
+    },
+    {
+      "id": "n1635789608",
+      "name": "式根島（野伏港）",
+      "original_en": "",
+      "en": "Shikinejima (Nobushi Port)",
+      "method": "Tokyo Metropolitan Government English terminal name",
+      "sources": [
+        "https://www.islandaccess.metro.tokyo.lg.jp/en/stations/nobuse_port/"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "式根島（野伏港）"
+    },
+    {
+      "id": "n1786951651",
+      "name": "日間賀島（西港）",
+      "original_en": "",
+      "en": "Himakajima (West Port)",
+      "method": "official prefectural tourism island spelling; east/west port descriptor translated",
+      "sources": [
+        "https://www.aichinow.pref.aichi.jp/en/spots/detail/36/"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "日間賀島（西港）"
+    },
+    {
+      "id": "n1786951656",
+      "name": "日間賀島（東港）",
+      "original_en": "",
+      "en": "Himakajima (East Port)",
+      "method": "official prefectural tourism island spelling; east/west port descriptor translated",
+      "sources": [
+        "https://www.aichinow.pref.aichi.jp/en/spots/detail/36/"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "日間賀島（東港）"
+    },
+    {
+      "id": "n1794068350",
+      "name": "友住",
+      "original_en": "",
+      "en": "Tomosumi",
+      "method": "official Sasebo and Shinkamigoto tourism English port names",
+      "sources": [
+        "https://www.sasebo99.com/downloads/media/14678.pdf",
+        "https://shinkamigoto.nagasaki-tabinet.com/downloads/media/1086"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "友住"
+    },
+    {
+      "id": "n1864175691",
+      "name": "生間港（加計呂麻島）",
+      "original_en": "",
+      "en": "Ikenma Port (Kakeromajima)",
+      "method": "Amami official tourism English ports and explicit Japanese kana readings",
+      "sources": [
+        "https://www.exploreamami.com/southern-area/648/",
+        "https://www.kakeroma-welcome.com/faq"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "生間港（加計呂麻島）"
+    },
+    {
+      "id": "n2161964269",
+      "name": "桜島港",
+      "original_en": "",
+      "en": "Sakurajima Port",
+      "method": "official visitor-center English names",
+      "sources": [
+        "https://visitor.sakurajima.gr.jp/en/access.html"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "桜島港"
+    },
+    {
+      "id": "n2522046388",
+      "name": "鹿児島港（桜島フェリーターミナル）",
+      "original_en": "",
+      "en": "Kagoshima Port (Sakurajima Ferry Terminal)",
+      "method": "official visitor-center English names",
+      "sources": [
+        "https://visitor.sakurajima.gr.jp/en/access.html"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "鹿児島港（桜島フェリーターミナル）"
+    },
+    {
+      "id": "n2921851253",
+      "name": "小豆島 土庄港",
+      "original_en": "",
+      "en": "Shodoshima (Tonosho Port)",
+      "method": "official local tourism English names; port descriptor translated",
+      "sources": [
+        "https://shodoshima.or.jp/datas/booklet/pdf/020260601114448_6RXMt.pdf",
+        "https://www.town.tonosho.kagawa.jp/material/files/group/15/roadmap-english.pdf"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "小豆島 土庄港"
+    },
+    {
+      "id": "n3043588056",
+      "name": "小豆島（福田港）",
+      "original_en": "",
+      "en": "Shodoshima (Fukuda Port)",
+      "method": "official local tourism English names; port descriptor translated",
+      "sources": [
+        "https://shodoshima.or.jp/datas/booklet/pdf/020260601114448_6RXMt.pdf",
+        "https://www.town.tonosho.kagawa.jp/material/files/group/15/roadmap-english.pdf"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "小豆島（福田港）"
+    },
+    {
+      "id": "n3318435905",
+      "name": "久高港",
+      "original_en": "",
+      "en": "Kudaka Port",
+      "method": "official Okinawa tourism English port names",
+      "sources": [
+        "https://visitokinawajapan.com/plan-your-trip/getting-around-okinawa/ferries-between-islands/"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "久高港"
+    },
+    {
+      "id": "n357427174",
+      "name": "姫路港",
+      "original_en": "",
+      "en": "Himeji Port",
+      "method": "official local tourism English names; port descriptor translated",
+      "sources": [
+        "https://shodoshima.or.jp/datas/booklet/pdf/020260601114448_6RXMt.pdf",
+        "https://www.town.tonosho.kagawa.jp/material/files/group/15/roadmap-english.pdf"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "姫路港"
+    },
+    {
+      "id": "n357450684",
+      "name": "高松港",
+      "original_en": "",
+      "en": "Takamatsu Port",
+      "method": "official local tourism English names; port descriptor translated",
+      "sources": [
+        "https://shodoshima.or.jp/datas/booklet/pdf/020260601114448_6RXMt.pdf",
+        "https://www.town.tonosho.kagawa.jp/material/files/group/15/roadmap-english.pdf"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "高松港"
+    },
+    {
+      "id": "n4235537104",
+      "name": "新島",
+      "original_en": "",
+      "en": "Niijima",
+      "method": "official ferry operator English destination",
+      "sources": [
+        "https://www.tokaikisen.co.jp/wordpress/wp-content/uploads/2026/08/d0cb91738f737fd5ca3757451963dce2.pdf"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "新島"
+    },
+    {
+      "id": "n4235544246",
+      "name": "利島",
+      "original_en": "",
+      "en": "Toshima",
+      "method": "official ferry operator English destination",
+      "sources": [
+        "https://www.tokaikisen.co.jp/wordpress/wp-content/uploads/2026/08/d0cb91738f737fd5ca3757451963dce2.pdf"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "利島"
+    },
+    {
+      "id": "n4235564901",
+      "name": "御蔵島",
+      "original_en": "",
+      "en": "Mikurashima",
+      "method": "official ferry operator English destination",
+      "sources": [
+        "https://www.tokaikisen.co.jp/wordpress/wp-content/uploads/2026/08/d0cb91738f737fd5ca3757451963dce2.pdf"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "御蔵島"
+    },
+    {
+      "id": "n4240955332",
+      "name": "奈留",
+      "original_en": "",
+      "en": "Naru",
+      "method": "official Sasebo and Shinkamigoto tourism English port names",
+      "sources": [
+        "https://www.sasebo99.com/downloads/media/14678.pdf",
+        "https://shinkamigoto.nagasaki-tabinet.com/downloads/media/1086"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "奈留"
+    },
+    {
+      "id": "n4506236723",
+      "name": "須田港",
+      "original_en": "",
+      "en": "Suda Port",
+      "method": "official local tourism English port names",
+      "sources": [
+        "https://www.mitoyo-kanko.com/eng/awashimaisland/",
+        "https://www.mitoyo-kanko.com/eng/shishijimaisland/"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "須田港"
+    },
+    {
+      "id": "n4506236734",
+      "name": "粟島港",
+      "original_en": "",
+      "en": "Awashima Port",
+      "method": "official local tourism English port names",
+      "sources": [
+        "https://www.mitoyo-kanko.com/eng/awashimaisland/",
+        "https://www.mitoyo-kanko.com/eng/shishijimaisland/"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "粟島港"
+    },
+    {
+      "id": "n4506236746",
+      "name": "粟島 上新田港",
+      "original_en": "",
+      "en": "Awashima (Kamishinden Port)",
+      "method": "official Setouchi Triennale bilingual ferry-route names; port descriptor translated",
+      "sources": [
+        "https://d3ff0u7gkaoc8q.cloudfront.net/pdf/route_during_event_west_area.pdf"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "粟島 上新田港"
+    },
+    {
+      "id": "n4506236756",
+      "name": "宮の下港",
+      "original_en": "",
+      "en": "Miyanoshita Port",
+      "method": "official local tourism English port names",
+      "sources": [
+        "https://www.mitoyo-kanko.com/eng/awashimaisland/",
+        "https://www.mitoyo-kanko.com/eng/shishijimaisland/"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "宮の下港"
+    },
+    {
+      "id": "n4506236764",
+      "name": "志々島港",
+      "original_en": "",
+      "en": "Shishijima Port",
+      "method": "official local tourism English port names",
+      "sources": [
+        "https://www.mitoyo-kanko.com/eng/awashimaisland/",
+        "https://www.mitoyo-kanko.com/eng/shishijimaisland/"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "志々島港"
+    },
+    {
+      "id": "n4506359318",
+      "name": "佐柳島 本浦港",
+      "original_en": "",
+      "en": "Sanagishima (Honura Port)",
+      "method": "official Setouchi Triennale bilingual ferry-route names; port descriptor translated",
+      "sources": [
+        "https://d3ff0u7gkaoc8q.cloudfront.net/pdf/route_during_event_west_area.pdf"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "佐柳島 本浦港"
+    },
+    {
+      "id": "n4506359331",
+      "name": "多度津港",
+      "original_en": "",
+      "en": "Tadotsu Port",
+      "method": "official Setouchi Triennale bilingual ferry-route names; port descriptor translated",
+      "sources": [
+        "https://d3ff0u7gkaoc8q.cloudfront.net/pdf/route_during_event_west_area.pdf"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "多度津港"
+    },
+    {
+      "id": "n4506359339",
+      "name": "高見島港",
+      "original_en": "",
+      "en": "Takamishima Port",
+      "method": "official Setouchi Triennale bilingual ferry-route names; port descriptor translated",
+      "sources": [
+        "https://d3ff0u7gkaoc8q.cloudfront.net/pdf/route_during_event_west_area.pdf"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "高見島港"
+    },
+    {
+      "id": "n4506438184",
+      "name": "白石島港",
+      "original_en": "",
+      "en": "Shiraishi-jima Port",
+      "method": "official local tourism English port name",
+      "sources": [
+        "https://www.kasaoka-kankou.jp/en/island/shiraishijima/"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "白石島港"
+    },
+    {
+      "id": "n4506438205",
+      "name": "北木島 楠港",
+      "original_en": "",
+      "en": "Kitagi-shima (Kusunoki Port)",
+      "method": "official local tourism English island and port names",
+      "sources": [
+        "https://www.kasaoka-kankou.jp/en/island/kitagishima/",
+        "https://www.kasaoka-kankou.jp/en/island/manabeshima/"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "北木島 楠港"
+    },
+    {
+      "id": "n4506438226",
+      "name": "北木島 大浦港",
+      "original_en": "",
+      "en": "Kitagi-shima (Oura Port)",
+      "method": "official local tourism English island and port names",
+      "sources": [
+        "https://www.kasaoka-kankou.jp/en/island/kitagishima/",
+        "https://www.kasaoka-kankou.jp/en/island/manabeshima/"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "北木島 大浦港"
+    },
+    {
+      "id": "n4506438275",
+      "name": "真鍋島 本浦港",
+      "original_en": "",
+      "en": "Manabe-shima (Honura Port)",
+      "method": "official local tourism English island and port names",
+      "sources": [
+        "https://www.kasaoka-kankou.jp/en/island/kitagishima/",
+        "https://www.kasaoka-kankou.jp/en/island/manabeshima/"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "真鍋島 本浦港"
+    },
+    {
+      "id": "n4506438295",
+      "name": "佐柳島 長崎港",
+      "original_en": "",
+      "en": "Sanagishima (Nagasaki Port)",
+      "method": "official Setouchi Triennale bilingual ferry-route names; port descriptor translated",
+      "sources": [
+        "https://d3ff0u7gkaoc8q.cloudfront.net/pdf/route_during_event_west_area.pdf"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "佐柳島 長崎港"
+    },
+    {
+      "id": "n4513643811",
+      "name": "粟国港",
+      "original_en": "",
+      "en": "Aguni Port",
+      "method": "official Okinawa tourism English port names",
+      "sources": [
+        "https://visitokinawajapan.com/plan-your-trip/getting-around-okinawa/ferries-between-islands/"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "粟国港"
+    },
+    {
+      "id": "n4566075882",
+      "name": "伊是名 仲田港",
+      "original_en": "",
+      "en": "Izena (Nakada Port)",
+      "method": "municipal bilingual Nakada port label and official Izena island spelling",
+      "sources": [
+        "https://vill.izena.okinawa.jp/userfiles/files/nakada2203.pdf",
+        "https://okinawasportsisland.jp/wp-content/uploads/2021/11/FunSpoTrip_en.pdf"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "伊是名 仲田港"
+    },
+    {
+      "id": "n4566075883",
+      "name": "伊平屋 前泊港",
+      "original_en": "",
+      "en": "Iheya (Maedomari Port)",
+      "method": "official Okinawa tourism English port names",
+      "sources": [
+        "https://visitokinawajapan.com/plan-your-trip/getting-around-okinawa/ferries-between-islands/"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "伊平屋 前泊港"
+    },
+    {
+      "id": "n4881202374",
+      "name": "新岡山港",
+      "original_en": "",
+      "en": "Shin-Okayama Port",
+      "method": "official local tourism English names; port descriptor translated",
+      "sources": [
+        "https://shodoshima.or.jp/datas/booklet/pdf/020260601114448_6RXMt.pdf",
+        "https://www.town.tonosho.kagawa.jp/material/files/group/15/roadmap-english.pdf"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "新岡山港"
+    },
+    {
+      "id": "n4881202381",
+      "name": "小豆島 土庄港",
+      "original_en": "",
+      "en": "Shodoshima (Tonosho Port)",
+      "method": "official local tourism English names; port descriptor translated",
+      "sources": [
+        "https://shodoshima.or.jp/datas/booklet/pdf/020260601114448_6RXMt.pdf",
+        "https://www.town.tonosho.kagawa.jp/material/files/group/15/roadmap-english.pdf"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "小豆島 土庄港"
+    },
+    {
+      "id": "n4881230797",
+      "name": "小豆島 土庄港",
+      "original_en": "",
+      "en": "Shodoshima (Tonosho Port)",
+      "method": "official local tourism English names; port descriptor translated",
+      "sources": [
+        "https://shodoshima.or.jp/datas/booklet/pdf/020260601114448_6RXMt.pdf",
+        "https://www.town.tonosho.kagawa.jp/material/files/group/15/roadmap-english.pdf"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "小豆島 土庄港"
+    },
+    {
+      "id": "n5261276850",
+      "name": "長崎空港",
+      "original_en": "",
+      "en": "Nagasaki Airport",
+      "method": "official airport English ferry destination",
+      "sources": [
+        "https://nagasaki-airport.jp/en/access/ferry/timetable/ferry_togitu.php?t=2",
+        "https://nagasaki-airport.jp/en/contact/"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "長崎空港"
+    },
+    {
+      "id": "n5358987010",
+      "name": "瀬相港（加計呂麻島）",
+      "original_en": "",
+      "en": "Seso Port (Kakeromajima)",
+      "method": "Amami official tourism English ports and explicit Japanese kana readings",
+      "sources": [
+        "https://www.exploreamami.com/southern-area/648/",
+        "https://www.kakeroma-welcome.com/faq"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "瀬相港（加計呂麻島）"
+    },
+    {
+      "id": "n613551328",
+      "name": "渡嘉敷港",
+      "original_en": "",
+      "en": "Tokashiki Port",
+      "method": "official Okinawa tourism English port names",
+      "sources": [
+        "https://visitokinawajapan.com/plan-your-trip/getting-around-okinawa/ferries-between-islands/"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "渡嘉敷港"
+    },
+    {
+      "id": "n704284531",
+      "name": "高松港",
+      "original_en": "",
+      "en": "Takamatsu Port",
+      "method": "official local tourism English names; port descriptor translated",
+      "sources": [
+        "https://shodoshima.or.jp/datas/booklet/pdf/020260601114448_6RXMt.pdf",
+        "https://www.town.tonosho.kagawa.jp/material/files/group/15/roadmap-english.pdf"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "高松港"
+    },
+    {
+      "id": "n766785417",
+      "name": "天神平",
+      "original_en": "",
+      "en": "Tenjindaira",
+      "method": "official ropeway/lift operator English terminal-place names",
+      "sources": [
+        "https://tanigawadake-joch.com/en/faq/",
+        "https://tanigawadake-joch.com/en/facilities/"
+      ],
+      "mode": "ropeway",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "天神平"
+    },
+    {
+      "id": "n766785418",
+      "name": "天神峠",
+      "original_en": "",
+      "en": "Tenjin Pass",
+      "method": "official ropeway/lift operator English terminal-place names",
+      "sources": [
+        "https://tanigawadake-joch.com/en/faq/",
+        "https://tanigawadake-joch.com/en/facilities/"
+      ],
+      "mode": "ropeway",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "天神峠"
+    },
+    {
+      "id": "n9138575122",
+      "name": "松山観光港",
+      "original_en": "",
+      "en": "Matsuyama Tourist Port",
+      "method": "official local transport operator English port name",
+      "sources": [
+        "https://www.iyotetsu.co.jp/global/en/"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "松山観光港"
+    },
+    {
+      "id": "n9248038145",
+      "name": "松山観光港",
+      "original_en": "",
+      "en": "Matsuyama Tourist Port",
+      "method": "official local transport operator English port name",
+      "sources": [
+        "https://www.iyotetsu.co.jp/global/en/"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "松山観光港"
+    },
+    {
+      "id": "n9285090421",
+      "name": "時津",
+      "original_en": "",
+      "en": "Togitsu",
+      "method": "official airport English ferry destination",
+      "sources": [
+        "https://nagasaki-airport.jp/en/access/ferry/timetable/ferry_togitu.php?t=2",
+        "https://nagasaki-airport.jp/en/contact/"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "時津"
+    },
+    {
+      "id": "n9533745175",
+      "name": "和具（答志島）",
+      "original_en": "",
+      "en": "Wagu (Toshijima)",
+      "method": "official Toba tourism bilingual island and port names",
+      "sources": [
+        "https://toba.gr.jp/en/wp-content/uploads/2025/03/Toba-Walking-Map-2025.2.3.pdf"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "和具（答志島）"
+    },
+    {
+      "id": "n9533745202",
+      "name": "答志（答志島）",
+      "original_en": "",
+      "en": "Toshi (Toshijima)",
+      "method": "official Toba tourism bilingual island and port names",
+      "sources": [
+        "https://toba.gr.jp/en/wp-content/uploads/2025/03/Toba-Walking-Map-2025.2.3.pdf"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "答志（答志島）"
+    },
+    {
+      "id": "n9533758646",
+      "name": "坂手（坂手島）",
+      "original_en": "",
+      "en": "Sakate (Sakatejima)",
+      "method": "official Toba tourism bilingual island and port names",
+      "sources": [
+        "https://toba.gr.jp/en/wp-content/uploads/2025/03/Toba-Walking-Map-2025.2.3.pdf"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "坂手（坂手島）"
+    },
+    {
+      "id": "n9533758670",
+      "name": "桃取（答志島）",
+      "original_en": "",
+      "en": "Momotori (Toshijima)",
+      "method": "official Toba tourism bilingual island and port names",
+      "sources": [
+        "https://toba.gr.jp/en/wp-content/uploads/2025/03/Toba-Walking-Map-2025.2.3.pdf"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "桃取（答志島）"
+    },
+    {
+      "id": "n9551638484",
+      "name": "柳（小値賀島）",
+      "original_en": "",
+      "en": "Yanagi (Ojika)",
+      "method": "official Ojika tourism island/locality spelling",
+      "sources": [
+        "https://ojikajima.jp/en/access",
+        "https://ojikajima.jp/en/kominkastay/kominka_list/10588.html"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "柳（小値賀島）"
+    },
+    {
+      "id": "n9551638499",
+      "name": "納島",
+      "original_en": "",
+      "en": "Nōshima",
+      "method": "official Ojika tourism island/locality spelling",
+      "sources": [
+        "https://ojikajima.jp/en/access",
+        "https://ojikajima.jp/en/kominkastay/kominka_list/10588.html"
+      ],
+      "mode": "ferry",
+      "label_kind": "source-verified Latin name / translated descriptor",
+      "requires_name": "納島"
+    }
+  ]
+}

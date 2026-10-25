@@ -1,0 +1,4758 @@
+{
+  "schema_version": 1,
+  "purpose": "Station and terminal missing-Latin-label audit",
+  "notes": [
+    "Only missing/invalid Latin fields are proposed; established Latin names are retained.",
+    "Generated Hepburn labels are romanizations, not claimed official operator English names.",
+    "No arbitrary kanji readings were inferred. Nearby-name transfers require exact Japanese text and bounded distance.",
+    "Private/training/industrial objects and freight terminals are deliberately excluded."
+  ],
+  "source_licenses": {
+    "OpenStreetMap": "ODbL 1.0",
+    "Wikidata": "CC0; https://www.wikidata.org/wiki/Wikidata:Licensing",
+    "operator sources": "Individual factual station labels transcribed, not map artwork or timetable data."
+  },
+  "counts": {
+    "proposed": 317,
+    "by_method": {
+      "original name already uses Latin script": 17,
+      "existing OSM Latin tag": 30,
+      "Wikidata linked station label; Japanese name and position verified": 21,
+      "Hepburn transliteration of explicit OSM reading": 18,
+      "exact Japanese name on nearby OSM station/terminal": 122,
+      "official operator Latin name": 48,
+      "Hepburn transliteration of kana-only source name": 21,
+      "same-station OSM Latin name; platform descriptor translated": 40
+    },
+    "by_mode": {
+      "ropeway": 18,
+      "shinkansen": 2,
+      "jr": 63,
+      "funicular": 8,
+      "tram": 52,
+      "private": 64,
+      "water": 102,
+      "guideway": 6,
+      "metro": 2
+    }
+  },
+  "corrections": [
+    {
+      "id": "n242920379",
+      "i": 20,
+      "name": "ACE-2B",
+      "original_en": "",
+      "en": "ACE-2B",
+      "method": "original name already uses Latin script",
+      "sources": [
+        "https://www.openstreetmap.org/node/242920379"
+      ],
+      "mode": "ropeway",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n264231211",
+      "i": 360,
+      "name": "鶯野",
+      "original_en": "",
+      "en": "Uguisuno",
+      "method": "existing OSM Latin tag",
+      "sources": [
+        "https://www.openstreetmap.org/node/264231211"
+      ],
+      "mode": "shinkansen",
+      "source_tag": "name:ja_rm",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n264257161",
+      "i": 424,
+      "name": "ゆだ錦秋湖",
+      "original_en": "",
+      "en": "Yudakinshūko",
+      "method": "Wikidata linked station label; Japanese name and position verified",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8192723"
+      ],
+      "mode": "jr",
+      "label_kind": "Wikidata Latin label",
+      "license": "CC0"
+    },
+    {
+      "id": "n265003251",
+      "i": 1053,
+      "name": "八栗登山口",
+      "original_en": "",
+      "en": "Yakuri-tozanguchi",
+      "method": "Wikidata linked station label; Japanese name and position verified",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q11391462"
+      ],
+      "mode": "funicular",
+      "label_kind": "Wikidata Latin label",
+      "license": "CC0"
+    },
+    {
+      "id": "n265003261",
+      "i": 1054,
+      "name": "八栗山上",
+      "original_en": "",
+      "en": "Yakuri-sanjō",
+      "method": "Wikidata linked station label; Japanese name and position verified",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q11391460"
+      ],
+      "mode": "funicular",
+      "label_kind": "Wikidata Latin label",
+      "license": "CC0"
+    },
+    {
+      "id": "n265022007",
+      "i": 1132,
+      "name": "田辺島通",
+      "original_en": "",
+      "en": "Tabeshimadoori",
+      "method": "Hepburn transliteration of explicit OSM reading",
+      "sources": [
+        "https://www.openstreetmap.org/node/265022007"
+      ],
+      "mode": "tram",
+      "reading": "たべしまどおり",
+      "source_tag": "name:ja-Hira",
+      "label_kind": "generated romanization"
+    },
+    {
+      "id": "n266051413",
+      "i": 1705,
+      "name": "宮島ボートレース場",
+      "original_en": "",
+      "en": "Miyajimabōtorēsujou",
+      "method": "Hepburn transliteration of explicit OSM reading",
+      "sources": [
+        "https://www.openstreetmap.org/node/266051413"
+      ],
+      "mode": "tram",
+      "reading": "みやじまぼーとれーすじょう",
+      "source_tag": "name:ja-Hira",
+      "label_kind": "generated romanization"
+    },
+    {
+      "id": "n267306933",
+      "i": 1949,
+      "name": "越前花堂",
+      "original_en": "",
+      "en": "Echizen-Hanandō",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/267448985"
+      ],
+      "mode": "private",
+      "source_tag": "name:en",
+      "distance_m": 58.1,
+      "source_id": "n267448985",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n270026279",
+      "i": 2175,
+      "name": "地鉄ビル前",
+      "original_en": "",
+      "en": "Chitetsu-Biru-mae",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.chitetsu.co.jp/english/img/trams/trams-linemap.gif"
+      ],
+      "mode": "tram",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n270026287",
+      "i": 2176,
+      "name": "中町(西町北)",
+      "original_en": "",
+      "en": "Nakamachi (Nishicho-kita)",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.chitetsu.co.jp/english/img/trams/trams-linemap.gif"
+      ],
+      "mode": "tram",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n270026289",
+      "i": 2177,
+      "name": "荒町",
+      "original_en": "",
+      "en": "Aramachi",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.chitetsu.co.jp/english/img/trams/trams-linemap.gif"
+      ],
+      "mode": "tram",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n270026452",
+      "i": 2179,
+      "name": "桜橋",
+      "original_en": "",
+      "en": "Sakurabashi",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.chitetsu.co.jp/english/img/trams/trams-linemap.gif"
+      ],
+      "mode": "tram",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n270026460",
+      "i": 2180,
+      "name": "電気ビル前",
+      "original_en": "",
+      "en": "Denki-Biru-mae",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.chitetsu.co.jp/english/img/trams/trams-linemap.gif"
+      ],
+      "mode": "tram",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n270026541",
+      "i": 2181,
+      "name": "上本町",
+      "original_en": "",
+      "en": "Kamihonmachi",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.chitetsu.co.jp/english/img/trams/trams-linemap.gif"
+      ],
+      "mode": "tram",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n270026697",
+      "i": 2182,
+      "name": "南富山駅前",
+      "original_en": "",
+      "en": "Minamitoyamaeki-mae",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.chitetsu.co.jp/english/img/trams/trams-linemap.gif"
+      ],
+      "mode": "tram",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n270026699",
+      "i": 2183,
+      "name": "広貫堂前",
+      "original_en": "",
+      "en": "Kokando-mae",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.chitetsu.co.jp/english/img/trams/trams-linemap.gif"
+      ],
+      "mode": "tram",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n270026774",
+      "i": 2184,
+      "name": "小泉町",
+      "original_en": "",
+      "en": "Koizumicho",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.chitetsu.co.jp/english/img/trams/trams-linemap.gif"
+      ],
+      "mode": "tram",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n270026777",
+      "i": 2185,
+      "name": "堀川小泉",
+      "original_en": "",
+      "en": "Horikawa koizumi",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.chitetsu.co.jp/english/img/trams/trams-linemap.gif"
+      ],
+      "mode": "tram",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n270026942",
+      "i": 2186,
+      "name": "大町",
+      "original_en": "",
+      "en": "Omachi",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.chitetsu.co.jp/english/img/trams/trams-linemap.gif"
+      ],
+      "mode": "tram",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n270026978",
+      "i": 2187,
+      "name": "西中野",
+      "original_en": "",
+      "en": "Nishinakano",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.chitetsu.co.jp/english/img/trams/trams-linemap.gif"
+      ],
+      "mode": "tram",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n270030071",
+      "i": 2201,
+      "name": "諏訪川原",
+      "original_en": "",
+      "en": "Suwanokawara",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.chitetsu.co.jp/english/img/trams/trams-linemap.gif"
+      ],
+      "mode": "tram",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n270032009",
+      "i": 2202,
+      "name": "丸の内",
+      "original_en": "",
+      "en": "Marunouchi",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.chitetsu.co.jp/english/img/trams/trams-linemap.gif"
+      ],
+      "mode": "tram",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n270032041",
+      "i": 2203,
+      "name": "県庁前",
+      "original_en": "",
+      "en": "Kencho-mae",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.chitetsu.co.jp/english/img/trams/trams-linemap.gif"
+      ],
+      "mode": "tram",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n270032047",
+      "i": 2204,
+      "name": "新富町",
+      "original_en": "",
+      "en": "Shintomicho",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.chitetsu.co.jp/english/img/trams/trams-linemap.gif"
+      ],
+      "mode": "tram",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n335655726",
+      "i": 2480,
+      "name": "越ノ潟",
+      "original_en": "",
+      "en": "Koshinokata",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.manyosen.co.jp/files/files20240410101031.pdf"
+      ],
+      "mode": "tram",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n335655728",
+      "i": 2481,
+      "name": "新町口",
+      "original_en": "",
+      "en": "Shimmachiguchi",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.manyosen.co.jp/files/files20240410101031.pdf"
+      ],
+      "mode": "tram",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n335655730",
+      "i": 2482,
+      "name": "六渡寺",
+      "original_en": "",
+      "en": "Rokudōji",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.manyosen.co.jp/files/files20240410101031.pdf"
+      ],
+      "mode": "tram",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n335655732",
+      "i": 2483,
+      "name": "第一イン新湊クロスベイ前",
+      "original_en": "",
+      "en": "Crossbay-mae",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.manyosen.co.jp/files/files20240410101031.pdf"
+      ],
+      "mode": "tram",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n335655737",
+      "i": 2484,
+      "name": "東新湊",
+      "original_en": "",
+      "en": "Higashi-shimminato",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.manyosen.co.jp/files/files20240410101031.pdf"
+      ],
+      "mode": "tram",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n335655739",
+      "i": 2485,
+      "name": "庄川口",
+      "original_en": "",
+      "en": "Shōgawaguchi",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.manyosen.co.jp/files/files20240410101031.pdf"
+      ],
+      "mode": "tram",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n335655776",
+      "i": 2486,
+      "name": "中新湊",
+      "original_en": "",
+      "en": "Naka-shimminato",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.manyosen.co.jp/files/files20240410101031.pdf"
+      ],
+      "mode": "tram",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n335656135",
+      "i": 2487,
+      "name": "米島口",
+      "original_en": "",
+      "en": "Yonejimaguchi",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.manyosen.co.jp/files/files20240410101031.pdf"
+      ],
+      "mode": "tram",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n335656174",
+      "i": 2489,
+      "name": "江尻",
+      "original_en": "",
+      "en": "Ejiri",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.manyosen.co.jp/files/files20240410101031.pdf"
+      ],
+      "mode": "tram",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n335656182",
+      "i": 2490,
+      "name": "志貴野中学校前",
+      "original_en": "",
+      "en": "Shikino-chugakko-mae",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.manyosen.co.jp/files/files20240410101031.pdf"
+      ],
+      "mode": "tram",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n335656200",
+      "i": 2491,
+      "name": "急患医療センター前",
+      "original_en": "",
+      "en": "Kyūkan-iryō-center-mae",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.manyosen.co.jp/files/files20240410101031.pdf"
+      ],
+      "mode": "tram",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n335656215",
+      "i": 2492,
+      "name": "坂下町",
+      "original_en": "",
+      "en": "Sakashitamachi",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.manyosen.co.jp/files/files20240410101031.pdf"
+      ],
+      "mode": "tram",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n335656216",
+      "i": 2493,
+      "name": "荻布",
+      "original_en": "",
+      "en": "Ogino",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.manyosen.co.jp/files/files20240410101031.pdf"
+      ],
+      "mode": "tram",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n335656239",
+      "i": 2494,
+      "name": "市民病院前",
+      "original_en": "",
+      "en": "Shimin-byōin-mae",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.manyosen.co.jp/files/files20240410101031.pdf"
+      ],
+      "mode": "tram",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n335656241",
+      "i": 2495,
+      "name": "能町口",
+      "original_en": "",
+      "en": "Nōmachiguchi",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.manyosen.co.jp/files/files20240410101031.pdf"
+      ],
+      "mode": "tram",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n335656243",
+      "i": 2496,
+      "name": "広小路",
+      "original_en": "",
+      "en": "Hirokōji",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.manyosen.co.jp/files/files20240410101031.pdf"
+      ],
+      "mode": "tram",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n335656279",
+      "i": 2497,
+      "name": "新能町",
+      "original_en": "",
+      "en": "Shin-nōmachi",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.manyosen.co.jp/files/files20240410101031.pdf"
+      ],
+      "mode": "tram",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n335656283",
+      "i": 2498,
+      "name": "片原町",
+      "original_en": "",
+      "en": "Kataharamachi",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.manyosen.co.jp/files/files20240410101031.pdf"
+      ],
+      "mode": "tram",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n335656305",
+      "i": 2499,
+      "name": "旭ケ丘",
+      "original_en": "",
+      "en": "Asahigaoka",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.manyosen.co.jp/files/files20240410101031.pdf"
+      ],
+      "mode": "tram",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n335656318",
+      "i": 2500,
+      "name": "中伏木",
+      "original_en": "",
+      "en": "Naka-fushiki",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.manyosen.co.jp/files/files20240410101031.pdf"
+      ],
+      "mode": "tram",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n346138480",
+      "i": 2583,
+      "name": "今池",
+      "original_en": "",
+      "en": "Imaike",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/6484516249"
+      ],
+      "mode": "tram",
+      "source_tag": "name:en",
+      "distance_m": 1.3,
+      "source_id": "n6484516249",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n346138598",
+      "i": 2594,
+      "name": "新今宮駅前",
+      "original_en": "",
+      "en": "Shin-Imamiya-Ekimae",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/6095353586"
+      ],
+      "mode": "tram",
+      "source_tag": "name:en",
+      "distance_m": 1.4,
+      "source_id": "n6095353586",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n355837872",
+      "i": 2651,
+      "name": "宮本武蔵",
+      "original_en": "",
+      "en": "Miyamoto-Musashi",
+      "method": "Wikidata linked station label; Japanese name and position verified",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q6884337"
+      ],
+      "mode": "private",
+      "label_kind": "Wikidata Latin label",
+      "license": "CC0"
+    },
+    {
+      "id": "n355838112",
+      "i": 2653,
+      "name": "石井",
+      "original_en": "",
+      "en": "Ishii",
+      "method": "Wikidata linked station label; Japanese name and position verified",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q6080210"
+      ],
+      "mode": "private",
+      "label_kind": "Wikidata Latin label",
+      "license": "CC0"
+    },
+    {
+      "id": "n355838570",
+      "i": 2656,
+      "name": "平福",
+      "original_en": "",
+      "en": "Hirafuku",
+      "method": "Wikidata linked station label; Japanese name and position verified",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q11483463"
+      ],
+      "mode": "private",
+      "label_kind": "Wikidata Latin label",
+      "license": "CC0"
+    },
+    {
+      "id": "n357426942",
+      "i": 2675,
+      "name": "福田港",
+      "original_en": "",
+      "en": "Port of Fukuda",
+      "method": "Wikidata linked station label; Japanese name and position verified",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q11594213"
+      ],
+      "mode": "water",
+      "label_kind": "Wikidata Latin label",
+      "license": "CC0"
+    },
+    {
+      "id": "n380377104",
+      "i": 2722,
+      "name": "新所原",
+      "original_en": "",
+      "en": "Shinjohara",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/3998380426"
+      ],
+      "mode": "private",
+      "source_tag": "name:en",
+      "distance_m": 70.3,
+      "source_id": "n3998380426",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n503883287",
+      "i": 2890,
+      "name": "上熊谷",
+      "original_en": "",
+      "en": "Kami-Kumagaya",
+      "method": "existing OSM Latin tag",
+      "sources": [
+        "https://www.openstreetmap.org/node/503883287"
+      ],
+      "mode": "private",
+      "source_tag": "name:ja_rm",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n604137059",
+      "i": 2950,
+      "name": "阿夫利神社",
+      "original_en": "",
+      "en": "Afuri-Jinja",
+      "method": "existing OSM Latin tag",
+      "sources": [
+        "https://www.openstreetmap.org/node/604137059"
+      ],
+      "mode": "funicular",
+      "source_tag": "name:ja-Latn",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n823272628",
+      "i": 3072,
+      "name": "海老名",
+      "original_en": "",
+      "en": "Ebina",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/6996764834"
+      ],
+      "mode": "private",
+      "source_tag": "name:en",
+      "distance_m": 10.5,
+      "source_id": "n6996764834",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n1058466623",
+      "i": 3151,
+      "name": "乙原",
+      "original_en": "",
+      "en": "Otobaru",
+      "method": "Hepburn transliteration of explicit OSM reading",
+      "sources": [
+        "https://www.openstreetmap.org/node/1058466623"
+      ],
+      "mode": "funicular",
+      "reading": "おとばる",
+      "source_tag": "name:ja-Hira",
+      "label_kind": "generated romanization"
+    },
+    {
+      "id": "n1058466677",
+      "i": 3152,
+      "name": "雲泉寺",
+      "original_en": "",
+      "en": "Unsenji",
+      "method": "Hepburn transliteration of explicit OSM reading",
+      "sources": [
+        "https://www.openstreetmap.org/node/1058466677"
+      ],
+      "mode": "funicular",
+      "reading": "うんせんじ",
+      "source_tag": "name:ja-Hira",
+      "label_kind": "generated romanization"
+    },
+    {
+      "id": "n1121649854",
+      "i": 3184,
+      "name": "九商フェリー 島原フェリーターミナル",
+      "original_en": "",
+      "en": "Kyusho Ferry Shimabara Ferry Terminal",
+      "method": "existing OSM Latin tag",
+      "sources": [
+        "https://www.openstreetmap.org/node/1121649854"
+      ],
+      "mode": "water",
+      "source_tag": "int_name",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n1121649857",
+      "i": 3185,
+      "name": "Kumamoto Ferry Terminal",
+      "original_en": "",
+      "en": "Kumamoto Ferry Terminal",
+      "method": "original name already uses Latin script",
+      "sources": [
+        "https://www.openstreetmap.org/node/1121649857"
+      ],
+      "mode": "water",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n1441788609",
+      "i": 3254,
+      "name": "那覇（泊）",
+      "original_en": "",
+      "en": "Naha (Tomari port)",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/1441788828"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 73.3,
+      "source_id": "n1441788828",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n1444064271",
+      "i": 3260,
+      "name": "女木港",
+      "original_en": "",
+      "en": "Megikou",
+      "method": "existing OSM Latin tag",
+      "sources": [
+        "https://www.openstreetmap.org/node/1444064271"
+      ],
+      "mode": "water",
+      "source_tag": "name:ja-Latn",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n1618763351",
+      "i": 3282,
+      "name": "山頂駅",
+      "original_en": "",
+      "en": "Sanchō-eki",
+      "method": "existing OSM Latin tag",
+      "sources": [
+        "https://www.openstreetmap.org/node/1618763351"
+      ],
+      "mode": "ropeway",
+      "source_tag": "name:ja-Latn",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n1618763373",
+      "i": 3283,
+      "name": "山麓駅",
+      "original_en": "",
+      "en": "Sanroku-eki",
+      "method": "existing OSM Latin tag",
+      "sources": [
+        "https://www.openstreetmap.org/node/1618763373"
+      ],
+      "mode": "ropeway",
+      "source_tag": "name:ja-Latn",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n1727925081",
+      "i": 3301,
+      "name": "平野",
+      "original_en": "",
+      "en": "Hirano",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/13356864830"
+      ],
+      "mode": "jr",
+      "source_tag": "name:en",
+      "distance_m": 5.5,
+      "source_id": "n13356864830",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n1769294301",
+      "i": 3312,
+      "name": "長崎",
+      "original_en": "3",
+      "en": "Nagasaki",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/7340985759"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 817.9,
+      "source_id": "n7340985759",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n1868209391",
+      "i": 3352,
+      "name": "廿日市市役所前 (平良)",
+      "original_en": "",
+      "en": "Hatsukaichi-shiyakusho-mae(Hera)",
+      "method": "existing OSM Latin tag",
+      "sources": [
+        "https://www.openstreetmap.org/node/1868209391"
+      ],
+      "mode": "tram",
+      "source_tag": "name:ja_rm",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n2078830153",
+      "i": 3451,
+      "name": "とうげのゆ",
+      "original_en": "",
+      "en": "Tougenoyu",
+      "method": "Hepburn transliteration of kana-only source name",
+      "sources": [
+        "https://www.openstreetmap.org/node/2078830153"
+      ],
+      "mode": "private",
+      "reading": "とうげのゆ",
+      "label_kind": "generated romanization"
+    },
+    {
+      "id": "n2078830154",
+      "i": 3452,
+      "name": "ぶんかむら",
+      "original_en": "",
+      "en": "Bunkamura",
+      "method": "Hepburn transliteration of kana-only source name",
+      "sources": [
+        "https://www.openstreetmap.org/node/2078830154"
+      ],
+      "mode": "jr",
+      "reading": "ぶんかむら",
+      "label_kind": "generated romanization"
+    },
+    {
+      "id": "n2078830155",
+      "i": 3453,
+      "name": "まるやま",
+      "original_en": "",
+      "en": "Maruyama",
+      "method": "Hepburn transliteration of kana-only source name",
+      "sources": [
+        "https://www.openstreetmap.org/node/2078830155"
+      ],
+      "mode": "private",
+      "reading": "まるやま",
+      "label_kind": "generated romanization"
+    },
+    {
+      "id": "n2390304799",
+      "i": 3506,
+      "name": "グランドプラザ前",
+      "original_en": "",
+      "en": "Grand Plaza-mae",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.chitetsu.co.jp/english/img/trams/trams-linemap.gif"
+      ],
+      "mode": "tram",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n2390304801",
+      "i": 3508,
+      "name": "大手モール",
+      "original_en": "",
+      "en": "Ote Mall",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.chitetsu.co.jp/english/img/trams/trams-linemap.gif"
+      ],
+      "mode": "tram",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n2422406051",
+      "i": 3513,
+      "name": "山頂ステイション",
+      "original_en": "",
+      "en": "Sanchō suteishon",
+      "method": "existing OSM Latin tag",
+      "sources": [
+        "https://www.openstreetmap.org/node/2422406051"
+      ],
+      "mode": "ropeway",
+      "source_tag": "name:ja-Latn",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n2494792852",
+      "i": 3527,
+      "name": "一ノ堰六地蔵尊",
+      "original_en": "",
+      "en": "Itinosekirokujizouson",
+      "method": "Wikidata linked station label; Japanese name and position verified",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q11352294"
+      ],
+      "mode": "private",
+      "label_kind": "Wikidata Latin label",
+      "license": "CC0"
+    },
+    {
+      "id": "n2579262094",
+      "i": 3628,
+      "name": "ブルーボネット",
+      "original_en": "",
+      "en": "Burūbonetto",
+      "method": "Hepburn transliteration of kana-only source name",
+      "sources": [
+        "https://www.openstreetmap.org/node/2579262094"
+      ],
+      "mode": "water",
+      "reading": "ブルーボネット",
+      "label_kind": "generated romanization"
+    },
+    {
+      "id": "n2733538857",
+      "i": 3672,
+      "name": "鹿家",
+      "original_en": "",
+      "en": "Shikaka",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/265897075"
+      ],
+      "mode": "jr",
+      "source_tag": "name:en",
+      "distance_m": 37.2,
+      "source_id": "n265897075",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n2943848621",
+      "i": 3708,
+      "name": "新下関",
+      "original_en": "",
+      "en": "Shin-Shimonoseki",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/265937026"
+      ],
+      "mode": "jr",
+      "source_tag": "name:en",
+      "distance_m": 6.8,
+      "source_id": "n265937026",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n2978476466",
+      "i": 3711,
+      "name": "西町",
+      "original_en": "",
+      "en": "Nishicho",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.chitetsu.co.jp/english/img/trams/trams-linemap.gif"
+      ],
+      "mode": "tram",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n3150646035",
+      "i": 3839,
+      "name": "白樺",
+      "original_en": "",
+      "en": "Shirakaba",
+      "method": "Hepburn transliteration of explicit OSM reading",
+      "sources": [
+        "https://www.openstreetmap.org/node/3150646035"
+      ],
+      "mode": "ropeway",
+      "reading": "しらかば",
+      "source_tag": "name:ja-Hira",
+      "label_kind": "generated romanization"
+    },
+    {
+      "id": "n3957029079",
+      "i": 4248,
+      "name": "坂内",
+      "original_en": "",
+      "en": "Sakauchi",
+      "method": "Hepburn transliteration of explicit OSM reading",
+      "sources": [
+        "https://www.openstreetmap.org/node/3957029079"
+      ],
+      "mode": "water",
+      "reading": "さかうち",
+      "source_tag": "name:ja-Hira",
+      "label_kind": "generated romanization"
+    },
+    {
+      "id": "n4164240961",
+      "i": 4448,
+      "name": "スポーツ公園",
+      "original_en": "",
+      "en": "Sports Koen",
+      "method": "Wikidata linked station label; Japanese name and position verified",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q11313171"
+      ],
+      "mode": "tram",
+      "label_kind": "Wikidata Latin label",
+      "license": "CC0"
+    },
+    {
+      "id": "n4164240967",
+      "i": 4450,
+      "name": "清明",
+      "original_en": "",
+      "en": "Seimei",
+      "method": "Wikidata linked station label; Japanese name and position verified",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q11560658"
+      ],
+      "mode": "tram",
+      "label_kind": "Wikidata Latin label",
+      "license": "CC0"
+    },
+    {
+      "id": "n4590856206",
+      "i": 4631,
+      "name": "西之表",
+      "original_en": "",
+      "en": "Nishinoomote",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/4588764097"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 246.2,
+      "source_id": "n4588764097",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n4890815376",
+      "i": 4689,
+      "name": "Ieura Ferry Port",
+      "original_en": "",
+      "en": "Ieura Ferry Port",
+      "method": "original name already uses Latin script",
+      "sources": [
+        "https://www.openstreetmap.org/node/4890815376"
+      ],
+      "mode": "water",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n4917630471",
+      "i": 4696,
+      "name": "うちよけ",
+      "original_en": "",
+      "en": "Uchiyoke",
+      "method": "Hepburn transliteration of kana-only source name",
+      "sources": [
+        "https://www.openstreetmap.org/node/4917630471"
+      ],
+      "mode": "private",
+      "reading": "うちよけ",
+      "label_kind": "generated romanization"
+    },
+    {
+      "id": "n4988048814",
+      "i": 4720,
+      "name": "津島港",
+      "original_en": "",
+      "en": "Tsushima Port",
+      "method": "Wikidata linked station label; Japanese name and position verified",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q34966771"
+      ],
+      "mode": "water",
+      "label_kind": "Wikidata Latin label",
+      "license": "CC0"
+    },
+    {
+      "id": "n5198168174",
+      "i": 4742,
+      "name": "新吉久",
+      "original_en": "",
+      "en": "Shin-yoshihisa",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.manyosen.co.jp/files/files20240410101031.pdf"
+      ],
+      "mode": "tram",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n5198281103",
+      "i": 4743,
+      "name": "吉久",
+      "original_en": "",
+      "en": "Yoshihisa",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.manyosen.co.jp/files/files20240410101031.pdf"
+      ],
+      "mode": "tram",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n5203130018",
+      "i": 4747,
+      "name": "海王丸",
+      "original_en": "",
+      "en": "Kaiōmaru",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.manyosen.co.jp/files/files20240410101031.pdf"
+      ],
+      "mode": "tram",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n5261276819",
+      "i": 4769,
+      "name": "ハウステンボス",
+      "original_en": "",
+      "en": "Huis Ten Bosch",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/6871807890"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 1467.6,
+      "source_id": "n6871807890",
+      "label_kind": "source Latin label",
+      "requires_name": "ハウステンボス"
+    },
+    {
+      "id": "n5316282124",
+      "i": 4776,
+      "name": "泉大津",
+      "original_en": "",
+      "en": "Izumiōtsu",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/5557155726"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 1878.4,
+      "source_id": "n5557155726",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n5685127419",
+      "i": 4891,
+      "name": "工機前",
+      "original_en": "",
+      "en": "Kōkimae",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/822945758"
+      ],
+      "mode": "private",
+      "source_tag": "name:en",
+      "distance_m": 8.2,
+      "source_id": "n822945758",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n5969491231",
+      "i": 4983,
+      "name": "Matsushima Ferry",
+      "original_en": "",
+      "en": "Matsushima Ferry",
+      "method": "original name already uses Latin script",
+      "sources": [
+        "https://www.openstreetmap.org/node/5969491231"
+      ],
+      "mode": "water",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n6054993045",
+      "i": 5073,
+      "name": "もんじゅ",
+      "original_en": "",
+      "en": "Monju",
+      "method": "Hepburn transliteration of kana-only source name",
+      "sources": [
+        "https://www.openstreetmap.org/node/6054993045"
+      ],
+      "mode": "ropeway",
+      "reading": "もんじゅ",
+      "label_kind": "generated romanization"
+    },
+    {
+      "id": "n6060340456",
+      "i": 5092,
+      "name": "川西能勢口",
+      "original_en": "",
+      "en": "Kawanishi-Noseguchi",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/8193422979"
+      ],
+      "mode": "private",
+      "source_tag": "name:en",
+      "distance_m": 126.5,
+      "source_id": "n8193422979",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n6171954173",
+      "i": 5190,
+      "name": "大草山駅",
+      "original_en": "",
+      "en": "Ōkusayama",
+      "method": "Wikidata linked station label; Japanese name and position verified",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q11438668"
+      ],
+      "mode": "ropeway",
+      "label_kind": "Wikidata Latin label",
+      "license": "CC0"
+    },
+    {
+      "id": "n6390608785",
+      "i": 5261,
+      "name": "Naha Cruise Terminal",
+      "original_en": "",
+      "en": "Naha Cruise Terminal",
+      "method": "original name already uses Latin script",
+      "sources": [
+        "https://www.openstreetmap.org/node/6390608785"
+      ],
+      "mode": "water",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n7819725663",
+      "i": 5726,
+      "name": "西戸崎",
+      "original_en": "",
+      "en": "Saitozaki",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/2634123162"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 23.7,
+      "source_id": "n2634123162",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n7930645765",
+      "i": 5914,
+      "name": "Toba Marine Terminal",
+      "original_en": "",
+      "en": "Toba Marine Terminal",
+      "method": "original name already uses Latin script",
+      "sources": [
+        "https://www.openstreetmap.org/node/7930645765"
+      ],
+      "mode": "water",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n7931651996",
+      "i": 5915,
+      "name": "波止浜港",
+      "original_en": "",
+      "en": "Port of Hashihama",
+      "method": "Wikidata linked station label; Japanese name and position verified",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q11555557"
+      ],
+      "mode": "water",
+      "label_kind": "Wikidata Latin label",
+      "license": "CC0"
+    },
+    {
+      "id": "n8124008166",
+      "i": 6155,
+      "name": "金城ふ頭",
+      "original_en": "",
+      "en": "Kinjō-futō",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/282411531"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 288.9,
+      "source_id": "n282411531",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n8650307704",
+      "i": 6380,
+      "name": "桜木町",
+      "original_en": "",
+      "en": "Sakuragicho",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/264810179"
+      ],
+      "mode": "ropeway",
+      "source_tag": "name:en",
+      "distance_m": 76.3,
+      "source_id": "n264810179",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n8781158919",
+      "i": 6398,
+      "name": "龍谷富山高校前(永楽町)",
+      "original_en": "",
+      "en": "Ryukokutoyamakoko-mae (Eirakucho)",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.chitetsu.co.jp/english/img/trams/trams-linemap.gif"
+      ],
+      "mode": "tram",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n8781159019",
+      "i": 6399,
+      "name": "オークスカナルパークホテル富山前",
+      "original_en": "",
+      "en": "Oarks Canal Park Hotel Toyama-mae",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.chitetsu.co.jp/english/img/trams/trams-linemap.gif"
+      ],
+      "mode": "tram",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n9290706664",
+      "i": 6466,
+      "name": "長崎",
+      "original_en": "",
+      "en": "Nagasaki",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/7340985758"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 649.2,
+      "source_id": "n7340985758",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n9533766628",
+      "i": 6493,
+      "name": "Kamishima",
+      "original_en": "",
+      "en": "Kamishima",
+      "method": "original name already uses Latin script",
+      "sources": [
+        "https://www.openstreetmap.org/node/9533766628"
+      ],
+      "mode": "water",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n9569854717",
+      "i": 6496,
+      "name": "テクノさかき",
+      "original_en": "",
+      "en": "Tekuno-Sakaki",
+      "method": "existing OSM Latin tag",
+      "sources": [
+        "https://www.openstreetmap.org/node/9569854717"
+      ],
+      "mode": "private",
+      "source_tag": "name:ja-Latn",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n9967435471",
+      "i": 6538,
+      "name": "前郷",
+      "original_en": "",
+      "en": "Maego",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/270904175"
+      ],
+      "mode": "private",
+      "source_tag": "name:en",
+      "distance_m": 4.1,
+      "source_id": "n270904175",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n10271389399",
+      "i": 6558,
+      "name": "Hi-NODE",
+      "original_en": "",
+      "en": "Hi-NODE",
+      "method": "original name already uses Latin script",
+      "sources": [
+        "https://www.openstreetmap.org/node/10271389399"
+      ],
+      "mode": "water",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n10594575218",
+      "i": 6565,
+      "name": "てっぺんとりで",
+      "original_en": "",
+      "en": "Teppentoride",
+      "method": "Hepburn transliteration of kana-only source name",
+      "sources": [
+        "https://www.openstreetmap.org/node/10594575218"
+      ],
+      "mode": "guideway",
+      "reading": "てっぺんとりで",
+      "label_kind": "generated romanization"
+    },
+    {
+      "id": "n10629975683",
+      "i": 6566,
+      "name": "シギラ リフト オーシャンスカイ",
+      "original_en": "",
+      "en": "Shigira rifuto ōshansukai",
+      "method": "Hepburn transliteration of kana-only source name",
+      "sources": [
+        "https://www.openstreetmap.org/node/10629975683"
+      ],
+      "mode": "ropeway",
+      "reading": "シギラ リフト オーシャンスカイ",
+      "label_kind": "generated romanization"
+    },
+    {
+      "id": "n10682874870",
+      "i": 6567,
+      "name": "熊本フェリー 島原フェリーターミナル",
+      "original_en": "",
+      "en": "Kumamoto Ferry Shimabara Ferry Terminal",
+      "method": "existing OSM Latin tag",
+      "sources": [
+        "https://www.openstreetmap.org/node/10682874870"
+      ],
+      "mode": "water",
+      "source_tag": "int_name",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n11109217028",
+      "i": 6599,
+      "name": "みなとアクルス",
+      "original_en": "",
+      "en": "Minatoakurusu",
+      "method": "Hepburn transliteration of kana-only source name",
+      "sources": [
+        "https://www.openstreetmap.org/node/11109217028"
+      ],
+      "mode": "water",
+      "reading": "みなとアクルス",
+      "label_kind": "generated romanization"
+    },
+    {
+      "id": "n11109217037",
+      "i": 6600,
+      "name": "キャナルリゾート",
+      "original_en": "",
+      "en": "Kyanarurizōto",
+      "method": "Hepburn transliteration of kana-only source name",
+      "sources": [
+        "https://www.openstreetmap.org/node/11109217037"
+      ],
+      "mode": "water",
+      "reading": "キャナルリゾート",
+      "label_kind": "generated romanization"
+    },
+    {
+      "id": "n11109217054",
+      "i": 6601,
+      "name": "ささしまライブ",
+      "original_en": "",
+      "en": "Sasashima-raibu",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.aonamiline.co.jp/train/an02-sasashima-raibu/an02-fare"
+      ],
+      "mode": "water",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n11542331390",
+      "i": 6638,
+      "name": "はくぶつかんちゅうおう",
+      "original_en": "",
+      "en": "Hakubutsukanchuuou",
+      "method": "Hepburn transliteration of kana-only source name",
+      "sources": [
+        "https://www.openstreetmap.org/node/11542331390"
+      ],
+      "mode": "jr",
+      "reading": "はくぶつかんちゅうおう",
+      "label_kind": "generated romanization"
+    },
+    {
+      "id": "n11542331391",
+      "i": 6639,
+      "name": "はくぶつかんきた",
+      "original_en": "",
+      "en": "Hakubutsukankita",
+      "method": "Hepburn transliteration of kana-only source name",
+      "sources": [
+        "https://www.openstreetmap.org/node/11542331391"
+      ],
+      "mode": "jr",
+      "reading": "はくぶつかんきた",
+      "label_kind": "generated romanization"
+    },
+    {
+      "id": "n11993514632",
+      "i": 6664,
+      "name": "長井駅",
+      "original_en": "",
+      "en": "Nagai",
+      "method": "same-station OSM Latin name; platform descriptor translated",
+      "sources": [
+        "https://www.openstreetmap.org/node/6126052079",
+        "https://www.openstreetmap.org/node/11993514632"
+      ],
+      "mode": "private",
+      "source_id": "n6126052079",
+      "distance_m": 39.6,
+      "label_kind": "source Latin name with translated descriptor"
+    },
+    {
+      "id": "n12022602625",
+      "i": 6665,
+      "name": "小倉",
+      "original_en": "",
+      "en": "Kokura",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/5586190300"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 443.9,
+      "source_id": "n5586190300",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n12301989859",
+      "i": 6685,
+      "name": "参道",
+      "original_en": "",
+      "en": "Sandō",
+      "method": "existing OSM Latin tag",
+      "sources": [
+        "https://www.openstreetmap.org/node/12301989859"
+      ],
+      "mode": "guideway",
+      "source_tag": "name:ja-Latn",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n12301989863",
+      "i": 6686,
+      "name": "花",
+      "original_en": "",
+      "en": "Hana",
+      "method": "existing OSM Latin tag",
+      "sources": [
+        "https://www.openstreetmap.org/node/12301989863"
+      ],
+      "mode": "guideway",
+      "source_tag": "name:ja-Latn",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n12301989864",
+      "i": 6687,
+      "name": "神",
+      "original_en": "",
+      "en": "Kami",
+      "method": "existing OSM Latin tag",
+      "sources": [
+        "https://www.openstreetmap.org/node/12301989864"
+      ],
+      "mode": "guideway",
+      "source_tag": "name:ja-Latn",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n13165767449",
+      "i": 6748,
+      "name": "天竜二俣",
+      "original_en": "",
+      "en": "Tenryu-Futamata",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.tenhama.co.jp/jazz-train-en/img/tenhama_en_ura.pdf"
+      ],
+      "mode": "private",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n13196884407",
+      "i": 6749,
+      "name": "下ノ江",
+      "original_en": "",
+      "en": "Shitanoe",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/7079484056"
+      ],
+      "mode": "jr",
+      "source_tag": "name:en",
+      "distance_m": 79.1,
+      "source_id": "n7079484056",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n13382472215",
+      "i": 6763,
+      "name": "東玉出",
+      "original_en": "",
+      "en": "Higashi-Tamade",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/346138592"
+      ],
+      "mode": "tram",
+      "source_tag": "name:en",
+      "distance_m": 23.3,
+      "source_id": "n346138592",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n13382506863",
+      "i": 6764,
+      "name": "浜寺公園",
+      "original_en": "",
+      "en": "Hamaderakōen",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/5471832081"
+      ],
+      "mode": "private",
+      "source_tag": "name:en",
+      "distance_m": 21.8,
+      "source_id": "n5471832081",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n13394355122",
+      "i": 6766,
+      "name": "諏訪ノ森",
+      "original_en": "",
+      "en": "Suwanomori",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/8157932651"
+      ],
+      "mode": "private",
+      "source_tag": "name:en",
+      "distance_m": 24.0,
+      "source_id": "n8157932651",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n13410388237",
+      "i": 6768,
+      "name": "升形",
+      "original_en": "",
+      "en": "Masukata",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/264402593"
+      ],
+      "mode": "jr",
+      "source_tag": "name:en",
+      "distance_m": 145.3,
+      "source_id": "n264402593",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n13659233512",
+      "i": 6799,
+      "name": "Hiroshima World Heritage River Cruise",
+      "original_en": "",
+      "en": "Hiroshima World Heritage River Cruise",
+      "method": "original name already uses Latin script",
+      "sources": [
+        "https://www.openstreetmap.org/node/13659233512"
+      ],
+      "mode": "water",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n14203211463",
+      "i": 6819,
+      "name": "モノレールのりば",
+      "original_en": "",
+      "en": "Monorērunoriba",
+      "method": "Hepburn transliteration of kana-only source name",
+      "sources": [
+        "https://www.openstreetmap.org/node/14203211463"
+      ],
+      "mode": "guideway",
+      "reading": "モノレールのりば",
+      "label_kind": "generated romanization"
+    },
+    {
+      "id": "n14275649509",
+      "i": 6820,
+      "name": "藤枝駅",
+      "original_en": "",
+      "en": "Fujieda",
+      "method": "same-station OSM Latin name; platform descriptor translated",
+      "sources": [
+        "https://www.openstreetmap.org/node/8134092541",
+        "https://www.openstreetmap.org/node/14275649509"
+      ],
+      "mode": "jr",
+      "source_id": "n8134092541",
+      "distance_m": 7.0,
+      "label_kind": "source Latin name with translated descriptor"
+    },
+    {
+      "id": "w356872753",
+      "i": 6822,
+      "name": "ケーブル八幡宮山上",
+      "original_en": "",
+      "en": "Cable-hachimangu-sanjo Station",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/339090275"
+      ],
+      "mode": "funicular",
+      "source_tag": "name:en",
+      "distance_m": 12.4,
+      "source_id": "n339090275",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "w1511441736",
+      "i": 6830,
+      "name": "HAGA FOREST STATION",
+      "original_en": "",
+      "en": "HAGA FOREST STATION",
+      "method": "original name already uses Latin script",
+      "sources": [
+        "https://www.openstreetmap.org/way/1511441736"
+      ],
+      "mode": "private",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n263067631",
+      "i": 6907,
+      "name": "川前",
+      "original_en": "",
+      "en": "Kawamae",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/6373821438"
+      ],
+      "mode": "jr",
+      "source_tag": "name:en",
+      "distance_m": 32.9,
+      "source_id": "n6373821438",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n263251255",
+      "i": 6976,
+      "name": "会津田島",
+      "original_en": "",
+      "en": "Aizu-Tajima",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/3736313340"
+      ],
+      "mode": "private",
+      "source_tag": "name:en",
+      "distance_m": 5.2,
+      "source_id": "n3736313340",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n264261732",
+      "i": 7092,
+      "name": "あつみ温泉",
+      "original_en": "",
+      "en": "Atsumi Onsen",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/5643402055"
+      ],
+      "mode": "jr",
+      "source_tag": "name:en",
+      "distance_m": 5.6,
+      "source_id": "n5643402055",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n264400819",
+      "i": 7102,
+      "name": "中山平温泉",
+      "original_en": "",
+      "en": "Nakayamadaira-Onsen",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/11282257041"
+      ],
+      "mode": "jr",
+      "source_tag": "name:en",
+      "distance_m": 3.6,
+      "source_id": "n11282257041",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n264409011",
+      "i": 7138,
+      "name": "手ノ子",
+      "original_en": "",
+      "en": "Tenoko",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/6125953736"
+      ],
+      "mode": "jr",
+      "source_tag": "name:ja-Latn",
+      "distance_m": 4.2,
+      "source_id": "n6125953736",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n264864381",
+      "i": 7266,
+      "name": "辰野",
+      "original_en": "",
+      "en": "Tatsuno",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/4354961923"
+      ],
+      "mode": "jr",
+      "source_tag": "name:en",
+      "distance_m": 3.9,
+      "source_id": "n4354961923",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n265002213",
+      "i": 7298,
+      "name": "坂城",
+      "original_en": "",
+      "en": "Sakaki",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/7196381325"
+      ],
+      "mode": "private",
+      "source_tag": "name:en",
+      "distance_m": 5.3,
+      "source_id": "n7196381325",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n265003379",
+      "i": 7299,
+      "name": "江川崎駅1番線",
+      "original_en": "",
+      "en": "Ekawasaki · Platform 1",
+      "method": "same-station OSM Latin name; platform descriptor translated",
+      "sources": [
+        "https://www.openstreetmap.org/node/5151491154",
+        "https://www.openstreetmap.org/node/265003379"
+      ],
+      "mode": "jr",
+      "source_id": "n5151491154",
+      "distance_m": 36.3,
+      "label_kind": "source Latin name with translated descriptor"
+    },
+    {
+      "id": "n265041397",
+      "i": 7421,
+      "name": "津",
+      "original_en": "",
+      "en": "Tsu",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/265826103"
+      ],
+      "mode": "private",
+      "source_tag": "name:en",
+      "distance_m": 34.1,
+      "source_id": "n265826103",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n265828625",
+      "i": 7433,
+      "name": "飛驒一ノ宮",
+      "original_en": "",
+      "en": "Hida-Ichinomiya",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/5926164485"
+      ],
+      "mode": "jr",
+      "source_tag": "name:en",
+      "distance_m": 3.3,
+      "source_id": "n5926164485",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n265835289",
+      "i": 7470,
+      "name": "浜北",
+      "original_en": "",
+      "en": "Hamakita",
+      "method": "Wikidata linked station label; Japanese name and position verified",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5644006"
+      ],
+      "mode": "private",
+      "label_kind": "Wikidata Latin label",
+      "license": "CC0"
+    },
+    {
+      "id": "n265912281",
+      "i": 7602,
+      "name": "吉永",
+      "original_en": "",
+      "en": "Yoshinaga",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/6375713042"
+      ],
+      "mode": "jr",
+      "source_tag": "name:en",
+      "distance_m": 6.6,
+      "source_id": "n6375713042",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n266046064",
+      "i": 7730,
+      "name": "小牧口",
+      "original_en": "",
+      "en": "Komakiguchi",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/6633357065"
+      ],
+      "mode": "private",
+      "source_tag": "name:en",
+      "distance_m": 3.4,
+      "source_id": "n6633357065",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n266046801",
+      "i": 7735,
+      "name": "豊田市",
+      "original_en": "",
+      "en": "Toyotashi",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/4919750670"
+      ],
+      "mode": "private",
+      "source_tag": "name:en",
+      "distance_m": 2.8,
+      "source_id": "n4919750670",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n267303498",
+      "i": 8019,
+      "name": "草津駅6番のりば",
+      "original_en": "",
+      "en": "Kusatsu · Platform 6",
+      "method": "same-station OSM Latin name; platform descriptor translated",
+      "sources": [
+        "https://www.openstreetmap.org/node/4289542226",
+        "https://www.openstreetmap.org/node/267303498"
+      ],
+      "mode": "jr",
+      "source_id": "n4289542226",
+      "distance_m": 18.9,
+      "label_kind": "source Latin name with translated descriptor"
+    },
+    {
+      "id": "n267335524",
+      "i": 8075,
+      "name": "浅香",
+      "original_en": "",
+      "en": "Asaka",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/4457234093"
+      ],
+      "mode": "jr",
+      "source_tag": "name:en",
+      "distance_m": 3.7,
+      "source_id": "n4457234093",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n267336192",
+      "i": 8079,
+      "name": "六十谷",
+      "original_en": "",
+      "en": "Musota",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/267336452"
+      ],
+      "mode": "jr",
+      "source_tag": "name:en",
+      "distance_m": 1.6,
+      "source_id": "n267336452",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n309465917",
+      "i": 8476,
+      "name": "山上",
+      "original_en": "",
+      "en": "Sanjō",
+      "method": "existing OSM Latin tag",
+      "sources": [
+        "https://www.openstreetmap.org/node/309465917"
+      ],
+      "mode": "ropeway",
+      "source_tag": "name:ja-Latn",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n333538832",
+      "i": 8506,
+      "name": "師崎港",
+      "original_en": "",
+      "en": "Port of Morozaki",
+      "method": "Wikidata linked station label; Japanese name and position verified",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q11481113"
+      ],
+      "mode": "water",
+      "label_kind": "Wikidata Latin label",
+      "license": "CC0"
+    },
+    {
+      "id": "n355834780",
+      "i": 8744,
+      "name": "磯部",
+      "original_en": "",
+      "en": "Isobe",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/7826372584"
+      ],
+      "mode": "private",
+      "source_tag": "name:en",
+      "distance_m": 2.6,
+      "source_id": "n7826372584",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n355834815",
+      "i": 8745,
+      "name": "三口",
+      "original_en": "",
+      "en": "Mitsukuchi",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/8568997247"
+      ],
+      "mode": "private",
+      "source_tag": "name:en",
+      "distance_m": 1.5,
+      "source_id": "n8568997247",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n355834817",
+      "i": 8746,
+      "name": "割出",
+      "original_en": "",
+      "en": "Waridashi",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/7826378581"
+      ],
+      "mode": "private",
+      "source_tag": "name:en",
+      "distance_m": 2.0,
+      "source_id": "n7826378581",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n355834822",
+      "i": 8747,
+      "name": "上諸江",
+      "original_en": "",
+      "en": "Kamimoroe",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/8568997253"
+      ],
+      "mode": "private",
+      "source_tag": "name:en",
+      "distance_m": 1.6,
+      "source_id": "n8568997253",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n355834838",
+      "i": 8748,
+      "name": "北鉄金沢",
+      "original_en": "",
+      "en": "Hokutetsu Kanazawa",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/7826372778"
+      ],
+      "mode": "private",
+      "source_tag": "name:en",
+      "distance_m": 3.5,
+      "source_id": "n7826372778",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n355834915",
+      "i": 8749,
+      "name": "北間",
+      "original_en": "",
+      "en": "Kitama",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/8568997244"
+      ],
+      "mode": "private",
+      "source_tag": "name:en",
+      "distance_m": 0.8,
+      "source_id": "n8568997244",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n355834922",
+      "i": 8750,
+      "name": "三ツ屋",
+      "original_en": "",
+      "en": "Mitsuya",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/9009657749"
+      ],
+      "mode": "private",
+      "source_tag": "name:en",
+      "distance_m": 2.0,
+      "source_id": "n9009657749",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n355834928",
+      "i": 8751,
+      "name": "大河端",
+      "original_en": "",
+      "en": "Okobata",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/8568997245"
+      ],
+      "mode": "private",
+      "source_tag": "name:en",
+      "distance_m": 4.6,
+      "source_id": "n8568997245",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n355834931",
+      "i": 8752,
+      "name": "粟ヶ崎",
+      "original_en": "",
+      "en": "Awagasaki",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/7826378669"
+      ],
+      "mode": "private",
+      "source_tag": "name:en",
+      "distance_m": 2.0,
+      "source_id": "n7826378669",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n822940576",
+      "i": 9127,
+      "name": "花隈",
+      "original_en": "",
+      "en": "Hanakuma",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/4044961638"
+      ],
+      "mode": "private",
+      "source_tag": "name:en",
+      "distance_m": 2.1,
+      "source_id": "n4044961638",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n822945860",
+      "i": 9131,
+      "name": "高田の鉄橋",
+      "original_en": "",
+      "en": "Takadano-Tekkyo",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/5690791083"
+      ],
+      "mode": "private",
+      "source_tag": "name:en",
+      "distance_m": 4.4,
+      "source_id": "n5690791083",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n925040959",
+      "i": 9166,
+      "name": "新桐生",
+      "original_en": "",
+      "en": "Shin-Kiryu",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/3934184665"
+      ],
+      "mode": "private",
+      "source_tag": "name:en",
+      "distance_m": 12.4,
+      "source_id": "n3934184665",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n1133422970",
+      "i": 9194,
+      "name": "栗林公園",
+      "original_en": "",
+      "en": "Ritsurin-Koen",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/6887308118"
+      ],
+      "mode": "private",
+      "source_tag": "name:en",
+      "distance_m": 3.4,
+      "source_id": "n6887308118",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n1441655209",
+      "i": 9219,
+      "name": "須ノ浦",
+      "original_en": "",
+      "en": "Sunoura",
+      "method": "Hepburn transliteration of explicit OSM reading",
+      "sources": [
+        "https://www.openstreetmap.org/node/1441655209"
+      ],
+      "mode": "water",
+      "reading": "すのうら",
+      "source_tag": "name:ja-Hira",
+      "label_kind": "generated romanization"
+    },
+    {
+      "id": "n1574105704",
+      "i": 9247,
+      "name": "旭橋",
+      "original_en": "",
+      "en": "Asahibashi",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/6540547645"
+      ],
+      "mode": "guideway",
+      "source_tag": "name:en",
+      "distance_m": 2.8,
+      "source_id": "n6540547645",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n1717461463",
+      "i": 9293,
+      "name": "竹芝桟橋",
+      "original_en": "",
+      "en": "Takeshiba-sanbashi",
+      "method": "existing OSM Latin tag",
+      "sources": [
+        "https://www.openstreetmap.org/node/1717461463"
+      ],
+      "mode": "water",
+      "source_tag": "name:ja_rm",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n1781191896",
+      "i": 9303,
+      "name": "中腹",
+      "original_en": "",
+      "en": "Chūfuku",
+      "method": "existing OSM Latin tag",
+      "sources": [
+        "https://www.openstreetmap.org/node/1781191896"
+      ],
+      "mode": "ropeway",
+      "source_tag": "name:ja-Latn",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n1781193979",
+      "i": 9304,
+      "name": "中腹駅",
+      "original_en": "",
+      "en": "Chūfuku",
+      "method": "existing OSM Latin tag",
+      "sources": [
+        "https://www.openstreetmap.org/node/1781193979"
+      ],
+      "mode": "funicular",
+      "source_tag": "name:ja-Latn",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n1781193981",
+      "i": 9305,
+      "name": "山頂",
+      "original_en": "",
+      "en": "Sanchō",
+      "method": "existing OSM Latin tag",
+      "sources": [
+        "https://www.openstreetmap.org/node/1781193981"
+      ],
+      "mode": "funicular",
+      "source_tag": "name:ja-Latn",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n1833393335",
+      "i": 9318,
+      "name": "杭瀬",
+      "original_en": "",
+      "en": "Kuise",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/3632635132"
+      ],
+      "mode": "private",
+      "source_tag": "name:en",
+      "distance_m": 1.4,
+      "source_id": "n3632635132",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n1882466235",
+      "i": 9345,
+      "name": "Odaiba Mooring",
+      "original_en": "",
+      "en": "Odaiba Mooring",
+      "method": "original name already uses Latin script",
+      "sources": [
+        "https://www.openstreetmap.org/node/1882466235"
+      ],
+      "mode": "water",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n2007457466",
+      "i": 9431,
+      "name": "かんざんじ駅",
+      "original_en": "",
+      "en": "Kanzanji",
+      "method": "Wikidata linked station label; Japanese name and position verified",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q11264540"
+      ],
+      "mode": "ropeway",
+      "label_kind": "Wikidata Latin label",
+      "license": "CC0"
+    },
+    {
+      "id": "n2097593957",
+      "i": 9454,
+      "name": "山頂",
+      "original_en": "",
+      "en": "Sanchō",
+      "method": "existing OSM Latin tag",
+      "sources": [
+        "https://www.openstreetmap.org/node/2097593957"
+      ],
+      "mode": "ropeway",
+      "source_tag": "name:ja-Latn",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n2097593958",
+      "i": 9455,
+      "name": "山麓",
+      "original_en": "",
+      "en": "Sanroku",
+      "method": "existing OSM Latin tag",
+      "sources": [
+        "https://www.openstreetmap.org/node/2097593958"
+      ],
+      "mode": "ropeway",
+      "source_tag": "name:ja-Latn",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n2311122148",
+      "i": 9490,
+      "name": "西若松",
+      "original_en": "",
+      "en": "Nishi-Wakamatsu",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/3736313344"
+      ],
+      "mode": "jr",
+      "source_tag": "name:en",
+      "distance_m": 4.5,
+      "source_id": "n3736313344",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n2468388679",
+      "i": 9529,
+      "name": "高尾山口",
+      "original_en": "",
+      "en": "Takaosanguchi",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/6003241794"
+      ],
+      "mode": "private",
+      "source_tag": "name:en",
+      "distance_m": 14.5,
+      "source_id": "n6003241794",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n2519428653",
+      "i": 9542,
+      "name": "和歌山港",
+      "original_en": "",
+      "en": "Wakayama Port",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/12039419288"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 25.0,
+      "source_id": "n12039419288",
+      "label_kind": "source Latin label",
+      "requires_name": "和歌山港"
+    },
+    {
+      "id": "n2624357923",
+      "i": 9616,
+      "name": "津久野",
+      "original_en": "",
+      "en": "Tsukuno",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/4458397954"
+      ],
+      "mode": "jr",
+      "source_tag": "name:en",
+      "distance_m": 1.8,
+      "source_id": "n4458397954",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n2646852473",
+      "i": 9620,
+      "name": "貴生川駅1番のりば",
+      "original_en": "",
+      "en": "Kibukawa · Platform 1",
+      "method": "Wikidata linked station label; Japanese name and position verified",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q865712"
+      ],
+      "mode": "jr",
+      "label_kind": "Wikidata Latin label",
+      "license": "CC0"
+    },
+    {
+      "id": "n2674791563",
+      "i": 9639,
+      "name": "貴生川駅3番のりば",
+      "original_en": "",
+      "en": "Kibukawa · Platform 3",
+      "method": "Wikidata linked station label; Japanese name and position verified",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q865712"
+      ],
+      "mode": "jr",
+      "label_kind": "Wikidata Latin label",
+      "license": "CC0"
+    },
+    {
+      "id": "n2812948350",
+      "i": 9651,
+      "name": "山頂駅",
+      "original_en": "",
+      "en": "Sanchō-eki",
+      "method": "existing OSM Latin tag",
+      "sources": [
+        "https://www.openstreetmap.org/node/2812948350"
+      ],
+      "mode": "ropeway",
+      "source_tag": "name:ja-Latn",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n2812948351",
+      "i": 9652,
+      "name": "山麓駅",
+      "original_en": "",
+      "en": "Sanroku-eki",
+      "method": "existing OSM Latin tag",
+      "sources": [
+        "https://www.openstreetmap.org/node/2812948351"
+      ],
+      "mode": "ropeway",
+      "source_tag": "name:ja-Latn",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n3197058761",
+      "i": 9693,
+      "name": "西川原",
+      "original_en": "",
+      "en": "Nishigawara",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/3197058890"
+      ],
+      "mode": "jr",
+      "source_tag": "name:en",
+      "distance_m": 1.7,
+      "source_id": "n3197058890",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n3242615084",
+      "i": 9697,
+      "name": "出町柳駅2番線",
+      "original_en": "",
+      "en": "Demachiyanagi · Platform 2",
+      "method": "same-station OSM Latin name; platform descriptor translated",
+      "sources": [
+        "https://www.openstreetmap.org/node/3242615085",
+        "https://www.openstreetmap.org/node/3242615084"
+      ],
+      "mode": "private",
+      "source_id": "n3242615085",
+      "distance_m": 4.5,
+      "label_kind": "source Latin name with translated descriptor"
+    },
+    {
+      "id": "n3389173102",
+      "i": 9724,
+      "name": "長岡京駅1番のりば",
+      "original_en": "",
+      "en": "Nagaokakyō · Platform 1",
+      "method": "Wikidata linked station label; Japanese name and position verified",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q780734"
+      ],
+      "mode": "jr",
+      "label_kind": "Wikidata Latin label",
+      "license": "CC0"
+    },
+    {
+      "id": "n3389173103",
+      "i": 9725,
+      "name": "長岡京駅3番のりば",
+      "original_en": "",
+      "en": "Nagaokakyō · Platform 3",
+      "method": "same-station OSM Latin name; platform descriptor translated",
+      "sources": [
+        "https://www.openstreetmap.org/node/3389173105",
+        "https://www.openstreetmap.org/node/3389173103"
+      ],
+      "mode": "jr",
+      "source_id": "n3389173105",
+      "distance_m": 1.4,
+      "label_kind": "source Latin name with translated descriptor"
+    },
+    {
+      "id": "n3389173106",
+      "i": 9726,
+      "name": "長岡京駅2番のりば",
+      "original_en": "",
+      "en": "Nagaokakyō · Platform 2",
+      "method": "Wikidata linked station label; Japanese name and position verified",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q780734"
+      ],
+      "mode": "jr",
+      "label_kind": "Wikidata Latin label",
+      "license": "CC0"
+    },
+    {
+      "id": "n3632634950",
+      "i": 9751,
+      "name": "福島",
+      "original_en": "",
+      "en": "Fukushima",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/3909772561"
+      ],
+      "mode": "private",
+      "source_tag": "name:en",
+      "distance_m": 59.7,
+      "source_id": "n3909772561",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n3635297524",
+      "i": 9754,
+      "name": "草津駅3番のりば",
+      "original_en": "",
+      "en": "Kusatsu · Platform 3",
+      "method": "same-station OSM Latin name; platform descriptor translated",
+      "sources": [
+        "https://www.openstreetmap.org/node/4289542226",
+        "https://www.openstreetmap.org/node/3635297524"
+      ],
+      "mode": "jr",
+      "source_id": "n4289542226",
+      "distance_m": 5.7,
+      "label_kind": "source Latin name with translated descriptor"
+    },
+    {
+      "id": "n3635297527",
+      "i": 9755,
+      "name": "草津駅4番のりば",
+      "original_en": "",
+      "en": "Kusatsu · Platform 4",
+      "method": "same-station OSM Latin name; platform descriptor translated",
+      "sources": [
+        "https://www.openstreetmap.org/node/4289542226",
+        "https://www.openstreetmap.org/node/3635297527"
+      ],
+      "mode": "jr",
+      "source_id": "n4289542226",
+      "distance_m": 6.7,
+      "label_kind": "source Latin name with translated descriptor"
+    },
+    {
+      "id": "n3635297530",
+      "i": 9756,
+      "name": "草津駅5番のりば",
+      "original_en": "",
+      "en": "Kusatsu · Platform 5",
+      "method": "same-station OSM Latin name; platform descriptor translated",
+      "sources": [
+        "https://www.openstreetmap.org/node/4289542226",
+        "https://www.openstreetmap.org/node/3635297530"
+      ],
+      "mode": "jr",
+      "source_id": "n4289542226",
+      "distance_m": 9.9,
+      "label_kind": "source Latin name with translated descriptor"
+    },
+    {
+      "id": "n3635427155",
+      "i": 9757,
+      "name": "草津駅2番のりば",
+      "original_en": "",
+      "en": "Kusatsu · Platform 2",
+      "method": "same-station OSM Latin name; platform descriptor translated",
+      "sources": [
+        "https://www.openstreetmap.org/node/4289542226",
+        "https://www.openstreetmap.org/node/3635427155"
+      ],
+      "mode": "jr",
+      "source_id": "n4289542226",
+      "distance_m": 75.9,
+      "label_kind": "source Latin name with translated descriptor"
+    },
+    {
+      "id": "n3656400758",
+      "i": 9761,
+      "name": "草津駅1番のりば",
+      "original_en": "",
+      "en": "Kusatsu · Platform 1",
+      "method": "same-station OSM Latin name; platform descriptor translated",
+      "sources": [
+        "https://www.openstreetmap.org/node/4289542226",
+        "https://www.openstreetmap.org/node/3656400758"
+      ],
+      "mode": "jr",
+      "source_id": "n4289542226",
+      "distance_m": 78.7,
+      "label_kind": "source Latin name with translated descriptor"
+    },
+    {
+      "id": "n3671250349",
+      "i": 9762,
+      "name": "御代田",
+      "original_en": "",
+      "en": "Miyota",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/7196388299"
+      ],
+      "mode": "private",
+      "source_tag": "name:en",
+      "distance_m": 4.0,
+      "source_id": "n7196388299",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n3732686773",
+      "i": 9775,
+      "name": "門司港",
+      "original_en": "",
+      "en": "Mojikō",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/1986611010"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 172.3,
+      "source_id": "n1986611010",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n3902067223",
+      "i": 9800,
+      "name": "兵庫",
+      "original_en": "",
+      "en": "Hyōgo",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/3902067224"
+      ],
+      "mode": "jr",
+      "source_tag": "name:en",
+      "distance_m": 13.4,
+      "source_id": "n3902067224",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n3957029799",
+      "i": 9809,
+      "name": "下中山",
+      "original_en": "",
+      "en": "Shimonakayama",
+      "method": "Hepburn transliteration of explicit OSM reading",
+      "sources": [
+        "https://www.openstreetmap.org/node/3957029799"
+      ],
+      "mode": "water",
+      "reading": "しもなかやま",
+      "source_tag": "name:ja-Hira",
+      "label_kind": "generated romanization"
+    },
+    {
+      "id": "n3957029802",
+      "i": 9810,
+      "name": "今川内",
+      "original_en": "",
+      "en": "Kongauchi",
+      "method": "Hepburn transliteration of explicit OSM reading",
+      "sources": [
+        "https://www.openstreetmap.org/node/3957029802"
+      ],
+      "mode": "water",
+      "reading": "こんがうち",
+      "source_tag": "name:ja-Hira",
+      "label_kind": "generated romanization"
+    },
+    {
+      "id": "n3957029806",
+      "i": 9811,
+      "name": "埋立",
+      "original_en": "",
+      "en": "Umetate",
+      "method": "Hepburn transliteration of explicit OSM reading",
+      "sources": [
+        "https://www.openstreetmap.org/node/3957029806"
+      ],
+      "mode": "water",
+      "reading": "うめたて",
+      "source_tag": "name:ja-Hira",
+      "label_kind": "generated romanization"
+    },
+    {
+      "id": "n3957029808",
+      "i": 9812,
+      "name": "塩間",
+      "original_en": "",
+      "en": "Shiwai",
+      "method": "Hepburn transliteration of explicit OSM reading",
+      "sources": [
+        "https://www.openstreetmap.org/node/3957029808"
+      ],
+      "mode": "water",
+      "reading": "しわい",
+      "source_tag": "name:ja-Hira",
+      "label_kind": "generated romanization"
+    },
+    {
+      "id": "n3957029816",
+      "i": 9813,
+      "name": "松ヶ崎",
+      "original_en": "",
+      "en": "Matsugasaki",
+      "method": "Hepburn transliteration of explicit OSM reading",
+      "sources": [
+        "https://www.openstreetmap.org/node/3957029816"
+      ],
+      "mode": "water",
+      "reading": "まつがさき",
+      "source_tag": "name:ja-Hira",
+      "label_kind": "generated romanization"
+    },
+    {
+      "id": "n3957029817",
+      "i": 9814,
+      "name": "横浪",
+      "original_en": "",
+      "en": "Yokonami",
+      "method": "Hepburn transliteration of explicit OSM reading",
+      "sources": [
+        "https://www.openstreetmap.org/node/3957029817"
+      ],
+      "mode": "water",
+      "reading": "よこなみ",
+      "source_tag": "name:ja-Hira",
+      "label_kind": "generated romanization"
+    },
+    {
+      "id": "n3957029820",
+      "i": 9815,
+      "name": "深浦",
+      "original_en": "",
+      "en": "Fukaura",
+      "method": "Hepburn transliteration of explicit OSM reading",
+      "sources": [
+        "https://www.openstreetmap.org/node/3957029820"
+      ],
+      "mode": "water",
+      "reading": "ふかうら",
+      "source_tag": "name:ja-Hira",
+      "label_kind": "generated romanization"
+    },
+    {
+      "id": "n3957029825",
+      "i": 9816,
+      "name": "福良",
+      "original_en": "",
+      "en": "Fukura",
+      "method": "Hepburn transliteration of explicit OSM reading",
+      "sources": [
+        "https://www.openstreetmap.org/node/3957029825"
+      ],
+      "mode": "water",
+      "reading": "ふくら",
+      "source_tag": "name:ja-Hira",
+      "label_kind": "generated romanization"
+    },
+    {
+      "id": "n3957029838",
+      "i": 9817,
+      "name": "長崎",
+      "original_en": "",
+      "en": "Nagasaki",
+      "method": "Hepburn transliteration of explicit OSM reading",
+      "sources": [
+        "https://www.openstreetmap.org/node/3957029838"
+      ],
+      "mode": "water",
+      "reading": "ながさき",
+      "source_tag": "name:ja-Hira",
+      "label_kind": "generated romanization"
+    },
+    {
+      "id": "n3957029839",
+      "i": 9818,
+      "name": "鳴無",
+      "original_en": "",
+      "en": "Otonashi",
+      "method": "Hepburn transliteration of explicit OSM reading",
+      "sources": [
+        "https://www.openstreetmap.org/node/3957029839"
+      ],
+      "mode": "water",
+      "reading": "おとなし",
+      "source_tag": "name:ja-Hira",
+      "label_kind": "generated romanization"
+    },
+    {
+      "id": "n3964246742",
+      "i": 9820,
+      "name": "八瀬比叡山口駅1番線",
+      "original_en": "",
+      "en": "Yase-Hieizanguchi · Platform 1",
+      "method": "same-station OSM Latin name; platform descriptor translated",
+      "sources": [
+        "https://www.openstreetmap.org/node/335671739",
+        "https://www.openstreetmap.org/node/3964246742"
+      ],
+      "mode": "private",
+      "source_id": "n335671739",
+      "distance_m": 2.1,
+      "label_kind": "source Latin name with translated descriptor"
+    },
+    {
+      "id": "n3964246743",
+      "i": 9821,
+      "name": "八瀬比叡山口駅2番線",
+      "original_en": "",
+      "en": "Yase-Hieizanguchi · Platform 2",
+      "method": "same-station OSM Latin name; platform descriptor translated",
+      "sources": [
+        "https://www.openstreetmap.org/node/335671739",
+        "https://www.openstreetmap.org/node/3964246743"
+      ],
+      "mode": "private",
+      "source_id": "n335671739",
+      "distance_m": 2.2,
+      "label_kind": "source Latin name with translated descriptor"
+    },
+    {
+      "id": "n3964246744",
+      "i": 9822,
+      "name": "三宅八幡駅宝ヶ池・出町柳方面のりば",
+      "original_en": "",
+      "en": "Miyake-Hachiman",
+      "method": "existing OSM Latin tag",
+      "sources": [
+        "https://www.openstreetmap.org/node/3964246744"
+      ],
+      "mode": "private",
+      "source_tag": "int_name",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n3964246746",
+      "i": 9823,
+      "name": "三宅八幡駅八瀬比叡山口方面のりば",
+      "original_en": "",
+      "en": "Miyake-Hachiman (platform)",
+      "method": "same-station OSM Latin name; platform descriptor translated",
+      "sources": [
+        "https://www.openstreetmap.org/node/3964246745",
+        "https://www.openstreetmap.org/node/3964246746"
+      ],
+      "mode": "private",
+      "source_id": "n3964246745",
+      "distance_m": 1.3,
+      "label_kind": "source Latin name with translated descriptor"
+    },
+    {
+      "id": "n3964246747",
+      "i": 9824,
+      "name": "宝ヶ池駅1番線",
+      "original_en": "",
+      "en": "Takaragaike",
+      "method": "existing OSM Latin tag",
+      "sources": [
+        "https://www.openstreetmap.org/node/3964246747"
+      ],
+      "mode": "private",
+      "source_tag": "int_name",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n3964246749",
+      "i": 9825,
+      "name": "宝ヶ池駅2番線",
+      "original_en": "",
+      "en": "Takaragaike · Platform 2",
+      "method": "same-station OSM Latin name; platform descriptor translated",
+      "sources": [
+        "https://www.openstreetmap.org/node/3964246748",
+        "https://www.openstreetmap.org/node/3964246749"
+      ],
+      "mode": "private",
+      "source_id": "n3964246748",
+      "distance_m": 4.4,
+      "label_kind": "source Latin name with translated descriptor"
+    },
+    {
+      "id": "n3964246751",
+      "i": 9826,
+      "name": "修学院駅出町柳方面のりば",
+      "original_en": "",
+      "en": "Shugakuin",
+      "method": "existing OSM Latin tag",
+      "sources": [
+        "https://www.openstreetmap.org/node/3964246751"
+      ],
+      "mode": "private",
+      "source_tag": "int_name",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n3964246753",
+      "i": 9827,
+      "name": "修学院駅八瀬比叡山口･貴船口・鞍馬方面のりば",
+      "original_en": "",
+      "en": "Shugakuin (platform)",
+      "method": "same-station OSM Latin name; platform descriptor translated",
+      "sources": [
+        "https://www.openstreetmap.org/node/3964246752",
+        "https://www.openstreetmap.org/node/3964246753"
+      ],
+      "mode": "private",
+      "source_id": "n3964246752",
+      "distance_m": 1.8,
+      "label_kind": "source Latin name with translated descriptor"
+    },
+    {
+      "id": "n3964247075",
+      "i": 9828,
+      "name": "一乗寺駅出町柳方面のりば",
+      "original_en": "",
+      "en": "Ichijōji",
+      "method": "existing OSM Latin tag",
+      "sources": [
+        "https://www.openstreetmap.org/node/3964247075"
+      ],
+      "mode": "private",
+      "source_tag": "int_name",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n3964247077",
+      "i": 9829,
+      "name": "一乗寺駅八瀬比叡山口・貴船口・鞍馬方面のりば",
+      "original_en": "",
+      "en": "Ichijoji (platform)",
+      "method": "same-station OSM Latin name; platform descriptor translated",
+      "sources": [
+        "https://www.openstreetmap.org/node/3964247076",
+        "https://www.openstreetmap.org/node/3964247077"
+      ],
+      "mode": "private",
+      "source_id": "n3964247076",
+      "distance_m": 1.7,
+      "label_kind": "source Latin name with translated descriptor"
+    },
+    {
+      "id": "n3964247079",
+      "i": 9831,
+      "name": "茶山駅出町柳方面のりば",
+      "original_en": "",
+      "en": "Chayama",
+      "method": "existing OSM Latin tag",
+      "sources": [
+        "https://www.openstreetmap.org/node/3964247079"
+      ],
+      "mode": "private",
+      "source_tag": "int_name",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n3964247081",
+      "i": 9832,
+      "name": "元田中駅八瀬比叡山口・貴船口・鞍馬方面のりば",
+      "original_en": "",
+      "en": "Mototanaka (platform)",
+      "method": "same-station OSM Latin name; platform descriptor translated",
+      "sources": [
+        "https://www.openstreetmap.org/node/3964247083",
+        "https://www.openstreetmap.org/node/3964247081"
+      ],
+      "mode": "private",
+      "source_id": "n3964247083",
+      "distance_m": 20.4,
+      "label_kind": "source Latin name with translated descriptor"
+    },
+    {
+      "id": "n3964247082",
+      "i": 9833,
+      "name": "元田中駅出町柳方面のりば",
+      "original_en": "",
+      "en": "Mototanaka",
+      "method": "existing OSM Latin tag",
+      "sources": [
+        "https://www.openstreetmap.org/node/3964247082"
+      ],
+      "mode": "private",
+      "source_tag": "int_name",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n4099487638",
+      "i": 9863,
+      "name": "Honkushima",
+      "original_en": "",
+      "en": "Honkushima",
+      "method": "original name already uses Latin script",
+      "sources": [
+        "https://www.openstreetmap.org/node/4099487638"
+      ],
+      "mode": "water",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n4162376861",
+      "i": 9868,
+      "name": "屋代高校前",
+      "original_en": "",
+      "en": "Yashiro Koko Mae",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/4162376862"
+      ],
+      "mode": "private",
+      "source_tag": "name:en",
+      "distance_m": 1.7,
+      "source_id": "n4162376862",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n4456689542",
+      "i": 9913,
+      "name": "百舌鳥",
+      "original_en": "",
+      "en": "Mozu",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/4456689578"
+      ],
+      "mode": "jr",
+      "source_tag": "name:en",
+      "distance_m": 4.8,
+      "source_id": "n4456689578",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n4457232874",
+      "i": 9914,
+      "name": "杉本町",
+      "original_en": "",
+      "en": "Sugimotocho",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/4457234092"
+      ],
+      "mode": "jr",
+      "source_tag": "name:en",
+      "distance_m": 9.0,
+      "source_id": "n4457234092",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n4457649762",
+      "i": 9915,
+      "name": "紀伊中ノ島",
+      "original_en": "",
+      "en": "Kii-nakanoshima",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/4457649790"
+      ],
+      "mode": "jr",
+      "source_tag": "name:en",
+      "distance_m": 5.2,
+      "source_id": "n4457649790",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n5004344384",
+      "i": 9994,
+      "name": "長浜",
+      "original_en": "",
+      "en": "Nagahama",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/5004344385"
+      ],
+      "mode": "jr",
+      "source_tag": "name:en",
+      "distance_m": 2.5,
+      "source_id": "n5004344385",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n5151491094",
+      "i": 10006,
+      "name": "江川崎駅2番線",
+      "original_en": "",
+      "en": "Ekawasaki · Platform 2",
+      "method": "same-station OSM Latin name; platform descriptor translated",
+      "sources": [
+        "https://www.openstreetmap.org/node/5151491154",
+        "https://www.openstreetmap.org/node/5151491094"
+      ],
+      "mode": "jr",
+      "source_id": "n5151491154",
+      "distance_m": 37.2,
+      "label_kind": "source Latin name with translated descriptor"
+    },
+    {
+      "id": "n5297857227",
+      "i": 10016,
+      "name": "富田",
+      "original_en": "",
+      "en": "Tomida",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/5297857230"
+      ],
+      "mode": "jr",
+      "source_tag": "name:en",
+      "distance_m": 12.2,
+      "source_id": "n5297857230",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n5312837327",
+      "i": 10019,
+      "name": "須磨寺",
+      "original_en": "",
+      "en": "Sumadera",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/6295276714"
+      ],
+      "mode": "private",
+      "source_tag": "name:en",
+      "distance_m": 2.0,
+      "source_id": "n6295276714",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n5450856817",
+      "i": 10037,
+      "name": "甲賀1",
+      "original_en": "",
+      "en": "Koka · Platform 1",
+      "method": "same-station OSM Latin name; platform descriptor translated",
+      "sources": [
+        "https://www.openstreetmap.org/node/267303636",
+        "https://www.openstreetmap.org/node/5450856817"
+      ],
+      "mode": "jr",
+      "source_id": "n267303636",
+      "distance_m": 8.5,
+      "label_kind": "source Latin name with translated descriptor"
+    },
+    {
+      "id": "n5453206815",
+      "i": 10038,
+      "name": "上大岡駅",
+      "original_en": "",
+      "en": "Kamioooka",
+      "method": "Hepburn transliteration of explicit OSM reading",
+      "sources": [
+        "https://www.openstreetmap.org/node/5453206815"
+      ],
+      "mode": "metro",
+      "reading": "かみおおおか",
+      "source_tag": "name:ja-Hira",
+      "label_kind": "generated romanization"
+    },
+    {
+      "id": "n6054687531",
+      "i": 10133,
+      "name": "Mogi-Tomioka",
+      "original_en": "",
+      "en": "Mogi-Tomioka",
+      "method": "original name already uses Latin script",
+      "sources": [
+        "https://www.openstreetmap.org/node/6054687531"
+      ],
+      "mode": "water",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n6054993046",
+      "i": 10134,
+      "name": "ビューランド",
+      "original_en": "",
+      "en": "Byūrando",
+      "method": "Hepburn transliteration of kana-only source name",
+      "sources": [
+        "https://www.openstreetmap.org/node/6054993046"
+      ],
+      "mode": "ropeway",
+      "reading": "ビューランド",
+      "label_kind": "generated romanization"
+    },
+    {
+      "id": "n6057299808",
+      "i": 10135,
+      "name": "甲南2",
+      "original_en": "",
+      "en": "Kōnan · Platform 2",
+      "method": "same-station OSM Latin name; platform descriptor translated",
+      "sources": [
+        "https://www.openstreetmap.org/node/267303049",
+        "https://www.openstreetmap.org/node/6057299808"
+      ],
+      "mode": "jr",
+      "source_id": "n267303049",
+      "distance_m": 12.1,
+      "label_kind": "source Latin name with translated descriptor"
+    },
+    {
+      "id": "n6057299809",
+      "i": 10136,
+      "name": "甲南1",
+      "original_en": "",
+      "en": "Kōnan · Platform 1",
+      "method": "same-station OSM Latin name; platform descriptor translated",
+      "sources": [
+        "https://www.openstreetmap.org/node/267303049",
+        "https://www.openstreetmap.org/node/6057299809"
+      ],
+      "mode": "jr",
+      "source_id": "n267303049",
+      "distance_m": 15.4,
+      "label_kind": "source Latin name with translated descriptor"
+    },
+    {
+      "id": "n6057299810",
+      "i": 10137,
+      "name": "甲賀2",
+      "original_en": "",
+      "en": "Koka · Platform 2",
+      "method": "same-station OSM Latin name; platform descriptor translated",
+      "sources": [
+        "https://www.openstreetmap.org/node/267303636",
+        "https://www.openstreetmap.org/node/6057299810"
+      ],
+      "mode": "jr",
+      "source_id": "n267303636",
+      "distance_m": 8.1,
+      "label_kind": "source Latin name with translated descriptor"
+    },
+    {
+      "id": "n6090013635",
+      "i": 10146,
+      "name": "境港",
+      "original_en": "",
+      "en": "Sakaiminato",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/1012053060"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 80.9,
+      "source_id": "n1012053060",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n6225067707",
+      "i": 10164,
+      "name": "池袋",
+      "original_en": "",
+      "en": "Ikebukuro",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/1926700040"
+      ],
+      "mode": "metro",
+      "source_tag": "name:en",
+      "distance_m": 26.0,
+      "source_id": "n1926700040",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n6633268678",
+      "i": 10194,
+      "name": "間内",
+      "original_en": "",
+      "en": "Manai",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/8093025119"
+      ],
+      "mode": "private",
+      "source_tag": "name:en",
+      "distance_m": 2.3,
+      "source_id": "n8093025119",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n6633268680",
+      "i": 10195,
+      "name": "春日井",
+      "original_en": "",
+      "en": "Kasugai",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/6633357044"
+      ],
+      "mode": "private",
+      "source_tag": "name:en",
+      "distance_m": 5.4,
+      "source_id": "n6633357044",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n7099973657",
+      "i": 10215,
+      "name": "大屋",
+      "original_en": "",
+      "en": "Oya",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/7196424124"
+      ],
+      "mode": "private",
+      "source_tag": "name:en",
+      "distance_m": 3.8,
+      "source_id": "n7196424124",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n8074621929",
+      "i": 10242,
+      "name": "日向長井 ２",
+      "original_en": "",
+      "en": "Hyuga-Nagai · Platform 2",
+      "method": "same-station OSM Latin name; platform descriptor translated",
+      "sources": [
+        "https://www.openstreetmap.org/node/265844831",
+        "https://www.openstreetmap.org/node/8074621929"
+      ],
+      "mode": "jr",
+      "source_id": "n265844831",
+      "distance_m": 3.8,
+      "label_kind": "source Latin name with translated descriptor"
+    },
+    {
+      "id": "n8074621944",
+      "i": 10243,
+      "name": "北川 ２",
+      "original_en": "",
+      "en": "Kitagawa · Platform 2",
+      "method": "same-station OSM Latin name; platform descriptor translated",
+      "sources": [
+        "https://www.openstreetmap.org/node/265845102",
+        "https://www.openstreetmap.org/node/8074621944"
+      ],
+      "mode": "jr",
+      "source_id": "n265845102",
+      "distance_m": 3.8,
+      "label_kind": "source Latin name with translated descriptor"
+    },
+    {
+      "id": "n8077754738",
+      "i": 10244,
+      "name": "直川駅 2番のりば",
+      "original_en": "",
+      "en": "Naokawa · Platform 2",
+      "method": "same-station OSM Latin name; platform descriptor translated",
+      "sources": [
+        "https://www.openstreetmap.org/node/265845566",
+        "https://www.openstreetmap.org/node/8077754738"
+      ],
+      "mode": "jr",
+      "source_id": "n265845566",
+      "distance_m": 8.8,
+      "label_kind": "source Latin name with translated descriptor"
+    },
+    {
+      "id": "n8078374278",
+      "i": 10245,
+      "name": "長岡京駅4番のりば",
+      "original_en": "",
+      "en": "Nagaokakyō · Platform 4",
+      "method": "Wikidata linked station label; Japanese name and position verified",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q780734"
+      ],
+      "mode": "jr",
+      "label_kind": "Wikidata Latin label",
+      "license": "CC0"
+    },
+    {
+      "id": "n8172392105",
+      "i": 10247,
+      "name": "伏石",
+      "original_en": "",
+      "en": "Fuseishi",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/8247625874"
+      ],
+      "mode": "private",
+      "source_tag": "name:en",
+      "distance_m": 4.2,
+      "source_id": "n8247625874",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n8596938145",
+      "i": 10262,
+      "name": "安平駅",
+      "original_en": "",
+      "en": "Abira",
+      "method": "same-station OSM Latin name; platform descriptor translated",
+      "sources": [
+        "https://www.openstreetmap.org/node/264426752",
+        "https://www.openstreetmap.org/node/8596938145"
+      ],
+      "mode": "jr",
+      "source_id": "n264426752",
+      "distance_m": 13.6,
+      "label_kind": "source Latin name with translated descriptor"
+    },
+    {
+      "id": "n9046883616",
+      "i": 10269,
+      "name": "佐伯駅 1番のりば",
+      "original_en": "",
+      "en": "Saiki · Platform 1",
+      "method": "same-station OSM Latin name; platform descriptor translated",
+      "sources": [
+        "https://www.openstreetmap.org/node/9081444571",
+        "https://www.openstreetmap.org/node/9046883616"
+      ],
+      "mode": "jr",
+      "source_id": "n9081444571",
+      "distance_m": 3.5,
+      "label_kind": "source Latin name with translated descriptor"
+    },
+    {
+      "id": "n9046904217",
+      "i": 10270,
+      "name": "直見駅 ２",
+      "original_en": "",
+      "en": "Naomi · Platform 2",
+      "method": "same-station OSM Latin name; platform descriptor translated",
+      "sources": [
+        "https://www.openstreetmap.org/node/265844824",
+        "https://www.openstreetmap.org/node/9046904217"
+      ],
+      "mode": "jr",
+      "source_id": "n265844824",
+      "distance_m": 5.4,
+      "label_kind": "source Latin name with translated descriptor"
+    },
+    {
+      "id": "n9046904225",
+      "i": 10271,
+      "name": "佐伯駅 3のりば",
+      "original_en": "",
+      "en": "Saiki · Platform 3",
+      "method": "same-station OSM Latin name; platform descriptor translated",
+      "sources": [
+        "https://www.openstreetmap.org/node/9081444571",
+        "https://www.openstreetmap.org/node/9046904225"
+      ],
+      "mode": "jr",
+      "source_id": "n9081444571",
+      "distance_m": 37.1,
+      "label_kind": "source Latin name with translated descriptor"
+    },
+    {
+      "id": "n9069667137",
+      "i": 10273,
+      "name": "市棚 １",
+      "original_en": "",
+      "en": "Ichitana · Platform 1",
+      "method": "same-station OSM Latin name; platform descriptor translated",
+      "sources": [
+        "https://www.openstreetmap.org/node/265845309",
+        "https://www.openstreetmap.org/node/9069667137"
+      ],
+      "mode": "jr",
+      "source_id": "n265845309",
+      "distance_m": 31.7,
+      "label_kind": "source Latin name with translated descriptor"
+    },
+    {
+      "id": "n9081444596",
+      "i": 10275,
+      "name": "上岡駅 １",
+      "original_en": "",
+      "en": "Kamioka · Platform 1",
+      "method": "same-station OSM Latin name; platform descriptor translated",
+      "sources": [
+        "https://www.openstreetmap.org/node/9364617572",
+        "https://www.openstreetmap.org/node/9081444596"
+      ],
+      "mode": "jr",
+      "source_id": "n9364617572",
+      "distance_m": 35.3,
+      "label_kind": "source Latin name with translated descriptor"
+    },
+    {
+      "id": "n9081491718",
+      "i": 10276,
+      "name": "直川駅 １",
+      "original_en": "",
+      "en": "Naokawa · Platform 1",
+      "method": "same-station OSM Latin name; platform descriptor translated",
+      "sources": [
+        "https://www.openstreetmap.org/node/265845566",
+        "https://www.openstreetmap.org/node/9081491718"
+      ],
+      "mode": "jr",
+      "source_id": "n265845566",
+      "distance_m": 11.2,
+      "label_kind": "source Latin name with translated descriptor"
+    },
+    {
+      "id": "n9227224174",
+      "i": 10278,
+      "name": "直見駅 1番のりば",
+      "original_en": "",
+      "en": "Naomi · Platform 1",
+      "method": "same-station OSM Latin name; platform descriptor translated",
+      "sources": [
+        "https://www.openstreetmap.org/node/265844824",
+        "https://www.openstreetmap.org/node/9227224174"
+      ],
+      "mode": "jr",
+      "source_id": "n265844824",
+      "distance_m": 7.4,
+      "label_kind": "source Latin name with translated descriptor"
+    },
+    {
+      "id": "n9227224175",
+      "i": 10279,
+      "name": "上岡駅 2番のりば",
+      "original_en": "",
+      "en": "Kamioka · Platform 2",
+      "method": "same-station OSM Latin name; platform descriptor translated",
+      "sources": [
+        "https://www.openstreetmap.org/node/9364617572",
+        "https://www.openstreetmap.org/node/9227224175"
+      ],
+      "mode": "jr",
+      "source_id": "n9364617572",
+      "distance_m": 31.1,
+      "label_kind": "source Latin name with translated descriptor"
+    },
+    {
+      "id": "n9371438458",
+      "i": 10281,
+      "name": "日代 1",
+      "original_en": "",
+      "en": "Hishiro · Platform 1",
+      "method": "same-station OSM Latin name; platform descriptor translated",
+      "sources": [
+        "https://www.openstreetmap.org/node/265846787",
+        "https://www.openstreetmap.org/node/9371438458"
+      ],
+      "mode": "jr",
+      "source_id": "n265846787",
+      "distance_m": 26.5,
+      "label_kind": "source Latin name with translated descriptor"
+    },
+    {
+      "id": "n9908580454",
+      "i": 10289,
+      "name": "アメリカンウォーター フロント",
+      "original_en": "",
+      "en": "American Waterfront",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/7915679628"
+      ],
+      "mode": "private",
+      "source_tag": "name:en",
+      "distance_m": 207.2,
+      "source_id": "n7915679628",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n12107540388",
+      "i": 10309,
+      "name": "Swan Boat House",
+      "original_en": "",
+      "en": "Swan Boat House",
+      "method": "original name already uses Latin script",
+      "sources": [
+        "https://www.openstreetmap.org/node/12107540388"
+      ],
+      "mode": "water",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n12578792748",
+      "i": 10315,
+      "name": "温泉寺",
+      "original_en": "",
+      "en": "Onsen-ji",
+      "method": "existing OSM Latin tag",
+      "sources": [
+        "https://www.openstreetmap.org/node/12578792748"
+      ],
+      "mode": "ropeway",
+      "source_tag": "name:ja-Latn",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n13194598701",
+      "i": 10321,
+      "name": "Cruise Ship Dock",
+      "original_en": "",
+      "en": "Cruise Ship Dock",
+      "method": "original name already uses Latin script",
+      "sources": [
+        "https://www.openstreetmap.org/node/13194598701"
+      ],
+      "mode": "water",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n13293634319",
+      "i": 10323,
+      "name": "博多南駅",
+      "original_en": "",
+      "en": "Hakata-Minami",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.westjr.co.jp/global/en/timetable/pdf/station_hakata.pdf"
+      ],
+      "mode": "shinkansen",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "n13474667043",
+      "i": 10326,
+      "name": "北川 1",
+      "original_en": "",
+      "en": "Kitagawa · Platform 1",
+      "method": "same-station OSM Latin name; platform descriptor translated",
+      "sources": [
+        "https://www.openstreetmap.org/node/265845102",
+        "https://www.openstreetmap.org/node/13474667043"
+      ],
+      "mode": "jr",
+      "source_id": "n265845102",
+      "distance_m": 5.1,
+      "label_kind": "source Latin name with translated descriptor"
+    },
+    {
+      "id": "n13474667044",
+      "i": 10327,
+      "name": "市棚 2",
+      "original_en": "",
+      "en": "Ichitana · Platform 2",
+      "method": "same-station OSM Latin name; platform descriptor translated",
+      "sources": [
+        "https://www.openstreetmap.org/node/265845309",
+        "https://www.openstreetmap.org/node/13474667044"
+      ],
+      "mode": "jr",
+      "source_id": "n265845309",
+      "distance_m": 19.3,
+      "label_kind": "source Latin name with translated descriptor"
+    },
+    {
+      "id": "n13474667045",
+      "i": 10328,
+      "name": "市棚 3",
+      "original_en": "",
+      "en": "Ichitana · Platform 3",
+      "method": "same-station OSM Latin name; platform descriptor translated",
+      "sources": [
+        "https://www.openstreetmap.org/node/265845309",
+        "https://www.openstreetmap.org/node/13474667045"
+      ],
+      "mode": "jr",
+      "source_id": "n265845309",
+      "distance_m": 19.5,
+      "label_kind": "source Latin name with translated descriptor"
+    },
+    {
+      "id": "n13474667065",
+      "i": 10329,
+      "name": "日向長井 1",
+      "original_en": "",
+      "en": "Hyuga-Nagai · Platform 1",
+      "method": "same-station OSM Latin name; platform descriptor translated",
+      "sources": [
+        "https://www.openstreetmap.org/node/265844831",
+        "https://www.openstreetmap.org/node/13474667065"
+      ],
+      "mode": "jr",
+      "source_id": "n265844831",
+      "distance_m": 92.4,
+      "label_kind": "source Latin name with translated descriptor"
+    },
+    {
+      "id": "n13736559603",
+      "i": 10331,
+      "name": "Urauchi River Pleasure Boat - Battleship Rock",
+      "original_en": "",
+      "en": "Urauchi River Pleasure Boat - Battleship Rock",
+      "method": "original name already uses Latin script",
+      "sources": [
+        "https://www.openstreetmap.org/node/13736559603"
+      ],
+      "mode": "water",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "n13736560001",
+      "i": 10332,
+      "name": "Urauchi River Pleasure Boat - Origin",
+      "original_en": "",
+      "en": "Urauchi River Pleasure Boat - Origin",
+      "method": "original name already uses Latin script",
+      "sources": [
+        "https://www.openstreetmap.org/node/13736560001"
+      ],
+      "mode": "water",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "01-sunflower-oarai-tomakomai-大洗",
+      "i": 10349,
+      "name": "大洗",
+      "original_en": "",
+      "en": "Oarai",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/5677061684"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 1146.7,
+      "source_id": "n5677061684",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "01-snf-tsuruga-niigata-akita-tomakomai-新潟",
+      "i": 10351,
+      "name": "新潟",
+      "original_en": "",
+      "en": "Niigata",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/4087367885"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 2952.5,
+      "source_id": "n4087367885",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "01-snf-niigata-otaru-小樽",
+      "i": 10354,
+      "name": "小樽",
+      "original_en": "",
+      "en": "Otaru",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/8082693152"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 2008.4,
+      "source_id": "n8082693152",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "02-wakkanai-oshidomari-稚内",
+      "i": 10363,
+      "name": "稚内",
+      "original_en": "",
+      "en": "Wakkanai",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/264455577"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 495.9,
+      "source_id": "n264455577",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "02-aomori-muroran-室蘭",
+      "i": 10370,
+      "name": "室蘭",
+      "original_en": "",
+      "en": "Muroran",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/264425763"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 1041.5,
+      "source_id": "n264425763",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "02-shiretoko-aurora-utoro-ウトロ",
+      "i": 10386,
+      "name": "ウトロ",
+      "original_en": "",
+      "en": "Utoro",
+      "method": "Hepburn transliteration of kana-only source name",
+      "sources": [
+        "https://github.com/kametaro7/japan-ferry-map"
+      ],
+      "mode": "water",
+      "reading": "ウトロ",
+      "label_kind": "generated romanization"
+    },
+    {
+      "id": "02-kanita-wakinosawa-蟹田",
+      "i": 10391,
+      "name": "蟹田",
+      "original_en": "",
+      "en": "Kanita",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/3906276199"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 1248.7,
+      "source_id": "n3906276199",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "02-onagawa-enoshima-女川",
+      "i": 10413,
+      "name": "女川",
+      "original_en": "",
+      "en": "Onagawa",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/264404856"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 576.9,
+      "source_id": "n264404856",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "03-tokyocruise-hinode-odaiba-お台場海浜公園",
+      "i": 10480,
+      "name": "お台場海浜公園",
+      "original_en": "",
+      "en": "Odaiba-kaihinkoen",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/6234857921"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 496.8,
+      "source_id": "n6234857921",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "01-tqf-yokosuka-shinmoji-横須賀",
+      "i": 10486,
+      "name": "横須賀",
+      "original_en": "",
+      "en": "Yokosuka",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/3990885722"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 2085.3,
+      "source_id": "n3990885722",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "03-hakone-kaizokusen-箱根町港",
+      "i": 10491,
+      "name": "箱根町港",
+      "original_en": "",
+      "en": "Hakone-Machi Pirate Ship Ferry Port",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/391217634"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 0.6,
+      "source_id": "n391217634",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "03-seabass-yokohama-ハンマーヘッド",
+      "i": 10496,
+      "name": "ハンマーヘッド",
+      "original_en": "",
+      "en": "Hanmāheddo",
+      "method": "Hepburn transliteration of kana-only source name",
+      "sources": [
+        "https://github.com/kametaro7/japan-ferry-map"
+      ],
+      "mode": "water",
+      "reading": "ハンマーヘッド",
+      "label_kind": "generated romanization"
+    },
+    {
+      "id": "04-sado-niigata-ryotsu-新潟",
+      "i": 10502,
+      "name": "新潟",
+      "original_en": "",
+      "en": "Niigata",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/4087367885"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 1951.4,
+      "source_id": "n4087367885",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "04-sado-naoetsu-ogi-直江津",
+      "i": 10504,
+      "name": "直江津",
+      "original_en": "",
+      "en": "Naoetsu",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/264805815"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 1598.5,
+      "source_id": "n264805815",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "04-sasagawa-nagare-桑川",
+      "i": 10509,
+      "name": "桑川",
+      "original_en": "",
+      "en": "Kuwagawa",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/264262549"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 861.4,
+      "source_id": "n264262549",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "04-shinano-watershuttle-みなとぴあ",
+      "i": 10511,
+      "name": "みなとぴあ",
+      "original_en": "",
+      "en": "Minatopia",
+      "method": "Hepburn transliteration of kana-only source name",
+      "sources": [
+        "https://github.com/kametaro7/japan-ferry-map"
+      ],
+      "mode": "water",
+      "reading": "みなとぴあ",
+      "label_kind": "generated romanization"
+    },
+    {
+      "id": "04-koshinokata-horioka-越ノ潟",
+      "i": 10521,
+      "name": "越ノ潟",
+      "original_en": "",
+      "en": "Koshinokata",
+      "method": "official operator Latin name",
+      "sources": [
+        "https://www.manyosen.co.jp/files/files20240410101031.pdf"
+      ],
+      "mode": "water",
+      "label_kind": "operator English"
+    },
+    {
+      "id": "04-isewan-ferry-鳥羽",
+      "i": 10561,
+      "name": "鳥羽",
+      "original_en": "",
+      "en": "Toba",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/265822795"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 738.0,
+      "source_id": "n265822795",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "04-meitetsu-kowa-irago-河和",
+      "i": 10570,
+      "name": "河和",
+      "original_en": "",
+      "en": "Kōwa",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/8100472271"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 340.3,
+      "source_id": "n8100472271",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "04-cruise-nagoya-メグラスガーデン ナゴヤ",
+      "i": 10575,
+      "name": "メグラスガーデン ナゴヤ",
+      "original_en": "",
+      "en": "Megurasugāden nagoya",
+      "method": "Hepburn transliteration of kana-only source name",
+      "sources": [
+        "https://github.com/kametaro7/japan-ferry-map"
+      ],
+      "mode": "water",
+      "reading": "メグラスガーデン ナゴヤ",
+      "label_kind": "generated romanization"
+    },
+    {
+      "id": "04-kashikojima-espana-賢島",
+      "i": 10583,
+      "name": "賢島",
+      "original_en": "",
+      "en": "Kashikojima",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/8041577373"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 5.7,
+      "source_id": "n8041577373",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "01-sunflower-osaka-beppu-別府",
+      "i": 10614,
+      "name": "別府",
+      "original_en": "",
+      "en": "Beppu",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/8269550067"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 2872.3,
+      "source_id": "n8269550067",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "01-sunflower-osaka-shibushi-志布志",
+      "i": 10616,
+      "name": "志布志",
+      "original_en": "",
+      "en": "Shibushi",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/4838112998"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 1349.6,
+      "source_id": "n4838112998",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "05-fuke-sumoto-liner-深日港",
+      "i": 10622,
+      "name": "深日港",
+      "original_en": "",
+      "en": "Fukekō",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/360074336"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 151.1,
+      "source_id": "n360074336",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "05-tombori-river-cruise-太左衛門橋船着場",
+      "i": 10626,
+      "name": "太左衛門橋船着場",
+      "original_en": "",
+      "en": "Tazaemon Bridge Wharf",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/5735282173"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 0.5,
+      "source_id": "n5735282173",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "05-naniwa-tanken-yumesaki-ユニバーサルシティポート",
+      "i": 10627,
+      "name": "ユニバーサルシティポート",
+      "original_en": "",
+      "en": "Yunibāsarushitipōto",
+      "method": "Hepburn transliteration of kana-only source name",
+      "sources": [
+        "https://github.com/kametaro7/japan-ferry-map"
+      ],
+      "mode": "water",
+      "reading": "ユニバーサルシティポート",
+      "label_kind": "generated romanization"
+    },
+    {
+      "id": "05-universal-cruise-osaka-port-ユニバーサルシティポート",
+      "i": 10631,
+      "name": "ユニバーサルシティポート",
+      "original_en": "",
+      "en": "Yunibāsarushitipōto",
+      "method": "Hepburn transliteration of kana-only source name",
+      "sources": [
+        "https://github.com/kametaro7/japan-ferry-map"
+      ],
+      "mode": "water",
+      "reading": "ユニバーサルシティポート",
+      "label_kind": "generated romanization"
+    },
+    {
+      "id": "01-miyazaki-kobe-miyazaki-宮崎",
+      "i": 10652,
+      "name": "宮崎",
+      "original_en": "",
+      "en": "Miyazaki",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/8292384015"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 2479.5,
+      "source_id": "n8292384015",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "07-miyajima-jr-宮島口",
+      "i": 10750,
+      "name": "宮島口",
+      "original_en": "",
+      "en": "Miyajimaguchi",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/12072029874"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 333.1,
+      "source_id": "n12072029874",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "07-hiroshima-kure-matsuyama-ferry-広島港（宇品）",
+      "i": 10758,
+      "name": "広島港（宇品）",
+      "original_en": "",
+      "en": "Hiroshima Port",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/266050661"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 276.3,
+      "source_id": "n266050661",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "07-ujina-mitaka-ferry-広島港（宇品）",
+      "i": 10760,
+      "name": "広島港（宇品）",
+      "original_en": "",
+      "en": "Hiroshima Port",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/266050661"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 163.4,
+      "source_id": "n266050661",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "07-onomichi-suido-cruise-尾道駅前桟橋",
+      "i": 10811,
+      "name": "尾道駅前桟橋",
+      "original_en": "",
+      "en": "Onomichi-Ekimae Pier",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/8240589037"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 11.4,
+      "source_id": "n8240589037",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "08-suooshima-matsuyama-ferry-柳井港",
+      "i": 10824,
+      "name": "柳井港",
+      "original_en": "",
+      "en": "Yanaiminato",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/265932325"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 224.6,
+      "source_id": "n265932325",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "09-yawatahama-beppu-八幡浜",
+      "i": 10911,
+      "name": "八幡浜",
+      "original_en": "",
+      "en": "Yawatahama",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/7832571909"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 1938.7,
+      "source_id": "n7832571909",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "09-yawatahama-beppu-別府",
+      "i": 10912,
+      "name": "別府",
+      "original_en": "",
+      "en": "Beppu",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/8269550067"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 2298.1,
+      "source_id": "n8269550067",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "09-yawatahama-usuki-orange-臼杵",
+      "i": 10913,
+      "name": "臼杵",
+      "original_en": "",
+      "en": "Usuki",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/265839095"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 880.0,
+      "source_id": "n265839095",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "09-nakajima-east-三津浜",
+      "i": 10918,
+      "name": "三津浜",
+      "original_en": "",
+      "en": "Mitsuhama",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/7826352943"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 1815.3,
+      "source_id": "n7826352943",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "09-nakajima-east-高浜",
+      "i": 10919,
+      "name": "高浜",
+      "original_en": "",
+      "en": "Takahama",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/265041360"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 109.6,
+      "source_id": "n265041360",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "09-sekizen-tobishima-今治",
+      "i": 10934,
+      "name": "今治",
+      "original_en": "",
+      "en": "Imabari",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/265007828"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 1333.7,
+      "source_id": "n265007828",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "09-hashihama-umashima-波止浜",
+      "i": 10951,
+      "name": "波止浜",
+      "original_en": "",
+      "en": "Hashihama",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/265006479"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 1285.9,
+      "source_id": "n265006479",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "09-mitsu-no-watashi-三津",
+      "i": 10963,
+      "name": "三津",
+      "original_en": "",
+      "en": "Mitsu",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/3634554436"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 741.4,
+      "source_id": "n3634554436",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "09-mitsu-no-watashi-港山",
+      "i": 10964,
+      "name": "港山",
+      "original_en": "",
+      "en": "Minatoyama",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/1840958845"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 176.5,
+      "source_id": "n1840958845",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "10-uminaka-momochi-ももち（マリゾン）",
+      "i": 10991,
+      "name": "ももち（マリゾン）",
+      "original_en": "",
+      "en": "Momochi(marizon)",
+      "method": "Hepburn transliteration of kana-only source name",
+      "sources": [
+        "https://github.com/kametaro7/japan-ferry-map"
+      ],
+      "mode": "water",
+      "reading": "ももち（マリゾン）",
+      "label_kind": "generated romanization"
+    },
+    {
+      "id": "10-kaneko-uranosaki-fukushima-浦ノ崎",
+      "i": 11022,
+      "name": "浦ノ崎",
+      "original_en": "",
+      "en": "Uranosaki",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/270858875"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 454.4,
+      "source_id": "n270858875",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "10-ariake-taira-nagasu-多比良",
+      "i": 11036,
+      "name": "多比良",
+      "original_en": "",
+      "en": "Taira",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/282412705"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 437.9,
+      "source_id": "n282412705",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "10-ariake-taira-nagasu-長洲",
+      "i": 11037,
+      "name": "長洲",
+      "original_en": "",
+      "en": "Nagasu",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/8221429316"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 1444.1,
+      "source_id": "n8221429316",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "10-takashimakisen-tononoura-imafuku-今福",
+      "i": 11046,
+      "name": "今福",
+      "original_en": "",
+      "en": "Imabuku",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/270856744"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 967.3,
+      "source_id": "n270856744",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "10-kuroshima-ainoura-相浦",
+      "i": 11051,
+      "name": "相浦",
+      "original_en": "",
+      "en": "Ainoura",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/270856549"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 260.7,
+      "source_id": "n270856549",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "10-segawa-sasebo-kawachi-佐世保",
+      "i": 11074,
+      "name": "佐世保",
+      "original_en": "",
+      "en": "Sasebo",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/12246148973"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 211.9,
+      "source_id": "n12246148973",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "10-yasuda-airport-htb-ハウステンボス",
+      "i": 11106,
+      "name": "ハウステンボス",
+      "original_en": "",
+      "en": "Huis Ten Bosch",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/6871807890"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 1467.4,
+      "source_id": "n6871807890",
+      "label_kind": "source Latin label"
+    },
+    {
+      "id": "10-takashimakisen-ao-mikuriya-御厨",
+      "i": 11111,
+      "name": "御厨",
+      "original_en": "",
+      "en": "Mikuriya",
+      "method": "exact Japanese name on nearby OSM station/terminal",
+      "sources": [
+        "https://www.openstreetmap.org/node/270856554"
+      ],
+      "mode": "water",
+      "source_tag": "name:en",
+      "distance_m": 670.9,
+      "source_id": "n270856554",
+      "label_kind": "source Latin label"
+    }
+  ]
+}

@@ -1,0 +1,3457 @@
+{
+  "schema": 1,
+  "reason": "Ropeway stop selection topology audit with operator-confirmed public exceptions",
+  "count": 126,
+  "public_lift_exception_station_ids": [
+    "n357210481",
+    "n766785417",
+    "n4491336937"
+  ],
+  "corrections": [
+    {
+      "id": "n242920052",
+      "name": "Unnamed station (n242920052)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "aerialway:access": "exit",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/242920052",
+        "https://www.openstreetmap.org/way/22650015"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 22650015,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:duration": "6",
+            "aerialway:occupancy": "4",
+            "name": "エースファミリークワッド",
+            "name:en": "Ace Family Quad #1",
+            "name:ja": "エースファミリークワッド",
+            "tickets_points": "2"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n242920489",
+      "name": "Unnamed station (n242920489)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "aerialway:access": "entry",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/242920489",
+        "https://www.openstreetmap.org/way/22650071"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 22650071,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:duration": "5",
+            "aerialway:occupancy": "2",
+            "name": "エース第3ペアリフト",
+            "name:en": "Ace Pair #3",
+            "name:ja": "エース第3ペア",
+            "tickets_points": "1"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n242921254",
+      "name": "リフト乗り場",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "aerialway:access": "entry",
+        "aerialway:station": "bottom",
+        "name": "リフト乗り場",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/242921254",
+        "https://www.openstreetmap.org/way/22650115"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 22650115,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:bubble": "yes",
+            "aerialway:capacity": "3085",
+            "aerialway:duration": "5,5",
+            "aerialway:heating": "yes",
+            "aerialway:occupancy": "6",
+            "name": "HANAZONO第1リフトフード付き",
+            "name:en": "Hanazono Hooded Lift #1",
+            "tickets_points": "2"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n346613081",
+      "name": "Unnamed station (n346613081)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "aerialway:access": "entry",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/346613081",
+        "https://www.openstreetmap.org/way/31151591"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 31151591,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:bubble": "no",
+            "aerialway:duration": "3.5",
+            "aerialway:heating": "no",
+            "aerialway:occupancy": "4",
+            "length": "828.88",
+            "name": "天狗山高速クワッド",
+            "note": "標高差163m",
+            "old_name": "天狗山クワッドリフト",
+            "oneway": "yes"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n346613165",
+      "name": "Unnamed station (n346613165)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "aerialway:access": "entry",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/346613165",
+        "https://www.openstreetmap.org/way/31151601"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 31151601,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:bubble": "no",
+            "aerialway:duration": "3",
+            "aerialway:heating": "no",
+            "aerialway:occupancy": "2",
+            "length": "432.61",
+            "name": "天狗山ファミリーペアリフト",
+            "note": "標高差150m",
+            "old_name": "天狗山第4ロマンスリフト"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n1065023548",
+      "name": "Unnamed station (n1065023548)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/1065023548",
+        "https://www.openstreetmap.org/way/91657924"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 91657924,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:occupancy": "4",
+            "name": "やまびこ第2フォー",
+            "name:en": "Yamabiko Quad No.2"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n1065030413",
+      "name": "Unnamed station (n1065030413)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/1065030413",
+        "https://www.openstreetmap.org/way/91658171"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 91658171,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:bubble": "yes",
+            "aerialway:heating": "no",
+            "aerialway:occupancy": "4",
+            "name": "上ノ平フォー",
+            "name:en": "Uenotaira Quad"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n1070200072",
+      "name": "Unnamed station (n1070200072)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/1070200072",
+        "https://www.openstreetmap.org/way/92190492"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 92190492,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:bubble": "no",
+            "aerialway:heating": "no",
+            "aerialway:occupancy": "4",
+            "name": "高天ヶ原クワッド",
+            "name:en": "Takamagahara Quad"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n1074579804",
+      "name": "Unnamed station (n1074579804)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/1074579804",
+        "https://www.openstreetmap.org/way/92623916"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 92623916,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:occupancy": "2",
+            "name": "第6ペアリフト(ヒアデス)"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n1074579805",
+      "name": "Unnamed station (n1074579805)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/1074579805",
+        "https://www.openstreetmap.org/way/92623916"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 92623916,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:occupancy": "2",
+            "name": "第6ペアリフト(ヒアデス)"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n1074579807",
+      "name": "Unnamed station (n1074579807)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/1074579807",
+        "https://www.openstreetmap.org/way/92623917"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 92623917,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "name": "第4ペアリフト(シリウス)"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n1074579956",
+      "name": "Unnamed station (n1074579956)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/1074579956",
+        "https://www.openstreetmap.org/way/92623930"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 92623930,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "name": "第5ペアリフト(アルタイル)"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n2386418348",
+      "name": "Unnamed station (n2386418348)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/2386418348",
+        "https://www.openstreetmap.org/way/230112316"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 230112316,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "alt_name": "エンジェルリフト",
+            "name": "ペアリフト",
+            "source": "Bing"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n2453993884",
+      "name": "Unnamed station (n2453993884)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/2453993884",
+        "https://www.openstreetmap.org/way/237507764"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 237507764,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:occupancy": "2",
+            "name": "兎平ペア",
+            "name:en": "UsagiDaira",
+            "source": "Bing"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n2612069147",
+      "name": "Unnamed station (n2612069147)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/2612069147",
+        "https://www.openstreetmap.org/way/255524054"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 255524054,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:duration": "3",
+            "aerialway:occupancy": "2",
+            "name": "寺小屋第1ペア",
+            "name:en": "Terakoya First Pair",
+            "name:ja": "寺小屋第1ペア"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n2867885142",
+      "name": "Unnamed station (n2867885142)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/2867885142",
+        "https://www.openstreetmap.org/way/282843418"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 282843418,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:occupancy": "3",
+            "name": "第２トリプルリフト",
+            "name:en": "No2 Triple Lift",
+            "name:ja": "第２トリプルリフト",
+            "source": "source=GSImaps/std"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3065032930",
+      "name": "Unnamed station (n3065032930)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3065032930",
+        "https://www.openstreetmap.org/way/302252848"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 302252848,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:duration": "9.5",
+            "aerialway:occupancy": "2",
+            "name": "第1ロマンスリフト",
+            "name:en": "1st Romance Lift"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3065036770",
+      "name": "Unnamed station (n3065036770)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3065036770",
+        "https://www.openstreetmap.org/way/302252847"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 302252847,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:duration": "8.25",
+            "aerialway:occupancy": "2",
+            "name": "第2ロマンスリフト",
+            "name:en": "2nd Romance Lift"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3148416843",
+      "name": "Unnamed station (n3148416843)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3148416843",
+        "https://www.openstreetmap.org/way/309503826"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 309503826,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:bubble": "no",
+            "aerialway:duration": "6.7",
+            "aerialway:occupancy": "2",
+            "name": "ジャイアントペア",
+            "name:en": "Giant Pair",
+            "name:ja": "ジャイアントペア",
+            "source": "bing"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3150600336",
+      "name": "Unnamed station (n3150600336)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3150600336",
+        "https://www.openstreetmap.org/way/309728745"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 309728745,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:occupancy": "2",
+            "name": "らいペア",
+            "name:en": "Rai Pair",
+            "source": "bing 2014"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3150600343",
+      "name": "Unnamed station (n3150600343)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3150600343",
+        "https://www.openstreetmap.org/way/309728748"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 309728748,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:occupancy": "2",
+            "name": "５線サウス",
+            "name:en": "5 Sen South",
+            "name:ja": "５線サウス",
+            "source": "bing 2014"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3150600345",
+      "name": "Unnamed station (n3150600345)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3150600345",
+        "https://www.openstreetmap.org/way/309728751"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 309728751,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:occupancy": "2",
+            "name": "沢リフト",
+            "name:en": "Sawa Lift",
+            "source": "bing 2014"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3150600353",
+      "name": "Unnamed station (n3150600353)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3150600353",
+        "https://www.openstreetmap.org/way/309728756"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 309728756,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:occupancy": "2",
+            "name": "４線イースト",
+            "name:en": "4 Sen East",
+            "source": "bing 2014"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3150600354",
+      "name": "Unnamed station (n3150600354)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3150600354",
+        "https://www.openstreetmap.org/way/309728757"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 309728757,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:occupancy": "3",
+            "name": "中央高速",
+            "name:en": "Chuou Kousoku",
+            "source": "bing 2014"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3150646037",
+      "name": "Unnamed station (n3150646037)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3150646037",
+        "https://www.openstreetmap.org/way/309732712"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 309732712,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:bubble": "no",
+            "aerialway:occupancy": "2",
+            "name": "つが第２ペア",
+            "name:en": "Tsuga No.2 Pair",
+            "source": "bing 2014"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3150646040",
+      "name": "Unnamed station (n3150646040)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3150646040",
+        "https://www.openstreetmap.org/way/309732713"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 309732713,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:occupancy": "2",
+            "name": "ハンの木高速ペア",
+            "name:en": "Han-no-ki High-Speed Pair",
+            "source": "bing 2014"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3150646041",
+      "name": "Unnamed station (n3150646041)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3150646041",
+        "https://www.openstreetmap.org/way/309732714"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 309732714,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:occupancy": "4",
+            "name": "ハンの木第１クワッド",
+            "name:en": "Han-no-ki No.1 Quad Lift",
+            "source": "bing 2014"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3150646043",
+      "name": "Unnamed station (n3150646043)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3150646043",
+        "https://www.openstreetmap.org/way/309732715"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 309732715,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:occupancy": "4",
+            "name": "白樺クワッド",
+            "name:en": "Shirakaba Quad",
+            "source": "bing 2014"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3150646044",
+      "name": "Unnamed station (n3150646044)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3150646044",
+        "https://www.openstreetmap.org/way/309732715"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 309732715,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:occupancy": "4",
+            "name": "白樺クワッド",
+            "name:en": "Shirakaba Quad",
+            "source": "bing 2014"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3150646049",
+      "name": "Unnamed station (n3150646049)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3150646049",
+        "https://www.openstreetmap.org/way/309732718"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 309732718,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:occupancy": "3",
+            "name": "栂池中央トリプル",
+            "name:en": "Tsugaike Central Triple",
+            "source": "bing 2014"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3150646051",
+      "name": "Unnamed station (n3150646051)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3150646051",
+        "https://www.openstreetmap.org/way/309732719"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 309732719,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:occupancy": "2",
+            "name": "からまつ高速ペア",
+            "name:en": "Karamatsu High-Speed Pair",
+            "name:ja": "からまつ高速ペア",
+            "source": "bing 2014"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3150646052",
+      "name": "Unnamed station (n3150646052)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3150646052",
+        "https://www.openstreetmap.org/way/309732719"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 309732719,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:occupancy": "2",
+            "name": "からまつ高速ペア",
+            "name:en": "Karamatsu High-Speed Pair",
+            "name:ja": "からまつ高速ペア",
+            "source": "bing 2014"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3152413738",
+      "name": "Unnamed station (n3152413738)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3152413738",
+        "https://www.openstreetmap.org/way/309906542"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 309906542,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:bubble": "no",
+            "aerialway:occupancy": "4",
+            "name": "八方リーセンクワッド",
+            "name:en": "Happo Riesen Quad",
+            "source": "bing 2014"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3152413740",
+      "name": "Unnamed station (n3152413740)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3152413740",
+        "https://www.openstreetmap.org/way/309906543"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 309906543,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:bubble": "no",
+            "aerialway:occupancy": "2",
+            "name": "国際第3ペア(B線)",
+            "name:en": "Kokusai No.3 (B Line)",
+            "source": "bing 2014"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3152413743",
+      "name": "Unnamed station (n3152413743)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3152413743",
+        "https://www.openstreetmap.org/way/309906545"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 309906545,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:bubble": "no",
+            "aerialway:occupancy": "2",
+            "name": "白樺第1ペア",
+            "name:en": "Shirababa 1",
+            "source": "bing 2014"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3152413744",
+      "name": "Unnamed station (n3152413744)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3152413744",
+        "https://www.openstreetmap.org/way/309906545"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 309906545,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:bubble": "no",
+            "aerialway:occupancy": "2",
+            "name": "白樺第1ペア",
+            "name:en": "Shirababa 1",
+            "source": "bing 2014"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3152413746",
+      "name": "Unnamed station (n3152413746)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3152413746",
+        "https://www.openstreetmap.org/way/309906546"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 309906546,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:bubble": "no",
+            "aerialway:occupancy": "2",
+            "name": "白樺第2ペア",
+            "name:en": "Shirababa 2",
+            "source": "bing 2014"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3152528719",
+      "name": "Unnamed station (n3152528719)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3152528719",
+        "https://www.openstreetmap.org/way/309920432"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 309920432,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:occupancy": "4",
+            "name": "37 温泉第４クワッド",
+            "name:en": "37 Onsen No. 4 Quad",
+            "source": "bing 2014"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3152528720",
+      "name": "Unnamed station (n3152528720)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3152528720",
+        "https://www.openstreetmap.org/way/309920432"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 309920432,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:occupancy": "4",
+            "name": "37 温泉第４クワッド",
+            "name:en": "37 Onsen No. 4 Quad",
+            "source": "bing 2014"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3152528723",
+      "name": "Unnamed station (n3152528723)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3152528723",
+        "https://www.openstreetmap.org/way/309920434"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 309920434,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:bubble": "no",
+            "name": "中森第１トリプル",
+            "source": "bing 2014"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3152528725",
+      "name": "Unnamed station (n3152528725)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3152528725",
+        "https://www.openstreetmap.org/way/309920435"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 309920435,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:bubble": "no",
+            "aerialway:occupancy": "2",
+            "name": "中森第２ペア",
+            "source": "bing 2014"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3152528727",
+      "name": "Unnamed station (n3152528727)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3152528727",
+        "https://www.openstreetmap.org/way/309920436"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 309920436,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:bubble": "no",
+            "aerialway:occupancy": "2",
+            "name": "32 国体ペア",
+            "name:en": "32 Onsen Zao Kokutai Pair",
+            "source": "bing 2014"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3152528731",
+      "name": "Unnamed station (n3152528731)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3152528731",
+        "https://www.openstreetmap.org/way/309920437"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 309920437,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:bubble": "no",
+            "name": "14 中央第１ペア",
+            "name:en": "14 Chou No.1 Pair",
+            "source": "bing 2014--"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3152528743",
+      "name": "Unnamed station (n3152528743)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3152528743",
+        "https://www.openstreetmap.org/way/309920443"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 309920443,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:bubble": "no",
+            "name": "17 パラダイスペアA,B",
+            "name:en": "17 Paradise Pair",
+            "source": "bing 2014"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3152528746",
+      "name": "Unnamed station (n3152528746)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3152528746",
+        "https://www.openstreetmap.org/way/309920445"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 309920445,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:bubble": "no",
+            "aerialway:occupancy": "2",
+            "name": "ユートピア第２ペア",
+            "source": "bing 2014"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3152528748",
+      "name": "Unnamed station (n3152528748)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3152528748",
+        "https://www.openstreetmap.org/way/309920446"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 309920446,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:bubble": "no",
+            "aerialway:occupancy": "2",
+            "name": "ユートピア第１ペア",
+            "source": "bing 2014"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3152528758",
+      "name": "Unnamed station (n3152528758)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3152528758",
+        "https://www.openstreetmap.org/way/309920454"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 309920454,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:bubble": "no",
+            "name": "横倉第１ペア",
+            "source": "bing 2014"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3152528759",
+      "name": "Unnamed station (n3152528759)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3152528759",
+        "https://www.openstreetmap.org/way/309920454"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 309920454,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:bubble": "no",
+            "name": "横倉第１ペア",
+            "source": "bing 2014"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3152528760",
+      "name": "Unnamed station (n3152528760)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3152528760",
+        "https://www.openstreetmap.org/way/309920456"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 309920456,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:occupancy": "2",
+            "name": "アストリア第１ペア",
+            "source": "bing 2014"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3152530062",
+      "name": "Unnamed station (n3152530062)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3152530062",
+        "https://www.openstreetmap.org/way/309920458"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 309920458,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:occupancy": "2",
+            "name": "横倉第２ペア",
+            "source": "bing 2014"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3152530067",
+      "name": "Unnamed station (n3152530067)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3152530067",
+        "https://www.openstreetmap.org/way/309920460"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 309920460,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:occupancy": "2",
+            "name": "アストリア第３ペア",
+            "source": "bing 2014"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3971263699",
+      "name": "Unnamed station (n3971263699)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3971263699",
+        "https://www.openstreetmap.org/way/394631709"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 394631709,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:occupancy": "4",
+            "name": "ホテル第1クワッド"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3971263705",
+      "name": "Unnamed station (n3971263705)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3971263705",
+        "https://www.openstreetmap.org/way/394631709"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 394631709,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:occupancy": "4",
+            "name": "ホテル第1クワッド"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3971263710",
+      "name": "Unnamed station (n3971263710)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3971263710",
+        "https://www.openstreetmap.org/way/394636690"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 394636690,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:bubble": "yes",
+            "aerialway:occupancy": "4",
+            "name": "ホテル第3クワッド"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n4071774184",
+      "name": "Unnamed station (n4071774184)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/4071774184",
+        "https://www.openstreetmap.org/way/404929197"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 404929197,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:bubble": "no",
+            "aerialway:heating": "no",
+            "aerialway:occupancy": "2",
+            "name": "コスモスペアリフト",
+            "source": "GSImaps/std"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n4071774186",
+      "name": "Unnamed station (n4071774186)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/4071774186",
+        "https://www.openstreetmap.org/way/404929198"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 404929198,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:bubble": "no",
+            "aerialway:heating": "no",
+            "aerialway:occupancy": "3",
+            "name": "高原エクスプレス",
+            "source": "GSImaps/std"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n4389399783",
+      "name": "Unnamed station (n4389399783)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "aerialway:access": "entry",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/4389399783",
+        "https://www.openstreetmap.org/way/441161653"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 441161653,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:bubble": "no",
+            "aerialway:heating": "no",
+            "aerialway:occupancy": "2",
+            "name": "ロマンスチェア",
+            "name:en": "Romance Chair",
+            "note": "The actual location of the lift is this, not the one that shows in the GSI map that is outdated and end a little more up the hill. Ski resorts change frequently, it's best to check with ski resort map and with strava overlays"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n4522160236",
+      "name": "Unnamed station (n4522160236)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/4522160236",
+        "https://www.openstreetmap.org/way/455838277"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 455838277,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n4934373551",
+      "name": "Unnamed station (n4934373551)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/4934373551",
+        "https://www.openstreetmap.org/way/503094306"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 503094306,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:occupancy": "2"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n4934373555",
+      "name": "Unnamed station (n4934373555)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/4934373555",
+        "https://www.openstreetmap.org/way/503094308"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 503094308,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n4935739442",
+      "name": "Unnamed station (n4935739442)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/4935739442",
+        "https://www.openstreetmap.org/way/503232566"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 503232566,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "name": "第1リフト"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n4935739444",
+      "name": "Unnamed station (n4935739444)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/4935739444",
+        "https://www.openstreetmap.org/way/503232567"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 503232567,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "name": "第5リフト"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n4935739447",
+      "name": "Unnamed station (n4935739447)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/4935739447",
+        "https://www.openstreetmap.org/way/503232569"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 503232569,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "name": "中央リフト"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n4935739448",
+      "name": "Unnamed station (n4935739448)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/4935739448",
+        "https://www.openstreetmap.org/way/503232569"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 503232569,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "name": "中央リフト"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n4946184815",
+      "name": "Unnamed station (n4946184815)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/4946184815",
+        "https://www.openstreetmap.org/way/504457839"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 504457839,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:occupancy": "2",
+            "name": "ワゴネット",
+            "name:en": "Waggonette",
+            "name:ja": "ワゴネット",
+            "name:ja-Latn": "Wagonetto"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n5284311896",
+      "name": "Unnamed station (n5284311896)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/5284311896",
+        "https://www.openstreetmap.org/way/546862557"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 546862557,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:occupancy": "2",
+            "disused": "yes",
+            "name:en": "Tsuga No.1 Pair"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n5349625650",
+      "name": "Unnamed station (n5349625650)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "aerialway:access": "entry",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/5349625650",
+        "https://www.openstreetmap.org/way/554316910"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 554316910,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:occupancy": "2",
+            "name": "山麓第１リフト",
+            "name:en": "Sanroku 1st Lift",
+            "name:ja": "山麓第１リフト"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n5349625654",
+      "name": "Unnamed station (n5349625654)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "aerialway:access": "entry",
+        "ele": "540",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/5349625654",
+        "https://www.openstreetmap.org/way/554316915"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 554316915,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:bubble": "yes",
+            "aerialway:occupancy": "4",
+            "name": "小毛無リフト",
+            "name:en": "Kokenashi Lift",
+            "name:ja": "小毛無リフト"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n5349625656",
+      "name": "Unnamed station (n5349625656)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "aerialway:access": "entry",
+        "ele": "950",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/5349625656",
+        "https://www.openstreetmap.org/way/554316919"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 554316919,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:bubble": "yes",
+            "aerialway:occupancy": "4",
+            "name": "膳棚リフト",
+            "name:en": "Zendana Lift",
+            "name:ja": "膳棚リフト"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n7972582896",
+      "name": "Unnamed station (n7972582896)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/7972582896",
+        "https://www.openstreetmap.org/way/854826601"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 854826601,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:bubble": "no",
+            "name": "横倉第１ペア",
+            "source": "bing 2014"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n8558391916",
+      "name": "Unnamed station (n8558391916)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "aerialway:summer:access": "entry",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/8558391916",
+        "https://www.openstreetmap.org/way/441164004"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 441164004,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:occupancy": "4",
+            "name": "トマムエキスペレス",
+            "name:en": "Tomamu Express"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n8737513513",
+      "name": "Unnamed station (n8737513513)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "aerialway:summer:access": "exit",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/8737513513",
+        "https://www.openstreetmap.org/way/92623930"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 92623930,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "name": "第5ペアリフト(アルタイル)"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n8836240530",
+      "name": "Unnamed station (n8836240530)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/8836240530",
+        "https://www.openstreetmap.org/way/954656379"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 954656379,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "name": "S3リフト",
+            "name:en": "S3 lift",
+            "name:ja": "S3リフト",
+            "name:ja-Latn": "S3 rifuto"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n242920539",
+      "name": "Unnamed station (n242920539)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "aerialway:access": "entry"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/242920539",
+        "https://www.openstreetmap.org/way/22650074"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 22650074,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:duration": "5",
+            "aerialway:occupancy": "2",
+            "name": "エース第4ペア",
+            "name:en": "Ace Pair #4",
+            "tickets_points": "1"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n1070117219",
+      "name": "Unnamed station (n1070117219)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/1070117219",
+        "https://www.openstreetmap.org/way/92183473"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 92183473,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "name": "第1カルテット",
+            "source": "Bing"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n1070117221",
+      "name": "Unnamed station (n1070117221)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/1070117221",
+        "https://www.openstreetmap.org/way/92183473"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 92183473,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "name": "第1カルテット",
+            "source": "Bing"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n1070117229",
+      "name": "Unnamed station (n1070117229)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/1070117229",
+        "https://www.openstreetmap.org/way/92183474"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 92183474,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "name": "第4フーガ"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n1070117237",
+      "name": "Unnamed station (n1070117237)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/1070117237",
+        "https://www.openstreetmap.org/way/92183475"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 92183475,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "name": "第2デュオ"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n1070117248",
+      "name": "Unnamed station (n1070117248)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/1070117248",
+        "https://www.openstreetmap.org/way/92183476"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 92183476,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "name": "第6デュオ"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n1074579809",
+      "name": "Unnamed station (n1074579809)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/1074579809",
+        "https://www.openstreetmap.org/way/92623919"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 92623919,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "name": "第3ペアリフト(カストル)"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n2051053498",
+      "name": "Unnamed station (n2051053498)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "aerialway:access": "entry"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/2051053498",
+        "https://www.openstreetmap.org/way/194602319"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 194602319,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:duration": "5",
+            "aerialway:occupancy": "2",
+            "name": "コミュニティーチェア",
+            "name:en": "Community Chair",
+            "source": "GSI/KIBAN 25000",
+            "source_ref": "http://wiki.osm.org/wiki/GSI_KIBAN",
+            "tickets_points": "1"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n2051053513",
+      "name": "Unnamed station (n2051053513)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "aerialway:access": "entry"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/2051053513",
+        "https://www.openstreetmap.org/way/194602316"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 194602316,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:duration": "8",
+            "aerialway:occupancy": "2",
+            "name": "森のチェア",
+            "name:en": "Mori-no Chair",
+            "source": "GSI/KIBAN 25000",
+            "source_ref": "http://wiki.osm.org/wiki/GSI_KIBAN",
+            "tickets_points": "1"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n2051053573",
+      "name": "Unnamed station (n2051053573)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "aerialway:access": "exit"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/2051053573",
+        "https://www.openstreetmap.org/way/194602319"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 194602319,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:duration": "5",
+            "aerialway:occupancy": "2",
+            "name": "コミュニティーチェア",
+            "name:en": "Community Chair",
+            "source": "GSI/KIBAN 25000",
+            "source_ref": "http://wiki.osm.org/wiki/GSI_KIBAN",
+            "tickets_points": "1"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n2136146048",
+      "name": "Unnamed station (n2136146048)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station",
+        "aerialway:access": "entry"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/2136146048",
+        "https://www.openstreetmap.org/way/203603480"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 203603480,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:bubble": "yes",
+            "aerialway:capacity": "2400",
+            "aerialway:heating": "no",
+            "aerialway:occupancy": "4",
+            "length": "905",
+            "name": "田代第2高速リフト",
+            "start_date": "2001-12-17"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n2838629962",
+      "name": "Unnamed station (n2838629962)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/2838629962",
+        "https://www.openstreetmap.org/way/279654415"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 279654415,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:occupancy": "2",
+            "name": "パノラマペアリフト",
+            "name:en": "Panorama Pair Lift",
+            "source": "source=GSImaps/std"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n2938810559",
+      "name": "Unnamed station (n2938810559)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/2938810559",
+        "https://www.openstreetmap.org/way/290336187"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 290336187,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "name": "第2ペアリフト"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3136515206",
+      "name": "Unnamed station (n3136515206)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3136515206",
+        "https://www.openstreetmap.org/way/308363406"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 308363406,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "name": "スーパークワッドリフト"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3136515207",
+      "name": "Unnamed station (n3136515207)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3136515207",
+        "https://www.openstreetmap.org/way/308363406"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 308363406,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "name": "スーパークワッドリフト"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3152446975",
+      "name": "Unnamed station (n3152446975)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3152446975",
+        "https://www.openstreetmap.org/way/309911072"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 309911072,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:occupancy": "2",
+            "name": "とうみ第１ペア",
+            "name:en": "Toomi 1st",
+            "source": "bing 2014"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3152446976",
+      "name": "Unnamed station (n3152446976)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3152446976",
+        "https://www.openstreetmap.org/way/309911072"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 309911072,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:occupancy": "2",
+            "name": "とうみ第１ペア",
+            "name:en": "Toomi 1st",
+            "source": "bing 2014"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3152446977",
+      "name": "Unnamed station (n3152446977)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3152446977",
+        "https://www.openstreetmap.org/way/309911073"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 309911073,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:bubble": "no",
+            "aerialway:occupancy": "2",
+            "name": "とうみ第２ペア",
+            "name:en": "Toomi 2nd",
+            "source": "bing 2014"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3152446978",
+      "name": "Unnamed station (n3152446978)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3152446978",
+        "https://www.openstreetmap.org/way/309911073"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 309911073,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:bubble": "no",
+            "aerialway:occupancy": "2",
+            "name": "とうみ第２ペア",
+            "name:en": "Toomi 2nd",
+            "source": "bing 2014"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3152446980",
+      "name": "Unnamed station (n3152446980)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3152446980",
+        "https://www.openstreetmap.org/way/309911074"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 309911074,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:capacity": "2400",
+            "aerialway:duration": "3:20",
+            "aerialway:occupancy": "4",
+            "name": "とうみスカイフォー",
+            "name:en": "Toomi Sky 4",
+            "source": "bing 2014"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3152446985",
+      "name": "Unnamed station (n3152446985)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3152446985",
+        "https://www.openstreetmap.org/way/309911077"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 309911077,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:occupancy": "2",
+            "name": "いいもり第６",
+            "name:en": "Iimori 6th Chair Lift",
+            "source": "bing 2014"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3152446986",
+      "name": "Unnamed station (n3152446986)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3152446986",
+        "https://www.openstreetmap.org/way/309911077"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 309911077,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:occupancy": "2",
+            "name": "いいもり第６",
+            "name:en": "Iimori 6th Chair Lift",
+            "source": "bing 2014"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3152446993",
+      "name": "Unnamed station (n3152446993)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3152446993",
+        "https://www.openstreetmap.org/way/309911081"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 309911081,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:bubble": "no",
+            "aerialway:occupancy": "2",
+            "name": "アルプス第３ペア",
+            "name:en": "Alps No. 3 Pair",
+            "source": "bing 2014"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n3152528724",
+      "name": "Unnamed station (n3152528724)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/3152528724",
+        "https://www.openstreetmap.org/way/309920434"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 309920434,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:bubble": "no",
+            "name": "中森第１トリプル",
+            "source": "bing 2014"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n4389417237",
+      "name": "Unnamed station (n4389417237)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/4389417237",
+        "https://www.openstreetmap.org/way/441164003"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 441164003,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:occupancy": "4",
+            "name": "パウダーエクスプレス",
+            "name:en": "Powder Express"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n4486596513",
+      "name": "Unnamed station (n4486596513)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/4486596513",
+        "https://www.openstreetmap.org/way/451850825"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 451850825,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n4486596514",
+      "name": "Unnamed station (n4486596514)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/4486596514",
+        "https://www.openstreetmap.org/way/451850825"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 451850825,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n4491336939",
+      "name": "Unnamed station (n4491336939)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/4491336939",
+        "https://www.openstreetmap.org/way/452317205"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 452317205,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:occupancy": "2",
+            "name": "ヤッホーリフト"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n4496767919",
+      "name": "Unnamed station (n4496767919)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/4496767919",
+        "https://www.openstreetmap.org/way/452862620"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 452862620,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:bubble": "no",
+            "aerialway:heating": "no",
+            "aerialway:occupancy": "2",
+            "name": "第4ペアリフト"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n4496767920",
+      "name": "Unnamed station (n4496767920)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/4496767920",
+        "https://www.openstreetmap.org/way/452862620"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 452862620,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:bubble": "no",
+            "aerialway:heating": "no",
+            "aerialway:occupancy": "2",
+            "name": "第4ペアリフト"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n4496767921",
+      "name": "Unnamed station (n4496767921)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/4496767921",
+        "https://www.openstreetmap.org/way/452862621"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 452862621,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:bubble": "no",
+            "aerialway:heating": "no",
+            "aerialway:occupancy": "2",
+            "name": "第3ペアリフト"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n4496767922",
+      "name": "Unnamed station (n4496767922)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/4496767922",
+        "https://www.openstreetmap.org/way/452862621"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 452862621,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:bubble": "no",
+            "aerialway:heating": "no",
+            "aerialway:occupancy": "2",
+            "name": "第3ペアリフト"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n4496767924",
+      "name": "Unnamed station (n4496767924)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/4496767924",
+        "https://www.openstreetmap.org/way/452862622"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 452862622,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:bubble": "no",
+            "aerialway:heating": "no",
+            "aerialway:occupancy": "2",
+            "name": "第2ペアリフト"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n4496767926",
+      "name": "Unnamed station (n4496767926)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/4496767926",
+        "https://www.openstreetmap.org/way/452862623"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 452862623,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:bubble": "no",
+            "aerialway:heating": "no",
+            "aerialway:occupancy": "2",
+            "name": "第1ペアリフト"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n4507147817",
+      "name": "Unnamed station (n4507147817)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/4507147817",
+        "https://www.openstreetmap.org/way/454083901"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 454083901,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "name": "ラビットトリプルリフト"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n4507147818",
+      "name": "Unnamed station (n4507147818)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/4507147818",
+        "https://www.openstreetmap.org/way/454083901"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 454083901,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "name": "ラビットトリプルリフト"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n4522160279",
+      "name": "Unnamed station (n4522160279)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/4522160279",
+        "https://www.openstreetmap.org/way/455838281"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 455838281,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "name": "V10リフト",
+            "name:en": "V10 lift",
+            "name:ja": "V10リフト",
+            "name:ja-Latn": "V10 rifuto"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n4522160280",
+      "name": "Unnamed station (n4522160280)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/4522160280",
+        "https://www.openstreetmap.org/way/455838282"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 455838282,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "name": "V9リフト",
+            "name:en": "V9 lift",
+            "name:ja": "V9リフト",
+            "name:ja-Latn": "V9 rifuto"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n4522160281",
+      "name": "Unnamed station (n4522160281)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/4522160281",
+        "https://www.openstreetmap.org/way/455838282"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 455838282,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "name": "V9リフト",
+            "name:en": "V9 lift",
+            "name:ja": "V9リフト",
+            "name:ja-Latn": "V9 rifuto"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n4522160286",
+      "name": "Unnamed station (n4522160286)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/4522160286",
+        "https://www.openstreetmap.org/way/455838285"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 455838285,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "name": "V4リフト",
+            "name:en": "V4 lift",
+            "name:ja": "V4リフト",
+            "name:ja-Latn": "V4 rifuto"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n4691765709",
+      "name": "Unnamed station (n4691765709)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/4691765709",
+        "https://www.openstreetmap.org/way/475431615"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 475431615,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:bubble": "no",
+            "aerialway:heating": "no",
+            "aerialway:occupancy": "2",
+            "name": "ダウンヒル第3ロマンス",
+            "name:en": "Downhill Romance No. 3"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n4935739443",
+      "name": "Unnamed station (n4935739443)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/4935739443",
+        "https://www.openstreetmap.org/way/503232567"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 503232567,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "name": "第5リフト"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n4935739445",
+      "name": "Unnamed station (n4935739445)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/4935739445",
+        "https://www.openstreetmap.org/way/503232568"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 503232568,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "name": "第3リフト"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n4935739450",
+      "name": "Unnamed station (n4935739450)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/4935739450",
+        "https://www.openstreetmap.org/way/503232570"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 503232570,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "name": "第4リフト"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n4968096126",
+      "name": "Unnamed station (n4968096126)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/4968096126",
+        "https://www.openstreetmap.org/way/507273152"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 507273152,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:bubble": "yes",
+            "aerialway:occupancy": "4",
+            "name": "富良野ダウンヒル第1高速",
+            "name:en": "Furano Downhill Swift No. 1"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n4968096127",
+      "name": "Unnamed station (n4968096127)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/4968096127",
+        "https://www.openstreetmap.org/way/507273152"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 507273152,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:bubble": "yes",
+            "aerialway:occupancy": "4",
+            "name": "富良野ダウンヒル第1高速",
+            "name:en": "Furano Downhill Swift No. 1"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n5916378998",
+      "name": "Unnamed station (n5916378998)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/5916378998",
+        "https://www.openstreetmap.org/way/626699786"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 626699786,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:occupancy": "2",
+            "name": "第3ロマンスリフト"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n5916378999",
+      "name": "Unnamed station (n5916378999)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/5916378999",
+        "https://www.openstreetmap.org/way/626699787"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 626699787,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:duration": "7",
+            "aerialway:occupancy": "2",
+            "name": "第1ロマンスリフト"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n5916379011",
+      "name": "Unnamed station (n5916379011)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/5916379011",
+        "https://www.openstreetmap.org/way/626699787"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 626699787,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:duration": "7",
+            "aerialway:occupancy": "2",
+            "name": "第1ロマンスリフト"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n5917728750",
+      "name": "Unnamed station (n5917728750)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/5917728750",
+        "https://www.openstreetmap.org/way/626699786"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 626699786,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:occupancy": "2",
+            "name": "第3ロマンスリフト"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n8952576608",
+      "name": "Unnamed station (n8952576608)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/8952576608",
+        "https://www.openstreetmap.org/way/967692895"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 967692895,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "name": "山頂ファミリーリフト",
+            "name:en": "Summit Family Lift"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n13328284906",
+      "name": "Unnamed station (n13328284906)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/13328284906",
+        "https://www.openstreetmap.org/way/309911076"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 309911076,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:occupancy": "4",
+            "name": "ミルキーフォー",
+            "name:en": "Milky Four Lift",
+            "source": "bing 2014"
+          },
+          "at_endpoint": true
+        }
+      ]
+    },
+    {
+      "id": "n13328284910",
+      "name": "Unnamed station (n13328284910)",
+      "action": "remove",
+      "reason": "This station belongs exclusively to raw chair-lift ways outside the curated and operator-verified public transport selection. It has no membership in any selected ropeway. Its former display was a proximity-filter leak; no claim is made that every excluded lift is definitively winter-only.",
+      "stop_tags": {
+        "aerialway": "station"
+      },
+      "sources": [
+        "https://www.openstreetmap.org/node/13328284910",
+        "https://www.openstreetmap.org/way/309911078"
+      ],
+      "aerial_way_membership": [
+        {
+          "way_id": 309911078,
+          "selected": false,
+          "tags": {
+            "aerialway": "chair_lift",
+            "aerialway:bubble": "no",
+            "aerialway:occupancy": "2",
+            "name": "いいもり第１高速ペア",
+            "name:en": "Iimori 1st Chair Lift",
+            "source": "bing 2014"
+          },
+          "at_endpoint": true
+        }
+      ]
+    }
+  ],
+  "limitations": "The selection audit is a network-consistency rule, not independent confirmation of winter-only operation for every rejected chairlift. Public sightseeing exceptions found from operator sources are supplied separately in ropeway_public_additions.json."
+}

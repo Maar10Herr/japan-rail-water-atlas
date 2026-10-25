@@ -1,0 +1,2899 @@
+{
+  "schema": 1,
+  "summary": {
+    "initial_unnamed_objects": 359,
+    "verified_ferry_port_names": 88,
+    "verified_ropeway_station_names": 11,
+    "total_name_corrections": 99
+  },
+  "method": "Names are transferred only with exact route topology plus named source port identity, or operator station terminology tied to the actual mapped ropeway. No nearest-station-only inference is used. English fields added here are explicit atlas transliterations/translations, not claimed as official English naming.",
+  "corrections": [
+    {
+      "id": "n357427174",
+      "old_name": "Unnamed station (n357427174)",
+      "name": "姫路港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/357427174",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.shikokuferry.com/route1/",
+        "https://wwwtb.mlit.go.jp/kobe/seatravel/20171108kouro.html",
+        "https://www.openstreetmap.org/way/31905876"
+      ],
+      "inventory_route_id": "05-shodoshima-ferry-himeji-fukuda",
+      "coordinate_distance_m": 0.495,
+      "evidence": [
+        {
+          "osm_way": 31905876,
+          "way_name": "小豆島急行フェリー",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n357450684",
+      "old_name": "Unnamed station (n357450684)",
+      "name": "高松港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/357450684",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.shikokuferry.com/",
+        "https://www.shikokuferry.com/route2/",
+        "https://www.shikokuferry.com/route4/",
+        "https://www.openstreetmap.org/way/185758141"
+      ],
+      "inventory_route_id": "06-takamatsu-tonosho",
+      "coordinate_distance_m": 0.354,
+      "evidence": [
+        {
+          "osm_way": 185758141,
+          "way_name": "土庄－高松航路",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n401626611",
+      "old_name": "Unnamed station (n401626611)",
+      "name": "友ヶ島（野奈浦桟橋）",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/401626611",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://tomogashimakisen.com/",
+        "https://www.city.wakayama.wakayama.jp/kankou/kankouspot/1027585/1027593.html",
+        "https://www.openstreetmap.org/way/34597465"
+      ],
+      "inventory_route_id": "05-tomogashima-kisen",
+      "coordinate_distance_m": 0.586,
+      "evidence": [
+        {
+          "osm_way": 34597465,
+          "way_name": "友ヶ島汽船",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n704284531",
+      "old_name": "Unnamed station (n704284531)",
+      "name": "高松港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/704284531",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.ryobi-shodoshima.jp/",
+        "https://ryobi-shodoshima.jp/timetable/timetable_takamatsu",
+        "https://www.pref.kagawa.lg.jp/takamatsukokanri/port_takamatsu/kaisou1st1.html",
+        "https://www.openstreetmap.org/way/185758149"
+      ],
+      "inventory_route_id": "06-takamatsu-ikeda",
+      "coordinate_distance_m": 0.275,
+      "evidence": [
+        {
+          "osm_way": 185758149,
+          "way_name": "高松-小豆島（池田港）",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n1441184740",
+      "old_name": "Unnamed station (n1441184740)",
+      "name": "宇久平",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/1441184740",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.nomo.co.jp/taiko/timetable.html",
+        "https://www.nomo.co.jp/taiko/fare.html",
+        "https://ojikajima.jp/access",
+        "https://www.openstreetmap.org/way/174078910"
+      ],
+      "inventory_route_id": "10-nomo-taiko",
+      "coordinate_distance_m": 0.58,
+      "evidence": [
+        {
+          "osm_way": 174078910,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n1527601711",
+      "old_name": "Unnamed station (n1527601711)",
+      "name": "高松港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/1527601711",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://meon.co.jp/",
+        "https://meon.co.jp/access",
+        "https://www.openstreetmap.org/way/139321984"
+      ],
+      "inventory_route_id": "06-takamatsu-megijima-ogijima",
+      "coordinate_distance_m": 0.481,
+      "evidence": [
+        {
+          "osm_way": 139321984,
+          "way_name": "高松発↔鬼ヶ島着↔男木島着 フェリー",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n1635789608",
+      "old_name": "Unnamed station (n1635789608)",
+      "name": "式根島（野伏港）",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/1635789608",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.tokaikisen.co.jp/boarding/timetable/",
+        "https://www.tokaikisen.co.jp/wordpress/wp-content/uploads/2026/07/2e937ae7c9375faca365110e5b204348.pdf",
+        "https://www.tokaikisen.co.jp/boarding/baggage_jetship/",
+        "https://www.openstreetmap.org/way/424080674",
+        "https://www.openstreetmap.org/way/444211181"
+      ],
+      "inventory_route_id": "03-tokai-takeshiba-izu-jet",
+      "coordinate_distance_m": 0.346,
+      "evidence": [
+        {
+          "osm_way": 424080674,
+          "way_name": "新島 - 式根島",
+          "both_endpoints_match_route_geometry_vertices": true
+        },
+        {
+          "osm_way": 444211181,
+          "way_name": "式根島 - 神津島",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n1794064986",
+      "old_name": "Unnamed station (n1794064986)",
+      "name": "松島",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/1794064986",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.ezakikaiun.com/",
+        "https://kyushu-ships.com/pages/429/",
+        "https://www.openstreetmap.org/way/168098978"
+      ],
+      "inventory_route_id": "10-ezaki-seto-matsushima",
+      "coordinate_distance_m": 0.301,
+      "evidence": [
+        {
+          "osm_way": 168098978,
+          "way_name": "瀬戸松島間・江崎海陸運送",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [
+        "松島（釜浦）"
+      ],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n1794068347",
+      "old_name": "Unnamed station (n1794068347)",
+      "name": "平島",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/1794068347",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.saryokyo.com/member/member-02.html",
+        "http://www.norimono-info.com/group_main.php?type=ship",
+        "https://www.openstreetmap.org/way/168099455"
+      ],
+      "inventory_route_id": "10-sakito-sasebo-tomosumi",
+      "coordinate_distance_m": 0.482,
+      "evidence": [
+        {
+          "osm_way": 168099455,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n1794068350",
+      "old_name": "Unnamed station (n1794068350)",
+      "name": "友住",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/1794068350",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.saryokyo.com/member/member-02.html",
+        "http://www.norimono-info.com/group_main.php?type=ship",
+        "https://www.openstreetmap.org/way/168099455"
+      ],
+      "inventory_route_id": "10-sakito-sasebo-tomosumi",
+      "coordinate_distance_m": 0.435,
+      "evidence": [
+        {
+          "osm_way": 168099455,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n2161964269",
+      "old_name": "Unnamed station (n2161964269)",
+      "name": "桜島港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/2161964269",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.city.kagoshima.lg.jp/sakurajima-ferry/koro-jikoku/timetable.html",
+        "https://www.city.kagoshima.lg.jp/sakurajima-ferry/koro-jikoku/documents/202510heijitujikokuhyou2.pdf",
+        "https://www.city.kagoshima.lg.jp/sakurajima-ferry/koro-jikoku/route.html",
+        "https://www.openstreetmap.org/way/173455498"
+      ],
+      "inventory_route_id": "11-sakurajima-ferry",
+      "coordinate_distance_m": 0.439,
+      "evidence": [
+        {
+          "osm_way": 173455498,
+          "way_name": "桜島フェリー",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n2522046388",
+      "old_name": "Unnamed station (n2522046388)",
+      "name": "鹿児島港（桜島フェリーターミナル）",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/2522046388",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.city.kagoshima.lg.jp/sakurajima-ferry/koro-jikoku/timetable.html",
+        "https://www.city.kagoshima.lg.jp/sakurajima-ferry/koro-jikoku/documents/202510heijitujikokuhyou2.pdf",
+        "https://www.city.kagoshima.lg.jp/sakurajima-ferry/koro-jikoku/route.html",
+        "https://www.openstreetmap.org/way/173455498"
+      ],
+      "inventory_route_id": "11-sakurajima-ferry",
+      "coordinate_distance_m": 0.439,
+      "evidence": [
+        {
+          "osm_way": 173455498,
+          "way_name": "桜島フェリー",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n3043588056",
+      "old_name": "Unnamed station (n3043588056)",
+      "name": "小豆島（福田港）",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/3043588056",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.shikokuferry.com/route1/",
+        "https://wwwtb.mlit.go.jp/kobe/seatravel/20171108kouro.html",
+        "https://www.openstreetmap.org/way/31905876"
+      ],
+      "inventory_route_id": "05-shodoshima-ferry-himeji-fukuda",
+      "coordinate_distance_m": 0.241,
+      "evidence": [
+        {
+          "osm_way": 31905876,
+          "way_name": "小豆島急行フェリー",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n3046087226",
+      "old_name": "Unnamed station (n3046087226)",
+      "name": "前島 新御堂港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/3046087226",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.maejima-island.info/schedules.html",
+        "https://www.openstreetmap.org/way/466564405"
+      ],
+      "inventory_route_id": "06-ushimado-maejima",
+      "coordinate_distance_m": 0.566,
+      "evidence": [
+        {
+          "osm_way": 466564405,
+          "way_name": "前島フェリー",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n4235544246",
+      "old_name": "Unnamed station (n4235544246)",
+      "name": "利島",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/4235544246",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.tokaikisen.co.jp/boarding/timetable/",
+        "https://www.tokaikisen.co.jp/wordpress/wp-content/uploads/2026/07/2e937ae7c9375faca365110e5b204348.pdf",
+        "https://www.tokaikisen.co.jp/boarding/baggage_jetship/",
+        "https://www.openstreetmap.org/way/424081177"
+      ],
+      "inventory_route_id": "03-tokai-takeshiba-izu-jet",
+      "coordinate_distance_m": 0.381,
+      "evidence": [
+        {
+          "osm_way": 424081177,
+          "way_name": "利島 - 新島",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n4506359318",
+      "old_name": "Unnamed station (n4506359318)",
+      "name": "佐柳島 本浦港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/4506359318",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://sanyo-kisen.jp/%E6%99%82%E5%88%BB%E8%A1%A8",
+        "https://www.kasaoka-kankou.jp/access/ship",
+        "https://www.city.kasaoka.okayama.jp/uploaded/attachment/24063.pdf",
+        "https://www.openstreetmap.org/way/453998745"
+      ],
+      "inventory_route_id": "06-kasaoka-manabejima-sanagi",
+      "coordinate_distance_m": 0.215,
+      "evidence": [
+        {
+          "osm_way": 453998745,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n4506359331",
+      "old_name": "Unnamed station (n4506359331)",
+      "name": "多度津港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/4506359331",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://tadotsu-kisen.jp/",
+        "https://tadotsu-kisen.jp/wp-content/uploads/2026/06/新ダイヤ-R8.8.1～-1.pdf",
+        "https://www.openstreetmap.org/way/453992076"
+      ],
+      "inventory_route_id": "06-tadotsu-takami-sanagi",
+      "coordinate_distance_m": 0.144,
+      "evidence": [
+        {
+          "osm_way": 453992076,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n4506438087",
+      "old_name": "Unnamed station (n4506438087)",
+      "name": "神島外浦港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/4506438087",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://sanyo-kisen.jp/%E6%99%82%E5%88%BB%E8%A1%A8",
+        "https://www.kasaoka-kankou.jp/access/ship",
+        "https://www.city.kasaoka.okayama.jp/uploaded/attachment/24063.pdf",
+        "https://www.openstreetmap.org/way/453998715",
+        "https://www.openstreetmap.org/way/453998730"
+      ],
+      "inventory_route_id": "06-kasaoka-manabejima-sanagi",
+      "coordinate_distance_m": 0.496,
+      "evidence": [
+        {
+          "osm_way": 453998715,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        },
+        {
+          "osm_way": 453998730,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n4506438184",
+      "old_name": "Unnamed station (n4506438184)",
+      "name": "白石島港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/4506438184",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://sanyo-kisen.jp/%E6%99%82%E5%88%BB%E8%A1%A8",
+        "https://www.kasaoka-kankou.jp/access/ship",
+        "https://www.city.kasaoka.okayama.jp/uploaded/attachment/24063.pdf",
+        "https://www.openstreetmap.org/way/453998730",
+        "https://www.openstreetmap.org/way/453998732"
+      ],
+      "inventory_route_id": "06-kasaoka-manabejima-sanagi",
+      "coordinate_distance_m": 0.144,
+      "evidence": [
+        {
+          "osm_way": 453998730,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        },
+        {
+          "osm_way": 453998732,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n4506438205",
+      "old_name": "Unnamed station (n4506438205)",
+      "name": "北木島 楠港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/4506438205",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://sanyo-kisen.jp/%E6%99%82%E5%88%BB%E8%A1%A8",
+        "https://www.kasaoka-kankou.jp/access/ship",
+        "https://www.city.kasaoka.okayama.jp/uploaded/attachment/24063.pdf",
+        "https://www.openstreetmap.org/way/453998732",
+        "https://www.openstreetmap.org/way/453998733"
+      ],
+      "inventory_route_id": "06-kasaoka-manabejima-sanagi",
+      "coordinate_distance_m": 0.523,
+      "evidence": [
+        {
+          "osm_way": 453998732,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        },
+        {
+          "osm_way": 453998733,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n4506438226",
+      "old_name": "Unnamed station (n4506438226)",
+      "name": "北木島 大浦港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/4506438226",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://sanyo-kisen.jp/%E6%99%82%E5%88%BB%E8%A1%A8",
+        "https://www.kasaoka-kankou.jp/access/ship",
+        "https://www.city.kasaoka.okayama.jp/uploaded/attachment/24063.pdf",
+        "https://www.openstreetmap.org/way/453998733",
+        "https://www.openstreetmap.org/way/453998737",
+        "https://www.openstreetmap.org/way/453998739"
+      ],
+      "inventory_route_id": "06-kasaoka-manabejima-sanagi",
+      "coordinate_distance_m": 0.0,
+      "evidence": [
+        {
+          "osm_way": 453998733,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        },
+        {
+          "osm_way": 453998737,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        },
+        {
+          "osm_way": 453998739,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n4506438275",
+      "old_name": "Unnamed station (n4506438275)",
+      "name": "真鍋島 本浦港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/4506438275",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://sanyo-kisen.jp/%E6%99%82%E5%88%BB%E8%A1%A8",
+        "https://www.kasaoka-kankou.jp/access/ship",
+        "https://www.city.kasaoka.okayama.jp/uploaded/attachment/24063.pdf",
+        "https://www.openstreetmap.org/way/453998737",
+        "https://www.openstreetmap.org/way/453998741",
+        "https://www.openstreetmap.org/way/453998745"
+      ],
+      "inventory_route_id": "06-kasaoka-manabejima-sanagi",
+      "coordinate_distance_m": 0.354,
+      "evidence": [
+        {
+          "osm_way": 453998737,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        },
+        {
+          "osm_way": 453998741,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        },
+        {
+          "osm_way": 453998745,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n4506438295",
+      "old_name": "Unnamed station (n4506438295)",
+      "name": "佐柳島 長崎港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/4506438295",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://tadotsu-kisen.jp/",
+        "https://tadotsu-kisen.jp/wp-content/uploads/2026/06/新ダイヤ-R8.8.1～-1.pdf",
+        "https://www.openstreetmap.org/way/453998746"
+      ],
+      "inventory_route_id": "06-tadotsu-takami-sanagi",
+      "coordinate_distance_m": 0.275,
+      "evidence": [
+        {
+          "osm_way": 453998746,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n4513643811",
+      "old_name": "Unnamed station (n4513643811)",
+      "name": "粟国港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/4513643811",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.vill.aguni.okinawa.jp/soshiki/senpaku/32.html",
+        "https://www.ogb.go.jp/-/media/Files/OGB/Unyu/survey/R7unyuyoran_260212.pdf",
+        "https://www.openstreetmap.org/way/168151922"
+      ],
+      "inventory_route_id": "12-aguni",
+      "coordinate_distance_m": 0.244,
+      "evidence": [
+        {
+          "osm_way": 168151922,
+          "way_name": "泊～粟国",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n4563327832",
+      "old_name": "Unnamed station (n4563327832)",
+      "name": "蓋井島",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/4563327832",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.shimonoseki-port.com/154838.html",
+        "https://www.shimonoseki-port.com/6519.html",
+        "https://www.pref.yamaguchi.lg.jp/soshiki/30/14120.html",
+        "https://www.openstreetmap.org/way/324800063"
+      ],
+      "inventory_route_id": "08-futaoijima",
+      "coordinate_distance_m": 0.184,
+      "evidence": [
+        {
+          "osm_way": 324800063,
+          "way_name": "蓋井島航路",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n4566075882",
+      "old_name": "Unnamed station (n4566075882)",
+      "name": "伊是名 仲田港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/4566075882",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://vill.izena.okinawa.jp/",
+        "https://vill.izena.okinawa.jp/about/access/",
+        "https://www.ogb.go.jp/-/media/Files/OGB/Unyu/survey/R7unyuyoran_260212.pdf",
+        "https://www.openstreetmap.org/way/461040329"
+      ],
+      "inventory_route_id": "12-izena",
+      "coordinate_distance_m": 0.388,
+      "evidence": [
+        {
+          "osm_way": 461040329,
+          "way_name": "伊是名～運天",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n4566075883",
+      "old_name": "Unnamed station (n4566075883)",
+      "name": "伊平屋 前泊港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/4566075883",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.vill.iheya.okinawa.jp/",
+        "https://www.vill.iheya.okinawa.jp/soshiki/9/1144.html",
+        "https://www.ogb.go.jp/-/media/Files/OGB/Unyu/survey/R7unyuyoran_260212.pdf",
+        "https://www.openstreetmap.org/way/461040328"
+      ],
+      "inventory_route_id": "12-iheya",
+      "coordinate_distance_m": 0.445,
+      "evidence": [
+        {
+          "osm_way": 461040328,
+          "way_name": "伊平屋～運天",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n4881202374",
+      "old_name": "Unnamed station (n4881202374)",
+      "name": "新岡山港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/4881202374",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.ryobi-shodoshima.jp/",
+        "https://www.shikokuferry.com/route3/",
+        "https://www.openstreetmap.org/way/496410907"
+      ],
+      "inventory_route_id": "06-shinokayama-tonosho",
+      "coordinate_distance_m": 0.288,
+      "evidence": [
+        {
+          "osm_way": 496410907,
+          "way_name": "岡山－土庄航路",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n4881202381",
+      "old_name": "Unnamed station (n4881202381)",
+      "name": "小豆島 土庄港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/4881202381",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.ryobi-shodoshima.jp/",
+        "https://www.shikokuferry.com/route3/",
+        "https://www.openstreetmap.org/way/496410907"
+      ],
+      "inventory_route_id": "06-shinokayama-tonosho",
+      "coordinate_distance_m": 0.354,
+      "evidence": [
+        {
+          "osm_way": 496410907,
+          "way_name": "岡山－土庄航路",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n4881230797",
+      "old_name": "Unnamed station (n4881230797)",
+      "name": "小豆島 土庄港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/4881230797",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.shodoshima-ferry.co.jp/",
+        "https://www.shodoshima-ferry.co.jp/timetable/",
+        "https://www.shikoku-ships.jp/route/images/other01.pdf",
+        "https://www.openstreetmap.org/way/446750525"
+      ],
+      "inventory_route_id": "06-uno-teshima-tonosho",
+      "coordinate_distance_m": 0.297,
+      "evidence": [
+        {
+          "osm_way": 446750525,
+          "way_name": "土庄-唐櫃(豊島)-家浦(豊島)-宇野高速艇",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n5167047027",
+      "old_name": "Unnamed station (n5167047027)",
+      "name": "岐志",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/5167047027",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.city.itoshima.lg.jp/s006/010/020/020/090/tosen.html",
+        "https://www.openstreetmap.org/way/532486748"
+      ],
+      "inventory_route_id": "10-kishi-himeshima",
+      "coordinate_distance_m": 0.579,
+      "evidence": [
+        {
+          "osm_way": 532486748,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n5261276819",
+      "old_name": "Unnamed station (n5261276819)",
+      "name": "ハウステンボス",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/5261276819",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://yasuda-gp.net/omura/htb",
+        "https://yasuda-gp.net/c_news/20739",
+        "https://www.openstreetmap.org/way/544258624"
+      ],
+      "inventory_route_id": "10-yasuda-airport-htb",
+      "coordinate_distance_m": 0.389,
+      "evidence": [
+        {
+          "osm_way": 544258624,
+          "way_name": "長崎空港～ハウステンボス",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n5261276850",
+      "old_name": "Unnamed station (n5261276850)",
+      "name": "長崎空港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/5261276850",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://yasuda-gp.net/omura/htb",
+        "https://yasuda-gp.net/c_news/20739",
+        "https://www.openstreetmap.org/way/544258624"
+      ],
+      "inventory_route_id": "10-yasuda-airport-htb",
+      "coordinate_distance_m": 0.382,
+      "evidence": [
+        {
+          "osm_way": 544258624,
+          "way_name": "長崎空港～ハウステンボス",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n5597927267",
+      "old_name": "Unnamed station (n5597927267)",
+      "name": "三原港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/5597927267",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "http://marutokisen.sakura.ne.jp/main-page/timetable2.htm",
+        "https://www.openstreetmap.org/way/538443521",
+        "https://www.openstreetmap.org/way/860085889"
+      ],
+      "inventory_route_id": "07-mihara-setoda-maruto",
+      "coordinate_distance_m": 0.215,
+      "evidence": [
+        {
+          "osm_way": 538443521,
+          "way_name": "マルト汽船(三原－小佐木－向田－沢－瀬戸田)",
+          "both_endpoints_match_route_geometry_vertices": true
+        },
+        {
+          "osm_way": 860085889,
+          "way_name": "弓場汽船(三原－沢－瀬戸田)",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n7990986497",
+      "old_name": "Unnamed station (n7990986497)",
+      "name": "六島 湛江港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/7990986497",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://sanyo-kisen.jp/%E6%99%82%E5%88%BB%E8%A1%A8",
+        "https://www.kasaoka-kankou.jp/access/ship",
+        "https://www.city.kasaoka.okayama.jp/uploaded/attachment/24063.pdf",
+        "https://www.openstreetmap.org/way/453998722",
+        "https://www.openstreetmap.org/way/857078908"
+      ],
+      "inventory_route_id": "06-kasaoka-hishima-mushima",
+      "coordinate_distance_m": 0.384,
+      "evidence": [
+        {
+          "osm_way": 453998722,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        },
+        {
+          "osm_way": 857078908,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n9009216142",
+      "old_name": "Unnamed station (n9009216142)",
+      "name": "馬渡島",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/9009216142",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.city.karatsu.lg.jp/page/1013.html",
+        "https://www.city.karatsu.lg.jp/uploaded/attachment/23542.pdf",
+        "http://www.norimono-info.com/group_main.php?type=ship",
+        "https://www.openstreetmap.org/way/973418095"
+      ],
+      "inventory_route_id": "10-yobuko-madarashima",
+      "coordinate_distance_m": 0.241,
+      "evidence": [
+        {
+          "osm_way": 973418095,
+          "way_name": "馬渡島航路（ゆうしょう）名護屋～馬渡島",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n9285090421",
+      "old_name": "Unnamed station (n9285090421)",
+      "name": "時津",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/9285090421",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://yasuda-gp.net/omura/togitsu",
+        "https://yasuda-gp.net/c_news/20739",
+        "https://www.openstreetmap.org/way/1006374033"
+      ],
+      "inventory_route_id": "10-yasuda-togitsu-airport",
+      "coordinate_distance_m": 0.382,
+      "evidence": [
+        {
+          "osm_way": 1006374033,
+          "way_name": "時津港～長崎空港",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n9533745175",
+      "old_name": "Unnamed station (n9533745175)",
+      "name": "和具（答志島）",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/9533745175",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.city.toba.mie.jp/soshiki/t_kanri/gyomu/doro_kotsu/kokyo_kotsu/1913.html",
+        "https://www.city.toba.mie.jp/material/files/group/45/teikisendaiya260401.pdf",
+        "https://www.openstreetmap.org/way/850047650",
+        "https://www.openstreetmap.org/way/1034962090"
+      ],
+      "inventory_route_id": "04-toba-toshi",
+      "coordinate_distance_m": 0.288,
+      "evidence": [
+        {
+          "osm_way": 850047650,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        },
+        {
+          "osm_way": 1034962090,
+          "way_name": "和具 - 答志",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n9533745202",
+      "old_name": "Unnamed station (n9533745202)",
+      "name": "答志（答志島）",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/9533745202",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.city.toba.mie.jp/soshiki/t_kanri/gyomu/doro_kotsu/kokyo_kotsu/1913.html",
+        "https://www.city.toba.mie.jp/material/files/group/45/teikisendaiya260401.pdf",
+        "https://www.openstreetmap.org/way/1034962090",
+        "https://www.openstreetmap.org/way/1034962092"
+      ],
+      "inventory_route_id": "04-toba-toshi",
+      "coordinate_distance_m": 0.576,
+      "evidence": [
+        {
+          "osm_way": 1034962090,
+          "way_name": "和具 - 答志",
+          "both_endpoints_match_route_geometry_vertices": true
+        },
+        {
+          "osm_way": 1034962092,
+          "way_name": "佐田浜 - 答志",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n9533758646",
+      "old_name": "Unnamed station (n9533758646)",
+      "name": "坂手（坂手島）",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/9533758646",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.city.toba.mie.jp/soshiki/t_kanri/gyomu/doro_kotsu/kokyo_kotsu/1913.html",
+        "https://www.city.toba.mie.jp/material/files/group/45/teikisendaiya260401.pdf",
+        "https://www.openstreetmap.org/way/1034962097",
+        "https://www.openstreetmap.org/way/1034964150"
+      ],
+      "inventory_route_id": "04-toba-sugashima",
+      "coordinate_distance_m": 0.567,
+      "evidence": [
+        {
+          "osm_way": 1034962097,
+          "way_name": "佐田浜 - 坂手",
+          "both_endpoints_match_route_geometry_vertices": true
+        },
+        {
+          "osm_way": 1034964150,
+          "way_name": "坂手 - 菅島",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n9533758670",
+      "old_name": "Unnamed station (n9533758670)",
+      "name": "桃取（答志島）",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/9533758670",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.city.toba.mie.jp/soshiki/t_kanri/gyomu/doro_kotsu/kokyo_kotsu/1913.html",
+        "https://www.city.toba.mie.jp/material/files/group/45/teikisendaiya260401.pdf",
+        "https://www.openstreetmap.org/way/1034962098"
+      ],
+      "inventory_route_id": "04-toba-momotori",
+      "coordinate_distance_m": 0.62,
+      "evidence": [
+        {
+          "osm_way": 1034962098,
+          "way_name": "佐田浜 - 桃取",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n11018067474",
+      "old_name": "Unnamed station (n11018067474)",
+      "name": "二十四の瞳映画村桟橋",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/11018067474",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.24hitomi.or.jp/watashibune/watashibune.html",
+        "https://www.openstreetmap.org/way/1186235235"
+      ],
+      "inventory_route_id": "06-shodoshima-eigamura-watashibune",
+      "coordinate_distance_m": 0.381,
+      "evidence": [
+        {
+          "osm_way": 1186235235,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n11018067475",
+      "old_name": "Unnamed station (n11018067475)",
+      "name": "オリーブ・ナビ桟橋（オリーブ・ビーチ）",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/11018067475",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.24hitomi.or.jp/watashibune/watashibune.html",
+        "https://www.openstreetmap.org/way/1186235235"
+      ],
+      "inventory_route_id": "06-shodoshima-eigamura-watashibune",
+      "coordinate_distance_m": 0.454,
+      "evidence": [
+        {
+          "osm_way": 1186235235,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n11333075351",
+      "old_name": "Unnamed station (n11333075351)",
+      "name": "阿嘉港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/11333075351",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.vill.zamami.okinawa.jp/sempaku/mitsushima/",
+        "https://www.openstreetmap.org/way/703357472"
+      ],
+      "inventory_route_id": "12-zamami-mitsushima-aharen",
+      "coordinate_distance_m": 0.631,
+      "evidence": [
+        {
+          "osm_way": 703357472,
+          "way_name": "三ツ島フェリー",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n12072611579",
+      "old_name": "Unnamed station (n12072611579)",
+      "name": "千葉みなと（ケーズハーバー）",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/12072611579",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.chiba-port.com/plan/chiba_port1.html",
+        "https://www.chiba-port.com/",
+        "https://www.openstreetmap.org/way/1303597815",
+        "https://www.openstreetmap.org/way/1303597815"
+      ],
+      "inventory_route_id": "03-chiba-port-cruise",
+      "coordinate_distance_m": 0.271,
+      "evidence": [
+        {
+          "osm_way": 1303597815,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        },
+        {
+          "osm_way": 1303597815,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n12430279359",
+      "old_name": "Unnamed station (n12430279359)",
+      "name": "小豆島（坂手港）",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/12430279359",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://ferry.co.jp/home/kobe-takamatsu/",
+        "https://ferry.co.jp/home/kobe-shodoshima/",
+        "https://wwwtb.mlit.go.jp/kobe/seatravel/20171108kouro.html",
+        "https://www.openstreetmap.org/way/846837780",
+        "https://www.openstreetmap.org/way/1356133439"
+      ],
+      "inventory_route_id": "05-jumbo-kobe-takamatsu",
+      "coordinate_distance_m": 0.567,
+      "evidence": [
+        {
+          "osm_way": 846837780,
+          "way_name": "ジャンボフェリー （神戸－坂手－高松）",
+          "both_endpoints_match_route_geometry_vertices": true
+        },
+        {
+          "osm_way": 1356133439,
+          "way_name": "ジャンボフェリー（神戸－坂手－高松）",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n13227480726",
+      "old_name": "Unnamed station (n13227480726)",
+      "name": "瀬戸",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/13227480726",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.ezakikaiun.com/",
+        "https://kyushu-ships.com/pages/429/",
+        "https://www.openstreetmap.org/way/168098978"
+      ],
+      "inventory_route_id": "10-ezaki-seto-matsushima",
+      "coordinate_distance_m": 0.241,
+      "evidence": [
+        {
+          "osm_way": 168098978,
+          "way_name": "瀬戸松島間・江崎海陸運送",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n13227480796",
+      "old_name": "Unnamed station (n13227480796)",
+      "name": "瀬戸港（市営交通船待合所）",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/13227480796",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.city.saikai.nagasaki.jp/kurashi/kotsu/3/2280.html",
+        "https://www.openstreetmap.org/way/1441604847"
+      ],
+      "inventory_route_id": "10-saikai-seto-kamaura",
+      "coordinate_distance_m": 0.39,
+      "evidence": [
+        {
+          "osm_way": 1441604847,
+          "way_name": "瀬戸松島間・市営交通船New松島",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n613551328",
+      "old_name": "Unnamed station (n613551328)",
+      "name": "渡嘉敷港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/613551328",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.vill.tokashiki.okinawa.jp/soshiki/sitekanri/5/2/1365.html",
+        "https://tokashiki-ferry.jp/Senpaku/portal",
+        "https://www.ogb.go.jp/-/media/Files/OGB/Unyu/survey/R7unyuyoran_260212.pdf",
+        "https://www.openstreetmap.org/way/48290060"
+      ],
+      "inventory_route_id": "12-tokashiki",
+      "coordinate_distance_m": 0.456,
+      "evidence": [
+        {
+          "osm_way": 48290060,
+          "way_name": "泊～渡嘉敷",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n1786951651",
+      "old_name": "Unnamed station (n1786951651)",
+      "name": "日間賀島（西港）",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/1786951651",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.meikaijo.co.jp/timetable",
+        "https://www.openstreetmap.org/way/167287847",
+        "https://www.openstreetmap.org/way/167287848"
+      ],
+      "inventory_route_id": "04-meitetsu-morozaki-hs",
+      "coordinate_distance_m": 0.366,
+      "evidence": [
+        {
+          "osm_way": 167287847,
+          "way_name": "名鉄海上観光船 高速船",
+          "both_endpoints_match_route_geometry_vertices": true
+        },
+        {
+          "osm_way": 167287848,
+          "way_name": "名鉄海上観光船 高速船",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n1786951656",
+      "old_name": "Unnamed station (n1786951656)",
+      "name": "日間賀島（東港）",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/1786951656",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.meikaijo.co.jp/timetable",
+        "https://www.openstreetmap.org/way/167287847",
+        "https://www.openstreetmap.org/way/167288167",
+        "https://www.openstreetmap.org/way/207683404"
+      ],
+      "inventory_route_id": "04-meitetsu-morozaki-hs",
+      "coordinate_distance_m": 0.0,
+      "evidence": [
+        {
+          "osm_way": 167287847,
+          "way_name": "名鉄海上観光船 高速船",
+          "both_endpoints_match_route_geometry_vertices": true
+        },
+        {
+          "osm_way": 167288167,
+          "way_name": "名鉄海上観光船 高速船",
+          "both_endpoints_match_route_geometry_vertices": true
+        },
+        {
+          "osm_way": 207683404,
+          "way_name": "名鉄海上観光船 高速船",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n1864175691",
+      "old_name": "Unnamed station (n1864175691)",
+      "name": "生間港（加計呂麻島）",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/1864175691",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.setouchi-welcome.com/shiptime",
+        "https://www.neriyakanaya.jp/contents/oshima_boat",
+        "https://kyushu-ships.com/pages/491/",
+        "https://www.openstreetmap.org/way/556398386"
+      ],
+      "inventory_route_id": "11-setouchi-ferry-kakeroma",
+      "coordinate_distance_m": 0.629,
+      "evidence": [
+        {
+          "osm_way": 556398386,
+          "way_name": "瀬相〜古仁屋〜生間",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n2274025450",
+      "old_name": "Unnamed station (n2274025450)",
+      "name": "大島港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/2274025450",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/hansen/osima/access_aji.html",
+        "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/hansen/osima/timetable/shiptime.pdf",
+        "https://www.openstreetmap.org/way/218118225"
+      ],
+      "inventory_route_id": "06-takamatsu-oshima",
+      "coordinate_distance_m": 0.445,
+      "evidence": [
+        {
+          "osm_way": 218118225,
+          "way_name": "Takamatsu-Oshima ferry",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n2519428653",
+      "old_name": "Unnamed station (n2519428653)",
+      "name": "和歌山港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/2519428653",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://nankai-ferry.co.jp/",
+        "https://nankai-ferry.co.jp/timetable/",
+        "https://www.openstreetmap.org/way/42975873"
+      ],
+      "inventory_route_id": "05-nankai-ferry",
+      "coordinate_distance_m": 0.384,
+      "evidence": [
+        {
+          "osm_way": 42975873,
+          "way_name": "南海フェリー",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n2921851253",
+      "old_name": "Unnamed station (n2921851253)",
+      "name": "小豆島 土庄港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/2921851253",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.shikokuferry.com/",
+        "https://www.shikokuferry.com/route2/",
+        "https://www.shikokuferry.com/route4/",
+        "https://www.openstreetmap.org/way/185758141"
+      ],
+      "inventory_route_id": "06-takamatsu-tonosho",
+      "coordinate_distance_m": 0.381,
+      "evidence": [
+        {
+          "osm_way": 185758141,
+          "way_name": "土庄－高松航路",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n3318435905",
+      "old_name": "Unnamed station (n3318435905)",
+      "name": "久高港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/3318435905",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://kudakakaiun.jimdofree.com/",
+        "https://kudakakaiun.jimdofree.com/フェリー紹介/",
+        "https://www.ogb.go.jp/-/media/Files/OGB/Unyu/survey/R7unyuyoran_260212.pdf",
+        "https://www.openstreetmap.org/way/325187101"
+      ],
+      "inventory_route_id": "12-kudaka",
+      "coordinate_distance_m": 0.319,
+      "evidence": [
+        {
+          "osm_way": 325187101,
+          "way_name": "久高〜安座真",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n4141840131",
+      "old_name": "Unnamed station (n4141840131)",
+      "name": "佐伯港（葛港）",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/4141840131",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.visit-saiki.jp/spots/detail/1afde1a3-7f73-411f-99f9-e13869090859",
+        "http://www.oitasima.net/ohnyujima/access.html",
+        "https://kyushu-ships.com/pages/469/",
+        "https://www.openstreetmap.org/way/412854134"
+      ],
+      "inventory_route_id": "11-ohnyujima-ferry",
+      "coordinate_distance_m": 0.357,
+      "evidence": [
+        {
+          "osm_way": 412854134,
+          "way_name": "佐伯 - 大入島",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n4235537104",
+      "old_name": "Unnamed station (n4235537104)",
+      "name": "新島",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/4235537104",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.tokaikisen.co.jp/boarding/timetable/",
+        "https://www.tokaikisen.co.jp/wordpress/wp-content/uploads/2026/07/2e937ae7c9375faca365110e5b204348.pdf",
+        "https://www.tokaikisen.co.jp/boarding/baggage_jetship/",
+        "https://www.openstreetmap.org/way/424080674",
+        "https://www.openstreetmap.org/way/424081177"
+      ],
+      "inventory_route_id": "03-tokai-takeshiba-izu-jet",
+      "coordinate_distance_m": 0.639,
+      "evidence": [
+        {
+          "osm_way": 424080674,
+          "way_name": "新島 - 式根島",
+          "both_endpoints_match_route_geometry_vertices": true
+        },
+        {
+          "osm_way": 424081177,
+          "way_name": "利島 - 新島",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n4235564901",
+      "old_name": "Unnamed station (n4235564901)",
+      "name": "御蔵島",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/4235564901",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.tokaikisen.co.jp/boarding/timetable/",
+        "https://www.tokaikisen.co.jp/boarding/baggage_bicycle/",
+        "https://www.openstreetmap.org/way/424083557",
+        "https://www.openstreetmap.org/way/444552975"
+      ],
+      "inventory_route_id": "03-tokai-takeshiba-hachijo",
+      "coordinate_distance_m": 0.667,
+      "evidence": [
+        {
+          "osm_way": 424083557,
+          "way_name": "東京～三宅島・御蔵島・八丈島航路",
+          "both_endpoints_match_route_geometry_vertices": true
+        },
+        {
+          "osm_way": 444552975,
+          "way_name": "東京～三宅島・御蔵島・八丈島航路",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n4240955332",
+      "old_name": "Unnamed station (n4240955332)",
+      "name": "奈留",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/4240955332",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.nomo.co.jp/taiko/timetable.html",
+        "https://www.nomo.co.jp/taiko/fare.html",
+        "https://ojikajima.jp/access",
+        "https://www.openstreetmap.org/way/424709714"
+      ],
+      "inventory_route_id": "10-nomo-taiko",
+      "coordinate_distance_m": 0.526,
+      "evidence": [
+        {
+          "osm_way": 424709714,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [
+        "奈留島",
+        "奈留島港"
+      ],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n4375079891",
+      "old_name": "Unnamed station (n4375079891)",
+      "name": "室津港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/4375079891",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.town.kaminoseki.lg.jp/%E9%9B%A2%E5%B3%B6%E8%88%AA%E8%B7%AF.html",
+        "https://www.town.kaminoseki.lg.jp/wp-content/uploads/2024/09/yasimakouro20191001.pdf",
+        "https://www.pref.yamaguchi.lg.jp/soshiki/30/14144.html",
+        "https://www.openstreetmap.org/way/439831607",
+        "https://www.openstreetmap.org/way/439832397"
+      ],
+      "inventory_route_id": "08-yashima",
+      "coordinate_distance_m": 0.216,
+      "evidence": [
+        {
+          "osm_way": 439831607,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        },
+        {
+          "osm_way": 439832397,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n4375083689",
+      "old_name": "Unnamed station (n4375083689)",
+      "name": "上関港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/4375083689",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.town.kaminoseki.lg.jp/%E9%9B%A2%E5%B3%B6%E8%88%AA%E8%B7%AF.html",
+        "https://www.town.kaminoseki.lg.jp/wp-content/uploads/2024/09/yasimakouro20191001.pdf",
+        "https://www.pref.yamaguchi.lg.jp/soshiki/30/14144.html",
+        "https://www.openstreetmap.org/way/439831607"
+      ],
+      "inventory_route_id": "08-yashima",
+      "coordinate_distance_m": 0.289,
+      "evidence": [
+        {
+          "osm_way": 439831607,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n4506215732",
+      "old_name": "Unnamed station (n4506215732)",
+      "name": "蔦島",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/4506215732",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.city.mitoyo.lg.jp/kurashi/kotsu/1/2959.html",
+        "https://www.openstreetmap.org/way/453975101"
+      ],
+      "inventory_route_id": "06-nio-tsutajima",
+      "coordinate_distance_m": 0.276,
+      "evidence": [
+        {
+          "osm_way": 453975101,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n4506236723",
+      "old_name": "Unnamed station (n4506236723)",
+      "name": "須田港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/4506236723",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.city.mitoyo.lg.jp/kakuka/seisaku/koutsuu/1_1/1_3/2670.html",
+        "https://www.shikoku-ships.jp/route/images/other01.pdf",
+        "https://www.openstreetmap.org/way/453978551"
+      ],
+      "inventory_route_id": "06-suda-awashima",
+      "coordinate_distance_m": 0.384,
+      "evidence": [
+        {
+          "osm_way": 453978551,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n4506236734",
+      "old_name": "Unnamed station (n4506236734)",
+      "name": "粟島港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/4506236734",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.city.mitoyo.lg.jp/kakuka/seisaku/koutsuu/1_1/1_3/2670.html",
+        "https://www.shikoku-ships.jp/route/images/other01.pdf",
+        "https://www.openstreetmap.org/way/453978551"
+      ],
+      "inventory_route_id": "06-suda-awashima",
+      "coordinate_distance_m": 0.721,
+      "evidence": [
+        {
+          "osm_way": 453978551,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n4506236746",
+      "old_name": "Unnamed station (n4506236746)",
+      "name": "粟島 上新田港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/4506236746",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.city.mitoyo.lg.jp/kakuka/seisaku/koutsuu/1_1/1_3/2670.html",
+        "https://www.openstreetmap.org/way/453978552",
+        "https://www.openstreetmap.org/way/453978553"
+      ],
+      "inventory_route_id": "06-awashima-shishijima-miyanoshita",
+      "coordinate_distance_m": 0.384,
+      "evidence": [
+        {
+          "osm_way": 453978552,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        },
+        {
+          "osm_way": 453978553,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n4506236756",
+      "old_name": "Unnamed station (n4506236756)",
+      "name": "宮の下港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/4506236756",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.city.mitoyo.lg.jp/kakuka/seisaku/koutsuu/1_1/1_3/2670.html",
+        "https://www.openstreetmap.org/way/453978554"
+      ],
+      "inventory_route_id": "06-awashima-shishijima-miyanoshita",
+      "coordinate_distance_m": 0.43,
+      "evidence": [
+        {
+          "osm_way": 453978554,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n4506236764",
+      "old_name": "Unnamed station (n4506236764)",
+      "name": "志々島港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/4506236764",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.city.mitoyo.lg.jp/kakuka/seisaku/koutsuu/1_1/1_3/2670.html",
+        "https://www.openstreetmap.org/way/453978553",
+        "https://www.openstreetmap.org/way/453978554"
+      ],
+      "inventory_route_id": "06-awashima-shishijima-miyanoshita",
+      "coordinate_distance_m": 0.289,
+      "evidence": [
+        {
+          "osm_way": 453978553,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        },
+        {
+          "osm_way": 453978554,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n4506359339",
+      "old_name": "Unnamed station (n4506359339)",
+      "name": "高見島港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/4506359339",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://tadotsu-kisen.jp/",
+        "https://tadotsu-kisen.jp/wp-content/uploads/2026/06/新ダイヤ-R8.8.1～-1.pdf",
+        "https://www.openstreetmap.org/way/453992075",
+        "https://www.openstreetmap.org/way/453992076"
+      ],
+      "inventory_route_id": "06-tadotsu-takami-sanagi",
+      "coordinate_distance_m": 0.288,
+      "evidence": [
+        {
+          "osm_way": 453992075,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        },
+        {
+          "osm_way": 453992076,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n4506438078",
+      "old_name": "Unnamed station (n4506438078)",
+      "name": "高島港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/4506438078",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://sanyo-kisen.jp/%E6%99%82%E5%88%BB%E8%A1%A8",
+        "https://www.kasaoka-kankou.jp/access/ship",
+        "https://www.city.kasaoka.okayama.jp/uploaded/attachment/24063.pdf",
+        "https://www.openstreetmap.org/way/453998715"
+      ],
+      "inventory_route_id": "06-kasaoka-manabejima-sanagi",
+      "coordinate_distance_m": 0.556,
+      "evidence": [
+        {
+          "osm_way": 453998715,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n4506438141",
+      "old_name": "Unnamed station (n4506438141)",
+      "name": "小飛島港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/4506438141",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://sanyo-kisen.jp/%E6%99%82%E5%88%BB%E8%A1%A8",
+        "https://www.kasaoka-kankou.jp/access/ship",
+        "https://www.city.kasaoka.okayama.jp/uploaded/attachment/24063.pdf",
+        "https://www.openstreetmap.org/way/453998722",
+        "https://www.openstreetmap.org/way/453998723"
+      ],
+      "inventory_route_id": "06-kasaoka-hishima-mushima",
+      "coordinate_distance_m": 0.666,
+      "evidence": [
+        {
+          "osm_way": 453998722,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        },
+        {
+          "osm_way": 453998723,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n4506438149",
+      "old_name": "Unnamed station (n4506438149)",
+      "name": "大飛島 洲港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/4506438149",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://sanyo-kisen.jp/%E6%99%82%E5%88%BB%E8%A1%A8",
+        "https://www.kasaoka-kankou.jp/access/ship",
+        "https://www.city.kasaoka.okayama.jp/uploaded/attachment/24063.pdf",
+        "https://www.openstreetmap.org/way/453998723"
+      ],
+      "inventory_route_id": "06-kasaoka-hishima-mushima",
+      "coordinate_distance_m": 0.092,
+      "evidence": [
+        {
+          "osm_way": 453998723,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n4528305180",
+      "old_name": "Unnamed station (n4528305180)",
+      "name": "小手島港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/4528305180",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://bisan-ferry.jp/time_table/",
+        "https://www.city.marugame.lg.jp/page/3206.html",
+        "https://www.openstreetmap.org/way/456582461"
+      ],
+      "inventory_route_id": "06-marugame-hiroshima-teshima",
+      "coordinate_distance_m": 0.222,
+      "evidence": [
+        {
+          "osm_way": 456582461,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n4785910346",
+      "old_name": "Unnamed station (n4785910346)",
+      "name": "牛島 里浦港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/4785910346",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://honjima-kisen.com/about/",
+        "https://www.city.marugame.lg.jp/page/3206.html",
+        "https://www.openstreetmap.org/way/485829779",
+        "https://www.openstreetmap.org/way/485829781"
+      ],
+      "inventory_route_id": "06-marugame-ushijima-honjima",
+      "coordinate_distance_m": 0.666,
+      "evidence": [
+        {
+          "osm_way": 485829779,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        },
+        {
+          "osm_way": 485829781,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n5167019110",
+      "old_name": "Unnamed station (n5167019110)",
+      "name": "姫島",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/5167019110",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.city.itoshima.lg.jp/s006/010/020/020/090/tosen.html",
+        "https://www.openstreetmap.org/way/532486748"
+      ],
+      "inventory_route_id": "10-kishi-himeshima",
+      "coordinate_distance_m": 0.434,
+      "evidence": [
+        {
+          "osm_way": 532486748,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n5211739497",
+      "old_name": "Unnamed station (n5211739497)",
+      "name": "小佐木島",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/5211739497",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "http://marutokisen.sakura.ne.jp/main-page/timetable2.htm",
+        "https://www.openstreetmap.org/way/538443521",
+        "https://www.openstreetmap.org/way/860085902"
+      ],
+      "inventory_route_id": "07-mihara-setoda-maruto",
+      "coordinate_distance_m": 0.297,
+      "evidence": [
+        {
+          "osm_way": 538443521,
+          "way_name": "マルト汽船(三原－小佐木－向田－沢－瀬戸田)",
+          "both_endpoints_match_route_geometry_vertices": true
+        },
+        {
+          "osm_way": 860085902,
+          "way_name": "マルト汽船(三原－小佐木－向田－沢－瀬戸田)",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n5358987010",
+      "old_name": "Unnamed station (n5358987010)",
+      "name": "瀬相港（加計呂麻島）",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/5358987010",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.setouchi-welcome.com/shiptime",
+        "https://www.neriyakanaya.jp/contents/oshima_boat",
+        "https://kyushu-ships.com/pages/491/",
+        "https://www.openstreetmap.org/way/175858205"
+      ],
+      "inventory_route_id": "11-setouchi-ferry-kakeroma",
+      "coordinate_distance_m": 0.455,
+      "evidence": [
+        {
+          "osm_way": 175858205,
+          "way_name": "瀬相〜古仁屋〜生間",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n5498143108",
+      "old_name": "Unnamed station (n5498143108)",
+      "name": "睦月",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/5498143108",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "http://www.nakajimakisen.co.jp/contents/time-table.html",
+        "http://www.nakajimakisen.co.jp/",
+        "http://www.nakajimakisen.co.jp/contents/pdf/20251010.pdf",
+        "http://www.nakajimakisen.co.jp/contents/pdf/20260128.html",
+        "https://www.openstreetmap.org/way/572267407",
+        "https://www.openstreetmap.org/way/572267412",
+        "https://www.openstreetmap.org/way/988708940"
+      ],
+      "inventory_route_id": "09-nakajima-east",
+      "coordinate_distance_m": 0.111,
+      "evidence": [
+        {
+          "osm_way": 572267407,
+          "way_name": "中島汽船東線(松山観光港寄港便)",
+          "both_endpoints_match_route_geometry_vertices": true
+        },
+        {
+          "osm_way": 572267412,
+          "way_name": "中島汽船東線",
+          "both_endpoints_match_route_geometry_vertices": true
+        },
+        {
+          "osm_way": 988708940,
+          "way_name": "中島汽船東線(高浜港寄港便)",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n5595556506",
+      "old_name": "Unnamed station (n5595556506)",
+      "name": "沖島港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/5595556506",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://montekite.com/ferry/",
+        "https://kinki-ships.com/route_cat/area01-07/",
+        "https://www.omi8.com/city-transport/okishima",
+        "https://www.openstreetmap.org/way/476313151"
+      ],
+      "inventory_route_id": "05-okishima-tsusen",
+      "coordinate_distance_m": 0.287,
+      "evidence": [
+        {
+          "osm_way": 476313151,
+          "way_name": "沖島通船",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n6356114673",
+      "old_name": "Unnamed station (n6356114673)",
+      "name": "長原渡船 今切川東岸の乗り場",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/6356114673",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.town.matsushige.tokushima.jp/docs/2015111600214/",
+        "https://www.openstreetmap.org/way/382690456"
+      ],
+      "inventory_route_id": "99-nagahara-tosen",
+      "coordinate_distance_m": 0.46,
+      "evidence": [
+        {
+          "osm_way": 382690456,
+          "way_name": "長原渡",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n6356114681",
+      "old_name": "Unnamed station (n6356114681)",
+      "name": "長原渡船 今切川西岸の乗り場",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/6356114681",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.town.matsushige.tokushima.jp/docs/2015111600214/",
+        "https://www.openstreetmap.org/way/382690456"
+      ],
+      "inventory_route_id": "99-nagahara-tosen",
+      "coordinate_distance_m": 0.385,
+      "evidence": [
+        {
+          "osm_way": 382690456,
+          "way_name": "長原渡",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n9008324001",
+      "old_name": "Unnamed station (n9008324001)",
+      "name": "松島",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/9008324001",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.city.karatsu.lg.jp/page/1013.html",
+        "https://www.city.karatsu.lg.jp/uploaded/attachment/23542.pdf",
+        "http://www.norimono-info.com/group_main.php?type=ship",
+        "https://www.openstreetmap.org/way/973298977"
+      ],
+      "inventory_route_id": "10-yobuko-matsushima",
+      "coordinate_distance_m": 0.432,
+      "evidence": [
+        {
+          "osm_way": 973298977,
+          "way_name": "松島航路（新栄）呼子～松島",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n9138575122",
+      "old_name": "Unnamed station (n9138575122)",
+      "name": "松山観光港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/9138575122",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://setonaikaikisen.co.jp/kouro/cruise/",
+        "https://www.openstreetmap.org/way/1002003222"
+      ],
+      "inventory_route_id": "07-hiroshima-kure-matsuyama-ferry",
+      "coordinate_distance_m": 0.381,
+      "evidence": [
+        {
+          "osm_way": 1002003222,
+          "way_name": "石崎汽船・瀬戸内海汽船クルーズフェリー(広島－呉－松山)",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n9248038145",
+      "old_name": "Unnamed station (n9248038145)",
+      "name": "松山観光港",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/9248038145",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "http://www.nakajimakisen.co.jp/contents/time-table.html",
+        "http://www.nakajimakisen.co.jp/",
+        "http://www.nakajimakisen.co.jp/contents/pdf/20251010.pdf",
+        "http://www.nakajimakisen.co.jp/contents/pdf/20260128.html",
+        "https://www.openstreetmap.org/way/572267407"
+      ],
+      "inventory_route_id": "09-nakajima-east",
+      "coordinate_distance_m": 0.434,
+      "evidence": [
+        {
+          "osm_way": 572267407,
+          "way_name": "中島汽船東線(松山観光港寄港便)",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n9551633373",
+      "old_name": "Unnamed station (n9551633373)",
+      "name": "寺島",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/9551633373",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.city.sasebo.lg.jp/benrimap/shisetsu/sonota/270.html",
+        "https://www.city.sasebo.lg.jp/documents/3897/mitsushima_ryoukin_202312.pdf",
+        "https://www.openstreetmap.org/way/1036790447"
+      ],
+      "inventory_route_id": "10-sasebo-mitsushima",
+      "coordinate_distance_m": 0.334,
+      "evidence": [
+        {
+          "osm_way": 1036790447,
+          "way_name": "みつしま",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n9551638484",
+      "old_name": "Unnamed station (n9551638484)",
+      "name": "柳（小値賀島）",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/9551638484",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://ojikajima.jp/access",
+        "https://kyushu-ships.com/pages/436/",
+        "https://www.pref.nagasaki.lg.jp/uploads/2025/12/1764578885.pdf",
+        "https://www.openstreetmap.org/way/1036788774"
+      ],
+      "inventory_route_id": "10-ojika-yanagi-nojima",
+      "coordinate_distance_m": 0.222,
+      "evidence": [
+        {
+          "osm_way": 1036788774,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n9551638499",
+      "old_name": "Unnamed station (n9551638499)",
+      "name": "納島",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/9551638499",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://ojikajima.jp/access",
+        "https://kyushu-ships.com/pages/436/",
+        "https://www.pref.nagasaki.lg.jp/uploads/2025/12/1764578885.pdf",
+        "https://www.openstreetmap.org/way/1036788774"
+      ],
+      "inventory_route_id": "10-ojika-yanagi-nojima",
+      "coordinate_distance_m": 0.478,
+      "evidence": [
+        {
+          "osm_way": 1036788774,
+          "way_name": "",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n9625412667",
+      "old_name": "Unnamed station (n9625412667)",
+      "name": "小川島",
+      "name_en": "",
+      "mode": "water",
+      "sources": [
+        "https://www.openstreetmap.org/node/9625412667",
+        "https://github.com/kametaro7/japan-ferry-map",
+        "https://www.city.karatsu.lg.jp/page/1013.html",
+        "https://www.city.karatsu.lg.jp/uploaded/attachment/23542.pdf",
+        "http://www.norimono-info.com/group_main.php?type=ship",
+        "https://www.openstreetmap.org/way/973298973"
+      ],
+      "inventory_route_id": "10-yobuko-ogawashima",
+      "coordinate_distance_m": 0.524,
+      "evidence": [
+        {
+          "osm_way": 973298973,
+          "way_name": "小川島航路（そよかぜ）呼子～小川島",
+          "both_endpoints_match_route_geometry_vertices": true
+        }
+      ],
+      "reason": "The unnamed OSM node is the endpoint of a ferry way whose two endpoints match the sourced inventory route geometry to its encoded coordinate precision. Its position also matches the named inventory port to within 1.1 m; this is an identity match, rather than a nearest-port assignment.",
+      "alternate_inventory_names": [],
+      "action": "rename",
+      "name_source": "Ferry inventory port and matching OSM route topology",
+      "name_en_source": ""
+    },
+    {
+      "id": "n2031470615",
+      "action": "rename",
+      "old_name": "Unnamed station (n2031470615)",
+      "name": "温泉",
+      "name_en": "Onsen",
+      "mode": "ropeway",
+      "name_source": "Operator station terminology and mapped ropeway topology",
+      "name_en_source": "Atlas romanization / translation of verified Japanese station terminology",
+      "sources": [
+        "https://www.zaochuoropeway.co.jp/jp/winter/guide.php",
+        "https://www.openstreetmap.org/node/2031470615",
+        "https://www.openstreetmap.org/way/192598429"
+      ],
+      "reason": "The operator identifies the central ropeway termini as 温泉 and 鳥兜. This is the western, hot-spring-town terminus of that exact mapped ropeway.",
+      "evidence": {
+        "osm_way": 192598429,
+        "identity": "specific mapped ropeway endpoint and operator station description"
+      }
+    },
+    {
+      "id": "n2031470616",
+      "action": "rename",
+      "old_name": "Unnamed station (n2031470616)",
+      "name": "鳥兜",
+      "name_en": "Torikabuto",
+      "mode": "ropeway",
+      "name_source": "Operator station terminology and mapped ropeway topology",
+      "name_en_source": "Atlas romanization / translation of verified Japanese station terminology",
+      "sources": [
+        "https://www.zaochuoropeway.co.jp/jp/winter/guide.php",
+        "https://www.openstreetmap.org/node/2031470616",
+        "https://www.openstreetmap.org/way/192598429"
+      ],
+      "reason": "The operator identifies the central ropeway termini as 温泉 and 鳥兜. This is the eastern, Torikabuto summit terminus of that exact mapped ropeway.",
+      "evidence": {
+        "osm_way": 192598429,
+        "identity": "specific mapped ropeway endpoint and operator station description"
+      }
+    },
+    {
+      "id": "n1093160415",
+      "action": "rename",
+      "old_name": "Unnamed station (n1093160415)",
+      "name": "湯沢高原ロープウェイ 山頂駅",
+      "name_en": "Yuzawa Kōgen Ropeway Summit Station",
+      "mode": "ropeway",
+      "name_source": "Operator station terminology and mapped ropeway topology",
+      "name_en_source": "Atlas romanization / translation of verified Japanese station terminology",
+      "sources": [
+        "https://www.yuzawakogen.com/faq/",
+        "https://www.openstreetmap.org/node/1093160415",
+        "https://www.openstreetmap.org/way/94053504"
+      ],
+      "reason": "The operator explicitly calls its upper terminus パノラマステーション（山頂駅）. Node is the upper endpoint of the Yuzawa Kogen Ropeway.",
+      "evidence": {
+        "osm_way": 94053504,
+        "identity": "specific mapped ropeway endpoint and operator station description"
+      }
+    },
+    {
+      "id": "n10946212272",
+      "action": "rename",
+      "old_name": "Unnamed station (n10946212272)",
+      "name": "日光白根山ロープウェイ 山麓駅",
+      "name_en": "Nikkō Shirane Ropeway Base Station",
+      "mode": "ropeway",
+      "name_source": "Operator station terminology and mapped ropeway topology",
+      "name_en_source": "Atlas romanization / translation of verified Japanese station terminology",
+      "sources": [
+        "https://www.marunuma.jp/green/ropeway/",
+        "https://www.openstreetmap.org/node/10946212272",
+        "https://www.openstreetmap.org/way/357211516"
+      ],
+      "reason": "The node is an endpoint of this exact ropeway and its explicit aerialway:station=bottom tag identifies the lower station; operator confirms the ropeway and mountain station.",
+      "evidence": {
+        "osm_way": 357211516,
+        "identity": "specific mapped ropeway endpoint and operator station description"
+      }
+    },
+    {
+      "id": "n10946212273",
+      "action": "rename",
+      "old_name": "Unnamed station (n10946212273)",
+      "name": "日光白根山ロープウェイ 山頂駅",
+      "name_en": "Nikkō Shirane Ropeway Summit Station",
+      "mode": "ropeway",
+      "name_source": "Operator station terminology and mapped ropeway topology",
+      "name_en_source": "Atlas romanization / translation of verified Japanese station terminology",
+      "sources": [
+        "https://www.marunuma.jp/green/ropeway/",
+        "https://www.openstreetmap.org/node/10946212273",
+        "https://www.openstreetmap.org/way/357211516"
+      ],
+      "reason": "The node is an endpoint of this exact ropeway and its explicit aerialway:station=top tag identifies the upper station; operator confirms the mountain station.",
+      "evidence": {
+        "osm_way": 357211516,
+        "identity": "specific mapped ropeway endpoint and operator station description"
+      }
+    },
+    {
+      "id": "n3152446973",
+      "action": "rename",
+      "old_name": "Unnamed station (n3152446973)",
+      "name": "とおみ",
+      "name_en": "Tōmi",
+      "mode": "ropeway",
+      "name_source": "Operator station terminology and mapped ropeway topology",
+      "name_en_source": "Atlas romanization / translation of verified Japanese station terminology",
+      "sources": [
+        "https://www.hakubaescal.com/shokubutsuen/gondola/price/",
+        "https://www.openstreetmap.org/node/3152446973",
+        "https://www.openstreetmap.org/way/309911071"
+      ],
+      "reason": "Operator names the Goryu Telecabine termini とおみ駅 and アルプス平駅. Node is the mapped lower terminus beside Escal Plaza, rather than a nearby ski lift.",
+      "evidence": {
+        "osm_way": 309911071,
+        "identity": "specific mapped ropeway endpoint and operator station description"
+      }
+    },
+    {
+      "id": "n4691765707",
+      "action": "rename",
+      "old_name": "Unnamed station (n4691765707)",
+      "name": "富良野ロープウェー 山麓駅",
+      "name_en": "Furano Ropeway Base Station",
+      "mode": "ropeway",
+      "name_source": "Operator station terminology and mapped ropeway topology",
+      "name_en_source": "Atlas romanization / translation of verified Japanese station terminology",
+      "sources": [
+        "https://www.princehotels.co.jp/ski/furano/ropeway/aki_infor/",
+        "https://www.openstreetmap.org/node/4691765707",
+        "https://www.openstreetmap.org/way/475431614"
+      ],
+      "reason": "Operator explicitly identifies the lower terminal as 富良野ロープウェー山麓駅舎 and locates it next to Shin Furano Prince Hotel; node is that exact ropeway endpoint.",
+      "evidence": {
+        "osm_way": 475431614,
+        "identity": "specific mapped ropeway endpoint and operator station description"
+      }
+    },
+    {
+      "id": "n4691765708",
+      "action": "rename",
+      "old_name": "Unnamed station (n4691765708)",
+      "name": "富良野ロープウェー 山頂駅",
+      "name_en": "Furano Ropeway Summit Station",
+      "mode": "ropeway",
+      "name_source": "Operator station terminology and mapped ropeway topology",
+      "name_en_source": "Atlas romanization / translation of verified Japanese station terminology",
+      "sources": [
+        "https://www.princehotels.co.jp/ski/furano/livecamera/",
+        "https://www.openstreetmap.org/node/4691765708",
+        "https://www.openstreetmap.org/way/475431614"
+      ],
+      "reason": "Operator labels the upper ropeway location 富良野ロープウェー山頂 / Furano Ropeway summit. Node is that exact ropeway endpoint.",
+      "evidence": {
+        "osm_way": 475431614,
+        "identity": "specific mapped ropeway endpoint and operator station description"
+      }
+    },
+    {
+      "id": "n4522160292",
+      "action": "rename",
+      "old_name": "Unnamed station (n4522160292)",
+      "name": "竜王ロープウェイ 山頂駅",
+      "name_en": "Ryūō Ropeway Summit Station",
+      "mode": "ropeway",
+      "name_source": "Operator station terminology and mapped ropeway topology",
+      "name_en_source": "Atlas romanization / translation of verified Japanese station terminology",
+      "sources": [
+        "https://ryuoo.com/winter/price_w",
+        "https://www.openstreetmap.org/node/4522160292",
+        "https://www.openstreetmap.org/way/455838288"
+      ],
+      "reason": "Operator identifies the upper terminus at 1,770 m as 山頂駅. Node is the eastern upper endpoint of the exact Ryuo ropeway.",
+      "evidence": {
+        "osm_way": 455838288,
+        "identity": "specific mapped ropeway endpoint and operator station description"
+      }
+    },
+    {
+      "id": "n4522160293",
+      "action": "rename",
+      "old_name": "Unnamed station (n4522160293)",
+      "name": "竜王ロープウェイ 山麓駅",
+      "name_en": "Ryūō Ropeway Base Station",
+      "mode": "ropeway",
+      "name_source": "Operator station terminology and mapped ropeway topology",
+      "name_en_source": "Atlas romanization / translation of verified Japanese station terminology",
+      "sources": [
+        "https://www.ryuoo.com/access/",
+        "https://www.openstreetmap.org/node/4522160293",
+        "https://www.openstreetmap.org/way/455838288"
+      ],
+      "reason": "Operator identifies the base terminal as ロープウェイ山麓駅 at the road/shuttle terminus. Node is the western lower endpoint of the exact ropeway.",
+      "evidence": {
+        "osm_way": 455838288,
+        "identity": "specific mapped ropeway endpoint and operator station description"
+      }
+    },
+    {
+      "id": "n12578317918",
+      "action": "rename",
+      "old_name": "Unnamed station (n12578317918)",
+      "name": "八方",
+      "name_en": "Happō",
+      "mode": "ropeway",
+      "name_source": "Operator station terminology and mapped ropeway topology",
+      "name_en_source": "Atlas romanization / translation of verified Japanese station terminology",
+      "sources": [
+        "https://www.happo-one.jp/trekking/alpenline/",
+        "https://www.openstreetmap.org/node/12578317918",
+        "https://www.openstreetmap.org/way/31895856"
+      ],
+      "reason": "Operator explicitly identifies the Adam gondola termini 八方駅 and 兎平駅. This separate station point lies 1.7 m from the lower mapped gondola endpoint and exactly at its named base location.",
+      "evidence": {
+        "osm_way": 31895856,
+        "identity": "specific mapped ropeway endpoint and operator station description"
+      }
+    }
+  ]
+}

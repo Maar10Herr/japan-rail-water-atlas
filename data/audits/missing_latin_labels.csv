@@ -1,0 +1,1427 @@
+id,name,mode,operator,longitude,latitude,name_source
+n242920378,Unnamed station (n242920378),ropeway,,140.680078,42.867823,OpenStreetMap / ferry inventory
+n293935627,山麓駅,ropeway,,134.502269,33.862623,OpenStreetMap / ferry inventory
+n293935633,山頂駅,ropeway,,134.52141,33.880995,OpenStreetMap / ferry inventory
+n346613157,Unnamed station (n346613157),ropeway,,138.586356,36.628377,OpenStreetMap / ferry inventory
+n346613161,Unnamed station (n346613161),ropeway,,138.582458,36.630219,OpenStreetMap / ferry inventory
+n355842841,吾妻峡八ッ場,private,東吾妻町役場 まちづくり推進課,138.715032,36.559233,OpenStreetMap / ferry inventory
+n401372233,小用,water,,132.493009,34.247698,OpenStreetMap / ferry inventory
+n401626611,友ヶ島（野奈浦桟橋）,water,,135.008882,34.283845,Ferry inventory port and matching OSM route topology
+n436379033,元町港,water,,139.352509,34.751962,OpenStreetMap / ferry inventory
+n441660395,Unnamed station (n441660395),water,,140.102138,35.07761,OpenStreetMap / ferry inventory
+n538722808,小大下港,water,,132.899581,34.190379,OpenStreetMap / ferry inventory
+n540525959,小漕港 (Okogi),water,,133.14492,34.278899,OpenStreetMap / ferry inventory
+n540700446,土生港(長崎桟橋),water,,133.180085,34.281193,OpenStreetMap / ferry inventory
+n541637897,上弓削港,water,,133.209747,34.277263,OpenStreetMap / ferry inventory
+n562871663,生名港,water,,133.185575,34.266555,OpenStreetMap / ferry inventory
+n562871802,赤崎港,water,,133.149241,34.298927,OpenStreetMap / ferry inventory
+n589014781,安房港,water,,130.658762,30.316541,OpenStreetMap / ferry inventory
+n597321455,落合下渡船場,water,,135.479884,34.643149,OpenStreetMap / ferry inventory
+n613616871,Unnamed station (n613616871),water,,127.284928,26.190019,OpenStreetMap / ferry inventory
+n726561087,市電 京都七條駅,tram,,136.990956,35.341794,OpenStreetMap / ferry inventory
+n726581547,SL名古屋駅,private,,136.989799,35.343662,OpenStreetMap / ferry inventory
+n726581578,SL 東京駅,private,,136.988289,35.348678,OpenStreetMap / ferry inventory
+n726590834,市電 品川燈台駅,tram,,136.993638,35.341331,OpenStreetMap / ferry inventory
+n859663338,ウエスタンリバー鉄道,private,,139.882385,35.633719,OpenStreetMap / ferry inventory
+n1032738858,高松東港,water,,134.073987,34.35418,OpenStreetMap / ferry inventory
+n1066423742,Unnamed station (n1066423742),water,,127.669391,26.210626,OpenStreetMap / ferry inventory
+n1070200064,Unnamed station (n1070200064),ropeway,,138.508848,36.723706,OpenStreetMap / ferry inventory
+n1070200066,Unnamed station (n1070200066),ropeway,,138.497976,36.721495,OpenStreetMap / ferry inventory
+n1120656820,高島,water,,129.757007,32.656962,OpenStreetMap / ferry inventory
+n1120656910,端島（軍艦島）,water,,129.738832,32.62664,OpenStreetMap / ferry inventory
+n1271556194,横浜駅東口,water,,139.626992,35.465994,OpenStreetMap / ferry inventory
+n1285793793,Unnamed station (n1285793793),water,,139.076971,35.089673,OpenStreetMap / ferry inventory
+n1286348185,山麓駅,ropeway,,137.668768,35.455417,OpenStreetMap / ferry inventory
+n1286348189,山頂駅,ropeway,,137.642325,35.455138,OpenStreetMap / ferry inventory
+n1309833622,島間,water,,130.861407,30.465824,OpenStreetMap / ferry inventory
+n1316934688,垂水港フェリー乗り場,water,,130.691775,31.483886,OpenStreetMap / ferry inventory
+n1441068564,Unnamed station (n1441068564),water,,129.351532,33.000301,OpenStreetMap / ferry inventory
+n1441150922,小值賀港ターミナル,water,,129.06252,33.186298,OpenStreetMap / ferry inventory
+n1441839667,渡名喜,water,,127.140333,26.372098,OpenStreetMap / ferry inventory
+n1441990093,平土野,water,,128.891595,27.812322,OpenStreetMap / ferry inventory
+n1442188634,口之島,water,,129.912802,29.991241,OpenStreetMap / ferry inventory
+n1443980145,北木島 豊浦,water,,133.536891,34.395583,OpenStreetMap / ferry inventory
+n1484933113,明石町・聖路加ガーデン前,water,,139.778071,35.665265,OpenStreetMap / ferry inventory
+n1562515522,堀川遊覧船 大手前広場乗船場,water,,133.052743,35.473781,OpenStreetMap / ferry inventory
+n1685240260,Unnamed station (n1685240260),private,,140.395832,35.867154,OpenStreetMap / ferry inventory
+n1737948546,大山寺,funicular,,139.240971,35.42958,OpenStreetMap / ferry inventory
+n1741870455,広島港宇品旅客ターミナル,water,,132.455055,34.352455,OpenStreetMap / ferry inventory
+n1742841008,湯の山温泉駅,ropeway,,136.44628,35.016825,OpenStreetMap / ferry inventory
+n1742841043,山上公園駅,ropeway,,136.424653,35.019681,OpenStreetMap / ferry inventory
+n1742869024,ロープウェイ駅,ropeway,,136.424207,35.019854,OpenStreetMap / ferry inventory
+n1742869032,カモシカ駅,ropeway,,136.422283,35.020057,OpenStreetMap / ferry inventory
+n1742869063,頂上駅,ropeway,,136.419129,35.020401,OpenStreetMap / ferry inventory
+n1769294270,伊王島,water,,129.780059,32.703283,OpenStreetMap / ferry inventory
+n1783526938,Unnamed station (n1783526938),water,,129.638536,32.940568,OpenStreetMap / ferry inventory
+n1794050178,神浦・池島フェリー乗場,water,,129.679285,32.880208,OpenStreetMap / ferry inventory
+n1794064986,松島,water,,129.615127,32.939789,Ferry inventory port and matching OSM route topology
+n1794064987,Unnamed station (n1794064987),water,,129.722717,33.163564,OpenStreetMap / ferry inventory
+n1794068330,Unnamed station (n1794068330),water,,129.566563,33.020772,OpenStreetMap / ferry inventory
+n1794068347,平島,water,,129.237778,32.999236,Ferry inventory port and matching OSM route topology
+n1802695613,Unnamed station (n1802695613),water,,130.309207,32.876195,OpenStreetMap / ferry inventory
+n1802695648,有明フェリー長洲営業所,water,,130.442879,32.926883,OpenStreetMap / ferry inventory
+n1842664302,鹿児島(鴨池)港,water,,130.560398,31.55329,OpenStreetMap / ferry inventory
+n1862640292,名瀬,water,,129.495415,28.388078,OpenStreetMap / ferry inventory
+n1862640373,名瀬新港フェリーターミナル,water,,129.494946,28.38795,OpenStreetMap / ferry inventory
+n1941193075,Unnamed station (n1941193075),water,,136.845879,34.491269,OpenStreetMap / ferry inventory
+n1941193129,Unnamed station (n1941193129),water,,136.835252,34.504525,OpenStreetMap / ferry inventory
+n1959770584,Unnamed station (n1959770584),water,,129.962931,33.469572,OpenStreetMap / ferry inventory
+n1974281402,Unnamed station (n1974281402),water,,139.061461,37.931032,OpenStreetMap / ferry inventory
+n2017099018,能古渡船場,water,,130.327269,33.597491,OpenStreetMap / ferry inventory
+n2017562030,Unnamed station (n2017562030),water,,138.281486,37.816013,OpenStreetMap / ferry inventory
+n2027867753,Unnamed station (n2027867753),water,,139.715189,35.220609,OpenStreetMap / ferry inventory
+n2031470770,中央高原駅,ropeway,,140.416117,38.170833,OpenStreetMap / ferry inventory
+n2031470773,上の台駅,ropeway,,140.398067,38.170861,OpenStreetMap / ferry inventory
+n2045608599,Unnamed station (n2045608599),water,,132.406615,33.196781,OpenStreetMap / ferry inventory
+n2118823735,市電 名古屋駅,tram,,136.99026,35.343398,OpenStreetMap / ferry inventory
+n2337898699,Unnamed station (n2337898699),water,,137.021286,34.584394,OpenStreetMap / ferry inventory
+n2367106984,Unnamed station (n2367106984),water,,138.785238,34.905915,OpenStreetMap / ferry inventory
+n2498989788,下関港国際ターミナル,water,下関市港湾局,130.925442,33.947731,OpenStreetMap / ferry inventory
+n2525966134,Unnamed station (n2525966134),water,,137.01958,34.584416,OpenStreetMap / ferry inventory
+n2525966140,Unnamed station (n2525966140),water,,136.847086,34.480865,OpenStreetMap / ferry inventory
+n2528742197,墨田区役所前,water,,139.800566,35.710994,OpenStreetMap / ferry inventory
+n2579262121,ガーデンふ頭,water,,136.880374,35.089791,OpenStreetMap / ferry inventory
+n2612069072,Unnamed station (n2612069072),ropeway,,138.503291,36.721036,OpenStreetMap / ferry inventory
+n2612069093,Unnamed station (n2612069093),ropeway,,138.508975,36.722282,OpenStreetMap / ferry inventory
+n2753124169,千歳渡船場（北恩加島側）,water,,135.45926,34.647776,OpenStreetMap / ferry inventory
+n2804972401,土合口,ropeway,,138.961899,36.836358,OpenStreetMap / ferry inventory
+n2847255142,稲佐山山頂駅,ropeway,,129.849275,32.754294,OpenStreetMap / ferry inventory
+n2847255162,淵神社駅,ropeway,,129.859678,32.757942,OpenStreetMap / ferry inventory
+n2921600650,六甲山頂,ropeway,,135.246925,34.766359,OpenStreetMap / ferry inventory
+n2951840757,牛窓港（前島フェリー乗り場）,water,,134.164653,34.61469,OpenStreetMap / ferry inventory
+n3006217131,里港,water,,129.920397,31.843217,OpenStreetMap / ferry inventory
+n3006218847,長浜港,water,,129.739609,31.702453,OpenStreetMap / ferry inventory
+n3006218866,串木野新港,water,,130.253027,31.722327,OpenStreetMap / ferry inventory
+n3023900936,九十九島パールシーリゾート,water,,129.678941,33.162455,OpenStreetMap / ferry inventory
+n3046087226,前島 新御堂港,water,,134.165375,34.607053,Ferry inventory port and matching OSM route topology
+n3065036651,Unnamed station (n3065036651),ropeway,,140.491963,39.955553,OpenStreetMap / ferry inventory
+n3080011771,有珠山ロープウェイ 昭和新山駅,ropeway,,140.860459,42.539048,OpenStreetMap / ferry inventory
+n3080011773,有珠山ロープウェイ 有珠山頂駅,ropeway,,140.844363,42.540281,OpenStreetMap / ferry inventory
+n3081653947,Unnamed station (n3081653947),ropeway,,142.623263,43.065002,OpenStreetMap / ferry inventory
+n3098691040,飯森高原,ropeway,,137.511719,35.899899,OpenStreetMap / ferry inventory
+n3098691042,鹿ノ瀬駅,ropeway,御岳ロープウェイ,137.536371,35.901387,OpenStreetMap / ferry inventory
+n3150600341,Unnamed station (n3150600341),ropeway,,137.840342,36.728353,OpenStreetMap / ferry inventory
+n3152413747,Unnamed station (n3152413747),ropeway,,137.831766,36.70223,OpenStreetMap / ferry inventory
+n3152528744,樹氷高原駅,ropeway,,140.410741,38.151662,OpenStreetMap / ferry inventory
+n3152528745,地蔵山頂駅,ropeway,,140.43118,38.154733,OpenStreetMap / ferry inventory
+n3152528756,蔵王山麓駅,ropeway,,140.395261,38.161597,OpenStreetMap / ferry inventory
+n3162565032,ダム上 山頂,funicular,,139.248632,35.540505,OpenStreetMap / ferry inventory
+n3162565033,ダム下 山麓,funicular,,139.250021,35.541637,OpenStreetMap / ferry inventory
+n3401928930,切串,water,,132.475122,34.284866,OpenStreetMap / ferry inventory
+n3405204183,家老渡港,water,,133.1988,34.279274,OpenStreetMap / ferry inventory
+n3557281670,口永良部,water,,130.191191,30.462225,OpenStreetMap / ferry inventory
+n3698666729,三宝港,water,,139.758853,32.447575,OpenStreetMap / ferry inventory
+n3732875528,Unnamed station (n3732875528),water,,130.398111,33.605427,OpenStreetMap / ferry inventory
+n3732996269,日生駅前港(中日生港),water,,134.277253,34.734258,OpenStreetMap / ferry inventory
+n3733195972,Unnamed station (n3733195972),water,,141.68192,45.416284,OpenStreetMap / ferry inventory
+n3742784275,三池港,water,,139.563624,34.07975,OpenStreetMap / ferry inventory
+n3769922205,生名立石港,water,,133.177675,34.277692,OpenStreetMap / ferry inventory
+n3803549263,徳山港,water,,131.798934,34.049757,OpenStreetMap / ferry inventory
+n3804431898,馬島港FT,water,,131.720976,33.990389,OpenStreetMap / ferry inventory
+n3804433058,刈尾港FT,water,,131.710726,34.016574,OpenStreetMap / ferry inventory
+n3804552957,竹田津港FT,water,,131.565443,33.678743,OpenStreetMap / ferry inventory
+n3833602592,戸崎港,water,,133.243349,34.398613,OpenStreetMap / ferry inventory
+n3887506730,Unnamed station (n3887506730),water,,132.432265,34.313242,OpenStreetMap / ferry inventory
+n3923477172,小宝島,water,,129.321444,29.22101,OpenStreetMap / ferry inventory
+n3923477177,悪石島,water,,129.594123,29.454917,OpenStreetMap / ferry inventory
+n3923477188,諏訪之瀬島,water,,129.712413,29.610143,OpenStreetMap / ferry inventory
+n3923477196,平島,water,,129.531693,29.678949,OpenStreetMap / ferry inventory
+n3923477205,中之島,water,,129.850211,29.838705,OpenStreetMap / ferry inventory
+n3923477241,硫黄島,water,,130.279753,30.779906,OpenStreetMap / ferry inventory
+n3923477245,竹島,water,,130.419,30.815434,OpenStreetMap / ferry inventory
+n3923477262,黒島・大里,water,,129.957727,30.836279,OpenStreetMap / ferry inventory
+n3928405945,Unnamed station (n3928405945),water,,132.550209,32.714849,OpenStreetMap / ferry inventory
+n3928406862,Unnamed station (n3928406862),water,,132.547527,32.739183,OpenStreetMap / ferry inventory
+n3928406903,宿毛定期船乗場(沖の島鵜来島),water,,132.697626,32.920677,OpenStreetMap / ferry inventory
+n3928430403,宿毛フェリー 宿毛港,water,,132.696607,32.921161,OpenStreetMap / ferry inventory
+n3971263707,Unnamed station (n3971263707),ropeway,,138.177436,36.887001,OpenStreetMap / ferry inventory
+n3971263709,Unnamed station (n3971263709),ropeway,,138.149113,36.889405,OpenStreetMap / ferry inventory
+n3971461428,First floor,funicular,,129.871963,32.733194,OpenStreetMap / ferry inventory
+n4006529416,東京,water,,139.796706,35.616579,OpenStreetMap / ferry inventory
+n4022223493,中之島ローズポート,water,,135.509521,34.692124,OpenStreetMap / ferry inventory
+n4107814609,Unnamed station (n4107814609),guideway,,133.671684,33.956591,OpenStreetMap / ferry inventory
+n4107815821,Unnamed station (n4107815821),guideway,,133.67071,33.956039,OpenStreetMap / ferry inventory
+n4165679934,プリンスホテル前桟橋,water,,132.465329,34.34287,OpenStreetMap / ferry inventory
+n4183162103,横浜港クルーズ,water,,139.651237,35.445673,OpenStreetMap / ferry inventory
+n4233866173,亀徳,water,,129.024308,27.737816,OpenStreetMap / ferry inventory
+n4235536816,前浜港,water,,139.128056,34.209236,OpenStreetMap / ferry inventory
+n4235548247,Unnamed station (n4235548247),water,,133.041156,36.108054,OpenStreetMap / ferry inventory
+n4271537756,黒島・片泊,water,,129.906471,30.830554,OpenStreetMap / ferry inventory
+n4311266780,内航船いそかぜ乗り場,water,隠岐観光,133.042112,36.107308,OpenStreetMap / ferry inventory
+n4311266781,高速船レインボージェット乗り場,water,隠岐汽船,133.043269,36.107282,OpenStreetMap / ferry inventory
+n4311266782,隠岐汽船フェリー乗り場,water,,133.041793,36.107816,OpenStreetMap / ferry inventory
+n4311266783,内航船フェリーどうぜん乗り場,water,,133.041187,36.108827,OpenStreetMap / ferry inventory
+n4373631014,佐合島港乗り場,water,,132.066716,33.875143,OpenStreetMap / ferry inventory
+n4373731395,佐賀港乗り場,water,,132.079667,33.892507,OpenStreetMap / ferry inventory
+n4374955791,祝島,water,,131.988461,33.787512,OpenStreetMap / ferry inventory
+n4375142897,伊保田港,water,,132.439134,33.944218,OpenStreetMap / ferry inventory
+n4375179489,三津浜港FT,water,,132.709487,33.865752,OpenStreetMap / ferry inventory
+n4375458796,笠佐島港乗り場,water,,132.167386,33.946191,OpenStreetMap / ferry inventory
+n4375472492,笠佐島航路発着場,water,,132.187592,33.942795,OpenStreetMap / ferry inventory
+n4451909914,Unnamed station (n4451909914),water,,139.349759,34.751725,OpenStreetMap / ferry inventory
+n4456840774,船浮,water,,123.729214,24.336476,OpenStreetMap / ferry inventory
+n4506438008,北木島 金風呂,water,,133.52757,34.388799,OpenStreetMap / ferry inventory
+n4506438054,Unnamed station (n4506438054),water,,133.506254,34.499095,OpenStreetMap / ferry inventory
+n4506438087,神島外浦港,water,,133.503204,34.431187,Ferry inventory port and matching OSM route topology
+n4506438159,Unnamed station (n4506438159),water,,133.500835,34.347239,OpenStreetMap / ferry inventory
+n4509939709,Unnamed station (n4509939709),water,,136.819703,34.859775,OpenStreetMap / ferry inventory
+n4563327832,蓋井島,water,,130.788298,34.09977,Ferry inventory port and matching OSM route topology
+n4570014322,Unnamed station (n4570014322),water,座間味村,127.285322,26.189729,OpenStreetMap / ferry inventory
+n4590686237,名瀬,water,,129.503863,28.393301,OpenStreetMap / ferry inventory
+n4590686331,宝島,water,,129.203859,29.157048,OpenStreetMap / ferry inventory
+n4594197711,大多府港,water,,134.299186,34.684383,OpenStreetMap / ferry inventory
+n4615855562,奈座港,water,坊勢汽船,134.510513,34.652936,OpenStreetMap / ferry inventory
+n4615856111,真浦港,water,,134.52806,34.677459,OpenStreetMap / ferry inventory
+n4615856112,宮港,water,,134.533909,34.678339,OpenStreetMap / ferry inventory
+n4623237389,鳩間,water,,123.820513,24.467944,OpenStreetMap / ferry inventory
+n4722052343,魚島港,water,,133.322201,34.179003,OpenStreetMap / ferry inventory
+n4730392848,小倉砂津港フェリーターミナル,water,,130.887446,33.892895,OpenStreetMap / ferry inventory
+n4755786036,ソシオ流通センター,private,秩父鉄道,139.424407,36.136478,OpenStreetMap / ferry inventory
+n4759071529,堀川遊覧船 ふれあい広場乗船場,water,,133.045615,35.478257,OpenStreetMap / ferry inventory
+n4851164152,藍島,water,,130.818373,33.988322,OpenStreetMap / ferry inventory
+n4890815374,Unnamed station (n4890815374),water,,134.172373,34.489408,OpenStreetMap / ferry inventory
+n4917630474,端出場,private,,133.309306,33.901705,OpenStreetMap / ferry inventory
+n4940185667,三角島,water,,132.818913,34.190657,OpenStreetMap / ferry inventory
+n4945412415,斎島港,water,,132.793603,34.119612,OpenStreetMap / ferry inventory
+n4946184816,Unnamed station (n4946184816),ropeway,,138.779743,36.940433,OpenStreetMap / ferry inventory
+n4946184817,Unnamed station (n4946184817),ropeway,,138.790355,36.938592,OpenStreetMap / ferry inventory
+n4975231027,福浦港,water,,132.913184,34.284454,OpenStreetMap / ferry inventory
+n4988054118,幸港,water,,133.039799,34.150205,OpenStreetMap / ferry inventory
+n5001159823,小島港,water,,132.976528,34.122867,OpenStreetMap / ferry inventory
+n5158998493,鞆港(県営桟橋),water,,133.38178,34.38136,OpenStreetMap / ferry inventory
+n5160801930,Unnamed station (n5160801930),water,,133.389897,34.385019,OpenStreetMap / ferry inventory
+n5167047027,岐志,water,,130.123344,33.573414,Ferry inventory port and matching OSM route topology
+n5187769301,奈良尾港ターミナル,water,,129.061272,32.84572,OpenStreetMap / ferry inventory
+n5208423447,末広町,tram,,137.013407,36.744598,OpenStreetMap / ferry inventory
+n5211739476,佐木港鷺桟橋,water,,133.118291,34.357638,OpenStreetMap / ferry inventory
+n5224583523,本浦港旅客船発着所,water,,131.703293,34.007599,OpenStreetMap / ferry inventory
+n5314381181,新門司(北九州),water,,130.989482,33.881204,OpenStreetMap / ferry inventory
+n5314381725,徳島,water,,134.595873,34.053871,OpenStreetMap / ferry inventory
+n5316280211,津なぎさまち,water,津エアポートライン,136.525146,34.711203,OpenStreetMap / ferry inventory
+n5332281792,兼城港,water,,126.753165,26.341412,OpenStreetMap / ferry inventory
+n5349625647,Unnamed station (n5349625647),ropeway,,138.180203,36.99084,OpenStreetMap / ferry inventory
+n5456663930,来島港,water,,132.970236,34.11696,OpenStreetMap / ferry inventory
+n5456692612,宮窪港,water,,133.077535,34.175648,OpenStreetMap / ferry inventory
+n5487453107,Okinawa line,water,,130.568805,31.580968,OpenStreetMap / ferry inventory
+n5495043367,天保山渡船場（築港側）,water,大阪市建設局,135.433214,34.658396,OpenStreetMap / ferry inventory
+n5597927267,三原港,water,,133.081652,34.397479,Ferry inventory port and matching OSM route topology
+n5649766458,四国汽船(旅客船),water,,133.95502,34.491623,OpenStreetMap / ferry inventory
+n5657047377,フェリーどうぜん乗り場,water,,133.076484,36.105453,OpenStreetMap / ferry inventory
+n5714915832,四国汽船 旅客船乗り場,water,,133.955013,34.492212,OpenStreetMap / ferry inventory
+n5825876719,5階のりば,funicular,,129.871144,32.732831,OpenStreetMap / ferry inventory
+n5860163640,的矢,water,,136.866138,34.367944,OpenStreetMap / ferry inventory
+n5860176181,三ケ所,water,,136.864642,34.363888,OpenStreetMap / ferry inventory
+n5865500088,高速船 なんきゅう10号,water,,130.762024,31.216597,OpenStreetMap / ferry inventory
+n6036916569,室蘭港,water,,140.976504,42.327199,OpenStreetMap / ferry inventory
+n6054687530,Unnamed station (n6054687530),water,,129.91319,32.707291,OpenStreetMap / ferry inventory
+n6054799124,こども汽車乗り場,private,,137.15558,34.789273,OpenStreetMap / ferry inventory
+n6057324224,天狗山ロープウェイ山麓駅,ropeway,,140.97517,43.1779,OpenStreetMap / ferry inventory
+n6057324225,天狗山ロープウェイ山頂駅,ropeway,,140.972166,43.171979,OpenStreetMap / ferry inventory
+n6057440275,西尾口,private,名古屋鉄道,137.06253,34.870564,OpenStreetMap / ferry inventory
+n6312271723,桜谷,funicular,,135.445701,34.905923,OpenStreetMap / ferry inventory
+n6312271724,風の峠,funicular,,135.445652,34.905501,OpenStreetMap / ferry inventory
+n6443983492,高速船のりば,water,,136.91523,34.776374,OpenStreetMap / ferry inventory
+n6465860329,伊勢湾フェリー伊良湖乗り場,water,,137.019811,34.584123,OpenStreetMap / ferry inventory
+n6613532444,Unnamed station (n6613532444),water,,141.683774,45.415753,OpenStreetMap / ferry inventory
+n6652339363,天売フェリーターミナル,water,,141.327335,44.438821,OpenStreetMap / ferry inventory
+n6652339379,焼尻フェリーターミナル,water,,141.428324,44.442492,OpenStreetMap / ferry inventory
+n6822104099,Unnamed station (n6822104099),water,,141.310154,38.418068,OpenStreetMap / ferry inventory
+n6937659984,Unnamed station (n6937659984),water,,129.290865,34.197861,OpenStreetMap / ferry inventory
+n6937683985,Unnamed station (n6937683985),water,,129.291509,34.197245,OpenStreetMap / ferry inventory
+n7006328427,博多埠頭,water,福岡市,130.399157,33.604201,OpenStreetMap / ferry inventory
+n7058887783,フェリーどうぜん乗り場,water,島前町村組合,133.040076,36.024764,OpenStreetMap / ferry inventory
+n7114836583,名古屋フェリー埠頭,water,,136.845038,35.060142,OpenStreetMap / ferry inventory
+n7349798701,内航船いそかぜ乗り場,water,,133.076688,36.105678,OpenStreetMap / ferry inventory
+n7349869156,内航船いそかぜ乗り場,water,,133.040196,36.024379,OpenStreetMap / ferry inventory
+n7444406124,千歳渡船場（鶴町側）,water,,135.457944,34.644841,OpenStreetMap / ferry inventory
+n7590673890,Unnamed station (n7590673890),water,,141.310807,38.419016,OpenStreetMap / ferry inventory
+n7667530586,石垣島離島ターミナル,water,,124.155457,24.336855,OpenStreetMap / ferry inventory
+n7726290419,二位港,water,対馬市,129.311941,34.38395,OpenStreetMap / ferry inventory
+n7726290420,卯麦港,water,対馬市,129.295795,34.384646,OpenStreetMap / ferry inventory
+n7726290421,佐志賀港,water,,129.302241,34.363051,OpenStreetMap / ferry inventory
+n7726290422,嵯峨港,water,対馬市,129.310428,34.356266,OpenStreetMap / ferry inventory
+n7726290423,貝鮒港,water,対馬市,129.309153,34.344181,OpenStreetMap / ferry inventory
+n7726290424,水崎港,water,対馬市,129.270435,34.356224,OpenStreetMap / ferry inventory
+n7726290425,加志々港,water,対馬市,129.266222,34.355221,OpenStreetMap / ferry inventory
+n7726290426,長板浦港,water,対馬市,129.315162,34.284719,OpenStreetMap / ferry inventory
+n7731950746,本村港,water,,131.152575,34.762339,OpenStreetMap / ferry inventory
+n7743744246,Unnamed station (n7743744246),water,,139.852917,34.991257,OpenStreetMap / ferry inventory
+n7819725662,志賀島,water,福岡市,130.313949,33.662151,OpenStreetMap / ferry inventory
+n7820116529,小呂島市営渡船場,water,,130.035229,33.863351,OpenStreetMap / ferry inventory
+n7823003966,奈良尾,water,,129.061428,32.846167,OpenStreetMap / ferry inventory
+n7914178556,佐島港,water,,133.187617,34.253887,OpenStreetMap / ferry inventory
+n7914178578,土生港（中央桟橋）,water,,133.178005,34.283466,OpenStreetMap / ferry inventory
+n7930645749,鳥羽市営定期船菅島桟橋,water,,136.898946,34.499076,OpenStreetMap / ferry inventory
+n7930645756,鳥羽市営定期船神島桟橋,water,,136.980515,34.550345,OpenStreetMap / ferry inventory
+n7931652051,馬島港,water,,132.990813,34.11657,OpenStreetMap / ferry inventory
+n7990986497,六島 湛江港,water,,133.536966,34.308519,Ferry inventory port and matching OSM route topology
+n7992744076,木江港(一貫目港),water,,132.920006,34.236622,OpenStreetMap / ferry inventory
+n7993548990,Unnamed station (n7993548990),private,,141.499536,43.044805,OpenStreetMap / ferry inventory
+n7993548992,Unnamed station (n7993548992),private,,141.497431,43.048313,OpenStreetMap / ferry inventory
+n7999483471,大浜港,water,,132.806488,34.164095,OpenStreetMap / ferry inventory
+n8007308065,弓削港,water,,133.200369,34.258638,OpenStreetMap / ferry inventory
+n8016346188,向田港,water,,133.099444,34.329459,OpenStreetMap / ferry inventory
+n8016346319,Unnamed station (n8016346319),water,,133.118113,34.35722,OpenStreetMap / ferry inventory
+n8090119332,9,water,,129.869402,32.744691,OpenStreetMap / ferry inventory
+n8100174791,白石島,water,,133.517503,34.4106,OpenStreetMap / ferry inventory
+n8244855466,歌港,water,,133.23963,34.398486,OpenStreetMap / ferry inventory
+n8273486120,中央桟橋,water,,133.202553,34.407426,OpenStreetMap / ferry inventory
+n8322489832,長坂駅,ropeway,,138.452555,36.920095,OpenStreetMap / ferry inventory
+n8322489833,やまびこ駅,ropeway,,138.481617,36.90668,OpenStreetMap / ferry inventory
+n8393953689,福博であい橋,water,,130.404738,33.591994,OpenStreetMap / ferry inventory
+n8403505256,お台場海浜公園船着場,water,,139.773299,35.62949,OpenStreetMap / ferry inventory
+n8405049778,若松渡場,water,,130.814616,33.902165,OpenStreetMap / ferry inventory
+n8405049786,戸畑渡場,water,,130.818822,33.901358,OpenStreetMap / ferry inventory
+n8406622616,浅草二天門(水上バス乗り場),water,,139.801192,35.713152,OpenStreetMap / ferry inventory
+n8406696821,ウォーターズ竹芝前,water,,139.763006,35.656949,OpenStreetMap / ferry inventory
+n8423867176,園内モノレールのりば,guideway,,130.749594,32.773565,OpenStreetMap / ferry inventory
+n8423867177,子ども列車のりば,private,,130.748993,32.774107,OpenStreetMap / ferry inventory
+n8423867179,Unnamed station (n8423867179),shinkansen,,130.748317,32.774731,OpenStreetMap / ferry inventory
+n8543655112,情島港,water,,132.570009,34.159033,OpenStreetMap / ferry inventory
+n8625686804,戸島港,water,,132.359869,33.197785,OpenStreetMap / ferry inventory
+n8625705452,小内浦港,water,,132.368454,33.203955,OpenStreetMap / ferry inventory
+n8625707292,嘉島港,water,,132.364022,33.22872,OpenStreetMap / ferry inventory
+n8627513389,矢ヶ浜港,water,,132.393447,33.201631,OpenStreetMap / ferry inventory
+n8650307703,運河パーク,ropeway,泉陽興業,139.638372,35.453352,OpenStreetMap / ferry inventory
+n8785686371,前島（松島）港乗り場,water,,130.426033,32.52719,OpenStreetMap / ferry inventory
+n8814203859,湯島連絡船待合所,water,,130.336634,32.600099,OpenStreetMap / ferry inventory
+n8895963086,離島航路ターミナル,water,,141.447546,38.442653,OpenStreetMap / ferry inventory
+n8920787432,フェリーくろしま乗り場,water,,129.592558,33.170902,OpenStreetMap / ferry inventory
+n9004411372,Unnamed station (n9004411372),water,,130.563353,31.596886,OpenStreetMap / ferry inventory
+n9004411373,Unnamed station (n9004411373),water,,130.599035,31.592569,OpenStreetMap / ferry inventory
+n9008323918,小川島航路乗り場,water,川口汽船有限会社,129.894611,33.539298,OpenStreetMap / ferry inventory
+n9008323958,松島航路のりば,water,,129.894538,33.539757,OpenStreetMap / ferry inventory
+n9008324006,馬渡島航路のりば,water,,129.893305,33.541706,OpenStreetMap / ferry inventory
+n9008324007,加唐島航路のりば,water,,129.893367,33.541591,OpenStreetMap / ferry inventory
+n9009216088,馬渡島航路のりば,water,,129.879327,33.532758,OpenStreetMap / ferry inventory
+n9009216142,馬渡島,water,,129.765299,33.566952,Ferry inventory port and matching OSM route topology
+n9009216149,向島航路のりば,water,株式会社向島汽船,129.789824,33.44963,OpenStreetMap / ferry inventory
+n9085699539,瀞流荘,private,,135.900337,33.870631,OpenStreetMap / ferry inventory
+n9085699540,湯ノ口温泉,private,,135.890297,33.864203,OpenStreetMap / ferry inventory
+n9146454195,情島,water,,132.479161,33.958465,OpenStreetMap / ferry inventory
+n9234530766,日生港,water,,134.269249,34.731157,OpenStreetMap / ferry inventory
+n9234530836,頭島港,water,,134.28345,34.698817,OpenStreetMap / ferry inventory
+n9285090460,旅客船発着所,water,,129.924863,32.912005,OpenStreetMap / ferry inventory
+n9300580833,Unnamed station (n9300580833),water,,129.755978,33.741464,OpenStreetMap / ferry inventory
+n9324950230,元船,water,,129.87037,32.747966,OpenStreetMap / ferry inventory
+n9388053470,東京九州フェリー 横須賀フェリーターミナル,water,,139.678198,35.283459,OpenStreetMap / ferry inventory
+n9533804987,渡鹿野島和田,water,,136.875797,34.360256,OpenStreetMap / ferry inventory
+n9588844916,有川港,water,,129.11126,32.98701,OpenStreetMap / ferry inventory
+n9658525913,雁ヶ沢,private,東吾妻町役場 まちづくり推進課,138.734548,36.573085,OpenStreetMap / ferry inventory
+n9706383884,駐車場,guideway,,139.803138,35.717099,OpenStreetMap / ferry inventory
+n9706383887,本堂,guideway,,139.803038,35.717215,OpenStreetMap / ferry inventory
+n9719639519,Unnamed station (n9719639519),water,,132.417777,33.459763,OpenStreetMap / ferry inventory
+n9839953553,渡久地港,water,,127.889935,26.659235,OpenStreetMap / ferry inventory
+n9844551663,Unnamed station (n9844551663),water,,129.2919,34.196976,OpenStreetMap / ferry inventory
+n9858082167,Unnamed station (n9858082167),water,,129.112127,32.986018,OpenStreetMap / ferry inventory
+n9858165357,11,water,,129.869248,32.744319,OpenStreetMap / ferry inventory
+n9861786055,名寄高校,jr,,142.465489,44.331139,OpenStreetMap / ferry inventory
+n9895110216,堀川遊覧船 カラコロ広場乗船場,water,,133.054366,35.46993,OpenStreetMap / ferry inventory
+n9941280727,紀三井寺ケーブル山麓,funicular,,135.188914,34.184283,OpenStreetMap / ferry inventory
+n9941280731,Unnamed station (n9941280731),funicular,,135.189705,34.183944,OpenStreetMap / ferry inventory
+n9962959454,佐久島西港,water,,137.03204,34.726489,OpenStreetMap / ferry inventory
+n10064368684,七類港,water,,133.229174,35.571173,OpenStreetMap / ferry inventory
+n10067923136,Unnamed station (n10067923136),water,,132.446471,34.313767,OpenStreetMap / ferry inventory
+n10104446438,宍道湖観光遊覧船 第2乗船場,water,,133.061391,35.467035,OpenStreetMap / ferry inventory
+n10104446439,宍道湖観光遊覧船 第1乗船場,water,,133.071669,35.464953,OpenStreetMap / ferry inventory
+n10279802649,阪九フェリー 泉大津フェリーターミナル,water,,135.396127,34.518353,OpenStreetMap / ferry inventory
+n10310141373,タコタコ海上タクシー,water,,134.05666,34.347998,OpenStreetMap / ferry inventory
+n10310141376,豊島フェリー,water,,134.056082,34.348464,OpenStreetMap / ferry inventory
+n10594574788,冒険ステーション,guideway,,132.793977,33.758914,OpenStreetMap / ferry inventory
+n10731859284,桂島,water,塩竈市営汽船,141.091005,38.336741,OpenStreetMap / ferry inventory
+n10731859285,石浜,water,塩竈市営汽船,141.10271,38.333157,OpenStreetMap / ferry inventory
+n10956664678,Unnamed station (n10956664678),water,,129.723305,33.162286,OpenStreetMap / ferry inventory
+n11018067474,二十四の瞳映画村桟橋,water,,134.284962,34.446183,Ferry inventory port and matching OSM route topology
+n11018067475,オリーブ・ナビ桟橋（オリーブ・ビーチ）,water,,134.276309,34.468554,Ferry inventory port and matching OSM route topology
+n11042408592,Unnamed station (n11042408592),water,,138.283656,37.816135,OpenStreetMap / ferry inventory
+n11233811948,Unnamed station (n11233811948),ropeway,,138.587245,36.62871,OpenStreetMap / ferry inventory
+n11458235099,大阪城公園船着場,water,特定非営利活動法人大阪水上安全協会,135.533424,34.689664,OpenStreetMap / ferry inventory
+n11597185038,桜ノ宮港,water,大阪水上バス株式会社,135.523395,34.695649,OpenStreetMap / ferry inventory
+n11839412292,Unnamed station (n11839412292),water,,128.93896,32.822013,OpenStreetMap / ferry inventory
+n11839412321,Unnamed station (n11839412321),water,,128.85135,32.694761,OpenStreetMap / ferry inventory
+n11935665982,晴海五丁目船着場,water,,139.772468,35.651767,OpenStreetMap / ferry inventory
+n12022602629,馬島,water,,130.854612,33.965183,OpenStreetMap / ferry inventory
+n12070057397,Unnamed station (n12070057397),water,,135.430246,34.664218,OpenStreetMap / ferry inventory
+n12070057489,Unnamed station (n12070057489),water,,135.43139,34.666123,OpenStreetMap / ferry inventory
+n12072611579,千葉みなと（ケーズハーバー）,water,,140.099103,35.60484,Ferry inventory port and matching OSM route topology
+n12291703343,辰の島発,water,,129.679039,33.863689,OpenStreetMap / ferry inventory
+n12292788839,Unnamed station (n12292788839),water,,129.684137,33.74237,OpenStreetMap / ferry inventory
+n12292806972,勝本港発,water,,129.695622,33.854444,OpenStreetMap / ferry inventory
+n12300698851,Unnamed station (n12300698851),water,,129.683728,33.866588,OpenStreetMap / ferry inventory
+n12300698852,Unnamed station (n12300698852),water,,129.690564,33.861819,OpenStreetMap / ferry inventory
+n12346011981,あみ清乗船場,water,,139.79818,35.710065,OpenStreetMap / ferry inventory
+n12346011982,寺務所,guideway,,139.803061,35.717165,OpenStreetMap / ferry inventory
+n12399018871,堂島浜船着場,water,,135.500277,34.695146,OpenStreetMap / ferry inventory
+n12411667780,客室棟,funicular,,130.871512,31.867744,OpenStreetMap / ferry inventory
+n12411667785,湯浴み小屋,funicular,,130.870267,31.86674,OpenStreetMap / ferry inventory
+n12541373624,六甲アイランドフェリーターミナル,water,,135.284164,34.696384,OpenStreetMap / ferry inventory
+n12738923153,10,water,,129.869567,32.744686,OpenStreetMap / ferry inventory
+n12741841850,海上タクシーじゅうふく乗り場,water,,129.592439,33.170801,OpenStreetMap / ferry inventory
+n12790933425,6,water,,129.868395,32.744329,OpenStreetMap / ferry inventory
+n12790933426,5,water,,129.868228,32.744365,OpenStreetMap / ferry inventory
+n12790933427,4,water,,129.868547,32.744683,OpenStreetMap / ferry inventory
+n12790933428,2,water,,129.868695,32.74504,OpenStreetMap / ferry inventory
+n12790933429,1,water,,129.868529,32.745087,OpenStreetMap / ferry inventory
+n12790933430,12,water,,129.869402,32.744285,OpenStreetMap / ferry inventory
+n12790933431,8,water,,129.8697,32.744989,OpenStreetMap / ferry inventory
+n12790933432,7,water,,129.869545,32.745042,OpenStreetMap / ferry inventory
+n13203838759,池島フェリー乗り場,water,西海沿岸商船,129.605438,32.888353,OpenStreetMap / ferry inventory
+n13203838763,進栄丸（神浦池島地域交通船）乗り場,water,進栄丸,129.605531,32.888301,OpenStreetMap / ferry inventory
+n13203838764,進栄丸乗場,water,進栄丸,129.678817,32.880277,OpenStreetMap / ferry inventory
+n13227480726,瀬戸,water,,129.638501,32.940818,Ferry inventory port and matching OSM route topology
+n13227480796,瀬戸港（市営交通船待合所）,water,長崎市,129.639174,32.936501,Ferry inventory port and matching OSM route topology
+n13409056154,網手浜,water,,134.525992,34.666857,OpenStreetMap / ferry inventory
+n13479310649,Unnamed station (n13479310649),ropeway,,139.337778,36.812764,OpenStreetMap / ferry inventory
+n13482766138,笠岡諸島旅客船ターミナル,water,,133.503064,34.50351,OpenStreetMap / ferry inventory
+n13505559290,赤川駅,private,空知鉄道,141.705949,43.252428,OpenStreetMap / ferry inventory
+n13505559291,南赤川駅,private,空知鉄道,141.705999,43.252277,OpenStreetMap / ferry inventory
+n13505559293,新北村駅,private,空知鉄道,141.706173,43.252514,OpenStreetMap / ferry inventory
+n13589111862,4階のりば,funicular,,129.871227,32.732867,OpenStreetMap / ferry inventory
+n13589111880,３階のりば,funicular,,129.871431,32.732958,OpenStreetMap / ferry inventory
+n13589111881,２階のりば,funicular,,129.871625,32.733044,OpenStreetMap / ferry inventory
+n13632944592,羽田空港船着場,water,,139.761447,35.544353,OpenStreetMap / ferry inventory
+n13757796201,駿河湾フェリー,water,,138.490852,35.021676,OpenStreetMap / ferry inventory
+n13762265259,Unnamed station (n13762265259),guideway,,139.575253,35.4399,OpenStreetMap / ferry inventory
+n13762265260,Unnamed station (n13762265260),guideway,,139.575888,35.440726,OpenStreetMap / ferry inventory
+n13898474173,竜飛定点,shinkansen,,140.348046,41.256933,OpenStreetMap / ferry inventory
+n13898474174,吉岡定点,shinkansen,,140.239463,41.442205,OpenStreetMap / ferry inventory
+n13923339111,小豆島 坂手フェリーターミナル さかてらす,water,,134.32073,34.45592,OpenStreetMap / ferry inventory
+n13974421170,大洗港フェリーターミナル,water,,140.573489,36.30927,OpenStreetMap / ferry inventory
+n13977643841,Unnamed station (n13977643841),water,,138.490942,35.021677,OpenStreetMap / ferry inventory
+w1126426715,小野浦駅,private,,136.858299,34.759795,OpenStreetMap / ferry inventory
+w1330965010,Unnamed station (w1330965010),jr,,139.844706,38.924938,OpenStreetMap / ferry inventory
+w1438893204,Unnamed station (w1438893204),guideway,,139.34012,36.423353,OpenStreetMap / ferry inventory
+w1505530016,茶臼山モノレール 動物園北口駅,guideway,,138.116304,36.587249,OpenStreetMap / ferry inventory
+n242922274,Unnamed station (n242922274),ropeway,,140.684204,42.846955,OpenStreetMap / ferry inventory
+n242922275,Unnamed station (n242922275),ropeway,,140.667263,42.865668,OpenStreetMap / ferry inventory
+n416778355,長浜港,water,,136.264114,35.373134,OpenStreetMap / ferry inventory
+n441661294,Unnamed station (n441661294),water,,140.103144,35.077041,OpenStreetMap / ferry inventory
+n444319527,猿島桟橋,water,トライアングル,139.692285,35.285413,OpenStreetMap / ferry inventory
+n540530629,州江港,water,,133.143999,34.285026,OpenStreetMap / ferry inventory
+n778175254,唐津フェリーターミナル,water,,129.963617,33.469644,OpenStreetMap / ferry inventory
+n895456120,両津港佐渡汽船ターミナル,water,佐渡汽船株式会社,138.438069,38.081653,OpenStreetMap / ferry inventory
+n895745169,Unnamed station (n895745169),water,,138.438247,38.080964,OpenStreetMap / ferry inventory
+n929957135,国道九四フェリー,water,,131.865258,33.249949,OpenStreetMap / ferry inventory
+n1074503293,山麓駅,ropeway,,139.754311,36.938068,OpenStreetMap / ferry inventory
+n1074503296,山頂駅,ropeway,,139.772762,36.923455,OpenStreetMap / ferry inventory
+n1441823836,Unnamed station (n1441823836),water,,130.398918,33.608114,OpenStreetMap / ferry inventory
+n1441976895,和泊,water,,128.665921,27.397416,OpenStreetMap / ferry inventory
+n1443063871,渡鹿野島対岸,water,,136.87933,34.35593,OpenStreetMap / ferry inventory
+n1506966087,甚兵衛渡船場（泉尾側）,water,,135.462737,34.656179,OpenStreetMap / ferry inventory
+n1618430655,甚兵衛渡船場（福崎側）,water,,135.462095,34.656901,OpenStreetMap / ferry inventory
+n1631324674,大阪ドーム岩崎港,water,,135.477958,34.667663,OpenStreetMap / ferry inventory
+n1760921419,Unnamed station (n1760921419),water,,140.898035,41.526137,OpenStreetMap / ferry inventory
+n1772136112,久能山,ropeway,,138.466522,34.964245,OpenStreetMap / ferry inventory
+n1772136113,日本平,ropeway,,138.463801,34.97361,OpenStreetMap / ferry inventory
+n1855297877,Unnamed station (n1855297877),water,,129.704303,33.084064,OpenStreetMap / ferry inventory
+n1855497700,ゴンドラ山頂駅,ropeway,,136.648062,36.44613,OpenStreetMap / ferry inventory
+n1862683928,湾港フェリーターミナル,water,,129.937076,28.326437,OpenStreetMap / ferry inventory
+n1864175754,大湊待合所,water,,129.309684,28.145974,OpenStreetMap / ferry inventory
+n1864231225,父島,water,,142.197032,27.095155,OpenStreetMap / ferry inventory
+n2274025450,大島港,water,,134.10525,34.407774,Ferry inventory port and matching OSM route topology
+n2274186357,Unnamed station (n2274186357),water,,134.059397,34.488538,OpenStreetMap / ferry inventory
+n2399900467,真浦港,water,,133.533716,34.125454,OpenStreetMap / ferry inventory
+n2401308508,Unnamed station (n2401308508),water,,134.060359,34.489226,OpenStreetMap / ferry inventory
+n2401308519,Unnamed station (n2401308519),water,,134.061063,34.489668,OpenStreetMap / ferry inventory
+n2483295948,下谷駅,ropeway,,133.14812,33.803015,OpenStreetMap / ferry inventory
+n2483295949,成就駅,ropeway,,133.13374,33.795118,OpenStreetMap / ferry inventory
+n2649478676,Unnamed station (n2649478676),water,,139.81771,35.169361,OpenStreetMap / ferry inventory
+n2926986212,桧原湖遊覧船,water,,140.063261,37.653112,OpenStreetMap / ferry inventory
+n3079994926,Unnamed station (n3079994926),ropeway,,140.76181,42.590567,OpenStreetMap / ferry inventory
+n3079994927,Unnamed station (n3079994927),ropeway,,140.779038,42.592849,OpenStreetMap / ferry inventory
+n3081653945,山頂駅,ropeway,,142.598557,43.076912,OpenStreetMap / ferry inventory
+n3112829194,信楽線のりば,private,,136.154239,34.951884,OpenStreetMap / ferry inventory
+n3314980387,舟島(巌流島),water,,130.92846,33.935826,OpenStreetMap / ferry inventory
+n3732686778,下関港(唐戸桟橋),water,,130.943021,33.955766,OpenStreetMap / ferry inventory
+n3732875526,Unnamed station (n3732875526),water,,130.399276,33.605017,OpenStreetMap / ferry inventory
+n3741500569,Unnamed station (n3741500569),water,,139.566493,34.080386,OpenStreetMap / ferry inventory
+n3887506726,三高〜宇品,water,,132.407662,34.259951,OpenStreetMap / ferry inventory
+n3928406887,Unnamed station (n3928406887),water,,132.494447,32.799118,OpenStreetMap / ferry inventory
+n3951347966,高田,water,,132.435156,34.237268,OpenStreetMap / ferry inventory
+n3964247078,八瀬比叡山口･貴船口・鞍馬方面のりば,private,叡山電鉄,135.784517,35.038266,OpenStreetMap / ferry inventory
+n3968917094,梶ヶ浦渡船場,water,,133.558015,33.501383,OpenStreetMap / ferry inventory
+n3968917095,種崎渡船場,water,,133.563,33.504384,OpenStreetMap / ferry inventory
+n4069682775,三笠桟橋,water,トライアングル,139.674473,35.284448,OpenStreetMap / ferry inventory
+n4141840131,佐伯港（葛港）,water,,131.903227,32.978108,Ferry inventory port and matching OSM route topology
+n4199676089,三田尻港乗り場,water,,131.584285,34.036915,OpenStreetMap / ferry inventory
+n4199682893,野島港乗り場,water,,131.694397,33.943168,OpenStreetMap / ferry inventory
+n4235132649,Unnamed station (n4235132649),ropeway,,135.096566,34.640246,OpenStreetMap / ferry inventory
+n4235132653,Unnamed station (n4235132653),ropeway,,135.095944,34.640876,OpenStreetMap / ferry inventory
+n4235536826,下田,water,,138.94924,34.670194,OpenStreetMap / ferry inventory
+n4240945489,仙台港,water,,141.00552,38.27357,OpenStreetMap / ferry inventory
+n4263639490,犬島行き連絡船乗り場,water,,134.101019,34.587198,OpenStreetMap / ferry inventory
+n4355034165,三角港フェリーターミナル,water,,130.471569,32.606956,OpenStreetMap / ferry inventory
+n4362727895,牛島港乗り場,water,,132.006905,33.859395,OpenStreetMap / ferry inventory
+n4362773189,室積港発着場,water,,131.974063,33.927499,OpenStreetMap / ferry inventory
+n4373741391,馬島港乗り場,water,,132.050656,33.896461,OpenStreetMap / ferry inventory
+n4373823790,渡船場,water,,132.04521,33.912346,OpenStreetMap / ferry inventory
+n4374955490,蒲井港乗り場,water,,132.075905,33.814083,OpenStreetMap / ferry inventory
+n4374955589,四代乗り場,water,,132.055683,33.792249,OpenStreetMap / ferry inventory
+n4374970792,平郡西港FT,water,,132.199439,33.801835,OpenStreetMap / ferry inventory
+n4374973899,平郡東浦港FT,water,,132.26317,33.779008,OpenStreetMap / ferry inventory
+n4375079891,室津港,water,,132.111418,33.831561,Ferry inventory port and matching OSM route topology
+n4375080889,羽仁港FT,water,,132.258229,33.781317,OpenStreetMap / ferry inventory
+n4375083490,八島古浦港FT,water,,132.143845,33.753896,OpenStreetMap / ferry inventory
+n4375083689,上関港,water,,132.117082,33.835888,Ferry inventory port and matching OSM route topology
+n4375091092,八島港乗り場,water,,132.142788,33.729406,OpenStreetMap / ferry inventory
+n4411518960,母島,water,,142.159861,26.638684,OpenStreetMap / ferry inventory
+n4474747388,平良,water,,125.274467,24.806593,OpenStreetMap / ferry inventory
+n4491336937,Unnamed station (n4491336937),ropeway,びわこ箱館山,135.987865,35.438427,Unnamed mapped terminal; operator confirms public lift operation
+n4491336940,函館山ゴンドラ乗降場,ropeway,,135.988004,35.436932,OpenStreetMap / ferry inventory
+n4491336941,箱館山ゴンドラ乗降場,ropeway,,135.995916,35.427923,OpenStreetMap / ferry inventory
+n4504477803,観音寺港,water,,133.637956,34.126253,OpenStreetMap / ferry inventory
+n4506215720,仁尾港,water,,133.636904,34.204008,OpenStreetMap / ferry inventory
+n4506215732,蔦島,water,,133.630393,34.20003,Ferry inventory port and matching OSM route topology
+n4506438049,Unnamed station (n4506438049),water,,133.503401,34.502686,OpenStreetMap / ferry inventory
+n4506438078,高島港,water,,133.50988,34.451535,Ferry inventory port and matching OSM route topology
+n4506438112,Unnamed station (n4506438112),water,,133.537437,34.303887,OpenStreetMap / ferry inventory
+n4506438141,小飛島港,water,,133.519024,34.346125,Ferry inventory port and matching OSM route topology
+n4506438149,大飛島 洲港,water,,133.508301,34.34319,Ferry inventory port and matching OSM route topology
+n4515326351,Unnamed station (n4515326351),water,,129.139429,33.188966,OpenStreetMap / ferry inventory
+n4515343230,Unnamed station (n4515343230),water,,129.131397,33.221456,OpenStreetMap / ferry inventory
+n4528305180,小手島港,water,,133.65279,34.376448,Ferry inventory port and matching OSM route topology
+n4588764612,古仁屋港,water,,129.30869,28.145688,OpenStreetMap / ferry inventory
+n4590686479,古仁屋,water,,129.309556,28.14446,OpenStreetMap / ferry inventory
+n4590686522,池地港,water,,129.234367,28.033266,OpenStreetMap / ferry inventory
+n4590686596,請阿室港,water,,129.254796,28.031693,OpenStreetMap / ferry inventory
+n4590686750,与路港,water,,129.16656,28.045469,OpenStreetMap / ferry inventory
+n4605645864,能美ロッジ,water,,132.449415,34.226936,OpenStreetMap / ferry inventory
+n4605645877,中町,water,,132.444755,34.224536,OpenStreetMap / ferry inventory
+n4609310719,Unnamed station (n4609310719),water,,134.805512,33.844239,OpenStreetMap / ferry inventory
+n4715940544,嵯峨島港,water,,128.60105,32.728348,OpenStreetMap / ferry inventory
+n4726129810,黄島港,water,,128.904572,32.570636,OpenStreetMap / ferry inventory
+n4727960353,伊福貴,water,,128.968862,32.754429,OpenStreetMap / ferry inventory
+n4727960359,本窯港,water,,128.991528,32.769279,OpenStreetMap / ferry inventory
+n4727960385,赤島港,water,,128.921128,32.596591,OpenStreetMap / ferry inventory
+n4756265627,鶴江の渡し（鶴江台側）,water,,131.402544,34.422332,OpenStreetMap / ferry inventory
+n4756270427,鶴江の渡し（浜崎側）,water,,131.401981,34.421746,OpenStreetMap / ferry inventory
+n4785910346,牛島 里浦港,water,,133.781786,34.364105,Ferry inventory port and matching OSM route topology
+n4799927635,大島港フェリーターミナル,water,,130.434946,33.897004,OpenStreetMap / ferry inventory
+n5167019110,姫島,water,,130.051857,33.567157,Ferry inventory port and matching OSM route topology
+n5211739497,小佐木島,water,,133.106903,34.362659,Ferry inventory port and matching OSM route topology
+n5224551618,瀬戸浜港乗り場,water,,131.713761,34.028908,OpenStreetMap / ferry inventory
+n5274579741,黒崎渡船乗り場,water,,134.597747,34.197455,OpenStreetMap / ferry inventory
+n5316273755,苫小牧西港,water,,141.632645,42.636899,OpenStreetMap / ferry inventory
+n5316274549,Unnamed station (n5316274549),water,,141.818654,42.609735,OpenStreetMap / ferry inventory
+n5316279529,苫小牧西港,water,,141.635488,42.637456,OpenStreetMap / ferry inventory
+n5320854521,苫小牧西港,water,,141.638524,42.638424,OpenStreetMap / ferry inventory
+n5341050988,八戸港,water,,141.506965,40.54875,OpenStreetMap / ferry inventory
+n5388769310,八戸港観光遊覧船 はやぶさⅡ,water,,141.557351,40.535725,OpenStreetMap / ferry inventory
+n5428521045,金山港,water,,133.155459,34.299251,OpenStreetMap / ferry inventory
+n5442417493,萩港,water,,131.398826,34.423412,OpenStreetMap / ferry inventory
+n5442417498,相島港,water,,131.280415,34.501663,OpenStreetMap / ferry inventory
+n5498143108,睦月,water,,132.6659,33.956069,Ferry inventory port and matching OSM route topology
+n5595556506,沖島港,water,,136.056852,35.200338,Ferry inventory port and matching OSM route topology
+n5604775723,休屋港,water,,140.891542,40.426798,OpenStreetMap / ferry inventory
+n5736699983,越前武生,tram,,136.170189,35.906383,OpenStreetMap / ferry inventory
+n5923150199,定期船とびしま,water,,139.829745,38.913834,OpenStreetMap / ferry inventory
+n6151941792,Unnamed station (n6151941792),water,,130.400241,33.607069,OpenStreetMap / ferry inventory
+n6230027984,Unnamed station (n6230027984),water,,133.077358,36.104836,OpenStreetMap / ferry inventory
+n6356114673,長原渡船 今切川東岸の乗り場,water,,134.598475,34.11345,Ferry inventory port and matching OSM route topology
+n6356114681,長原渡船 今切川西岸の乗り場,water,,134.595106,34.113101,Ferry inventory port and matching OSM route topology
+n6427444320,ひごい駅,guideway,,138.430309,35.86588,OpenStreetMap / ferry inventory
+n6427444324,まごい駅,guideway,,138.428667,35.865731,OpenStreetMap / ferry inventory
+n6443925081,Unnamed station (n6443925081),water,,137.015742,34.794473,OpenStreetMap / ferry inventory
+n6447116111,Unnamed station (n6447116111),water,,136.835366,34.504585,OpenStreetMap / ferry inventory
+n6447116113,鳥羽湾めぐりとイルカ島観光船のりば,water,,136.845262,34.484005,OpenStreetMap / ferry inventory
+n6614504451,能古島,water,,130.310697,33.611985,OpenStreetMap / ferry inventory
+n6616474269,姫島港FT,water,,131.648595,33.722032,OpenStreetMap / ferry inventory
+n6616474271,伊美港FT,water,,131.600141,33.687187,OpenStreetMap / ferry inventory
+n6862556597,Unnamed station (n6862556597),water,,129.754346,33.810243,OpenStreetMap / ferry inventory
+n7667530585,石垣,water,,124.15551,24.336476,OpenStreetMap / ferry inventory
+n7820116530,小呂島,water,,130.034972,33.86327,OpenStreetMap / ferry inventory
+n7874584642,牟岐港,water,,134.421617,33.667525,OpenStreetMap / ferry inventory
+n7874584681,出羽島,water,,134.424382,33.636395,OpenStreetMap / ferry inventory
+n7930645769,Unnamed station (n7930645769),water,,136.846391,34.47747,OpenStreetMap / ferry inventory
+n8260944701,まいれ～る下駅,guideway,貞昌院,139.569619,35.403789,OpenStreetMap / ferry inventory
+n8260944704,まいれ～る上駅,guideway,貞昌院,139.569579,35.403591,OpenStreetMap / ferry inventory
+n8337138241,奥浦港,water,,128.825669,32.744615,OpenStreetMap / ferry inventory
+n8337138301,貝津港,water,,128.653268,32.714232,OpenStreetMap / ferry inventory
+n8393941173,大島港,water,,131.411516,34.49142,OpenStreetMap / ferry inventory
+n8952576610,Unnamed station (n8952576610),ropeway,,140.684446,42.844172,OpenStreetMap / ferry inventory
+n8952576611,Unnamed station (n8952576611),ropeway,,140.676434,42.848677,OpenStreetMap / ferry inventory
+n8952576612,Unnamed station (n8952576612),ropeway,,140.674966,42.8464,OpenStreetMap / ferry inventory
+n8952576613,Unnamed station (n8952576613),ropeway,,140.676075,42.848478,OpenStreetMap / ferry inventory
+n9008324001,松島,water,,129.840396,33.585048,Ferry inventory port and matching OSM route topology
+n9051973201,Unnamed station (n9051973201),water,,136.073341,35.678374,OpenStreetMap / ferry inventory
+n9551021282,Unnamed station (n9551021282),water,,132.341397,33.38581,OpenStreetMap / ferry inventory
+n9551633373,寺島,water,,129.06478,33.251453,Ferry inventory port and matching OSM route topology
+n9551633396,神浦港,water,,129.094689,33.254858,OpenStreetMap / ferry inventory
+n9625412667,小川島,water,,129.896867,33.594164,Ferry inventory port and matching OSM route topology
+n9979017875,Unnamed station (n9979017875),water,,134.061136,34.490003,OpenStreetMap / ferry inventory
+n10047171564,大村車両基地,jr,,129.944455,32.955375,OpenStreetMap / ferry inventory
+n10241824634,特急サザン難波方面先頭車両停車位置,private,南海電鉄,135.147134,34.277158,OpenStreetMap / ferry inventory
+n10563742487,Unnamed station (n10563742487),water,,136.07243,35.678247,OpenStreetMap / ferry inventory
+n11422704371,Unnamed station (n11422704371),ropeway,,140.682162,42.845457,OpenStreetMap / ferry inventory
+n11549486067,入間川,private,入間馬車鉄道株式会社,139.412744,35.856867,OpenStreetMap / ferry inventory
+n13041204899,Unnamed station (n13041204899),water,,139.81753,35.169417,OpenStreetMap / ferry inventory
+n13047569761,ホーバーターミナルおおいた（大分空港）,water,,131.734159,33.470634,OpenStreetMap / ferry inventory
+n13668538523,宇津港,water,,131.146291,34.783849,OpenStreetMap / ferry inventory
+n13819806096,第二倉庫前,private,有限会社ヤマダ金属商会鉄道事業部,139.150304,36.339253,OpenStreetMap / ferry inventory
+n13892904944,石垣,water,,124.149138,24.337586,OpenStreetMap / ferry inventory
+n13892904965,石垣,water,,124.141044,24.328182,OpenStreetMap / ferry inventory
+n14218830306,宝登山頂,ropeway,,139.093264,36.091124,OpenStreetMap / ferry inventory
+n14218830310,宝登山麓,ropeway,,139.102249,36.091176,OpenStreetMap / ferry inventory
+n14218830311,しらび平,ropeway,,137.833942,35.767776,OpenStreetMap / ferry inventory
+n14218830312,千畳敷,ropeway,,137.813593,35.777476,OpenStreetMap / ferry inventory
+n14242827401,フェリーなんきゅう 根占営業所,water,,130.762993,31.21613,OpenStreetMap / ferry inventory
+01-taiheiyo-sendai-tomakomai-仙台,仙台,water,太平洋フェリー,141.00543,38.27436,OpenStreetMap / ferry inventory
+01-taiheiyo-sendai-tomakomai-苫小牧（西港）,苫小牧（西港）,water,太平洋フェリー,141.63506,42.63837,OpenStreetMap / ferry inventory
+01-silver-hachinohe-tomakomai-八戸,八戸,water,シルバーフェリー（川崎近海汽船）,141.50697,40.54875,OpenStreetMap / ferry inventory
+01-taiheiyo-nagoya-sendai-tomakomai-名古屋,名古屋,water,太平洋フェリー,136.84504,35.06014,OpenStreetMap / ferry inventory
+01-snf-tsuruga-niigata-akita-tomakomai-敦賀,敦賀,water,新日本海フェリー,136.07229,35.67862,OpenStreetMap / ferry inventory
+01-snf-tsuruga-niigata-akita-tomakomai-秋田,秋田,water,新日本海フェリー,140.05858,39.75498,OpenStreetMap / ferry inventory
+01-snf-tsuruga-niigata-akita-tomakomai-苫小牧東港（周文埠頭）,苫小牧東港（周文埠頭）,water,新日本海フェリー,141.81955,42.61001,OpenStreetMap / ferry inventory
+01-snf-maizuru-otaru-舞鶴,舞鶴,water,新日本海フェリー,135.39192,35.48164,OpenStreetMap / ferry inventory
+02-kutsugata-kafuka-利尻島（沓形）,利尻島（沓形）,water,ハートランドフェリー,141.12969,45.18855,OpenStreetMap / ferry inventory
+02-kutsugata-kafuka-礼文島（香深）,礼文島（香深）,water,ハートランドフェリー,141.04605,45.29844,OpenStreetMap / ferry inventory
+02-oshidomari-kafuka-利尻島（鴛泊）,利尻島（鴛泊）,water,ハートランドフェリー,141.2283,45.24137,OpenStreetMap / ferry inventory
+02-oma-hakodate-大間,大間,water,津軽海峡フェリー,140.89885,41.52617,OpenStreetMap / ferry inventory
+02-oma-hakodate-函館（津軽海峡フェリーターミナル）,函館（津軽海峡フェリーターミナル）,water,津軽海峡フェリー,140.71055,41.8076,OpenStreetMap / ferry inventory
+02-esashi-okushiri-江差,江差,water,オクシリアイランドフェリー,140.12266,41.86834,OpenStreetMap / ferry inventory
+02-esashi-okushiri-奥尻,奥尻,water,オクシリアイランドフェリー,139.51729,42.17467,OpenStreetMap / ferry inventory
+02-haboro-yagishiri-teuri-羽幌,羽幌,water,羽幌沿海フェリー,141.69894,44.37136,OpenStreetMap / ferry inventory
+02-haboro-yagishiri-teuri-焼尻,焼尻,water,羽幌沿海フェリー,141.42832,44.44249,OpenStreetMap / ferry inventory
+02-haboro-yagishiri-teuri-天売,天売,water,羽幌沿海フェリー,141.32734,44.43882,OpenStreetMap / ferry inventory
+02-aomori-hakodate-tsugaru-青森（津軽海峡フェリーターミナル）,青森（津軽海峡フェリーターミナル）,water,津軽海峡フェリー,140.71612,40.84617,OpenStreetMap / ferry inventory
+02-aomori-hakodate-seikan-青森（青函フェリーターミナル）,青森（青函フェリーターミナル）,water,青函フェリー,140.71583,40.84389,OpenStreetMap / ferry inventory
+02-aomori-hakodate-seikan-函館（青函フェリーターミナル）,函館（青函フェリーターミナル）,water,青函フェリー,140.72,41.79532,OpenStreetMap / ferry inventory
+02-hakodate-bluemoon-函館（ブルームーン乗り場・末広町）,函館（ブルームーン乗り場・末広町）,water,マルカツ興産（HAKODATE FACTORY）,140.71629,41.76666,OpenStreetMap / ferry inventory
+02-onuma-shimameguri-大沼公園（大沼遊船乗り場）,大沼公園（大沼遊船乗り場）,water,大沼合同遊船,140.6736,41.98421,OpenStreetMap / ferry inventory
+02-muroran-starmarine-室蘭（祝津 スターマリン乗り場）,室蘭（祝津 スターマリン乗り場）,water,スターマリン,140.95149,42.34432,OpenStreetMap / ferry inventory
+02-otaru-shukutsu-小樽港（観光船ターミナル）,小樽港（観光船ターミナル）,water,小樽観光振興公社,141.00268,43.20069,OpenStreetMap / ferry inventory
+02-otaru-shukutsu-祝津港,祝津港,water,小樽観光振興公社,141.00926,43.23485,OpenStreetMap / ferry inventory
+02-otaru-canal-小樽運河（中央橋）,小樽運河（中央橋）,water,小樽カナルボート,141.00176,43.19994,OpenStreetMap / ferry inventory
+02-odaito-todowara-尾岱沼港,尾岱沼港,water,別海町観光開発公社,145.22501,43.56914,OpenStreetMap / ferry inventory
+02-odaito-todowara-トドワラ桟橋,トドワラ桟橋,water,別海町観光開発公社,145.32757,43.58131,OpenStreetMap / ferry inventory
+02-shikotsu-支笏湖温泉,支笏湖温泉,water,支笏湖観光運輸,141.3978,42.7786,OpenStreetMap / ferry inventory
+02-shumarinai-朱鞠内湖畔,朱鞠内湖畔,water,朱鞠内観光汽船,142.18304,44.30736,OpenStreetMap / ferry inventory
+02-toya-nakajima-洞爺湖温泉（駅前桟橋）,洞爺湖温泉（駅前桟橋）,water,洞爺湖汽船,140.81818,42.56661,OpenStreetMap / ferry inventory
+02-toya-nakajima-中島（大島）,中島（大島）,water,洞爺湖汽船,140.84569,42.59483,OpenStreetMap / ferry inventory
+02-mombetsu-garinko-紋別（海洋交流館）,紋別（海洋交流館）,water,オホーツク・ガリンコタワー,143.37061,44.33834,OpenStreetMap / ferry inventory
+02-shikaribetsu-然別湖畔温泉（ホテル風水裏）,然別湖畔温泉（ホテル風水裏）,water,然別湖畔温泉ホテル（ホテル風水）,143.10537,43.27359,OpenStreetMap / ferry inventory
+02-utoro-gojiraiwa-ウトロ（ゴジラ岩観光）,ウトロ（ゴジラ岩観光）,water,ゴジラ岩観光,144.9934,44.07146,OpenStreetMap / ferry inventory
+02-shakotan-glassboat-美国港,美国港,water,積丹観光振興公社,140.60286,43.30089,OpenStreetMap / ferry inventory
+02-abashiri-aurora-網走（道の駅 流氷街道網走）,網走（道の駅 流氷街道網走）,water,道東観光開発,144.27392,44.0222,OpenStreetMap / ferry inventory
+02-akanko-まりもの里桟橋,まりもの里桟橋,water,阿寒観光汽船,144.09917,43.43429,OpenStreetMap / ferry inventory
+02-akanko-チュウルイ島（マリモ展示観察センター）,チュウルイ島（マリモ展示観察センター）,water,阿寒観光汽船,144.1084,43.46992,OpenStreetMap / ferry inventory
+02-kanita-wakinosawa-脇野沢,脇野沢,water,むつ湾フェリー,140.82672,41.14477,OpenStreetMap / ferry inventory
+02-sai-hotokegaura-佐井港（津軽海峡文化館アルサス）,佐井港（津軽海峡文化館アルサス）,water,仏ヶ浦海上観光,140.86157,41.43295,OpenStreetMap / ferry inventory
+02-sai-hotokegaura-仏ヶ浦,仏ヶ浦,water,仏ヶ浦海上観光,140.80421,41.3114,OpenStreetMap / ferry inventory
+02-hachinohe-hayabusa2-八戸港（鮫）,八戸港（鮫）,water,八戸通船,141.55735,40.53572,OpenStreetMap / ferry inventory
+02-towada-yasumiya-nenokuchi-休屋,休屋,water,十和田観光電鉄,140.89154,40.4268,OpenStreetMap / ferry inventory
+02-towada-yasumiya-nenokuchi-子ノ口,子ノ口,water,十和田観光電鉄,140.93984,40.47863,OpenStreetMap / ferry inventory
+02-towada-yasumiya-loop-休屋,休屋,water,十和田観光電鉄,140.89154,40.4268,OpenStreetMap / ferry inventory
+02-kitayamazaki-cruise-島越港,島越港,water,陸中たのはた,141.94224,39.91408,OpenStreetMap / ferry inventory
+02-jodogahama-uminekomaru-宮古（出崎ふ頭）,宮古（出崎ふ頭）,water,岩手県北自動車（宮古遊覧船事業部）,141.96994,39.6394,OpenStreetMap / ferry inventory
+02-jodogahama-uminekomaru-浄土ヶ浜,浄土ヶ浜,water,岩手県北自動車（宮古遊覧船事業部）,141.97874,39.65245,OpenStreetMap / ferry inventory
+02-geibikei-猊鼻渓（げいび観光センター乗船場）,猊鼻渓（げいび観光センター乗船場）,water,げいび観光センター,141.25803,38.98708,OpenStreetMap / ferry inventory
+02-ishinomaki-ajishima-石巻（中央）,石巻（中央）,water,網地島ライン,141.30871,38.42897,OpenStreetMap / ferry inventory
+02-ishinomaki-ajishima-石巻（門脇）,石巻（門脇）,water,網地島ライン,141.31081,38.41902,OpenStreetMap / ferry inventory
+02-ishinomaki-ajishima-田代島（大泊）,田代島（大泊）,water,網地島ライン,141.41984,38.30565,OpenStreetMap / ferry inventory
+02-ishinomaki-ajishima-田代島（仁斗田）,田代島（仁斗田）,water,網地島ライン,141.42661,38.29476,OpenStreetMap / ferry inventory
+02-ishinomaki-ajishima-網地島（網地）,網地島（網地）,water,網地島ライン,141.45952,38.27505,OpenStreetMap / ferry inventory
+02-ishinomaki-ajishima-網地島（長渡）,網地島（長渡）,water,網地島ライン,141.49534,38.25686,OpenStreetMap / ferry inventory
+02-ishinomaki-ajishima-鮎川,鮎川,water,網地島ライン,141.50774,38.29461,OpenStreetMap / ferry inventory
+02-shiogama-urato-野々島,野々島,water,塩竈市（塩竈市営汽船）,141.10562,38.33792,OpenStreetMap / ferry inventory
+02-shiogama-urato-寒風沢,寒風沢,water,塩竈市（塩竈市営汽船）,141.11794,38.33847,OpenStreetMap / ferry inventory
+02-shiogama-urato-朴島,朴島,water,塩竈市（塩竈市営汽船）,141.12421,38.34862,OpenStreetMap / ferry inventory
+02-onagawa-enoshima-江島,江島,water,シーパル女川汽船,141.59337,38.40053,OpenStreetMap / ferry inventory
+02-onagawa-kinkasan-女川（観光桟橋）,女川（観光桟橋）,water,潮プランニング,141.44858,38.44316,OpenStreetMap / ferry inventory
+02-onagawa-kinkasan-金華山,金華山,water,潮プランニング,141.55121,38.29458,OpenStreetMap / ferry inventory
+02-shiogama-matsushima-marubun-松島（観光桟橋）,松島（観光桟橋）,water,丸文松島汽船,141.06322,38.36882,OpenStreetMap / ferry inventory
+02-matsushima-nioumaru-松島（観光桟橋）,松島（観光桟橋）,water,松島島巡り観光船企業組合,141.06322,38.36882,OpenStreetMap / ferry inventory
+02-kesennuma-baycruise-oshima-気仙沼大島（浦の浜）,気仙沼大島（浦の浜）,water,大島汽船,141.61266,38.86509,OpenStreetMap / ferry inventory
+02-kesennuma-baycruise-kesennuma-気仙沼（PIER7）,気仙沼（PIER7）,water,大島汽船,141.57592,38.90571,OpenStreetMap / ferry inventory
+02-abukuma-line-丸森（阿武隈ライン舟下り乗船所）,丸森（阿武隈ライン舟下り乗船所）,water,丸森町観光物産振興公社,140.7596,37.92226,OpenStreetMap / ferry inventory
+02-tazawako-田沢湖 白浜（田沢湖レストハウス）,田沢湖 白浜（田沢湖レストハウス）,water,羽後交通興業,140.69948,39.73072,OpenStreetMap / ferry inventory
+02-sakata-tobishima-酒田港（定期船とびしまターミナル）,酒田港（定期船とびしまターミナル）,water,酒田市（定期航路事業所）,139.82975,38.91383,OpenStreetMap / ferry inventory
+02-sakata-tobishima-飛島（勝浦港）,飛島（勝浦港）,water,酒田市（定期航路事業所）,139.54708,39.18481,OpenStreetMap / ferry inventory
+02-mogami-basho-line-古口港（戸沢藩船番所）,古口港（戸沢藩船番所）,water,最上峡芭蕉ライン観光,140.14988,38.73805,OpenStreetMap / ferry inventory
+02-mogami-basho-line-草薙港（川の駅・最上峡くさなぎ）,草薙港（川の駅・最上峡くさなぎ）,water,最上峡芭蕉ライン観光,140.05328,38.766,OpenStreetMap / ferry inventory
+02-mogami-sannansho-碁点（三難所舟下り乗船場）,碁点（三難所舟下り乗船場）,water,最上川三難所舟くだり,140.34644,38.48172,OpenStreetMap / ferry inventory
+02-mogami-yoshitsune-高屋（旧高屋駅乗船受付所）,高屋（旧高屋駅乗船受付所）,water,最上峡観光開発,140.07072,38.75266,OpenStreetMap / ferry inventory
+02-onahama-daycruise-小名浜（いわき・ら・ら・ミュウ）,小名浜（いわき・ら・ら・ミュウ）,water,小名浜デイクルーズ,140.90551,36.94432,OpenStreetMap / ferry inventory
+02-yanaizu-kankosen-柳津（道の駅会津柳津付近）,柳津（道の駅会津柳津付近）,water,柳津観洸船,139.72359,37.52996,OpenStreetMap / ferry inventory
+02-hibarako-bandaimaru-桧原湖（裏磐梯レイクリゾート前）,桧原湖（裏磐梯レイクリゾート前）,water,グランベルホテル（裏磐梯レイクリゾート）,140.06326,37.65311,OpenStreetMap / ferry inventory
+02-inawashiro-hakuchomaru-猪苗代湖 長浜,猪苗代湖 長浜,water,猪苗代観光船,140.04559,37.52644,OpenStreetMap / ferry inventory
+03-lacus-marina-kasumigaura-土浦港（ラクスマリーナ）,土浦港（ラクスマリーナ）,water,ラクスマリーナ,140.21124,36.07975,OpenStreetMap / ferry inventory
+03-itako-rofune-津軽河岸あと広場,津軽河岸あと広場,water,津軽河岸あと広場（まちづくり観光事業部）,140.55205,35.94083,OpenStreetMap / ferry inventory
+03-ohori-watashi-小堀（おおほり）,小堀（おおほり）,water,取手市,140.07556,35.88292,OpenStreetMap / ferry inventory
+03-ohori-watashi-取手緑地運動公園駐車場前,取手緑地運動公園駐車場前,water,取手市,140.06576,35.88675,OpenStreetMap / ferry inventory
+03-ohori-watashi-取手ふれあい桟橋,取手ふれあい桟橋,water,取手市,140.06005,35.8897,OpenStreetMap / ferry inventory
+03-kura-no-machi-yuransen-蔵の街遊覧船 待合処（倭町・幸来橋付近）,蔵の街遊覧船 待合処（倭町・幸来橋付近）,water,NPO法人蔵の街遊覧船,139.73064,36.37781,OpenStreetMap / ferry inventory
+03-kinugawa-linekudari-ライン下り乗船場（鬼怒川温泉駅付近）,ライン下り乗船場（鬼怒川温泉駅付近）,water,鬼怒高原開発,139.71515,36.8259,OpenStreetMap / ferry inventory
+03-kinugawa-linekudari-下船場（推定）,下船場（推定）,water,鬼怒高原開発,139.716,36.806,OpenStreetMap / ferry inventory
+03-akaiwa-tosen-赤岩（群馬県千代田町）,赤岩（群馬県千代田町）,water,千代田町,139.43456,36.20612,OpenStreetMap / ferry inventory
+03-akaiwa-tosen-葛和田（埼玉県熊谷市）,葛和田（埼玉県熊谷市）,water,千代田町,139.42923,36.20495,OpenStreetMap / ferry inventory
+03-nagatoro-arakawa-line-ウォーターパーク長瀞（親鼻）,ウォーターパーク長瀞（親鼻）,water,荒川ライン下り,139.10952,36.08173,OpenStreetMap / ferry inventory
+03-nagatoro-arakawa-line-岩畳（荒川ライン下り案内所付近）,岩畳（荒川ライン下り案内所付近）,water,荒川ライン下り,139.11578,36.09468,OpenStreetMap / ferry inventory
+03-nagatoro-linekudari-chichibu-親鼻橋,親鼻橋,water,秩父鉄道（長瀞ラインくだり）,139.10952,36.08173,OpenStreetMap / ferry inventory
+03-nagatoro-linekudari-chichibu-岩畳,岩畳,water,秩父鉄道（長瀞ラインくだり）,139.11578,36.09468,OpenStreetMap / ferry inventory
+03-nagatoro-funakudari-乗船場（親鼻付近）,乗船場（親鼻付近）,water,荒川レジャー開発（長瀞舟下り）,139.10952,36.08173,OpenStreetMap / ferry inventory
+03-nagatoro-funakudari-下船場（岩畳付近）,下船場（岩畳付近）,water,荒川レジャー開発（長瀞舟下り）,139.11578,36.09468,OpenStreetMap / ferry inventory
+03-tokyowan-ferry-久里浜港,久里浜港,water,東京湾フェリー,139.71534,35.22004,OpenStreetMap / ferry inventory
+03-tokyowan-ferry-金谷港,金谷港,water,東京湾フェリー,139.81739,35.16936,OpenStreetMap / ferry inventory
+03-tokai-takeshiba-izu-jet-東京（竹芝客船ターミナル）,東京（竹芝客船ターミナル）,water,東海汽船,139.76342,35.6534,OpenStreetMap / ferry inventory
+03-tokai-takeshiba-izu-jet-館山 ※冬〜春の一部便,館山 ※冬〜春の一部便,water,東海汽船,139.85292,34.99126,OpenStreetMap / ferry inventory
+03-tokai-takeshiba-izu-jet-大島（岡田港／元町港）,大島（岡田港／元町港）,water,東海汽船,139.39064,34.79056,OpenStreetMap / ferry inventory
+03-tokai-takeshiba-izu-jet-利島,利島,water,東海汽船,139.28037,34.53388,OpenStreetMap / ferry inventory
+03-tokai-takeshiba-izu-jet-新島,新島,water,東海汽船,139.24209,34.37013,OpenStreetMap / ferry inventory
+03-tokai-takeshiba-izu-jet-式根島（野伏港）,式根島（野伏港）,water,東海汽船,139.21582,34.33507,OpenStreetMap / ferry inventory
+03-tokai-takeshiba-izu-jet-神津島（前浜港／多幸港）,神津島（前浜港／多幸港）,water,東海汽船,139.12806,34.20924,OpenStreetMap / ferry inventory
+03-chiba-port-cruise-千葉みなと（ケーズハーバー）,千葉みなと（ケーズハーバー）,water,千葉ポートサービス,140.0991,35.60484,OpenStreetMap / ferry inventory
+03-tainoura-yuransen-鯛の浦遊覧船乗り場（小湊・誕生寺前）,鯛の浦遊覧船乗り場（小湊・誕生寺前）,water,小湊妙の浦遊覧船協業組合,140.19649,35.12103,OpenStreetMap / ferry inventory
+03-niemonjima-watashi-太海浜 渡船場,太海浜 渡船場,water,仁右衛門島,140.10214,35.07761,OpenStreetMap / ferry inventory
+03-niemonjima-watashi-仁右衛門島,仁右衛門島,water,仁右衛門島,140.10314,35.07704,OpenStreetMap / ferry inventory
+99-yagiri-no-watashi-柴又（葛飾区）,柴又（葛飾区）,water,矢切渡船,139.88242,35.76001,OpenStreetMap / ferry inventory
+99-yagiri-no-watashi-矢切（松戸市）,矢切（松戸市）,water,矢切渡船,139.88376,35.75947,OpenStreetMap / ferry inventory
+01-otf-tokyo-tokushima-shinmoji-東京（有明）,東京（有明）,water,オーシャン東九フェリー（オーシャントランス）,139.79575,35.61731,OpenStreetMap / ferry inventory
+01-otf-tokyo-tokushima-shinmoji-徳島（沖洲）,徳島（沖洲）,water,オーシャン東九フェリー（オーシャントランス）,134.59587,34.05387,OpenStreetMap / ferry inventory
+01-otf-tokyo-tokushima-shinmoji-新門司（北九州）,新門司（北九州）,water,オーシャン東九フェリー（オーシャントランス）,130.98915,33.88151,OpenStreetMap / ferry inventory
+03-shinshin-shimoda-izu-下田港,下田港,water,神新汽船,138.94924,34.67019,OpenStreetMap / ferry inventory
+03-shinshin-shimoda-izu-神津島,神津島,water,神新汽船,139.12806,34.20924,OpenStreetMap / ferry inventory
+03-izushoto-aogashima-八丈島（底土港／八重根港）,八丈島（底土港／八重根港）,water,伊豆諸島開発,139.82123,33.12362,OpenStreetMap / ferry inventory
+03-izushoto-aogashima-青ヶ島（三宝港）,青ヶ島（三宝港）,water,伊豆諸島開発,139.75885,32.44758,OpenStreetMap / ferry inventory
+03-niijima-nishiki-新島港（B堤）,新島港（B堤）,water,新島村,139.24021,34.37195,OpenStreetMap / ferry inventory
+03-tokai-takeshiba-hachijo-三宅島（三池港／錆ヶ浜港／伊ヶ谷港）,三宅島（三池港／錆ヶ浜港／伊ヶ谷港）,water,東海汽船,139.56362,34.07975,OpenStreetMap / ferry inventory
+03-tokai-takeshiba-hachijo-御蔵島,御蔵島,water,東海汽船,139.58683,33.89745,OpenStreetMap / ferry inventory
+03-tokai-takeshiba-izu-large-横浜（大さん橋）※冬期の一部便,横浜（大さん橋）※冬期の一部便,water,東海汽船,139.64778,35.45171,OpenStreetMap / ferry inventory
+03-ogasawara-maru-父島（二見港）,父島（二見港）,water,小笠原海運,142.19703,27.09515,OpenStreetMap / ferry inventory
+03-tokai-atami-oshima-熱海港,熱海港,water,東海汽船,139.07697,35.08967,OpenStreetMap / ferry inventory
+03-tokai-atami-oshima-伊東港 ※一部便,伊東港 ※一部便,water,東海汽船,139.10487,34.97185,OpenStreetMap / ferry inventory
+03-izushoto-hahajima-母島（沖港）,母島（沖港）,water,伊豆諸島開発,142.15986,26.63868,OpenStreetMap / ferry inventory
+03-urbanlaunch-asakusa-loop-浅草（吾妻橋）,浅草（吾妻橋）,water,観光汽船興業（アーバンランチ）,139.79908,35.7111,OpenStreetMap / ferry inventory
+03-eliner-nihonbashi-toyosu-日本橋船着場,日本橋船着場,water,観光汽船興業,139.77481,35.68382,OpenStreetMap / ferry inventory
+03-eliner-nihonbashi-toyosu-豊洲（ららぽーと豊洲船着場）,豊洲（ららぽーと豊洲船着場）,water,観光汽船興業,139.79129,35.65502,OpenStreetMap / ferry inventory
+03-blue-ferry-harumi-hinode-日の出船着場,日の出船着場,water,東京湾クルージング,139.76071,35.65163,OpenStreetMap / ferry inventory
+03-tokyocruise-asakusa-odaiba-浅草（吾妻橋）,浅草（吾妻橋）,water,東京都観光汽船（TOKYO CRUISE）,139.79908,35.7111,OpenStreetMap / ferry inventory
+03-tokyocruise-asakusa-hinode-浜離宮（下船のみ）,浜離宮（下船のみ）,water,東京都観光汽船（TOKYO CRUISE）,139.76729,35.6602,OpenStreetMap / ferry inventory
+01-tqf-yokosuka-shinmoji-新門司,新門司,water,東京九州フェリー,130.99436,33.87641,OpenStreetMap / ferry inventory
+03-sarushima-猿島,猿島,water,トライアングル,139.69228,35.28541,OpenStreetMap / ferry inventory
+03-keihin-harbor-cruise-ピア象の鼻,ピア象の鼻,water,京浜フェリーボート,139.6445,35.4499,OpenStreetMap / ferry inventory
+03-hakone-kaizokusen-桃源台港,桃源台港,water,小田急箱根（箱根海賊船）,138.99444,35.23688,OpenStreetMap / ferry inventory
+03-yokosuka-gunko-汐入ターミナル（汐入桟橋）,汐入ターミナル（汐入桟橋）,water,トライアングル,139.66115,35.28345,OpenStreetMap / ferry inventory
+03-enoshima-bentenmaru-江の島弁天橋たもと,江の島弁天橋たもと,water,江の島遊覧船,139.48285,35.30637,OpenStreetMap / ferry inventory
+03-enoshima-bentenmaru-稚児ヶ淵,稚児ヶ淵,water,江の島遊覧船,139.4746,35.29995,OpenStreetMap / ferry inventory
+03-seabass-yokohama-横浜駅東口（ベイクォーター）,横浜駅東口（ベイクォーター）,water,ポートサービス（Y Cruise）,139.62699,35.46599,OpenStreetMap / ferry inventory
+03-seabass-yokohama-ピア赤レンガ,ピア赤レンガ,water,ポートサービス（Y Cruise）,139.6451,35.45246,OpenStreetMap / ferry inventory
+03-uraga-watashi-西渡船場（西浦賀）,西渡船場（西浦賀）,water,トライアングル,139.71942,35.24142,OpenStreetMap / ferry inventory
+03-uraga-watashi-東渡船場（東浦賀）,東渡船場（東浦賀）,water,トライアングル,139.7209,35.24279,OpenStreetMap / ferry inventory
+04-awashima-岩船,岩船,water,粟島汽船,139.43219,38.18816,OpenStreetMap / ferry inventory
+04-awashima-粟島（内浦）,粟島（内浦）,water,粟島汽船,139.25474,38.46749,OpenStreetMap / ferry inventory
+04-sado-niigata-ryotsu-両津,両津,water,佐渡汽船,138.43807,38.08165,OpenStreetMap / ferry inventory
+04-sado-naoetsu-ogi-小木,小木,water,佐渡汽船,138.28223,37.81626,OpenStreetMap / ferry inventory
+04-okutadami-ginzandaira-奥只見船着場（奥只見ダム）,奥只見船着場（奥只見ダム）,water,奥只見観光,139.24715,37.15175,OpenStreetMap / ferry inventory
+04-okutadami-ginzandaira-銀山平船着場,銀山平船着場,water,奥只見観光,139.17026,37.13427,OpenStreetMap / ferry inventory
+04-okutadami-shuyu-奥只見船着場（奥只見ダム）,奥只見船着場（奥只見ダム）,water,奥只見観光,139.24715,37.15175,OpenStreetMap / ferry inventory
+04-aganogawa-line-道の駅阿賀の里,道の駅阿賀の里,water,阿賀の里,139.30645,37.73691,OpenStreetMap / ferry inventory
+04-shinano-watershuttle-朱鷺メッセ,朱鷺メッセ,water,信濃川ウォーターシャトル,139.05902,37.92606,OpenStreetMap / ferry inventory
+04-shinano-watershuttle-萬代橋西詰,萬代橋西詰,water,信濃川ウォーターシャトル,139.05272,37.92111,OpenStreetMap / ferry inventory
+04-shinano-watershuttle-万代シテイ,万代シテイ,water,信濃川ウォーターシャトル,139.05285,37.91804,OpenStreetMap / ferry inventory
+04-shinano-watershuttle-県庁前,県庁前,water,信濃川ウォーターシャトル,139.02073,37.90346,OpenStreetMap / ferry inventory
+04-shinano-watershuttle-ふるさと村,ふるさと村,water,信濃川ウォーターシャトル,139.0236,37.86659,OpenStreetMap / ferry inventory
+04-shinminato-uchikawa-海王丸パーク,海王丸パーク,water,新湊観光船,137.1083,36.78038,OpenStreetMap / ferry inventory
+04-shogawa-小牧港,小牧港,water,庄川遊覧船,137.00832,36.55446,OpenStreetMap / ferry inventory
+04-shogawa-大牧温泉（大牧港）,大牧温泉（大牧港）,water,庄川遊覧船,136.99411,36.5005,OpenStreetMap / ferry inventory
+04-matsukawa-松川遊覧船乗降場（松川茶屋）,松川遊覧船乗降場（松川茶屋）,water,富山観光遊覧船,137.21256,36.69453,OpenStreetMap / ferry inventory
+04-koshinokata-horioka-堀岡,堀岡,water,富山県（富山新港管理局）,137.11834,36.77314,OpenStreetMap / ferry inventory
+04-noto-kongo-ganmon-巌門,巌門,water,能登金剛遊覧船,136.72824,37.09697,OpenStreetMap / ferry inventory
+04-tojinbo-東尋坊,東尋坊,water,東尋坊観光遊覧船,136.12587,36.23796,OpenStreetMap / ferry inventory
+04-sotomo-若狭フィッシャーマンズ・ワーフ前,若狭フィッシャーマンズ・ワーフ前,water,若狭フィッシャーマンズ・ワーフ,135.73721,35.50209,OpenStreetMap / ferry inventory
+03-yamanakako-hakuchou-旭日丘桟橋,旭日丘桟橋,water,富士汽船,138.87754,35.40883,OpenStreetMap / ferry inventory
+03-kawaguchiko-oishi-line-河口湖船津桟橋,河口湖船津桟橋,water,富士五湖汽船,138.77016,35.50423,OpenStreetMap / ferry inventory
+03-kawaguchiko-oishi-line-大石公園前（大石桟橋）,大石公園前（大石桟橋）,water,富士五湖汽船,138.7465,35.5228,OpenStreetMap / ferry inventory
+03-kawaguchiko-appare-船津浜（河口湖船津桟橋）,船津浜（河口湖船津桟橋）,water,富士五湖汽船,138.77016,35.50423,OpenStreetMap / ferry inventory
+04-tenryu-wasen-リバーポート時又,リバーポート時又,water,南信州リゾート,137.82781,35.46167,OpenStreetMap / ferry inventory
+04-tenryu-line-天龍峡温泉港,天龍峡温泉港,water,天龍ライン遊舟,137.81885,35.44183,OpenStreetMap / ferry inventory
+04-tenryu-line-唐笠港,唐笠港,water,天龍ライン遊舟,137.81769,35.39762,OpenStreetMap / ferry inventory
+04-suwako-諏訪湖遊覧船のりば（上諏訪）,諏訪湖遊覧船のりば（上諏訪）,water,諏訪湖観光汽船,138.1123,36.05044,OpenStreetMap / ferry inventory
+04-nojiriko-野尻湖遊覧船のりば,野尻湖遊覧船のりば,water,野尻湖定期船会社,138.20928,36.83326,OpenStreetMap / ferry inventory
+04-nojiriko-琵琶島（弁天島）,琵琶島（弁天島）,water,野尻湖定期船会社,138.21364,36.83276,OpenStreetMap / ferry inventory
+04-enakyo-恵那峡遊覧船乗船場,恵那峡遊覧船乗船場,water,東鉄アシスト（恵那峡遊覧船）,137.40641,35.47992,OpenStreetMap / ferry inventory
+04-obeni-watashi-小紅の渡し 北岸,小紅の渡し 北岸,water,岐阜市（小紅渡船船頭組合に運航委託）,136.71533,35.41769,OpenStreetMap / ferry inventory
+04-obeni-watashi-小紅の渡し 南岸,小紅の渡し 南岸,water,岐阜市（小紅渡船船頭組合に運航委託）,136.71587,35.41678,OpenStreetMap / ferry inventory
+03-suruga-bay-ferry-清水港（江尻・島崎町）,清水港（江尻・島崎町）,water,ふじさん駿河湾フェリー,138.49085,35.02168,OpenStreetMap / ferry inventory
+03-suruga-bay-ferry-土肥港,土肥港,water,ふじさん駿河湾フェリー,138.78607,34.90603,OpenStreetMap / ferry inventory
+03-hirizo-watashi-中木港,中木港,water,ヒリゾ浜渡し組合,138.8235,34.616,OpenStreetMap / ferry inventory
+03-hirizo-watashi-ヒリゾ浜,ヒリゾ浜,water,ヒリゾ浜渡し組合,138.82577,34.60726,OpenStreetMap / ferry inventory
+03-hatsushima-初島港,初島港,water,富士急マリンリゾート,139.16683,35.0453,OpenStreetMap / ferry inventory
+03-hamanako-yuransen-かんざんじ港,かんざんじ港,water,浜名湖遊覧船,137.61357,34.76754,OpenStreetMap / ferry inventory
+03-hamanako-yuransen-フラワーパーク港,フラワーパーク港,water,浜名湖遊覧船,137.62652,34.76478,OpenStreetMap / ferry inventory
+03-shimoda-kurofune-susquehanna-下田 遊覧船のりば（外ヶ岡）,下田 遊覧船のりば（外ヶ岡）,water,伊豆クルーズ（加森観光グループ）,138.95272,34.67471,OpenStreetMap / ferry inventory
+03-ito-haruhiramaru-iruka-道の駅伊東マリンタウン,道の駅伊東マリンタウン,water,はるひら丸,139.09498,34.98466,OpenStreetMap / ferry inventory
+03-ito-yuumin-hook-道の駅伊東マリンタウン,道の駅伊東マリンタウン,water,ベルクルーズいとう,139.09498,34.98466,OpenStreetMap / ferry inventory
+03-dogashima-cave-cruise-堂ヶ島観光船乗り場,堂ヶ島観光船乗り場,water,堂ヶ島マリン,138.76737,34.78187,OpenStreetMap / ferry inventory
+03-shimizu-bay-cruise-日の出（エスパルスドリームプラザ前）,日の出（エスパルスドリームプラザ前）,water,富士山清水港クルーズ,138.49524,35.00924,OpenStreetMap / ferry inventory
+03-numazu-chidori-cruise-沼津港,沼津港,water,千鳥観光汽船,138.8579,35.08368,OpenStreetMap / ferry inventory
+03-atami-sanremo-渚デッキ（熱海）,渚デッキ（熱海）,water,スパ・マリーナ熱海,139.07511,35.09298,OpenStreetMap / ferry inventory
+03-irouzaki-misakimeguri-石廊崎港,石廊崎港,water,伊豆クルーズ（加森観光グループ）,138.84268,34.60848,OpenStreetMap / ferry inventory
+03-shimizu-waterbus-miho-日の出（エスパルスドリームプラザ前）,日の出（エスパルスドリームプラザ前）,water,富士山清水港クルーズ,138.49524,35.00924,OpenStreetMap / ferry inventory
+03-shimizu-waterbus-miho-江尻（JR清水駅東口 河岸の市前）,江尻（JR清水駅東口 河岸の市前）,water,富士山清水港クルーズ,138.49098,35.01962,OpenStreetMap / ferry inventory
+03-shimizu-waterbus-miho-三保（三保内海）,三保（三保内海）,water,富士山清水港クルーズ,138.51911,35.01612,OpenStreetMap / ferry inventory
+03-shimizu-waterbus-tsukama-塚間,塚間,water,富士山清水港クルーズ,138.50636,35.00389,OpenStreetMap / ferry inventory
+04-meitetsu-morozaki-himaka-ferry-師崎（フェリー乗り場）,師崎（フェリー乗り場）,water,名鉄海上観光船,136.97214,34.69758,OpenStreetMap / ferry inventory
+04-meitetsu-morozaki-himaka-ferry-日間賀島（北港）,日間賀島（北港）,water,名鉄海上観光船,137.004,34.7088,OpenStreetMap / ferry inventory
+04-meitetsu-morozaki-shinojima-ferry-篠島,篠島,water,名鉄海上観光船,137.00639,34.68286,OpenStreetMap / ferry inventory
+04-isewan-ferry-伊良湖,伊良湖,water,伊勢湾フェリー,137.01981,34.58412,OpenStreetMap / ferry inventory
+04-sakushima-一色（佐久島行船のりば）,一色（佐久島行船のりば）,water,西尾市（西尾市営渡船）,137.01574,34.79447,OpenStreetMap / ferry inventory
+04-sakushima-佐久島 西港,佐久島 西港,water,西尾市（西尾市営渡船）,137.03204,34.72649,OpenStreetMap / ferry inventory
+04-sakushima-佐久島 東港,佐久島 東港,water,西尾市（西尾市営渡船）,137.04769,34.72045,OpenStreetMap / ferry inventory
+04-irago-kamishima-神島,神島,water,神島観光汽船,136.98051,34.55035,OpenStreetMap / ferry inventory
+04-meitetsu-morozaki-hs-師崎,師崎,water,名鉄海上観光船,136.97254,34.6977,OpenStreetMap / ferry inventory
+04-meitetsu-morozaki-hs-日間賀島（東港）,日間賀島（東港）,water,名鉄海上観光船,137.01037,34.7034,OpenStreetMap / ferry inventory
+04-meitetsu-morozaki-hs-日間賀島（西港）,日間賀島（西港）,water,名鉄海上観光船,136.99702,34.70305,OpenStreetMap / ferry inventory
+04-tsu-airport-line-中部国際空港（セントレア）,中部国際空港（セントレア）,water,津エアポートライン,136.8197,34.85977,OpenStreetMap / ferry inventory
+04-mikawa-oshima-蒲郡（竹島水族館横 渡船乗り場）,蒲郡（竹島水族館横 渡船乗り場）,water,三河湾内定期航路運営会（蒲郡市観光協会）,137.22947,34.81585,OpenStreetMap / ferry inventory
+04-mikawa-oshima-三河大島 東浜,三河大島 東浜,water,三河湾内定期航路運営会（蒲郡市観光協会）,137.23617,34.79003,OpenStreetMap / ferry inventory
+04-mikawa-oshima-三河大島 西浜,三河大島 西浜,water,三河湾内定期航路運営会（蒲郡市観光協会）,137.23229,34.78933,OpenStreetMap / ferry inventory
+04-ago-bay-teikisen-間崎（間崎島）,間崎（間崎島）,water,志摩マリンレジャー,136.80981,34.28723,OpenStreetMap / ferry inventory
+04-toba-toshi-鳥羽（佐田浜・鳥羽マリンターミナル）,鳥羽（佐田浜・鳥羽マリンターミナル）,water,鳥羽市（鳥羽市営定期船）,136.84554,34.49009,OpenStreetMap / ferry inventory
+04-toba-toshi-和具（答志島）,和具（答志島）,water,鳥羽市（鳥羽市営定期船）,136.89795,34.52245,OpenStreetMap / ferry inventory
+04-toba-toshi-答志（答志島）,答志（答志島）,water,鳥羽市（鳥羽市営定期船）,136.90349,34.53039,OpenStreetMap / ferry inventory
+04-toba-sugashima-坂手（坂手島）,坂手（坂手島）,water,鳥羽市（鳥羽市営定期船）,136.85802,34.48327,OpenStreetMap / ferry inventory
+04-toba-sugashima-菅島,菅島,water,鳥羽市（鳥羽市営定期船）,136.89895,34.49908,OpenStreetMap / ferry inventory
+04-toba-momotori-桃取（答志島）,桃取（答志島）,water,鳥羽市（鳥羽市営定期船）,136.85214,34.51423,OpenStreetMap / ferry inventory
+04-toba-bay-iruka-真珠島・水族館前のりば,真珠島・水族館前のりば,water,志摩マリンレジャー,136.84526,34.484,OpenStreetMap / ferry inventory
+04-toba-bay-iruka-鳥羽マリンターミナル,鳥羽マリンターミナル,water,志摩マリンレジャー,136.84494,34.49031,OpenStreetMap / ferry inventory
+04-toba-bay-iruka-イルカ島,イルカ島,water,志摩マリンレジャー,136.83525,34.50453,OpenStreetMap / ferry inventory
+04-shima-city-boat-渡鹿野島（和田）,渡鹿野島（和田）,water,志摩市,136.8758,34.36026,OpenStreetMap / ferry inventory
+04-watakano-ferry-渡鹿野渡船場（対岸）,渡鹿野渡船場（対岸）,water,渡鹿野島渡船（民営）,136.87933,34.35593,OpenStreetMap / ferry inventory
+04-watakano-ferry-渡鹿野島,渡鹿野島,water,渡鹿野島渡船（民営）,136.8758,34.36026,OpenStreetMap / ferry inventory
+05-okishima-tsusen-堀切新港,堀切新港,water,沖島町自治会通船部会,136.0929,35.19381,OpenStreetMap / ferry inventory
+05-okishima-tsusen-沖島港,沖島港,water,沖島町自治会通船部会,136.05685,35.20034,OpenStreetMap / ferry inventory
+05-lago-cruise-ichibanmaru-大津港,大津港,water,杢兵衛造船所（しがクルーズ）,135.86433,35.01271,OpenStreetMap / ferry inventory
+05-lago-cruise-ichibanmaru-におの浜観光桟橋（LAGO大津）,におの浜観光桟橋（LAGO大津）,water,杢兵衛造船所（しがクルーズ）,135.88589,35.00598,OpenStreetMap / ferry inventory
+05-lago-cruise-yakatabune-おごと温泉港,おごと温泉港,water,杢兵衛造船所（しがクルーズ）,135.89256,35.08876,OpenStreetMap / ferry inventory
+05-lago-cruise-yakatabune-草津烏丸半島港（琵琶湖博物館）,草津烏丸半島港（琵琶湖博物館）,water,杢兵衛造船所（しがクルーズ）,135.93327,35.0723,OpenStreetMap / ferry inventory
+05-biwako-sosui-boat-大津（三井寺）乗下船場,大津（三井寺）乗下船場,water,びわ湖疏水船受付事務局,135.85664,35.01166,OpenStreetMap / ferry inventory
+05-biwako-sosui-boat-山科（四ノ宮舟溜）,山科（四ノ宮舟溜）,water,びわ湖疏水船受付事務局,135.82635,34.99465,OpenStreetMap / ferry inventory
+05-biwako-sosui-boat-蹴上乗下船場,蹴上乗下船場,water,びわ湖疏水船受付事務局,135.79167,35.00648,OpenStreetMap / ferry inventory
+05-michigan-cruise-柳が崎湖畔公園港（びわ湖大津館）,柳が崎湖畔公園港（びわ湖大津館）,water,琵琶湖汽船,135.8695,35.027,OpenStreetMap / ferry inventory
+05-michigan-cruise-におの浜観光港,におの浜観光港,water,琵琶湖汽船,135.88589,35.00598,OpenStreetMap / ferry inventory
+05-suigou-meguri-biwako-kanko-びわ湖観光 乗船場（近江八幡市中之庄町）,びわ湖観光 乗船場（近江八幡市中之庄町）,water,びわ湖観光,136.06824,35.15813,OpenStreetMap / ferry inventory
+05-ine-bay-boat-日出（伊根湾めぐり遊覧船のりば）,日出（伊根湾めぐり遊覧船のりば）,water,丹後海陸交通,135.27742,35.67059,OpenStreetMap / ferry inventory
+05-fushimi-jikkokubune-十石舟乗船場（月桂冠大倉記念館裏）,十石舟乗船場（月桂冠大倉記念館裏）,water,伏見観光協会,135.75613,34.92329,OpenStreetMap / ferry inventory
+05-hozugawa-kudari-亀岡（保津川下り乗船場）,亀岡（保津川下り乗船場）,water,保津川遊船企業組合,135.58732,35.01759,OpenStreetMap / ferry inventory
+05-hozugawa-kudari-嵐山（下船場）,嵐山（下船場）,water,保津川遊船企業組合,135.67144,35.01347,OpenStreetMap / ferry inventory
+05-amanohashidate-boat-宮津桟橋,宮津桟橋,water,丹後海陸交通,135.19388,35.53983,OpenStreetMap / ferry inventory
+05-amanohashidate-boat-天橋立桟橋,天橋立桟橋,water,丹後海陸交通,135.18474,35.55854,OpenStreetMap / ferry inventory
+05-amanohashidate-boat-一の宮桟橋,一の宮桟橋,water,丹後海陸交通,135.19601,35.58086,OpenStreetMap / ferry inventory
+05-ine-kouro-伊根（舟屋日和桟橋）,伊根（舟屋日和桟橋）,water,丹後海陸交通,135.29053,35.67407,OpenStreetMap / ferry inventory
+05-ine-kouro-伊根（日出桟橋）,伊根（日出桟橋）,water,丹後海陸交通,135.27742,35.67059,OpenStreetMap / ferry inventory
+05-okazaki-jikkokubune-南禅寺舟溜り乗船場,南禅寺舟溜り乗船場,water,京都府旅行業協同組合（京りょ）,135.78621,35.01158,OpenStreetMap / ferry inventory
+05-maizuru-naval-port-cruise-北吸赤れんが桟橋（赤れんが博物館横）,北吸赤れんが桟橋（赤れんが博物館横）,water,舞鶴交通安全協会クルーズ事業部,135.3878,35.4768,OpenStreetMap / ferry inventory
+01-sunflower-osaka-beppu-大阪南港（さんふらわあターミナル第1）,大阪南港（さんふらわあターミナル第1）,water,商船三井さんふらわあ,135.41117,34.63758,OpenStreetMap / ferry inventory
+01-sunflower-osaka-shibushi-大阪南港（さんふらわあターミナル第2）,大阪南港（さんふらわあターミナル第2）,water,商船三井さんふらわあ,135.40781,34.63436,OpenStreetMap / ferry inventory
+01-meimon-osaka-shinmoji-大阪南港（大阪南港フェリーターミナル）,大阪南港（大阪南港フェリーターミナル）,water,名門大洋フェリー,135.43235,34.6196,OpenStreetMap / ferry inventory
+01-meimon-osaka-shinmoji-新門司,新門司,water,名門大洋フェリー,130.98548,33.87119,OpenStreetMap / ferry inventory
+01-orange-osaka-toyo-東予,東予,water,オレンジフェリー（四国開発フェリー）,133.11835,33.92989,OpenStreetMap / ferry inventory
+01-hankyu-izumiotsu-shinmoji-新門司（阪九第2ターミナル）,新門司（阪九第2ターミナル）,water,阪九フェリー,130.98964,33.88337,OpenStreetMap / ferry inventory
+01-panstar-osaka-busan-釜山（釜山港国際旅客ターミナル）,釜山（釜山港国際旅客ターミナル）,water,パンスター（日本総代理店：サンスターライン）,129.04921,35.11771,OpenStreetMap / ferry inventory
+05-fuke-sumoto-liner-洲本港,洲本港,water,恭兵船舶（深日洲本ライナー）,134.89982,34.34567,OpenStreetMap / ferry inventory
+05-kobe-kix-bay-shuttle-神戸空港（海上アクセスターミナル）,神戸空港（海上アクセスターミナル）,water,こうべ未来都市機構（海上アクセス事業部）,135.22862,34.6403,OpenStreetMap / ferry inventory
+05-kobe-kix-bay-shuttle-関西国際空港（ポートターミナル）,関西国際空港（ポートターミナル）,water,こうべ未来都市機構（海上アクセス事業部）,135.25426,34.44439,OpenStreetMap / ferry inventory
+05-naniwa-tanken-yumesaki-湊町船着場（大黒橋北西詰）,湊町船着場（大黒橋北西詰）,water,一本松海運,135.49748,34.66906,OpenStreetMap / ferry inventory
+05-naniwa-tanken-kanjosen-タグボート大正（TUGBOAT TAISHO RIVER STATION）,タグボート大正（TUGBOAT TAISHO RIVER STATION）,water,一本松海運,135.47825,34.66738,OpenStreetMap / ferry inventory
+05-osaka-santamaria-海遊館西はとば（サンタマリア乗り場）,海遊館西はとば（サンタマリア乗り場）,water,大阪水上バス,135.4283,34.65505,OpenStreetMap / ferry inventory
+05-captain-line-海遊館西はとば,海遊館西はとば,water,キャプテンライン,135.42842,34.65382,OpenStreetMap / ferry inventory
+05-osaka-senbonmatsu-南恩加島側（大正区南恩加島1丁目）,南恩加島側（大正区南恩加島1丁目）,water,大阪市（建設局）,135.4752,34.63312,OpenStreetMap / ferry inventory
+05-osaka-senbonmatsu-南津守側（西成区南津守2丁目）,南津守側（西成区南津守2丁目）,water,大阪市（建設局）,135.47664,34.63164,OpenStreetMap / ferry inventory
+05-osaka-chitose-鶴町側（大正区鶴町4丁目）,鶴町側（大正区鶴町4丁目）,water,大阪市（建設局）,135.45794,34.64484,OpenStreetMap / ferry inventory
+05-osaka-chitose-北恩加島側（大正区北恩加島2丁目）,北恩加島側（大正区北恩加島2丁目）,water,大阪市（建設局）,135.45926,34.64778,OpenStreetMap / ferry inventory
+05-osaka-tenpozan-築港側（港区築港3丁目）,築港側（港区築港3丁目）,water,大阪市（建設局）,135.43321,34.6584,OpenStreetMap / ferry inventory
+05-osaka-tenpozan-桜島側（此花区桜島3丁目）,桜島側（此花区桜島3丁目）,water,大阪市（建設局）,135.42911,34.65946,OpenStreetMap / ferry inventory
+05-osaka-kizugawa-船町側（大正区船町1丁目）,船町側（大正区船町1丁目）,water,大阪市（建設局）,135.46221,34.62668,OpenStreetMap / ferry inventory
+05-osaka-kizugawa-平林北側（住之江区平林北1丁目）,平林北側（住之江区平林北1丁目）,water,大阪市（建設局）,135.46161,34.6245,OpenStreetMap / ferry inventory
+05-osaka-jinbe-泉尾側（大正区泉尾7丁目）,泉尾側（大正区泉尾7丁目）,water,大阪市（建設局）,135.46274,34.65618,OpenStreetMap / ferry inventory
+05-osaka-jinbe-福崎側（港区福崎1丁目）,福崎側（港区福崎1丁目）,water,大阪市（建設局）,135.4621,34.6569,OpenStreetMap / ferry inventory
+05-osaka-funamachi-鶴町側（大正区鶴町1丁目）,鶴町側（大正区鶴町1丁目）,water,大阪市（建設局）,135.45804,34.6332,OpenStreetMap / ferry inventory
+05-osaka-funamachi-船町側（大正区船町1丁目）,船町側（大正区船町1丁目）,water,大阪市（建設局）,135.45801,34.6327,OpenStreetMap / ferry inventory
+05-osaka-ochiai-kami-千島側（大正区千島1丁目）,千島側（大正区千島1丁目）,water,大阪市（建設局）,135.47842,34.6498,OpenStreetMap / ferry inventory
+05-osaka-ochiai-kami-北津守側（西成区北津守4丁目）,北津守側（西成区北津守4丁目）,water,大阪市（建設局）,135.47924,34.64967,OpenStreetMap / ferry inventory
+05-osaka-ochiai-shimo-平尾側（大正区平尾1丁目）,平尾側（大正区平尾1丁目）,water,大阪市（建設局）,135.4784,34.6434,OpenStreetMap / ferry inventory
+05-osaka-ochiai-shimo-津守側（西成区津守2丁目）,津守側（西成区津守2丁目）,water,大阪市（建設局）,135.47988,34.64315,OpenStreetMap / ferry inventory
+01-sunflower-kobe-oita-神戸（六甲アイランド）,神戸（六甲アイランド）,water,商船三井さんふらわあ,135.28252,34.69705,OpenStreetMap / ferry inventory
+01-sunflower-kobe-oita-大分（西大分）,大分（西大分）,water,商船三井さんふらわあ,131.58859,33.24616,OpenStreetMap / ferry inventory
+01-miyazaki-kobe-miyazaki-神戸（神戸三宮フェリーターミナル）,神戸（神戸三宮フェリーターミナル）,water,宮崎カーフェリー,135.19892,34.68248,OpenStreetMap / ferry inventory
+01-hankyu-kobe-shinmoji-神戸（六甲アイランド）,神戸（六甲アイランド）,water,阪九フェリー,135.285,34.6967,OpenStreetMap / ferry inventory
+01-hankyu-kobe-shinmoji-新門司（阪九第1ターミナル）,新門司（阪九第1ターミナル）,water,阪九フェリー,130.99003,33.88529,OpenStreetMap / ferry inventory
+05-shodoshima-ferry-himeji-fukuda-姫路港,姫路港,water,小豆島フェリー（四国フェリーグループ）,134.66277,34.78397,OpenStreetMap / ferry inventory
+05-shodoshima-ferry-himeji-fukuda-小豆島（福田港）,小豆島（福田港）,water,小豆島フェリー（四国フェリーグループ）,134.3444,34.54267,OpenStreetMap / ferry inventory
+05-jumbo-kobe-takamatsu-小豆島（坂手港）,小豆島（坂手港）,water,ジャンボフェリー,134.32138,34.45568,OpenStreetMap / ferry inventory
+05-jumbo-kobe-takamatsu-高松（高松東港）,高松（高松東港）,water,ジャンボフェリー,134.07399,34.35418,OpenStreetMap / ferry inventory
+05-nushima-kisen-土生港（灘ターミナルセンター）,土生港（灘ターミナルセンター）,water,沼島汽船,134.80202,34.20122,OpenStreetMap / ferry inventory
+05-nushima-kisen-沼島港,沼島港,water,沼島汽船,134.81864,34.17089,OpenStreetMap / ferry inventory
+05-ieshima-liner-家島（真浦港）,家島（真浦港）,water,家島ライナー,134.52806,34.67746,OpenStreetMap / ferry inventory
+05-ieshima-liner-家島（宮港）,家島（宮港）,water,家島ライナー,134.53391,34.67834,OpenStreetMap / ferry inventory
+05-bouze-hikari-kisen-男鹿島,男鹿島,water,坊勢輝汽船,134.57008,34.67326,OpenStreetMap / ferry inventory
+05-bouze-hikari-kisen-坊勢島（奈座港）,坊勢島（奈座港）,water,坊勢輝汽船,134.51051,34.65294,OpenStreetMap / ferry inventory
+05-bouze-tosen-amide-家島（網手）,家島（網手）,water,坊勢渡船,134.52594,34.6666,OpenStreetMap / ferry inventory
+05-bouze-tosen-amide-坊勢島,坊勢島,water,坊勢渡船,134.51848,34.66141,OpenStreetMap / ferry inventory
+05-jenova-akashi-iwaya-明石港,明石港,water,淡路ジェノバライン,134.99059,34.64496,OpenStreetMap / ferry inventory
+05-jenova-akashi-iwaya-岩屋港,岩屋港,water,淡路ジェノバライン,135.01991,34.59098,OpenStreetMap / ferry inventory
+05-boh-boh-kobe-中突堤中央ターミナル（かもめりあ）,中突堤中央ターミナル（かもめりあ）,water,早駒運輸（boh boh KOBE）,135.18501,34.68253,OpenStreetMap / ferry inventory
+05-uzushio-cruise-福良港（うずしおドームなないろ館）,福良港（うずしおドームなないろ館）,water,ジョイポート淡路島,134.71919,34.25556,OpenStreetMap / ferry inventory
+05-tsuburoko-yuransen-津風呂湖観光 乗り場（ダムサイト）,津風呂湖観光 乗り場（ダムサイト）,water,津風呂湖観光,135.892,34.3985,OpenStreetMap / ferry inventory
+05-jinoshima-tosen-初島漁港（南村渡船のりば）,初島漁港（南村渡船のりば）,water,南村渡船（無人島・地ノ島）,135.11081,34.09726,OpenStreetMap / ferry inventory
+05-jinoshima-tosen-地ノ島,地ノ島,water,南村渡船（無人島・地ノ島）,135.10273,34.11327,OpenStreetMap / ferry inventory
+05-tomogashima-kisen-加太港,加太港,water,友ヶ島汽船,135.07045,34.27575,OpenStreetMap / ferry inventory
+05-tomogashima-kisen-友ヶ島（野奈浦桟橋）,友ヶ島（野奈浦桟橋）,water,友ヶ島汽船,135.00888,34.28385,OpenStreetMap / ferry inventory
+05-kushimoto-stellamaris-串本海中公園ボート乗り場（錆浦港）,串本海中公園ボート乗り場（錆浦港）,water,串本海中公園センター,135.7445,33.4806,OpenStreetMap / ferry inventory
+05-kitayama-ikada-オトノリ（筏乗り場）,オトノリ（筏乗り場）,water,北山村,135.95,33.934,OpenStreetMap / ferry inventory
+05-kitayama-ikada-小松（筏下船場）,小松（筏下船場）,water,北山村,135.9313,33.91853,OpenStreetMap / ferry inventory
+05-kumanogawa-kawabune-熊野川川舟センター（道の駅 瀞峡街道熊野川付近）,熊野川川舟センター（道の駅 瀞峡街道熊野川付近）,water,熊野川川舟センター,135.89671,33.79051,OpenStreetMap / ferry inventory
+05-kumanogawa-kawabune-権現河原（熊野速玉大社付近）,権現河原（熊野速玉大社付近）,water,熊野川川舟センター,135.989,33.733,OpenStreetMap / ferry inventory
+05-kinomatsushima-meguri-勝浦港（観光桟橋）,勝浦港（観光桟橋）,water,紀の松島観光,135.94576,33.62756,OpenStreetMap / ferry inventory
+05-hotel-urashima-shuttle-勝浦観光桟橋,勝浦観光桟橋,water,浦島観光ホテル（ホテル浦島）,135.94576,33.62756,OpenStreetMap / ferry inventory
+05-hotel-urashima-shuttle-ホテル浦島,ホテル浦島,water,浦島観光ホテル（ホテル浦島）,135.94568,33.62188,OpenStreetMap / ferry inventory
+08-oki-ferry-sakaiminato-dozen-saigo-境港（隠岐汽船乗り場）,境港（隠岐汽船乗り場）,water,隠岐汽船,133.22288,35.54539,OpenStreetMap / ferry inventory
+08-oki-ferry-sakaiminato-dozen-saigo-来居港,来居港,water,隠岐汽船,133.0394,36.02495,OpenStreetMap / ferry inventory
+08-oki-ferry-sakaiminato-dozen-saigo-別府港,別府港,water,隠岐汽船,133.04179,36.10782,OpenStreetMap / ferry inventory
+08-oki-ferry-sakaiminato-dozen-saigo-菱浦港,菱浦港,water,隠岐汽船,133.07736,36.10484,OpenStreetMap / ferry inventory
+08-oki-ferry-sakaiminato-dozen-saigo-西郷港,西郷港,water,隠岐汽船,133.33508,36.20346,OpenStreetMap / ferry inventory
+01-duwon-sakaiminato-donghae-境港（境夢みなとターミナル）,境港（境夢みなとターミナル）,water,ドゥウォン商船（DUWON SHIPPING）,133.25863,35.52211,OpenStreetMap / ferry inventory
+01-duwon-sakaiminato-donghae-東海（韓国・東海港国際旅客ターミナル）,東海（韓国・東海港国際旅客ターミナル）,water,ドゥウォン商船（DUWON SHIPPING）,129.12537,37.49186,OpenStreetMap / ferry inventory
+08-oki-rainbowjet-七類港（高速船）,七類港（高速船）,water,隠岐汽船,133.22922,35.57172,OpenStreetMap / ferry inventory
+08-oki-rainbowjet-別府港（高速船乗り場）,別府港（高速船乗り場）,water,隠岐汽船,133.04327,36.10728,OpenStreetMap / ferry inventory
+08-koyamaike-yuran-湖山池ナチュラルガーデン船着き場,湖山池ナチュラルガーデン船着き場,water,山陰松島遊覧,134.17242,35.50787,OpenStreetMap / ferry inventory
+08-uradome-shimameguri-網代港（浦富海岸遊覧船乗り場）,網代港（浦富海岸遊覧船乗り場）,water,山陰松島遊覧,134.29788,35.5795,OpenStreetMap / ferry inventory
+08-dozen-naikosen-菱浦港（内航船乗り場）,菱浦港（内航船乗り場）,water,隠岐観光,133.07669,36.10568,OpenStreetMap / ferry inventory
+08-dozen-naikosen-別府港（内航船乗り場）,別府港（内航船乗り場）,water,隠岐観光,133.04211,36.10731,OpenStreetMap / ferry inventory
+08-dozen-naikosen-来居港（内航船乗り場）,来居港（内航船乗り場）,water,隠岐観光,133.0402,36.02438,OpenStreetMap / ferry inventory
+08-kaka-kukedo-加賀港（マリンプラザしまね）,加賀港（マリンプラザしまね）,water,加賀潜戸遊覧船,133.05764,35.565,OpenStreetMap / ferry inventory
+08-shinjiko-hakuchou-第1乗船場,第1乗船場,water,白鳥観光,133.07167,35.46495,OpenStreetMap / ferry inventory
+08-shinjiko-hakuchou-第2乗船場,第2乗船場,water,白鳥観光,133.06139,35.46704,OpenStreetMap / ferry inventory
+08-matsue-horikawa-ふれあい広場乗船場,ふれあい広場乗船場,water,堀川遊覧船（ぐるっと松江堀川めぐり）,133.04561,35.47826,OpenStreetMap / ferry inventory
+08-matsue-horikawa-大手前広場乗船場,大手前広場乗船場,water,堀川遊覧船（ぐるっと松江堀川めぐり）,133.05274,35.47378,OpenStreetMap / ferry inventory
+08-matsue-horikawa-カラコロ広場乗船場,カラコロ広場乗船場,water,堀川遊覧船（ぐるっと松江堀川めぐり）,133.05437,35.46993,OpenStreetMap / ferry inventory
+08-kuniga-teiki-kankousen-浦郷港（観光船乗り場）,浦郷港（観光船乗り場）,water,隠岐観光,132.99395,36.09168,OpenStreetMap / ferry inventory
+08-rousokujima-yuransen-福浦岸壁（重栖港）,福浦岸壁（重栖港）,water,隠岐の島町観光協会（予約窓口）,133.19533,36.28182,OpenStreetMap / ferry inventory
+08-ama-amanbou-菱浦港,菱浦港,water,海中展望船あまんぼう（海士町）,133.07736,36.10484,OpenStreetMap / ferry inventory
+06-uno-miyanoura-宇野港（フェリー乗り場）,宇野港（フェリー乗り場）,water,四国汽船,133.95214,34.4927,OpenStreetMap / ferry inventory
+06-uno-miyanoura-直島 宮浦港,直島 宮浦港,water,四国汽船,133.97394,34.45676,OpenStreetMap / ferry inventory
+06-uno-teshima-tonosho-宇野港（旅客船乗り場）,宇野港（旅客船乗り場）,water,小豆島豊島フェリー,133.95502,34.49162,OpenStreetMap / ferry inventory
+06-uno-teshima-tonosho-豊島 家浦港,豊島 家浦港,water,小豆島豊島フェリー,134.06098,34.49008,OpenStreetMap / ferry inventory
+06-uno-teshima-tonosho-豊島 唐櫃港,豊島 唐櫃港,water,小豆島豊島フェリー,134.09567,34.49026,OpenStreetMap / ferry inventory
+06-uno-teshima-tonosho-小豆島 土庄港,小豆島 土庄港,water,小豆島豊島フェリー,134.17365,34.48984,OpenStreetMap / ferry inventory
+06-shinokayama-tonosho-新岡山港,新岡山港,water,国際両備フェリー・四国フェリー（共同運航）,133.98596,34.60476,OpenStreetMap / ferry inventory
+06-ushimado-maejima-前島 新御堂港,前島 新御堂港,water,瀬戸内市緑の村公社,134.16538,34.60705,OpenStreetMap / ferry inventory
+06-kasaoka-shiraishi-kitagi-kanaburomaru-笠岡 伏越港,笠岡 伏越港,water,瀬戸内中央観光汽船（金風呂丸）,133.50952,34.49931,OpenStreetMap / ferry inventory
+06-kasaoka-shiraishi-kitagi-kanaburomaru-白石島港,白石島港,water,瀬戸内中央観光汽船（金風呂丸）,133.5175,34.4106,OpenStreetMap / ferry inventory
+06-kasaoka-shiraishi-kitagi-kanaburomaru-北木島 豊浦港,北木島 豊浦港,water,瀬戸内中央観光汽船（金風呂丸）,133.53689,34.39558,OpenStreetMap / ferry inventory
+06-kasaoka-shiraishi-kitagi-kanaburomaru-北木島 金風呂港,北木島 金風呂港,water,瀬戸内中央観光汽船（金風呂丸）,133.52757,34.3888,OpenStreetMap / ferry inventory
+06-kojima-honjima-児島観光港,児島観光港,water,六口丸海運（むくじ丸海運）,133.80992,34.46027,OpenStreetMap / ferry inventory
+06-kojima-honjima-本島 泊港,本島 泊港,water,六口丸海運（むくじ丸海運）,133.78383,34.3824,OpenStreetMap / ferry inventory
+06-uno-honmura-直島 本村港,直島 本村港,water,四国汽船,133.9979,34.46194,OpenStreetMap / ferry inventory
+06-hoden-inujima-宝伝港,宝伝港,water,あけぼのマリタイム（あけぼの丸）,134.10102,34.5872,OpenStreetMap / ferry inventory
+06-hoden-inujima-犬島港,犬島港,water,あけぼのマリタイム（あけぼの丸）,134.10485,34.56672,OpenStreetMap / ferry inventory
+06-hinase-otabu-kashirajima-日生駅前港,日生駅前港,water,大生汽船,134.27725,34.73426,OpenStreetMap / ferry inventory
+06-hinase-otabu-kashirajima-鴻島港,鴻島港,water,大生汽船,134.26436,34.70328,OpenStreetMap / ferry inventory
+06-kasaoka-hishima-mushima-笠岡 住吉港（笠岡諸島旅客船ターミナル）,笠岡 住吉港（笠岡諸島旅客船ターミナル）,water,三洋汽船,133.50306,34.50351,OpenStreetMap / ferry inventory
+06-kasaoka-hishima-mushima-大飛島 洲港,大飛島 洲港,water,三洋汽船,133.5083,34.34319,OpenStreetMap / ferry inventory
+06-kasaoka-hishima-mushima-小飛島港,小飛島港,water,三洋汽船,133.51902,34.34612,OpenStreetMap / ferry inventory
+06-kasaoka-hishima-mushima-六島 湛江港,六島 湛江港,water,三洋汽船,133.53697,34.30852,OpenStreetMap / ferry inventory
+06-kasaoka-hishima-mushima-六島 前浦港,六島 前浦港,water,三洋汽船,133.54116,34.30775,OpenStreetMap / ferry inventory
+06-kasaoka-manabejima-sanagi-神島外浦港,神島外浦港,water,三洋汽船,133.5032,34.43119,OpenStreetMap / ferry inventory
+06-kasaoka-manabejima-sanagi-高島港,高島港,water,三洋汽船,133.50988,34.45153,OpenStreetMap / ferry inventory
+06-kasaoka-manabejima-sanagi-北木島 楠港,北木島 楠港,water,三洋汽船,133.5519,34.39157,OpenStreetMap / ferry inventory
+06-kasaoka-manabejima-sanagi-北木島 大浦港,北木島 大浦港,water,三洋汽船,133.54542,34.37756,OpenStreetMap / ferry inventory
+06-kasaoka-manabejima-sanagi-真鍋島 岩坪港,真鍋島 岩坪港,water,三洋汽船,133.57854,34.35533,OpenStreetMap / ferry inventory
+06-kasaoka-manabejima-sanagi-真鍋島 本浦港,真鍋島 本浦港,water,三洋汽船,133.58264,34.36209,OpenStreetMap / ferry inventory
+06-kasaoka-manabejima-sanagi-佐柳島 本浦港,佐柳島 本浦港,water,三洋汽船,133.62973,34.3354,OpenStreetMap / ferry inventory
+06-kurashiki-kawabune-倉敷館前 乗船場（倉敷美観地区）,倉敷館前 乗船場（倉敷美観地区）,water,倉敷館観光案内所（倉敷市）,133.77116,34.59547,OpenStreetMap / ferry inventory
+06-kojima-setoohashi-cruise-児島観光港,児島観光港,water,六口丸海運（むくじ丸海運）,133.80992,34.46027,OpenStreetMap / ferry inventory
+07-kuhi-mikado-久比港（大崎下島）,久比港（大崎下島）,water,斎島汽船,132.83165,34.18794,OpenStreetMap / ferry inventory
+07-imabari-munakata-kinoe-宗方港（大三島）,宗方港（大三島）,water,大三島ブルーライン,132.94287,34.20311,OpenStreetMap / ferry inventory
+07-imabari-munakata-kinoe-木江港（天満）,木江港（天満）,water,大三島ブルーライン,132.91743,34.23321,OpenStreetMap / ferry inventory
+07-kure-koyo-呉港（中央桟橋）,呉港（中央桟橋）,water,瀬戸内シーライン（瀬戸内海汽船グループ）,132.55521,34.24039,OpenStreetMap / ferry inventory
+07-kure-koyo-小用港（江田島）,小用港（江田島）,water,瀬戸内シーライン（瀬戸内海汽船グループ）,132.49301,34.2477,OpenStreetMap / ferry inventory
+07-habu-tateishi-ikina-土生港（長崎桟橋）,土生港（長崎桟橋）,water,上島町（生名フェリー）,133.18008,34.28119,OpenStreetMap / ferry inventory
+07-habu-tateishi-ikina-立石港（生名島）,立石港（生名島）,water,上島町（生名フェリー）,133.17807,34.27833,OpenStreetMap / ferry inventory
+07-tenno-kirikushi-天応（呉ポートピア）,天応（呉ポートピア）,water,さくら海運,132.50959,34.29131,OpenStreetMap / ferry inventory
+07-tenno-kirikushi-切串港（吹越）,切串港（吹越）,water,さくら海運,132.48301,34.28837,OpenStreetMap / ferry inventory
+07-akitsu-onishi-大西港（大崎上島）,大西港（大崎上島）,water,安芸津フェリー,132.87744,34.24886,OpenStreetMap / ferry inventory
+07-miyajima-jr-宮島,宮島,water,JR西日本宮島フェリー,132.32115,34.3022,OpenStreetMap / ferry inventory
+07-karoto-kamiyuge-家老渡港（因島）,家老渡港（因島）,water,家老渡フェリー汽船,133.1988,34.27927,OpenStreetMap / ferry inventory
+07-karoto-kamiyuge-上弓削港（弓削島）,上弓削港（弓削島）,water,家老渡フェリー汽船,133.20975,34.27726,OpenStreetMap / ferry inventory
+07-ogata-atatajima-小方港,小方港,water,阿多田島汽船,132.22172,34.23663,OpenStreetMap / ferry inventory
+07-ogata-atatajima-阿多田島港,阿多田島港,water,阿多田島汽船,132.31445,34.19431,OpenStreetMap / ferry inventory
+07-onomichi-tsuneishi-bingo-歌港（向島）,歌港（向島）,water,備後商船,133.23963,34.39849,OpenStreetMap / ferry inventory
+07-onomichi-tsuneishi-bingo-福田港（百島）,福田港（百島）,water,備後商船,133.27291,34.38025,OpenStreetMap / ferry inventory
+07-hiroshima-kure-matsuyama-ferry-松山観光港,松山観光港,water,石崎汽船・瀬戸内海汽船（共同運航）,132.70499,33.88941,OpenStreetMap / ferry inventory
+07-ujina-mitaka-ferry-三高港（江田島）,三高港（江田島）,water,瀬戸内シーライン（瀬戸内海汽船グループ）,132.40766,34.25995,OpenStreetMap / ferry inventory
+07-ujina-ninoshima-似島（学園桟橋）,似島（学園桟橋）,water,似島汽船,132.44647,34.31377,OpenStreetMap / ferry inventory
+07-ujina-ninoshima-似島港,似島港,water,似島汽船,132.43227,34.31324,OpenStreetMap / ferry inventory
+07-ujina-kirikushi-kamimura-切串港（西沖桟橋）,切串港（西沖桟橋）,water,上村汽船,132.47512,34.28487,OpenStreetMap / ferry inventory
+07-tadanoumi-okunoshima-sakari-大久野島（第二桟橋）,大久野島（第二桟橋）,water,大三島フェリー,132.99916,34.30853,OpenStreetMap / ferry inventory
+07-tadanoumi-okunoshima-sakari-盛港（大三島）,盛港（大三島）,water,大三島フェリー,133.02812,34.29404,OpenStreetMap / ferry inventory
+07-akashi-konaga-明石港（大崎上島）,明石港（大崎上島）,water,しまなみ海運,132.8759,34.20627,OpenStreetMap / ferry inventory
+07-akashi-konaga-小長港（大崎下島）,小長港（大崎下島）,water,しまなみ海運,132.85335,34.18839,OpenStreetMap / ferry inventory
+07-sunoe-okogi-洲江港（生口島）,洲江港（生口島）,water,三光汽船,133.144,34.28503,OpenStreetMap / ferry inventory
+07-sunoe-okogi-小漕港（岩城島）,小漕港（岩城島）,water,三光汽船,133.14492,34.2789,OpenStreetMap / ferry inventory
+07-shiromizu-ikunoshima-keijima-白水港（大崎上島）,白水港（大崎上島）,water,大崎上島町,132.91335,34.26979,OpenStreetMap / ferry inventory
+07-shiromizu-ikunoshima-keijima-生野島（福浦港）,生野島（福浦港）,water,大崎上島町,132.91318,34.28445,OpenStreetMap / ferry inventory
+07-shiromizu-ikunoshima-keijima-契島,契島,water,大崎上島町,132.90369,34.29823,OpenStreetMap / ferry inventory
+07-takehara-tarumi-竹原港,竹原港,water,山陽商船（大崎汽船と共同運航）,132.917,34.33183,OpenStreetMap / ferry inventory
+07-takehara-tarumi-垂水港（大崎上島）,垂水港（大崎上島）,water,山陽商船（大崎汽船と共同運航）,132.92423,34.2799,OpenStreetMap / ferry inventory
+07-nishihama-hosojima-西浜（重井西港）,西浜（重井西港）,water,尾道市（市営渡船）,133.13941,34.34102,OpenStreetMap / ferry inventory
+07-kanayama-akasaki-金山港（因島）,金山港（因島）,water,三光汽船,133.15546,34.29925,OpenStreetMap / ferry inventory
+07-kanayama-akasaki-赤崎港（生口島）,赤崎港（生口島）,water,三光汽船,133.14924,34.29893,OpenStreetMap / ferry inventory
+07-sunami-mukaeda-sawa-向田港（佐木島）,向田港（佐木島）,water,弓場汽船,133.09944,34.32946,OpenStreetMap / ferry inventory
+07-sunami-mukaeda-sawa-沢港（生口島）,沢港（生口島）,water,弓場汽船,133.09014,34.31359,OpenStreetMap / ferry inventory
+07-hiroshima-heritage-route-平和記念公園（元安桟橋）,平和記念公園（元安桟橋）,water,アクアネット広島,132.45418,34.39379,OpenStreetMap / ferry inventory
+07-hiroshima-heritage-route-宮島（桟橋）,宮島（桟橋）,water,アクアネット広島,132.32245,34.3037,OpenStreetMap / ferry inventory
+07-mihara-setoda-maruto-三原港,三原港,water,マルト汽船,133.08165,34.39748,OpenStreetMap / ferry inventory
+07-mihara-setoda-maruto-小佐木島,小佐木島,water,マルト汽船,133.1069,34.36266,OpenStreetMap / ferry inventory
+07-kuhi-saijima-豊島（豊浜・丸山浮桟橋）,豊島（豊浜・丸山浮桟橋）,water,斎島汽船,132.7978,34.17897,OpenStreetMap / ferry inventory
+07-imabari-habu-geiyo-友浦港（大島）,友浦港（大島）,water,芸予汽船,133.08268,34.1523,OpenStreetMap / ferry inventory
+07-imabari-habu-geiyo-木浦港（伯方島）,木浦港（伯方島）,water,芸予汽船,133.11873,34.20526,OpenStreetMap / ferry inventory
+07-habu-uoshima-豊島港（上島町）,豊島港（上島町）,water,上島町,133.2569,34.23208,OpenStreetMap / ferry inventory
+07-habu-mihara-highspeed-重井港（因島）,重井港（因島）,water,土生商船,133.13941,34.34102,OpenStreetMap / ferry inventory
+07-habu-mihara-highspeed-鷺港（佐木島）,鷺港（佐木島）,water,土生商船,133.11829,34.35764,OpenStreetMap / ferry inventory
+07-miyajima-kure-blueline-宮島港,宮島港,water,瀬戸内海汽船,132.32256,34.30364,OpenStreetMap / ferry inventory
+07-miyajima-aquanet-miyajimaguchi-宮島口旅客ターミナル,宮島口旅客ターミナル,water,アクアネット広島,132.30523,34.3111,OpenStreetMap / ferry inventory
+07-onomichi-setoda-scruise-尾道新浜桟橋,尾道新浜桟橋,water,瀬戸内クルージング,133.17745,34.3988,OpenStreetMap / ferry inventory
+07-onomichi-setoda-scruise-重井東港（因島）,重井東港（因島）,water,瀬戸内クルージング,133.1492,34.35205,OpenStreetMap / ferry inventory
+07-onomichi-setoda-scruise-須ノ上港（佐木島）,須ノ上港（佐木島）,water,瀬戸内クルージング,133.127,34.33677,OpenStreetMap / ferry inventory
+07-onomichi-tomonoura-鞆港（県営桟橋）,鞆港（県営桟橋）,water,瀬戸内クルージング,133.38178,34.38136,OpenStreetMap / ferry inventory
+07-ujina-kirikushi-koyo-sealine-プリンスホテル前,プリンスホテル前,water,瀬戸内シーライン（瀬戸内海汽船グループ）,132.46533,34.34287,OpenStreetMap / ferry inventory
+07-ujina-kirikushi-koyo-sealine-切串港（江田島）,切串港（江田島）,water,瀬戸内シーライン（瀬戸内海汽船グループ）,132.47512,34.28487,OpenStreetMap / ferry inventory
+07-ujina-takata-nakamachi-高田港（江田島）,高田港（江田島）,water,瀬戸内シーライン（瀬戸内海汽船グループ）,132.43516,34.23727,OpenStreetMap / ferry inventory
+07-ujina-takata-nakamachi-中町港（江田島）,中町港（江田島）,water,瀬戸内シーライン（瀬戸内海汽船グループ）,132.44475,34.22454,OpenStreetMap / ferry inventory
+07-ujina-kanawajima-広島市営さん橋（宇品）,広島市営さん橋（宇品）,water,金輪島会,132.46375,34.35291,OpenStreetMap / ferry inventory
+07-ujina-kanawajima-金輪島,金輪島,water,金輪島会,132.4841,34.34174,OpenStreetMap / ferry inventory
+07-aga-nasakejima-阿賀,阿賀,water,一真海運,132.59586,34.23027,OpenStreetMap / ferry inventory
+07-tomo-sensuijima-鞆（市営渡船乗り場）,鞆（市営渡船乗り場）,water,福山市,133.38382,34.38275,OpenStreetMap / ferry inventory
+07-tomo-sensuijima-仙酔島桟橋,仙酔島桟橋,water,福山市,133.3899,34.38502,OpenStreetMap / ferry inventory
+07-tomo-hashirijima-走島港,走島港,water,走島汽船（トモテツグループ）,133.43351,34.34876,OpenStreetMap / ferry inventory
+07-seaspica-setouchi-shimatabi-御手洗（大崎下島）,御手洗（大崎下島）,water,瀬戸内シーライン（瀬戸内海汽船グループ）,132.86689,34.18062,OpenStreetMap / ferry inventory
+07-hiroshima-river-cruise-元安橋桟橋,元安橋桟橋,water,リバーシークルーズ,132.45418,34.39379,OpenStreetMap / ferry inventory
+07-kure-bay-warship-cruise-呉中央桟橋,呉中央桟橋,water,バンカー・サプライ,132.5554,34.24007,OpenStreetMap / ferry inventory
+07-miyajima-otorii-night-cruise-宮島（3号桟橋）,宮島（3号桟橋）,water,アクアネット広島,132.32245,34.3037,OpenStreetMap / ferry inventory
+07-taishakukyo-shinryuko-boat-帝釈峡遊覧船乗り場（神龍湖）,帝釈峡遊覧船乗り場（神龍湖）,water,帝釈峡遊覧船,133.2254,34.84351,OpenStreetMap / ferry inventory
+07-onomichi-tsuchido-kaneyoshi-土堂桟橋,土堂桟橋,water,おのみち渡し船,133.20078,34.40665,OpenStreetMap / ferry inventory
+07-onomichi-tsuchido-kaneyoshi-向島（兼吉桟橋）,向島（兼吉桟橋）,water,おのみち渡し船,133.20267,34.40517,OpenStreetMap / ferry inventory
+07-onomichi-ekimae-tomihama-尾道駅前桟橋（渡船）,尾道駅前桟橋（渡船）,water,おのみち渡し船,133.19375,34.40344,OpenStreetMap / ferry inventory
+07-onomichi-ekimae-tomihama-向島（富浜桟橋）,向島（富浜桟橋）,water,おのみち渡し船,133.19723,34.40022,OpenStreetMap / ferry inventory
+07-uta-tosaki-戸崎港（浦崎）,戸崎港（浦崎）,water,おのみち渡し船,133.24335,34.39861,OpenStreetMap / ferry inventory
+01-kampu-shimonoseki-busan-下関（下関港国際ターミナル）,下関（下関港国際ターミナル）,water,関釜フェリー（釜関フェリーと共同運航）,130.92544,33.94773,OpenStreetMap / ferry inventory
+08-ozushima-瀬戸浜港,瀬戸浜港,water,大津島巡航,131.71376,34.02891,OpenStreetMap / ferry inventory
+08-ozushima-刈尾港,刈尾港,water,大津島巡航,131.71073,34.01657,OpenStreetMap / ferry inventory
+08-ozushima-馬島港,馬島港,water,大津島巡航,131.72098,33.99039,OpenStreetMap / ferry inventory
+08-ozushima-本浦港,本浦港,water,大津島巡航,131.70329,34.0076,OpenStreetMap / ferry inventory
+08-suonada-tokuyama-taketsu-竹田津港,竹田津港,water,スオーナダフェリー,131.56544,33.67874,OpenStreetMap / ferry inventory
+08-suooshima-matsuyama-ferry-三津浜港,三津浜港,water,周防大島松山フェリー,132.70949,33.86575,OpenStreetMap / ferry inventory
+08-heigun-平郡西港,平郡西港,water,平郡航路,132.19944,33.80183,OpenStreetMap / ferry inventory
+08-heigun-平郡東港,平郡東港,water,平郡航路,132.26317,33.77901,OpenStreetMap / ferry inventory
+08-noshima-三田尻港,三田尻港,water,野島海運,131.58428,34.03692,OpenStreetMap / ferry inventory
+08-noshima-野島港,野島港,water,野島海運,131.6944,33.94317,OpenStreetMap / ferry inventory
+08-yashima-上関港,上関港,water,上関町,132.11708,33.83589,OpenStreetMap / ferry inventory
+08-yashima-室津港,室津港,water,上関町,132.11142,33.83156,OpenStreetMap / ferry inventory
+08-yashima-八島港,八島港,water,上関町,132.14279,33.72941,OpenStreetMap / ferry inventory
+08-ganryujima-karato-下関（唐戸桟橋）,下関（唐戸桟橋）,water,関門汽船,130.94291,33.95537,OpenStreetMap / ferry inventory
+08-ganryujima-karato-巌流島（船島）,巌流島（船島）,water,関門汽船,130.92846,33.93583,OpenStreetMap / ferry inventory
+08-maejima-久賀港,久賀港,water,周防大島町（町営渡船）,132.26609,33.94878,OpenStreetMap / ferry inventory
+08-maejima-前島,前島,water,周防大島町（町営渡船）,132.26549,33.99874,OpenStreetMap / ferry inventory
+08-futaoijima-吉見港,吉見港,water,下関市（港湾局渡船事務所）,130.90081,34.06868,OpenStreetMap / ferry inventory
+08-futaoijima-蓋井島,蓋井島,water,下関市（港湾局渡船事務所）,130.7883,34.09977,OpenStreetMap / ferry inventory
+08-ushima-室積港,室積港,water,牛島海運,131.97406,33.9275,OpenStreetMap / ferry inventory
+08-ushima-牛島港,牛島港,water,牛島海運,132.0069,33.85939,OpenStreetMap / ferry inventory
+08-kasasajima-小松港,小松港,water,周防大島町（行政連絡船）,132.18759,33.94279,OpenStreetMap / ferry inventory
+08-kasasajima-笠佐島,笠佐島,water,周防大島町（行政連絡船）,132.16739,33.94619,OpenStreetMap / ferry inventory
+08-hashirajima-岩国港（新港桟橋）,岩国港（新港桟橋）,water,岩国柱島海運,132.23108,34.18946,OpenStreetMap / ferry inventory
+08-hashirajima-黒島,黒島,water,岩国柱島海運,132.42196,34.02151,OpenStreetMap / ferry inventory
+08-hashirajima-端島,端島,water,岩国柱島海運,132.38741,34.03686,OpenStreetMap / ferry inventory
+08-hashirajima-柱島,柱島,water,岩国柱島海運,132.33466,33.99734,OpenStreetMap / ferry inventory
+08-ukashima-日前港,日前港,water,周防大島町（町営渡船）,132.30569,33.91801,OpenStreetMap / ferry inventory
+08-ukashima-江ノ浦,江ノ浦,water,周防大島町（町営渡船）,132.34697,33.94644,OpenStreetMap / ferry inventory
+08-ukashima-楽ノ江,楽ノ江,water,周防大島町（町営渡船）,132.3388,33.95339,OpenStreetMap / ferry inventory
+08-ukashima-樽見,樽見,water,周防大島町（町営渡船）,132.3499,33.96104,OpenStreetMap / ferry inventory
+08-iwaishima-蒲井港,蒲井港,water,上関航運,132.07591,33.81408,OpenStreetMap / ferry inventory
+08-iwaishima-四代港,四代港,water,上関航運,132.05568,33.79225,OpenStreetMap / ferry inventory
+08-iwaishima-祝島港,祝島港,water,上関航運,131.98846,33.78751,OpenStreetMap / ferry inventory
+08-mutsurejima-竹崎桟橋,竹崎桟橋,water,下関市（港湾局渡船事務所）,130.91957,33.952,OpenStreetMap / ferry inventory
+08-mutsurejima-六連島,六連島,water,下関市（港湾局渡船事務所）,130.86748,33.97552,OpenStreetMap / ferry inventory
+08-hagi-mishima-見島（本村港）,見島（本村港）,water,萩海運,131.15258,34.76234,OpenStreetMap / ferry inventory
+08-hagi-mishima-見島（宇津港）,見島（宇津港）,water,萩海運,131.14629,34.78385,OpenStreetMap / ferry inventory
+08-ganryujima-mojiko-門司港（マリンゲートもじ）,門司港（マリンゲートもじ）,water,関門汽船,130.96038,33.94633,OpenStreetMap / ferry inventory
+08-umashima-sagoujima-麻里府（尾津）渡船場,麻里府（尾津）渡船場,water,熊南総合事務組合,132.04521,33.91235,OpenStreetMap / ferry inventory
+08-umashima-sagoujima-馬島渡船場,馬島渡船場,water,熊南総合事務組合,132.05066,33.89646,OpenStreetMap / ferry inventory
+08-umashima-sagoujima-佐合島,佐合島,water,熊南総合事務組合,132.06672,33.87514,OpenStreetMap / ferry inventory
+08-umashima-sagoujima-佐賀渡船場（平生町）,佐賀渡船場（平生町）,water,熊南総合事務組合,132.07967,33.89251,OpenStreetMap / ferry inventory
+08-omijima-kankou-仙崎（青海島観光汽船乗り場）,仙崎（青海島観光汽船乗り場）,water,青海島観光汽船,131.20312,34.38879,OpenStreetMap / ferry inventory
+08-hagi-hakkei-yuransen-指月橋乗り場（萩城跡入口）,指月橋乗り場（萩城跡入口）,water,萩八景遊覧船,131.38422,34.41518,OpenStreetMap / ferry inventory
+08-hagi-tsurue-watashi-鶴江の渡し（鶴江側）,鶴江の渡し（鶴江側）,water,萩市（市道浜崎鶴江線）,131.40254,34.42233,OpenStreetMap / ferry inventory
+06-muki-tebajima-出羽島港,出羽島港,water,出羽島連絡事業,134.42438,33.6364,OpenStreetMap / ferry inventory
+06-kotajima-ishima-伊島港,伊島港,water,伊島連絡交通事業,134.80551,33.84424,OpenStreetMap / ferry inventory
+06-naruto-uzushio-kisen-亀浦漁港（うずしお汽船のりば）,亀浦漁港（うずしお汽船のりば）,water,うずしお汽船,134.63766,34.23432,OpenStreetMap / ferry inventory
+06-naruto-uzushio-kanchosen-亀浦観光港,亀浦観光港,water,鳴門観光汽船,134.62325,34.23085,OpenStreetMap / ferry inventory
+06-tokushima-hyoutanjima-cruise-新町川水際公園 乗り場,新町川水際公園 乗り場,water,新町川を守る会（NPO法人）,134.55056,34.0693,OpenStreetMap / ferry inventory
+06-oboke-yuransen-大歩危峡まんなか 乗船場,大歩危峡まんなか 乗船場,water,大歩危峡観光遊船,133.7607,33.88582,OpenStreetMap / ferry inventory
+06-naruto-okazaki-tosadomari-岡崎渡船場,岡崎渡船場,water,鳴門市,134.61718,34.18527,OpenStreetMap / ferry inventory
+06-naruto-okazaki-tosadomari-土佐泊渡船場,土佐泊渡船場,water,鳴門市,134.62076,34.18823,OpenStreetMap / ferry inventory
+06-naruto-shimada-doura-島田渡船場,島田渡船場,water,鳴門市,134.59318,34.22561,OpenStreetMap / ferry inventory
+06-naruto-shimada-doura-堂浦渡船場,堂浦渡船場,water,鳴門市,134.59037,34.22416,OpenStreetMap / ferry inventory
+99-nagahara-tosen-長原渡船 今切川西岸の乗り場,長原渡船 今切川西岸の乗り場,water,松茂町（建設課）,134.59511,34.1131,OpenStreetMap / ferry inventory
+99-nagahara-tosen-長原渡船 今切川東岸の乗り場,長原渡船 今切川東岸の乗り場,water,松茂町（建設課）,134.59848,34.11345,OpenStreetMap / ferry inventory
+06-naruto-kurosaki-takashima-黒崎渡船場,黒崎渡船場,water,鳴門市,134.5971,34.19477,OpenStreetMap / ferry inventory
+06-naruto-kurosaki-takashima-高島渡船場,高島渡船場,water,鳴門市,134.59792,34.19854,OpenStreetMap / ferry inventory
+06-marugame-hiroshima-teshima-丸亀港,丸亀港,water,備讃フェリー,133.79015,34.29535,OpenStreetMap / ferry inventory
+06-marugame-hiroshima-teshima-広島 江の浦港,広島 江の浦港,water,備讃フェリー,133.7182,34.36117,OpenStreetMap / ferry inventory
+06-marugame-hiroshima-teshima-広島 青木港,広島 青木港,water,備讃フェリー,133.68727,34.36772,OpenStreetMap / ferry inventory
+06-marugame-hiroshima-teshima-小手島港,小手島港,water,備讃フェリー,133.65279,34.37645,OpenStreetMap / ferry inventory
+06-marugame-hiroshima-teshima-手島港,手島港,water,備讃フェリー,133.67158,34.39883,OpenStreetMap / ferry inventory
+06-marugame-ushijima-honjima-牛島 里浦港,牛島 里浦港,water,本島汽船,133.78179,34.36411,OpenStreetMap / ferry inventory
+06-tadotsu-takami-sanagi-多度津港,多度津港,water,たどつ汽船,133.74466,34.2731,OpenStreetMap / ferry inventory
+06-tadotsu-takami-sanagi-高見島港,高見島港,water,たどつ汽船,133.68142,34.30834,OpenStreetMap / ferry inventory
+06-tadotsu-takami-sanagi-佐柳島 長崎港,佐柳島 長崎港,water,たどつ汽船,133.62293,34.35036,OpenStreetMap / ferry inventory
+06-suda-awashima-須田港,須田港,water,粟島汽船,133.65263,34.23436,OpenStreetMap / ferry inventory
+06-suda-awashima-粟島港,粟島港,water,粟島汽船,133.63415,34.26889,OpenStreetMap / ferry inventory
+06-takamatsu-megijima-ogijima-高松港,高松港,water,雌雄島海運,134.04965,34.35285,OpenStreetMap / ferry inventory
+06-takamatsu-megijima-ogijima-女木島 女木港,女木島 女木港,water,雌雄島海運,134.05228,34.38911,OpenStreetMap / ferry inventory
+06-takamatsu-megijima-ogijima-男木島 男木港,男木島 男木港,water,雌雄島海運,134.05391,34.42187,OpenStreetMap / ferry inventory
+06-takamatsu-ikeda-高松港,高松港,water,国際両備フェリー,134.0483,34.35436,OpenStreetMap / ferry inventory
+06-takamatsu-ikeda-小豆島 池田港,小豆島 池田港,water,国際両備フェリー,134.22588,34.47929,OpenStreetMap / ferry inventory
+06-nio-tsutajima-蔦島,蔦島,water,三豊市,133.63039,34.20003,OpenStreetMap / ferry inventory
+06-awashima-shishijima-miyanoshita-粟島 上新田港,粟島 上新田港,water,粟島汽船,133.65341,34.27653,OpenStreetMap / ferry inventory
+06-awashima-shishijima-miyanoshita-志々島港,志々島港,water,粟島汽船,133.68166,34.26891,OpenStreetMap / ferry inventory
+06-awashima-shishijima-miyanoshita-宮の下港,宮の下港,water,粟島汽船,133.67402,34.2224,OpenStreetMap / ferry inventory
+06-kanonji-ibukijima-伊吹島 真浦港,伊吹島 真浦港,water,真鍋海運,133.53372,34.12545,OpenStreetMap / ferry inventory
+06-takamatsu-oshima-大島港,大島港,water,国立療養所大島青松園,134.10525,34.40777,OpenStreetMap / ferry inventory
+06-takamatsu-honmura-ieura-高松港,高松港,water,豊島フェリー,134.05608,34.34846,OpenStreetMap / ferry inventory
+06-shodoshima-eigamura-watashibune-オリーブ・ナビ桟橋（オリーブ・ビーチ）,オリーブ・ナビ桟橋（オリーブ・ビーチ）,water,二十四の瞳映画村,134.27631,34.46855,OpenStreetMap / ferry inventory
+06-shodoshima-eigamura-watashibune-二十四の瞳映画村桟橋,二十四の瞳映画村桟橋,water,二十四の瞳映画村,134.28496,34.44618,OpenStreetMap / ferry inventory
+09-misaki-saganoseki-三崎,三崎,water,国道九四フェリー,132.11757,33.39039,OpenStreetMap / ferry inventory
+09-misaki-saganoseki-佐賀関,佐賀関,water,国道九四フェリー,131.86526,33.24995,OpenStreetMap / ferry inventory
+09-sekizen-ferry-今治（小型フェリー桟橋）,今治（小型フェリー桟橋）,water,今治市（せきぜん渡船）,133.00505,34.07049,OpenStreetMap / ferry inventory
+09-sekizen-ferry-大下島,大下島,water,今治市（せきぜん渡船）,132.92219,34.1888,OpenStreetMap / ferry inventory
+09-sekizen-ferry-小大下島,小大下島,water,今治市（せきぜん渡船）,132.89958,34.19038,OpenStreetMap / ferry inventory
+09-sekizen-ferry-岡村（岡村島）,岡村（岡村島）,water,今治市（せきぜん渡船）,132.88391,34.18448,OpenStreetMap / ferry inventory
+09-munakata-okamura-宗方（大三島）,宗方（大三島）,water,大三島ブルーライン,132.94287,34.20311,OpenStreetMap / ferry inventory
+09-miyakubo-ushima-oura-宮窪（大島）,宮窪（大島）,water,シーセブン,133.07754,34.17565,OpenStreetMap / ferry inventory
+09-miyakubo-ushima-oura-鵜島,鵜島,water,シーセブン,133.08794,34.18314,OpenStreetMap / ferry inventory
+09-miyakubo-ushima-oura-尾浦（伯方島）,尾浦（伯方島）,water,シーセブン,133.10357,34.19918,OpenStreetMap / ferry inventory
+09-nakajima-east-睦月,睦月,water,中島汽船,132.6659,33.95607,OpenStreetMap / ferry inventory
+09-nakajima-east-野忽那,野忽那,water,中島汽船,132.68801,33.97535,OpenStreetMap / ferry inventory
+09-nakajima-east-大浦（中島）,大浦（中島）,water,中島汽船,132.63056,33.97274,OpenStreetMap / ferry inventory
+09-nakajima-west-釣島,釣島,water,中島汽船,132.64001,33.89431,OpenStreetMap / ferry inventory
+09-nakajima-west-神浦（中島）,神浦（中島）,water,中島汽船,132.60435,33.94969,OpenStreetMap / ferry inventory
+09-nakajima-west-二神島,二神島,water,中島汽船,132.53695,33.93375,OpenStreetMap / ferry inventory
+09-nakajima-west-津和地島,津和地島,water,中島汽船,132.51643,33.98307,OpenStreetMap / ferry inventory
+09-nakajima-west-元怒和（怒和島）,元怒和（怒和島）,water,中島汽船,132.54042,33.97492,OpenStreetMap / ferry inventory
+09-nakajima-west-上怒和（怒和島）,上怒和（怒和島）,water,中島汽船,132.55784,33.98676,OpenStreetMap / ferry inventory
+09-nakajima-west-西中（中島）,西中（中島）,water,中島汽船,132.60465,33.98456,OpenStreetMap / ferry inventory
+09-takahama-tomari-泊（興居島）,泊（興居島）,water,ごごしま,132.6813,33.88233,OpenStreetMap / ferry inventory
+09-takahama-yura-由良（興居島）,由良（興居島）,water,ごごしま,132.68179,33.90244,OpenStreetMap / ferry inventory
+09-niihama-kuroshima-oshima-黒島,黒島,water,新居浜市,133.34691,33.98387,OpenStreetMap / ferry inventory
+09-niihama-kuroshima-oshima-大島（新居浜市）,大島（新居浜市）,water,新居浜市,133.36509,33.99371,OpenStreetMap / ferry inventory
+09-yawatahama-oshima-八幡浜（大島行きのりば）,八幡浜（大島行きのりば）,water,田中輸送,132.41812,33.45952,OpenStreetMap / ferry inventory
+09-yawatahama-oshima-大島（八幡浜市）,大島（八幡浜市）,water,田中輸送,132.3414,33.38581,OpenStreetMap / ferry inventory
+09-hojo-aijima-北条,北条,water,新喜峰,132.77166,33.97536,OpenStreetMap / ferry inventory
+09-hojo-aijima-安居島,安居島,water,新喜峰,132.7053,34.06819,OpenStreetMap / ferry inventory
+09-uwajima-shirasagi-宇和島（新内港）,宇和島（新内港）,water,盛運汽船,132.55739,33.22144,OpenStreetMap / ferry inventory
+09-uwajima-shirasagi-嘉島,嘉島,water,盛運汽船,132.36402,33.22872,OpenStreetMap / ferry inventory
+09-uwajima-shirasagi-小内浦,小内浦,water,盛運汽船,132.36845,33.20395,OpenStreetMap / ferry inventory
+09-uwajima-shirasagi-戸島,戸島,water,盛運汽船,132.35987,33.19778,OpenStreetMap / ferry inventory
+09-uwajima-shirasagi-喜路（日振島）,喜路（日振島）,water,盛運汽船,132.30669,33.1518,OpenStreetMap / ferry inventory
+09-uwajima-shirasagi-明海（日振島）,明海（日振島）,water,盛運汽船,132.29249,33.17115,OpenStreetMap / ferry inventory
+09-uwajima-shirasagi-能登（日振島）,能登（日振島）,water,盛運汽船,132.26882,33.1744,OpenStreetMap / ferry inventory
+09-uwajima-komobuchi-tojima-kashima-蒋淵,蒋淵,water,盛運汽船,132.40661,33.19678,OpenStreetMap / ferry inventory
+09-uwajima-komobuchi-tojima-kashima-大島（蒋淵）,大島（蒋淵）,water,盛運汽船,132.40316,33.18632,OpenStreetMap / ferry inventory
+09-uwajima-komobuchi-tojima-kashima-矢ヶ浜,矢ヶ浜,water,盛運汽船,132.39345,33.20163,OpenStreetMap / ferry inventory
+09-sachi-tsushima-幸（大島）,幸（大島）,water,今治市（さざなみ渡船）,133.0398,34.15021,OpenStreetMap / ferry inventory
+09-sachi-tsushima-津島,津島,water,今治市（さざなみ渡船）,133.00596,34.15399,OpenStreetMap / ferry inventory
+09-hashihama-umashima-来島,来島,water,くるしま,132.97024,34.11696,OpenStreetMap / ferry inventory
+09-hashihama-umashima-小島,小島,water,くるしま,132.97653,34.12287,OpenStreetMap / ferry inventory
+09-hashihama-umashima-馬島,馬島,water,くるしま,132.99081,34.11657,OpenStreetMap / ferry inventory
+09-funakoshi-kashima-船越（西海観光船のりば）,船越（西海観光船のりば）,water,西海観光船（愛南町）,132.49956,32.94878,OpenStreetMap / ferry inventory
+09-funakoshi-kashima-鹿島（愛南町）,鹿島（愛南町）,water,西海観光船（愛南町）,132.45684,32.95106,OpenStreetMap / ferry inventory
+09-nagahama-aoshima-長浜,長浜,water,青島海運,132.48526,33.61567,OpenStreetMap / ferry inventory
+09-nagahama-aoshima-青島,青島,water,青島海運,132.48786,33.73644,OpenStreetMap / ferry inventory
+09-shimanami-kurushima-cruise-下田水港（道の駅よしうみいきいき館）,下田水港（道の駅よしうみいきいき館）,water,しまなみ（株式会社しまなみ）,133.0199,34.12773,OpenStreetMap / ferry inventory
+09-miyakubo-noshima-tidal-cruise-宮窪（村上海賊ミュージアム前）,宮窪（村上海賊ミュージアム前）,water,能島水軍（物産館兼魚食レストラン）,133.0875,34.17015,OpenStreetMap / ferry inventory
+09-nishiumi-glassboat-船越（西海観光船のりば）,船越（西海観光船のりば）,water,西海観光船,132.49956,32.94878,OpenStreetMap / ferry inventory
+09-kashima-ai-no-koro-鹿島（松山市）,鹿島（松山市）,water,松山市,132.76691,33.97397,OpenStreetMap / ferry inventory
+09-hojo-kashima-北条（鹿島渡船待合所）,北条（鹿島渡船待合所）,water,松山市,132.76987,33.97473,OpenStreetMap / ferry inventory
+09-hojo-kashima-鹿島（松山市）,鹿島（松山市）,water,松山市,132.76691,33.97397,OpenStreetMap / ferry inventory
+06-susaki-junkosen-今川内,今川内,water,須崎市,133.40694,33.42708,OpenStreetMap / ferry inventory
+06-sukumo-okinoshima-ugurushima-宿毛 片島港（定期船乗場）,宿毛 片島港（定期船乗場）,water,宿毛市,132.69753,32.92063,OpenStreetMap / ferry inventory
+06-sukumo-okinoshima-ugurushima-沖の島 母島港,沖の島 母島港,water,宿毛市,132.54757,32.73914,OpenStreetMap / ferry inventory
+06-sukumo-okinoshima-ugurushima-沖の島 弘瀬港,沖の島 弘瀬港,water,宿毛市,132.55027,32.71463,OpenStreetMap / ferry inventory
+06-sukumo-okinoshima-ugurushima-鵜来島港,鵜来島港,water,宿毛市,132.49491,32.80016,OpenStreetMap / ferry inventory
+06-shimanto-nattoku-屋形船なっとく 乗り場（四万十市田出ノ川）,屋形船なっとく 乗り場（四万十市田出ノ川）,water,四万十川屋形船なっとく,132.83399,33.04235,OpenStreetMap / ferry inventory
+06-shimanto-ao-四万十の碧 乗り場（四万十市三里）,四万十の碧 乗り場（四万十市三里）,water,四万十の碧,132.86576,33.01196,OpenStreetMap / ferry inventory
+06-kochi-nagahama-tanesaki-長浜渡船場,長浜渡船場,water,高知県,133.55798,33.50138,OpenStreetMap / ferry inventory
+10-nomo-taiko-博多ふ頭第2ターミナル,博多ふ頭第2ターミナル,water,野母商船,130.39764,33.60516,OpenStreetMap / ferry inventory
+10-nomo-taiko-宇久平,宇久平,water,野母商船,129.13043,33.26027,OpenStreetMap / ferry inventory
+10-nomo-taiko-小値賀（笛吹）,小値賀（笛吹）,water,野母商船,129.06252,33.1863,OpenStreetMap / ferry inventory
+10-nomo-taiko-青方,青方,water,野母商船,129.05419,32.97867,OpenStreetMap / ferry inventory
+10-nomo-taiko-奈留,奈留,water,野母商船,128.93931,32.82166,OpenStreetMap / ferry inventory
+10-kyuyu-hakata-hitakatsu-博多港（博多ふ頭）,博多港（博多ふ頭）,water,九州郵船,130.39928,33.60502,OpenStreetMap / ferry inventory
+10-kyuyu-hakata-hitakatsu-比田勝,比田勝,water,九州郵船,129.46918,34.65567,OpenStreetMap / ferry inventory
+10-kyuyu-hakata-ashibe-izuhara-芦辺,芦辺,water,九州郵船,129.75385,33.8106,OpenStreetMap / ferry inventory
+10-kyuyu-hakata-ashibe-izuhara-厳原,厳原,water,九州郵船,129.29135,34.19789,OpenStreetMap / ferry inventory
+10-kyuyu-hakata-gonoura-izuhara-郷ノ浦,郷ノ浦,water,九州郵船,129.68529,33.74233,OpenStreetMap / ferry inventory
+01-camellia-hakata-busan-博多（博多港国際ターミナル）,博多（博多港国際ターミナル）,water,カメリアライン,130.40004,33.60814,OpenStreetMap / ferry inventory
+10-ikitsushimaferry-hakata-ashibe-izuhara-博多（那の津）,博多（那の津）,water,壱岐・対馬フェリー,130.39126,33.60153,OpenStreetMap / ferry inventory
+10-meinohama-nokonoshima-姪浜（能古渡船場）,姪浜（能古渡船場）,water,福岡市（市営渡船）,130.3269,33.59757,OpenStreetMap / ferry inventory
+10-kaminato-jinoshima-神湊,神湊,water,宗像市（市営渡船）,130.48345,33.85291,OpenStreetMap / ferry inventory
+10-kaminato-jinoshima-地島（泊）,地島（泊）,water,宗像市（市営渡船）,130.50201,33.89582,OpenStreetMap / ferry inventory
+10-kaminato-oshima-大島,大島,water,宗像市（市営渡船）,130.43495,33.897,OpenStreetMap / ferry inventory
+10-uminaka-momochi-海の中道,海の中道,water,安田産業汽船,130.36596,33.66096,OpenStreetMap / ferry inventory
+10-hakata-genkaijima-博多ふ頭（博多旅客待合所）,博多ふ頭（博多旅客待合所）,water,福岡市（市営渡船）,130.3996,33.60422,OpenStreetMap / ferry inventory
+10-uminaka-hakata-博多ふ頭（ベイサイドプレイス博多）,博多ふ頭（ベイサイドプレイス博多）,water,安田産業汽船,130.39887,33.60409,OpenStreetMap / ferry inventory
+10-kokura-ainoshima-小倉（浅野桟橋）,小倉（浅野桟橋）,water,北九州市（渡船事業所）,130.88846,33.88847,OpenStreetMap / ferry inventory
+10-kishi-himeshima-岐志,岐志,water,糸島市（市営渡船）,130.12334,33.57341,OpenStreetMap / ferry inventory
+10-kishi-himeshima-姫島,姫島,water,糸島市（市営渡船）,130.05186,33.56716,OpenStreetMap / ferry inventory
+10-shingu-ainoshima-新宮漁港（相島渡船場）,新宮漁港（相島渡船場）,water,新宮町（町営渡船）,130.42383,33.71785,OpenStreetMap / ferry inventory
+10-shingu-ainoshima-相島,相島,water,新宮町（町営渡船）,130.36514,33.75694,OpenStreetMap / ferry inventory
+10-yanagawa-hakushu-伯舟観光乗船場（弥四郎町）,伯舟観光乗船場（弥四郎町）,water,伯舟観光,130.39481,33.15006,OpenStreetMap / ferry inventory
+10-yanagawa-marue-マルエ観光乗船場（城隅町）,マルエ観光乗船場（城隅町）,water,柳川遊船マルエ観光,130.39839,33.16021,OpenStreetMap / ferry inventory
+10-yanagawa-suigo-下百町乗船場,下百町乗船場,water,水郷柳川観光,130.4166,33.1668,OpenStreetMap / ferry inventory
+10-yanagawa-suigo-御花,御花,water,水郷柳川観光,130.39825,33.15801,OpenStreetMap / ferry inventory
+10-yanagawa-daito-大東エンタープライズ乗船場,大東エンタープライズ乗船場,water,大東エンタープライズ,130.41404,33.16713,OpenStreetMap / ferry inventory
+10-yanagawa-daito-沖端（御花付近）,沖端（御花付近）,water,大東エンタープライズ,130.39825,33.15801,OpenStreetMap / ferry inventory
+10-yanagawa-kankokaihatsu-松月乗船場（三柱神社欄干橋）,松月乗船場（三柱神社欄干橋）,water,柳川観光開発,130.41535,33.16713,OpenStreetMap / ferry inventory
+08-kanmon-yakei-cruise-門司港（マリンゲートもじ）,門司港（マリンゲートもじ）,water,関門汽船,130.9605,33.9464,OpenStreetMap / ferry inventory
+08-kanmon-kaikyo-cruising-門司港レトロ内桟橋,門司港レトロ内桟橋,water,関門汽船,130.9625,33.9477,OpenStreetMap / ferry inventory
+10-kyuyu-karatsu-indoji-唐津東港,唐津東港,water,九州郵船,129.96362,33.46964,OpenStreetMap / ferry inventory
+10-kyuyu-karatsu-indoji-印通寺,印通寺,water,九州郵船,129.75598,33.74146,OpenStreetMap / ferry inventory
+10-yobuko-kakarashima-呼子,呼子,water,加唐島汽船,129.89337,33.54159,OpenStreetMap / ferry inventory
+10-yobuko-kakarashima-加唐島,加唐島,water,加唐島汽船,129.85944,33.58806,OpenStreetMap / ferry inventory
+10-yobuko-madarashima-名護屋,名護屋,water,郵正丸,129.87933,33.53276,OpenStreetMap / ferry inventory
+10-yobuko-madarashima-馬渡島,馬渡島,water,郵正丸,129.7653,33.56695,OpenStreetMap / ferry inventory
+10-yobuko-ogawashima-呼子,呼子,water,川口汽船,129.89461,33.5393,OpenStreetMap / ferry inventory
+10-yobuko-ogawashima-小川島,小川島,water,川口汽船,129.89687,33.59416,OpenStreetMap / ferry inventory
+10-yobuko-matsushima-松島,松島,water,新栄,129.8404,33.58505,OpenStreetMap / ferry inventory
+10-karatsu-takashima-唐津（宝当桟橋）,唐津（宝当桟橋）,water,佐賀玄海漁業協同組合,129.9766,33.45053,OpenStreetMap / ferry inventory
+10-karatsu-takashima-高島,高島,water,佐賀玄海漁業協同組合,129.98725,33.47283,OpenStreetMap / ferry inventory
+10-hoshika-mukaishima-星賀,星賀,water,向島汽船,129.78982,33.44963,OpenStreetMap / ferry inventory
+10-hoshika-mukaishima-向島,向島,water,向島汽船,129.77679,33.48918,OpenStreetMap / ferry inventory
+10-kaneko-uranosaki-fukushima-福島,福島,water,金子廻漕店,129.8202,33.36564,OpenStreetMap / ferry inventory
+10-minato-kashiwajima-湊,湊,water,唐津汽船,129.95661,33.52499,OpenStreetMap / ferry inventory
+10-minato-kashiwajima-神集島,神集島,water,唐津汽船,129.97055,33.54027,OpenStreetMap / ferry inventory
+10-marinepal-ikamaru-呼子（マリンパル呼子）,呼子（マリンパル呼子）,water,マリンパル呼子,129.89385,33.53823,OpenStreetMap / ferry inventory
+10-kyusho-sasebo-kamigoto-佐世保（鯨瀬ターミナル）,佐世保（鯨瀬ターミナル）,water,九州商船,129.72265,33.1626,OpenStreetMap / ferry inventory
+10-kyusho-sasebo-kamigoto-有川,有川,water,九州商船,129.11126,32.98701,OpenStreetMap / ferry inventory
+10-sakito-sasebo-tomosumi-佐世保（新みなとターミナル）,佐世保（新みなとターミナル）,water,崎戸商船,129.72247,33.16374,OpenStreetMap / ferry inventory
+10-sakito-sasebo-tomosumi-崎戸,崎戸,water,崎戸商船,129.56656,33.02077,OpenStreetMap / ferry inventory
+10-sakito-sasebo-tomosumi-江島,江島,water,崎戸商船,129.35153,33.0003,OpenStreetMap / ferry inventory
+10-sakito-sasebo-tomosumi-平島,平島,water,崎戸商船,129.23778,32.99924,OpenStreetMap / ferry inventory
+10-sakito-sasebo-tomosumi-友住,友住,water,崎戸商船,129.1784,32.99828,OpenStreetMap / ferry inventory
+10-shimatetsu-kuchinotsu-oniike-口之津,口之津,water,島原鉄道,130.18582,32.6093,OpenStreetMap / ferry inventory
+10-shimatetsu-kuchinotsu-oniike-鬼池,鬼池,water,島原鉄道,130.18698,32.54687,OpenStreetMap / ferry inventory
+10-kyushoferry-shimabara-kumamoto-島原港（島原外港）,島原港（島原外港）,water,九商フェリー,130.37318,32.76705,OpenStreetMap / ferry inventory
+10-kyushoferry-shimabara-kumamoto-熊本港,熊本港,water,九商フェリー,130.58934,32.76274,OpenStreetMap / ferry inventory
+10-hirado-oshima-平戸,平戸,water,平戸市（市営フェリー）,129.55593,33.37185,OpenStreetMap / ferry inventory
+10-hirado-oshima-的山（大島）,的山（大島）,water,平戸市（市営フェリー）,129.52885,33.48322,OpenStreetMap / ferry inventory
+10-takeyama-hirado-takushima-飯盛（度島）,飯盛（度島）,water,竹山運輸,129.53498,33.44046,OpenStreetMap / ferry inventory
+10-takeyama-hirado-takushima-本村（度島）,本村（度島）,water,竹山運輸,129.51532,33.43054,OpenStreetMap / ferry inventory
+10-takashimakisen-tononoura-imafuku-殿ノ浦（鷹島）,殿ノ浦（鷹島）,water,鷹島汽船,129.7578,33.42738,OpenStreetMap / ferry inventory
+10-takashimakisen-tononoura-imafuku-飛島,飛島,water,鷹島汽船,129.77674,33.39624,OpenStreetMap / ferry inventory
+10-ezaki-seto-matsushima-瀬戸,瀬戸,water,江崎海陸運送,129.6385,32.94082,OpenStreetMap / ferry inventory
+10-ezaki-seto-matsushima-松島,松島,water,江崎海陸運送,129.61513,32.93979,OpenStreetMap / ferry inventory
+10-saikaiengan-seto-ikeshima-konoura-池島,池島,water,西海沿岸商船,129.60544,32.88835,OpenStreetMap / ferry inventory
+10-saikaiengan-seto-ikeshima-konoura-神浦,神浦,water,西海沿岸商船,129.67929,32.88021,OpenStreetMap / ferry inventory
+10-kuroshima-ainoura-高島（佐世保市）,高島（佐世保市）,water,黒島旅客船,129.59256,33.1709,OpenStreetMap / ferry inventory
+10-kuroshima-ainoura-黒島,黒島,water,黒島旅客船,129.52721,33.14517,OpenStreetMap / ferry inventory
+10-kiguchi-kabashima-本窯（椛島）,本窯（椛島）,water,木口汽船,128.99153,32.76928,OpenStreetMap / ferry inventory
+10-kiguchi-kabashima-伊福貴（椛島）,伊福貴（椛島）,water,木口汽船,128.96886,32.75443,OpenStreetMap / ferry inventory
+10-kiguchi-hisakajima-田ノ浦（久賀島）,田ノ浦（久賀島）,water,木口汽船,128.84199,32.78186,OpenStreetMap / ferry inventory
+10-kiguchi-hisakajima-奥浦,奥浦,water,木口汽船,128.82567,32.74461,OpenStreetMap / ferry inventory
+10-gotoryokaku-wakamatsu-fukue-若松（若松島）,若松（若松島）,water,五島旅客船,129.01689,32.87681,OpenStreetMap / ferry inventory
+10-iki-mishima-渡良浦,渡良浦,water,壱岐市（市営フェリー）,129.66125,33.749,OpenStreetMap / ferry inventory
+10-iki-mishima-原島,原島,water,壱岐市（市営フェリー）,129.65099,33.72699,OpenStreetMap / ferry inventory
+10-iki-mishima-長島,長島,water,壱岐市（市営フェリー）,129.63523,33.72937,OpenStreetMap / ferry inventory
+10-iki-mishima-大島（壱岐市）,大島（壱岐市）,water,壱岐市（市営フェリー）,129.64058,33.73861,OpenStreetMap / ferry inventory
+10-kyusho-nagasaki-goto-長崎港,長崎港,water,九州商船,129.86772,32.74628,OpenStreetMap / ferry inventory
+10-kyusho-nagasaki-goto-奈留島,奈留島,water,九州商船,128.93931,32.82166,OpenStreetMap / ferry inventory
+10-tsushima-umisachihiko-仁位,仁位,water,対馬市（市営渡海船）,129.31194,34.38395,OpenStreetMap / ferry inventory
+10-tsushima-umisachihiko-卯麦,卯麦,water,対馬市（市営渡海船）,129.29579,34.38465,OpenStreetMap / ferry inventory
+10-tsushima-umisachihiko-佐志賀,佐志賀,water,対馬市（市営渡海船）,129.30224,34.36305,OpenStreetMap / ferry inventory
+10-tsushima-umisachihiko-嵯峨,嵯峨,water,対馬市（市営渡海船）,129.31043,34.35627,OpenStreetMap / ferry inventory
+10-tsushima-umisachihiko-貝鮒,貝鮒,water,対馬市（市営渡海船）,129.30915,34.34418,OpenStreetMap / ferry inventory
+10-tsushima-umisachihiko-水崎,水崎,water,対馬市（市営渡海船）,129.27044,34.35622,OpenStreetMap / ferry inventory
+10-tsushima-umisachihiko-加志々,加志々,water,対馬市（市営渡海船）,129.26622,34.35522,OpenStreetMap / ferry inventory
+10-tsushima-umisachihiko-長板浦（樽ヶ浜）,長板浦（樽ヶ浜）,water,対馬市（市営渡海船）,129.31516,34.28472,OpenStreetMap / ferry inventory
+10-saikaiengan-sasebo-ikeshima-大島（西海市）,大島（西海市）,water,西海沿岸商船,129.62383,33.04212,OpenStreetMap / ferry inventory
+10-segawa-sasebo-kawachi-横瀬西,横瀬西,water,瀬川汽船,129.7048,33.08404,OpenStreetMap / ferry inventory
+10-segawa-sasebo-kawachi-小郡,小郡,water,瀬川汽船,129.7335,33.06675,OpenStreetMap / ferry inventory
+10-segawa-sasebo-kawachi-畑下,畑下,water,瀬川汽船,129.73306,33.05872,OpenStreetMap / ferry inventory
+10-segawa-sasebo-kawachi-川内,川内,water,瀬川汽船,129.73044,33.04949,OpenStreetMap / ferry inventory
+10-tsuyoshi-maetsuyoshi-sasebo-前津吉,前津吉,water,津吉商船,129.44572,33.21207,OpenStreetMap / ferry inventory
+10-katsumoto-tatsunoshima-勝本港,勝本港,water,勝本町漁業協同組合,129.69562,33.85444,OpenStreetMap / ferry inventory
+10-katsumoto-tatsunoshima-辰ノ島,辰ノ島,water,勝本町漁業協同組合,129.67904,33.86369,OpenStreetMap / ferry inventory
+01-daea-izuhara-busan-厳原（対馬新厳原港国際ターミナル）,厳原（対馬新厳原港国際ターミナル）,water,大亜高速海運（SEA FLOWER）,129.29087,34.19786,OpenStreetMap / ferry inventory
+10-goto-naru-maeshima-奈留島港,奈留島港,water,五島市（奈留支所）,128.93931,32.82166,OpenStreetMap / ferry inventory
+10-goto-naru-maeshima-笠松,笠松,water,五島市（奈留支所）,128.93588,32.80596,OpenStreetMap / ferry inventory
+10-goto-naru-maeshima-前島,前島,water,五島市（奈留支所）,128.93432,32.80282,OpenStreetMap / ferry inventory
+10-ojika-rokushima-nozaki-六島,六島,water,小値賀町（町営渡船）,129.13134,33.22144,OpenStreetMap / ferry inventory
+10-ojika-rokushima-nozaki-野崎島,野崎島,water,小値賀町（町営渡船）,129.13943,33.18897,OpenStreetMap / ferry inventory
+10-ojika-oshima-大島（小値賀町）,大島（小値賀町）,water,小値賀町（町営渡船）,129.0223,33.1697,OpenStreetMap / ferry inventory
+10-yasuda-togitsu-airport-時津,時津,water,安田産業汽船,129.84742,32.83321,OpenStreetMap / ferry inventory
+10-yasuda-togitsu-airport-長崎空港,長崎空港,water,安田産業汽船,129.92486,32.912,OpenStreetMap / ferry inventory
+10-ojika-yanagi-nojima-柳（小値賀島）,柳（小値賀島）,water,小値賀町（町営渡船）,129.05659,33.21057,OpenStreetMap / ferry inventory
+10-ojika-yanagi-nojima-納島,納島,water,小値賀町（町営渡船）,129.0673,33.21805,OpenStreetMap / ferry inventory
+01-daea-hitakatsu-busan-比田勝（比田勝港国際ターミナル）,比田勝（比田勝港国際ターミナル）,water,大亜高速海運（SEA FLOWER）,129.46947,34.65598,OpenStreetMap / ferry inventory
+10-saikai-seto-kamaura-瀬戸港（市営交通船待合所）,瀬戸港（市営交通船待合所）,water,西海市（市営交通船）,129.63917,32.9365,OpenStreetMap / ferry inventory
+10-saikai-seto-kamaura-松島（釜浦）,松島（釜浦）,water,西海市（市営交通船）,129.61513,32.93979,OpenStreetMap / ferry inventory
+10-sasebo-mitsushima-神浦（宇久島）,神浦（宇久島）,water,佐世保市（市営交通船）,129.09469,33.25486,OpenStreetMap / ferry inventory
+10-sasebo-mitsushima-寺島,寺島,water,佐世保市（市営交通船）,129.06478,33.25145,OpenStreetMap / ferry inventory
+10-oushima-fukue-akashima-赤島,赤島,water,黄島海運,128.92113,32.59659,OpenStreetMap / ferry inventory
+10-oushima-fukue-akashima-黄島,黄島,water,黄島海運,128.90457,32.57064,OpenStreetMap / ferry inventory
+10-reihoku-mogi-tomioka-茂木,茂木,water,苓北観光汽船,129.91363,32.7075,OpenStreetMap / ferry inventory
+10-reihoku-mogi-tomioka-富岡,富岡,water,苓北観光汽船,130.03493,32.52294,OpenStreetMap / ferry inventory
+10-sagashima-kaitsu-貝津,貝津,water,嵯峨島旅客船,128.65327,32.71423,OpenStreetMap / ferry inventory
+10-sagashima-kaitsu-嵯峨島,嵯峨島,water,嵯峨島旅客船,128.60105,32.72835,OpenStreetMap / ferry inventory
+10-gotosangyo-nagasaki-tainoura-長崎港（長崎港ターミナル）,長崎港（長崎港ターミナル）,water,五島産業汽船,129.86849,32.74581,OpenStreetMap / ferry inventory
+10-gotosangyo-nagasaki-tainoura-鯛ノ浦,鯛ノ浦,water,五島産業汽船,129.10107,32.95152,OpenStreetMap / ferry inventory
+10-takashimakisen-ao-mikuriya-阿翁（鷹島）,阿翁（鷹島）,water,鷹島汽船,129.75883,33.45497,OpenStreetMap / ferry inventory
+10-takashimakisen-ao-mikuriya-黒島（松浦市）,黒島（松浦市）,water,鷹島汽船,129.72665,33.45438,OpenStreetMap / ferry inventory
+10-takashimakisen-ao-mikuriya-船唐津（鷹島）,船唐津（鷹島）,water,鷹島汽船,129.72542,33.4133,OpenStreetMap / ferry inventory
+10-takashimakisen-ao-mikuriya-青島,青島,water,鷹島汽船,129.68914,33.41181,OpenStreetMap / ferry inventory
+10-sasebo-gunko-cruise-佐世保港（新みなとターミナル向かいの乗り場）,佐世保港（新みなとターミナル向かいの乗り場）,water,安栄丸水産（主催：佐世保観光コンベンション協会）,129.722,33.1639,OpenStreetMap / ferry inventory
+10-takashimakaijo-gunkanjima-長崎港（元船町・軍艦島クルーズ事務所前）,長崎港（元船町・軍艦島クルーズ事務所前）,water,高島海上交通（軍艦島クルーズ）,129.87037,32.74797,OpenStreetMap / ferry inventory
+10-concierge-gunkanjima-長崎港（常盤桟橋）,長崎港（常盤桟橋）,water,軍艦島コンシェルジュ（ユニバーサルワーカーズ）,129.86938,32.73779,OpenStreetMap / ferry inventory
+10-seaman-gunkanjima-長崎港（常盤2号桟橋）,長崎港（常盤2号桟橋）,water,シーマン商会,129.86999,32.73782,OpenStreetMap / ferry inventory
+10-katsumoto-tatsunoshima-cruise-勝本港,勝本港,water,勝本町漁業協同組合,129.69562,33.85444,OpenStreetMap / ferry inventory
+11-kyodo-goshoura-odo-御所浦港,御所浦港,water,共同フェリー,130.33777,32.3379,OpenStreetMap / ferry inventory
+11-kyodo-goshoura-odo-大道港,大道港,water,共同フェリー,130.37033,32.3887,OpenStreetMap / ferry inventory
+11-kyodo-goshoura-tanasoko-棚底港,棚底港,water,共同フェリー,130.34169,32.40656,OpenStreetMap / ferry inventory
+11-sanwa-ferry-牛深港,牛深港,water,三和商船,130.02787,32.19438,OpenStreetMap / ferry inventory
+11-sanwa-ferry-蔵之元港,蔵之元港,water,三和商船,130.10351,32.18863,OpenStreetMap / ferry inventory
+11-tenchou-ferry-諸浦港（長島）,諸浦港（長島）,water,天長フェリー,130.18343,32.25507,OpenStreetMap / ferry inventory
+11-tenchou-ferry-片側港（獅子島）,片側港（獅子島）,water,天長フェリー,130.21567,32.27861,OpenStreetMap / ferry inventory
+11-tenchou-ferry-中田港（天草下島）,中田港（天草下島）,water,天長フェリー,130.16426,32.33034,OpenStreetMap / ferry inventory
+11-amakusa-takarajima-line-三角港,三角港,water,シークルーズ（天草宝島ライン）,130.47157,32.60696,OpenStreetMap / ferry inventory
+11-amakusa-takarajima-line-松島（前島）港,松島（前島）港,water,シークルーズ（天草宝島ライン）,130.42603,32.52719,OpenStreetMap / ferry inventory
+11-amakusa-takarajima-line-本渡港,本渡港,water,シークルーズ（天草宝島ライン）,130.20008,32.45593,OpenStreetMap / ferry inventory
+11-kyodo-goshoura-koyagochi-小屋河内（上天草総合病院下）,小屋河内（上天草総合病院下）,water,共同フェリー,130.3911,32.39346,OpenStreetMap / ferry inventory
+11-goshoura-minamata-noriai-水俣（百間）港,水俣（百間）港,water,あまくさ海上タクシー協会（御所浦物産館しおさい館）,130.38824,32.20019,OpenStreetMap / ferry inventory
+11-yushima-ehido-江樋戸港,江樋戸港,water,神辺漁協・若林商会（湯島定期船）,130.41573,32.58199,OpenStreetMap / ferry inventory
+11-yushima-ehido-湯島港,湯島港,water,神辺漁協・若林商会（湯島定期船）,130.33663,32.6001,OpenStreetMap / ferry inventory
+11-shishijima-minamata-幣串港（獅子島）,幣串港（獅子島）,water,獅子島汽船,130.22586,32.26181,OpenStreetMap / ferry inventory
+11-shishijima-minamata-水俣港,水俣港,water,獅子島汽船,130.37895,32.19505,OpenStreetMap / ferry inventory
+11-kumagawa-kudari-seiryu-球磨川くだり発船場（HASSENBA）,球磨川くだり発船場（HASSENBA）,water,球磨川くだり,130.7669,32.21456,OpenStreetMap / ferry inventory
+11-kumagawa-kudari-seiryu-温泉町着船場,温泉町着船場,water,球磨川くだり,130.73053,32.21542,OpenStreetMap / ferry inventory
+11-kumagawa-baika-no-watashi-球磨川くだり発船場（HASSENBA）,球磨川くだり発船場（HASSENBA）,water,球磨川くだり,130.7669,32.21456,OpenStreetMap / ferry inventory
+11-himeshima-ferry-伊美港,伊美港,water,姫島村（村営フェリー）,131.60014,33.68719,OpenStreetMap / ferry inventory
+11-himeshima-ferry-姫島港,姫島港,water,姫島村（村営フェリー）,131.6486,33.72203,OpenStreetMap / ferry inventory
+11-ohnyujima-ferry-佐伯港（葛港）,佐伯港（葛港）,water,大入島フェリー,131.90323,32.97811,OpenStreetMap / ferry inventory
+11-ohnyujima-ferry-石間港（大入島）,石間港（大入島）,water,大入島フェリー,131.91499,32.98238,OpenStreetMap / ferry inventory
+11-joeimaru-marinebus-守後（大入島）,守後（大入島）,water,豊海運（常栄丸マリンバス）,131.91589,32.98854,OpenStreetMap / ferry inventory
+11-joeimaru-marinebus-久保浦（大入島）,久保浦（大入島）,water,豊海運（常栄丸マリンバス）,131.92069,32.99412,OpenStreetMap / ferry inventory
+11-joeimaru-marinebus-片神浦（大入島）,片神浦（大入島）,water,豊海運（常栄丸マリンバス）,131.92733,33.0033,OpenStreetMap / ferry inventory
+11-saiki-oshima-大島地下港,大島地下港,water,佐伯市（大島航路 おおしまⅡ）,132.06698,32.96272,OpenStreetMap / ferry inventory
+11-saiki-oshima-大島田の浦港,大島田の浦港,water,佐伯市（大島航路 おおしまⅡ）,132.07329,32.96902,OpenStreetMap / ferry inventory
+11-tsukumi-hotojima-津久見港,津久見港,water,津久見市（保戸島航路）,131.86485,33.07723,OpenStreetMap / ferry inventory
+11-tsukumi-hotojima-保戸島港,保戸島港,water,津久見市（保戸島航路）,132.00592,33.10477,OpenStreetMap / ferry inventory
+11-tsukumi-mukujima-無垢島港,無垢島港,water,津久見市（無垢島航路）,131.97664,33.16006,OpenStreetMap / ferry inventory
+11-kamae-yakatajima-fukashima-蒲江港,蒲江港,water,佐伯市（蒲江・深島航路）,131.92544,32.79724,OpenStreetMap / ferry inventory
+11-kamae-yakatajima-fukashima-屋形島,屋形島,water,佐伯市（蒲江・深島航路）,131.91749,32.77622,OpenStreetMap / ferry inventory
+11-kamae-yakatajima-fukashima-深島,深島,water,佐伯市（蒲江・深島航路）,131.92574,32.72315,OpenStreetMap / ferry inventory
+11-hovercraft-nishioita-airport-西大分ホーバーターミナル,西大分ホーバーターミナル,water,大分第一ホーバードライブ,131.59359,33.24867,OpenStreetMap / ferry inventory
+11-hovercraft-nishioita-airport-大分空港ホーバーターミナル,大分空港ホーバーターミナル,water,大分第一ホーバードライブ,131.73416,33.47063,OpenStreetMap / ferry inventory
+11-hovercraft-beppu-bay-cruise-西大分ホーバーターミナル,西大分ホーバーターミナル,water,大分第一ホーバードライブ,131.59359,33.24867,OpenStreetMap / ferry inventory
+11-hovercraft-airport-cruise-大分空港ホーバーターミナル,大分空港ホーバーターミナル,water,大分第一ホーバードライブ,131.73416,33.47063,OpenStreetMap / ferry inventory
+11-nippo-kisen-shimanoura-浦城港,浦城港,water,日豊汽船,131.76645,32.64545,OpenStreetMap / ferry inventory
+11-nippo-kisen-shimanoura-島浦港,島浦港,water,日豊汽船,131.81344,32.66632,OpenStreetMap / ferry inventory
+11-nichinan-oshima-目井津港,目井津港,water,日南市（市営旅客船あけぼの3）,131.38345,31.54362,OpenStreetMap / ferry inventory
+11-nichinan-oshima-竹之尻港（大島）,竹之尻港（大島）,water,日南市（市営旅客船あけぼの3）,131.40489,31.52745,OpenStreetMap / ferry inventory
+11-nichinan-oshima-小浜港（大島）,小浜港（大島）,water,日南市（市営旅客船あけぼの3）,131.40916,31.53761,OpenStreetMap / ferry inventory
+01-aline-kagoshima-naha-鹿児島新港,鹿児島新港,water,マルエーフェリー（A-LINE）,130.56868,31.58042,OpenStreetMap / ferry inventory
+01-aline-kagoshima-naha-名瀬（奄美大島）,名瀬（奄美大島）,water,マルエーフェリー（A-LINE）,129.49495,28.38795,OpenStreetMap / ferry inventory
+01-aline-kagoshima-naha-亀徳（徳之島）,亀徳（徳之島）,water,マルエーフェリー（A-LINE）,129.02431,27.73782,OpenStreetMap / ferry inventory
+01-aline-kagoshima-naha-和泊（沖永良部島）,和泊（沖永良部島）,water,マルエーフェリー（A-LINE）,128.66563,27.39826,OpenStreetMap / ferry inventory
+01-aline-kagoshima-naha-本部,本部,water,マルエーフェリー（A-LINE）,127.88013,26.64125,OpenStreetMap / ferry inventory
+01-aline-kagoshima-naha-那覇,那覇,water,マルエーフェリー（A-LINE）,127.6702,26.21076,OpenStreetMap / ferry inventory
+11-koshiki-ferry-yuiline-里港（上甑島）,里港（上甑島）,water,甑島商船,129.9204,31.84322,OpenStreetMap / ferry inventory
+11-koshiki-ferry-yuiline-長浜港（下甑島）,長浜港（下甑島）,water,甑島商船,129.73961,31.70245,OpenStreetMap / ferry inventory
+11-taiyo2-miyanoura-kuchinoerabu-宮之浦港,宮之浦港,water,屋久島町（町営フェリー太陽2）,130.57409,30.4317,OpenStreetMap / ferry inventory
+11-taiyo2-miyanoura-kuchinoerabu-口永良部港（本村）,口永良部港（本村）,water,屋久島町（町営フェリー太陽2）,130.19119,30.46223,OpenStreetMap / ferry inventory
+11-taiyo2-miyanoura-shimama-島間港,島間港,water,屋久島町（町営フェリー太陽2）,130.86141,30.46582,OpenStreetMap / ferry inventory
+11-nankyu-yamakawa-nejime-山川港,山川港,water,なんきゅうドック（フェリーなんきゅう）,130.63465,31.20492,OpenStreetMap / ferry inventory
+11-nankyu-yamakawa-nejime-根占港,根占港,water,なんきゅうドック（フェリーなんきゅう）,130.76307,31.21587,OpenStreetMap / ferry inventory
+11-setouchi-ferry-kakeroma-瀬相港（加計呂麻島）,瀬相港（加計呂麻島）,water,瀬戸内町（町営フェリーかけろま）,129.24591,28.12555,OpenStreetMap / ferry inventory
+11-setouchi-ferry-kakeroma-生間港（加計呂麻島）,生間港（加計呂麻島）,water,瀬戸内町（町営フェリーかけろま）,129.32054,28.10265,OpenStreetMap / ferry inventory
+11-tarumizu-ferry-鴨池港,鴨池港,water,鹿児島交通（垂水フェリー）,130.5604,31.55329,OpenStreetMap / ferry inventory
+11-tarumizu-ferry-垂水港,垂水港,water,鹿児島交通（垂水フェリー）,130.69178,31.48389,OpenStreetMap / ferry inventory
+11-ferry-toshima2-鹿児島本港南埠頭,鹿児島本港南埠頭,water,十島村（村営フェリーとしま2）,130.56559,31.59115,OpenStreetMap / ferry inventory
+11-ferry-toshima2-口之島港,口之島港,water,十島村（村営フェリーとしま2）,129.9128,29.99124,OpenStreetMap / ferry inventory
+11-ferry-toshima2-中之島港,中之島港,water,十島村（村営フェリーとしま2）,129.85021,29.83871,OpenStreetMap / ferry inventory
+11-ferry-toshima2-諏訪之瀬島港,諏訪之瀬島港,water,十島村（村営フェリーとしま2）,129.71241,29.61014,OpenStreetMap / ferry inventory
+11-ferry-toshima2-平島港,平島港,water,十島村（村営フェリーとしま2）,129.53169,29.67895,OpenStreetMap / ferry inventory
+11-ferry-toshima2-悪石島港,悪石島港,water,十島村（村営フェリーとしま2）,129.59412,29.45492,OpenStreetMap / ferry inventory
+11-ferry-toshima2-小宝島港,小宝島港,water,十島村（村営フェリーとしま2）,129.32144,29.22101,OpenStreetMap / ferry inventory
+11-ferry-toshima2-宝島港,宝島港,water,十島村（村営フェリーとしま2）,129.20386,29.15705,OpenStreetMap / ferry inventory
+11-ferry-toshima2-名瀬港（佐大熊）,名瀬港（佐大熊）,water,十島村（村営フェリーとしま2）,129.50386,28.3933,OpenStreetMap / ferry inventory
+11-amami-kaiun-ferry-kikai-鹿児島本港北埠頭,鹿児島本港北埠頭,water,奄美海運,130.56634,31.59529,OpenStreetMap / ferry inventory
+11-amami-kaiun-ferry-kikai-喜界島（湾港）,喜界島（湾港）,water,奄美海運,129.93708,28.32644,OpenStreetMap / ferry inventory
+11-amami-kaiun-ferry-kikai-名瀬港,名瀬港,water,奄美海運,129.49541,28.38808,OpenStreetMap / ferry inventory
+11-amami-kaiun-ferry-kikai-平土野港（徳之島）,平土野港（徳之島）,water,奄美海運,128.89078,27.81351,OpenStreetMap / ferry inventory
+11-orita-ferry-yakushima2-鹿児島本港南埠頭,鹿児島本港南埠頭,water,折田汽船,130.56769,31.59165,OpenStreetMap / ferry inventory
+11-cosmoline-princess-wakasa-西之表港,西之表港,water,コスモライン,130.99062,30.73153,OpenStreetMap / ferry inventory
+11-ferry-mishima-鹿児島本港南埠頭（みしま待合所）,鹿児島本港南埠頭（みしま待合所）,water,三島村（村営フェリーみしま）,130.56551,31.59247,OpenStreetMap / ferry inventory
+11-ferry-mishima-竹島港,竹島港,water,三島村（村営フェリーみしま）,130.419,30.81543,OpenStreetMap / ferry inventory
+11-ferry-mishima-硫黄島港,硫黄島港,water,三島村（村営フェリーみしま）,130.27975,30.77991,OpenStreetMap / ferry inventory
+11-ferry-mishima-黒島（大里港）,黒島（大里港）,water,三島村（村営フェリーみしま）,129.95773,30.83628,OpenStreetMap / ferry inventory
+11-ferry-mishima-黒島（片泊港）,黒島（片泊港）,water,三島村（村営フェリーみしま）,129.90647,30.83055,OpenStreetMap / ferry inventory
+11-sakurajima-ferry-鹿児島港（桜島フェリーターミナル）,鹿児島港（桜島フェリーターミナル）,water,鹿児島市船舶局（桜島フェリー）,130.56322,31.5968,OpenStreetMap / ferry inventory
+11-sakurajima-ferry-桜島港,桜島港,water,鹿児島市船舶局（桜島フェリー）,130.59929,31.59239,OpenStreetMap / ferry inventory
+11-hibiscus-鹿児島（谷山港・七ツ島）,鹿児島（谷山港・七ツ島）,water,鹿商海運（フェリーはいびすかす）,130.51629,31.48241,OpenStreetMap / ferry inventory
+11-setouchi-setonami-請阿室港（請島）,請阿室港（請島）,water,瀬戸内町（町営定期船せとなみ）,129.2548,28.03169,OpenStreetMap / ferry inventory
+11-setouchi-setonami-池地港（請島）,池地港（請島）,water,瀬戸内町（町営定期船せとなみ）,129.23437,28.03327,OpenStreetMap / ferry inventory
+11-setouchi-setonami-与路港（与路島）,与路港（与路島）,water,瀬戸内町（町営定期船せとなみ）,129.16656,28.04547,OpenStreetMap / ferry inventory
+11-koshiki-jetfoil-koshikishima-川内港ターミナル（高速船のりば）,川内港ターミナル（高速船のりば）,water,甑島商船,130.20386,31.84903,OpenStreetMap / ferry inventory
+11-toppy-nishinoomote-anbo-西之表港（高速船乗り場）,西之表港（高速船乗り場）,water,種子屋久高速船（トッピー＆ロケット）,130.9898,30.73136,OpenStreetMap / ferry inventory
+11-toppy-kagoshima-miyanoura-鹿児島本港南埠頭（高速船旅客ターミナル）,鹿児島本港南埠頭（高速船旅客ターミナル）,water,種子屋久高速船（トッピー＆ロケット）,130.56337,31.59037,OpenStreetMap / ferry inventory
+11-amami-seto-semisub-古仁屋（せとうち海の駅）,古仁屋（せとうち海の駅）,water,カケロマリゾート,129.30968,28.14597,OpenStreetMap / ferry inventory
+12-kudaka-安座真港,安座真港,water,久高海運合名会社,127.82697,26.17959,OpenStreetMap / ferry inventory
+12-kudaka-久高港,久高港,water,久高海運合名会社,127.88549,26.15418,OpenStreetMap / ferry inventory
+12-tsuken-平敷屋港,平敷屋港,water,有限会社神谷観光,127.92271,26.30719,OpenStreetMap / ferry inventory
+12-tarama-平良港,平良港,water,合資会社多良間海運,125.27447,24.80659,OpenStreetMap / ferry inventory
+12-tarama-多良間（普天間港・前泊港）,多良間（普天間港・前泊港）,water,合資会社多良間海運,124.72159,24.64438,OpenStreetMap / ferry inventory
+12-yonaguni-石垣港 八島フェリーターミナル,石垣港 八島フェリーターミナル,water,合資会社福山海運,124.15868,24.33444,OpenStreetMap / ferry inventory
+12-yonaguni-与那国 久部良港,与那国 久部良港,water,合資会社福山海運,122.94203,24.45079,OpenStreetMap / ferry inventory
+12-anei-kohama-石垣港離島ターミナル,石垣港離島ターミナル,water,有限会社安栄観光,124.15546,24.33685,OpenStreetMap / ferry inventory
+12-anei-kohama-小浜港,小浜港,water,有限会社安栄観光,123.99168,24.34444,OpenStreetMap / ferry inventory
+12-anei-hateruma-波照間港,波照間港,water,有限会社安栄観光,123.76577,24.06731,OpenStreetMap / ferry inventory
+12-anei-taketomi-竹富港,竹富港,water,有限会社安栄観光,124.09357,24.33646,OpenStreetMap / ferry inventory
+12-anei-uehara-西表島 上原港,西表島 上原港,water,有限会社安栄観光,123.79992,24.41829,OpenStreetMap / ferry inventory
+12-anei-ohara-西表島 大原港,西表島 大原港,water,有限会社安栄観光,123.8841,24.27189,OpenStreetMap / ferry inventory
+12-anei-hatoma-鳩間港,鳩間港,water,有限会社安栄観光,123.82051,24.46786,OpenStreetMap / ferry inventory
+12-anei-kuroshima-黒島港,黒島港,water,有限会社安栄観光,124.00147,24.25344,OpenStreetMap / ferry inventory
+12-iheya-伊平屋 前泊港,伊平屋 前泊港,water,伊平屋村（村営）,127.96948,27.03714,OpenStreetMap / ferry inventory
+12-izena-伊是名 仲田港,伊是名 仲田港,water,伊是名村（村営）,127.95223,26.9287,OpenStreetMap / ferry inventory
+12-daito-那覇（泊ふ頭）,那覇（泊ふ頭）,water,大東海運株式会社,127.68154,26.22364,OpenStreetMap / ferry inventory
+12-daito-南大東港,南大東港,water,大東海運株式会社,131.2164,25.84222,OpenStreetMap / ferry inventory
+12-daito-北大東港,北大東港,water,大東海運株式会社,131.28351,25.95385,OpenStreetMap / ferry inventory
+12-kume-tonaki-那覇（泊港）,那覇（泊港）,water,久米商船株式会社,127.68214,26.22411,OpenStreetMap / ferry inventory
+12-kume-tonaki-渡名喜港,渡名喜港,water,久米商船株式会社,127.14033,26.3721,OpenStreetMap / ferry inventory
+12-kume-tonaki-久米島 兼城港,久米島 兼城港,water,久米商船株式会社,126.75316,26.34141,OpenStreetMap / ferry inventory
+12-tokashiki-渡嘉敷港,渡嘉敷港,water,渡嘉敷村（村営）,127.36797,26.19927,OpenStreetMap / ferry inventory
+12-aguni-粟国港,粟国港,water,粟国村（村営）,127.23279,26.57869,OpenStreetMap / ferry inventory
+12-zamami-阿嘉港,阿嘉港,water,座間味村（村営）,127.28493,26.19002,OpenStreetMap / ferry inventory
+12-zamami-座間味港,座間味港,water,座間味村（村営）,127.30198,26.2266,OpenStreetMap / ferry inventory
+12-ogami-島尻港,島尻港,water,株式会社大神海運,125.29718,24.87787,OpenStreetMap / ferry inventory
+12-ogami-大神港,大神港,water,株式会社大神海運,125.30739,24.91313,OpenStreetMap / ferry inventory
+12-zamami-mitsushima-aharen-渡嘉敷島 阿波連港,渡嘉敷島 阿波連港,water,座間味村（村営）,127.34795,26.166,OpenStreetMap / ferry inventory
+12-minna-水納港,水納港,water,合名会社水納海運,127.81821,26.65027,OpenStreetMap / ferry inventory
+12-funauki-白浜港,白浜港,water,有限会社船浮海運,123.74656,24.35913,OpenStreetMap / ferry inventory
+12-funauki-船浮港,船浮港,water,有限会社船浮海運,123.72908,24.3365,OpenStreetMap / ferry inventory
+12-busena-glassboat-ブセナ海中公園 グラスボート乗り場,ブセナ海中公園 グラスボート乗り場,water,一般財団法人沖縄観光コンベンションビューロー（ブセナ海中公園）,127.93277,26.54088,OpenStreetMap / ferry inventory
+12-nakama-river-西表島 大原港（ショップじゅごん前）,西表島 大原港（ショップじゅごん前）,water,西表島交通株式会社,123.8828,24.27184,OpenStreetMap / ferry inventory
+12-nakama-river-kanamori-仲間川 大富船着場,仲間川 大富船着場,water,マリンレジャー金盛,123.8799,24.2799,OpenStreetMap / ferry inventory
+12-miyako-seasky-hakuai-博愛漁港（シースカイ待合所）,博愛漁港（シースカイ待合所）,water,株式会社南西楽園リゾート（うえのドイツ文化村）,125.32919,24.7188,OpenStreetMap / ferry inventory
+12-kabira-glassboat-kabiramarine-川平湾（川平公園下の浜）,川平湾（川平公園下の浜）,water,有限会社川平マリンサービス,124.1436,24.46171,OpenStreetMap / ferry inventory
+12-naha-orca-那覇ふ頭船客待合所,那覇ふ頭船客待合所,water,有限会社ウエストマリン,127.66975,26.21128,OpenStreetMap / ferry inventory
+12-urauchi-river-浦内川 下流船着場,浦内川 下流船着場,water,合資会社浦内川観光,123.7785,24.403,OpenStreetMap / ferry inventory
+12-urauchi-river-浦内川 上流船着場（軍艦岩）,浦内川 上流船着場（軍艦岩）,water,合資会社浦内川観光,123.79407,24.36376,OpenStreetMap / ferry inventory
+2026-kojet-naha-kume-那覇ふ頭,那覇ふ頭,water,久米島オーシャンジェット,127.6728,26.20903,OpenStreetMap / ferry inventory
+2026-kojet-naha-kume-久米島（兼城港）,久米島（兼城港）,water,久米島オーシャンジェット,126.7511,26.3365,OpenStreetMap / ferry inventory
+n4491022838,Unnamed station (n4491022838),ropeway,びわ湖バレイ,135.890013,35.211422,Unnamed mapped terminal; operator confirms public lift operation
+n4491022837,Unnamed station (n4491022837),ropeway,びわ湖バレイ,135.886261,35.209437,Unnamed mapped terminal; operator confirms public lift operation
+n4491022840,Unnamed station (n4491022840),ropeway,びわ湖バレイ,135.890062,35.212173,Unnamed mapped terminal; operator confirms public lift operation
+n4491022839,Unnamed station (n4491022839),ropeway,びわ湖バレイ,135.89353,35.2134,Unnamed mapped terminal; operator confirms public lift operation
+n4491336936,Unnamed station (n4491336936),ropeway,びわこ箱館山,135.985642,35.438966,Unnamed mapped terminal; operator confirms public lift operation

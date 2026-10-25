@@ -77,20 +77,34 @@ of survey accuracy. The interactive view uses Web Mercator.
 
 ## 6. Build a smaller interactive representation
 
-The source network has 96,099 geometry sections. The interactive payload groups
+The source network has 96,088 geometry sections. The interactive payload groups
 them by mode, operator, cleaned name, geometry quality and water-service ID,
 then merges compatible line segments. It preserves parallel tracks rather than
 turning an entire railway corridor into a schematic stroke.
 
-The resulting 1,846 route groups have matching metadata indexes. Point-feature
+The resulting 2,313 route groups have matching metadata indexes. Point-feature
 IDs match the search index. Nearby ground routes are selected within roughly
 150 metres of a station object. A nearby-line result is geometric context,
 not timetable or interchange evidence.
 
-Station objects are deduplicated by name and short-distance proximity during
-compilation. English names are retained where available. A limited fallback
+Initial station extraction used name and short-distance proximity to suppress
+redundant source points. Operator identity matters at interchanges: separately
+identified boarding places are preserved, including the Linimo terminals
+alongside their subway and Aichi Loop counterparts. English names are retained
+where available. A limited fallback
 matches existing unnamed current objects to nearby MLIT station names; the
 source is recorded.
+
+Unnamed lines keep their own raw source identity. They cannot form a single
+nationwide group or inherit an English name from a disconnected installation.
+Own Japanese/English tags take precedence over generic mode labels. Generic
+mode names remain available in details, but are not printed along every
+unnamed segment. Route metadata retains every contributing raw object ID.
+
+The evidence-backed station and infrastructure review is documented in
+[`data/reviews/`](../data/reviews/). It distinguishes verified operator English,
+existing Latin tags, same-station identity transfers, linked CC0 Wikidata
+labels and explicit-kana romanization. Arbitrary kanji readings are not guessed.
 
 ## 7. Render locally in the browser
 
@@ -100,7 +114,15 @@ styles, application and license notices into `index.html`.
 The browser decompresses the payload, creates the MapLibre worker and indexes
 GeoJSON into vector tiles. The renderer draws lines and labels for the current
 zoom. Local-font glyph generation handles Japanese and Latin names without a
-remote glyph server. Optional GSI raster tiles provide street context.
+remote glyph server. Optional OpenStreetMap raster tiles provide roads,
+buildings and place labels; GSI seamless aerial imagery provides photographic
+context. A separate opacity control affects only the background raster layer.
+Sources are created on selection and removed when disabled. The browser keeps
+normal caching and HTTP referrers; tile prefetch is disabled.
+
+Scroll zoom uses the renderer's native handlers with mouse-wheel rate 1/200 and
+trackpad rate 1/60. The view supports zoom levels 3 through 22; source geometry
+is overzoomed at close scales rather than requesting nonexistent transport data.
 
 The web build is deterministic from checked-in inputs. Re-running the original
 GIS compilation against “latest” upstream data can produce a different network;

@@ -7,7 +7,7 @@ Shinjuku, or trace the ferries out to Ogasawara. The islands stay where they
 belong. Station labels stay readable as you zoom.
 
 **[Explore the live atlas](https://maar10herr.github.io/japan-rail-water-atlas/)** ·
-**[Download the single-file map](https://github.com/Maar10Herr/japan-rail-water-atlas/releases/download/v0.1.0/japan-rail-water-atlas.html)** ·
+**[Download the single-file map](https://github.com/Maar10Herr/japan-rail-water-atlas/releases/download/v0.2.0/japan-rail-water-atlas.html)** ·
 **[Maps & releases](https://github.com/Maar10Herr/japan-rail-water-atlas/releases)**
 
 ![Station-level detail in the Japan Rail & Water Atlas](docs/assets/atlas-preview.png)
@@ -28,7 +28,7 @@ and SHA-256 checksums are included.
 - **Clickable stations and lines**, with nearby mapped geometry and available
   operator, timetable and OpenStreetMap links.
 - **Layer filters, language selection and PNG export**. A separate option shows
-  long-term suspensions; another adds live GSI street context.
+  long-term suspensions; the background selector adds OpenStreetMap roads/buildings or GSI aerial imagery.
 
 The project aims for broad nationwide coverage. It does **not** claim that every
 passenger service has been individually verified or that the inventory is
@@ -39,16 +39,20 @@ documented in the [coverage notes](docs/COVERAGE.md).
 
 | Dataset component | Count | What the number means |
 | --- | ---: | --- |
-| Interactive route groups | 1,846 | Groups of geometry sharing a mode, operator, name and geometry-quality class |
-| Source line sections | 96,099 | Mapped geometry sections, including parallel tracks and suspension context |
-| Station and terminal objects | 11,251 | Searchable point objects; an interchange can have several |
-| Railway stop/station objects in the selected baseline | 9,335 | OSM station/stop objects, not distinct commercial stations |
+| Interactive route groups | 2,313 | Groups of geometry sharing a mode, operator, name and geometry-quality class |
+| Source line sections | 96,088 | Mapped geometry sections, including parallel tracks and suspension context |
+| Station and terminal objects | 11,104 | Searchable point objects; an interchange can have several |
+| Railway stop/station objects in the public selection | 9,305 | OSM station/stop objects, not distinct commercial stations |
 | Water-service records | 587 | 565 marked active and 22 marked suspended in the assembled inventory |
 | MLIT passenger-operator directory entries cross-matched | 204 | Operator-level matches, not independent verification of every route |
 
 **Object counts are not service counts or route-kilometres.** Two parallel
 tracks are two pieces of geometry. Two operators at one interchange may be two
 station objects. One ferry service may contain several legs.
+
+The [station review records](data/reviews/) preserve source evidence for naming,
+romanization, public access and operational-status decisions. There are still
+133 unnamed objects and 1,426 labels without supported Latin text.
 
 The input baselines are the Geofabrik/OSM snapshot from **2026-10-24**, MLIT's
 **2022** national railway inventory and the upstream ferry inventory from
@@ -72,9 +76,16 @@ connections from mapped geometry. A hollow diamond identifies a sightseeing
 departure whose fixed circuit is unavailable. Grey suspension layers are off
 by default.
 
-**Street context** loads pale map tiles from the Geospatial Information Authority
-of Japan. Everything needed for the transport map, search and coastline is
-already embedded in the page; this optional layer needs internet access.
+**Background** offers OpenStreetMap roads, buildings and place labels, or GSI
+national aerial imagery with satellite mosaics at smaller scales. Use the
+opacity slider to keep transport lines in the foreground. Choosing **None**
+leaves the embedded transport map and coastline. Background tiles require an
+internet connection; the transport geometry and search are embedded.
+
+The background selection, opacity and map position are included in the URL.
+OpenStreetMap tiles are loaded only for the current view, with ordinary browser
+caching. There is no bulk or offline tile download. Aerial imagery has varying
+capture dates and resolution.
 
 **Save this view as PNG** exports the current map canvas with source attribution.
 
@@ -146,13 +157,15 @@ the raster is there for the large-format cartography crowd.
 
 | Artifact | Location |
 | --- | --- |
-| Self-contained interactive HTML | [Release download](https://github.com/Maar10Herr/japan-rail-water-atlas/releases/download/v0.1.0/japan-rail-water-atlas.html) |
-| 36,000 × 44,000 national PNG | [Release download](https://github.com/Maar10Herr/japan-rail-water-atlas/releases/download/v0.1.0/japan-national-36000x44000.png) |
-| Nine 10,000 × 12,600 regional PNGs | [Regional atlas ZIP](https://github.com/Maar10Herr/japan-rail-water-atlas/releases/download/v0.1.0/japan-regional-details.zip) |
+| Self-contained interactive HTML | [Release download](https://github.com/Maar10Herr/japan-rail-water-atlas/releases/download/v0.2.0/japan-rail-water-atlas.html) |
+| 36,000 × 44,000 national PNG | [Release download](https://github.com/Maar10Herr/japan-rail-water-atlas/releases/download/v0.2.0/japan-national-36000x44000.png) |
+| Nine 10,000 × 12,600 regional PNGs | [Regional atlas ZIP](https://github.com/Maar10Herr/japan-rail-water-atlas/releases/download/v0.2.0/japan-regional-details.zip) |
 | Interactive payload | [`data/atlas.json.gz`](data/atlas.json.gz) |
 | Selected line sections as compressed WGS84 GeoJSON | [`data/network.geojson.gz`](data/network.geojson.gz) |
 | Ground lines, station/terminal points and water services | [`data/inventories/`](data/inventories/) |
 | Historical rail comparison and ferry-operator matching | [`data/audits/`](data/audits/) |
+| Renderer and bundled dependency source | [Source distribution](https://github.com/Maar10Herr/japan-rail-water-atlas/releases/download/v0.2.0/renderer-corresponding-source.zip) |
+| Station identity and inclusion evidence | [`data/reviews/`](data/reviews/) |
 | Snapshot metadata and SHA-256 checksums | [`data/manifest.json`](data/manifest.json) |
 
 The regional sheets cover Tokyo/Kanto, Osaka–Kyoto–Kobe, Nagoya, the Seto Inland
@@ -192,10 +205,11 @@ The principal sources are [OpenStreetMap](https://www.openstreetmap.org/copyrigh
 [MLIT National Land Numerical Information](https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N02-v3_1.html),
 the [MLIT passenger-operator directory](https://www.mlit.go.jp/maritime/bosai_shipslink.html),
 and [kametaro7/japan-ferry-map](https://github.com/kametaro7/japan-ferry-map).
-The optional street map is supplied by [GSI Japan](https://maps.gsi.go.jp/development/ichiran.html).
-The renderer is [MapLibre GL JS](https://maplibre.org/).
+The optional aerial imagery is supplied by [GSI Japan](https://maps.gsi.go.jp/development/ichiran.html).
+The renderer is [MapLibre GL JS](https://maplibre.org/); its source distribution
+and build instructions are described in [`vendor/README.md`](vendor/README.md).
 
-Original application code and documentation are MIT licensed. OSM-derived
+Original application code and documentation are licensed under **GPL v3 only**. OSM-derived
 data is ODbL; the bundled renderer and other source components retain their
 own terms. **The code license does not relicense the data.** Read
 [NOTICE.md](NOTICE.md) and [source provenance](docs/SOURCES.md) before reusing it.

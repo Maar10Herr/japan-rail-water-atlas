@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: GPL-3.0-only
+# Copyright (C) 2026 MH
 """Build the self-contained atlas from checked-in inputs. No network or packages."""
 
 from __future__ import annotations
@@ -18,6 +20,8 @@ def build() -> bytes:
         "WORKER_CODE": ("vendor/maplibre-gl-worker.mjs", True),
         "MAP_DATA": ("data/atlas.json.gz", True),
         "APP_CODE": ("src/app.mjs", False),
+        "APP_LICENSE": ("LICENSE", False),
+        "DEPENDENCY_LICENSES": ("LICENSES/Renderer-Dependencies.md", False),
     }
     for token, (filename, encoded) in inputs.items():
         contents = (ROOT / filename).read_bytes()

@@ -8,7 +8,8 @@
 | [MLIT N02 rail data](https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N02-v3_1.html) | 2022-12-31 | Historical rail sections and stations; geometry comparison, limited name fallback and suspension context |
 | [MLIT passenger/ferry operator directory](https://www.mlit.go.jp/maritime/bosai_shipslink.html) | Retrieved for the compiled snapshot | Scheduled passenger-operator cross-match |
 | [kametaro7/japan-ferry-map](https://github.com/kametaro7/japan-ferry-map) | Inventory marked 2026-09-13 | Water-service checklist, original source URLs and credited OSM-derived path geometry |
-| [GSI tile catalogue](https://maps.gsi.go.jp/development/ichiran.html) | Live, optional | Pale street-context tiles requested only when the map option is enabled |
+| [OpenStreetMap standard tiles](https://operations.osmfoundation.org/policies/tiles/) | Live, optional | Roads, buildings and place labels; visible-view requests and normal browser caching |
+| [GSI tile catalogue](https://maps.gsi.go.jp/development/ichiran.html) | Live, optional | Seamless aerial imagery requested only when enabled, with GSI/Landsat/GRUS credits |
 
 The latest MLIT rail inventory inspected was historical, not a current service
 register. MLIT N09 ferry geometry was from 2012 and was not used as a current
@@ -45,3 +46,19 @@ cartography was copied.
 package. Its original license notices are retained in the single-file build
 and in [`LICENSES/`](../LICENSES/). Original project code and third-party data
 have separate licenses; see [NOTICE.md](../NOTICE.md).
+
+## Station review references
+
+The per-object references in [`data/reviews/`](../data/reviews/) include JR East,
+Hankai, Kitakyushu Monorail, Linimo, Sarakurayama Cable Car, public-lift
+operators, municipalities and official tourism material. Selected operator
+English maps and existing OSM/Wikidata identities support Latin labels. The
+review files distinguish direct source spellings from explicit-kana
+romanizations and translated descriptors. Wikidata structured labels are
+[CC0](https://www.wikidata.org/wiki/Wikidata:Licensing).
+
+Licensing references for the application are the FSF's
+[GPL-compatible license list](https://www.gnu.org/licenses/license-list.html)
+and [GPL FAQ on copyright-holder licensing](https://www.gnu.org/licenses/gpl-faq.en.html#ReleaseUnderGPLAndNF).
+MapLibre's BSD notices and dependency notices are retained. The code license
+does not change data-source or background-provider terms.

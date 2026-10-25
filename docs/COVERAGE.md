@@ -90,18 +90,40 @@ disaster suspensions. Current OSM also includes openings after the 2022 baseline
 
 ## Names, objects and operational meaning
 
-The map includes 11,251 searchable station and terminal objects. The selected
-OSM baseline included 9,335 railway station/stop objects; 9,051 had an English
-name. A small number of existing unnamed objects were matched to nearby MLIT
-names. The station CSV records the name source. Remaining unnamed objects are
-identified explicitly rather than given invented names.
+The map includes 11,104 searchable station and terminal objects, of which
+9,305 are railway station/stop objects in the public selection. Station CSV
+rows carry Japanese-name and Latin-label provenance separately.
+
+The [review ledger](../data/reviews/) records 99 supported names and 370 applied
+Latin-label corrections. 133 objects still lack a supported name; 1,426 lack a
+supported Latin label. Those gaps remain explicit in the downloadable audits.
+
+Station selection checks lifecycle, access, usage and freight/signal tags,
+with operator evidence for restorations. The independent MLIT station-geometry
+comparison produced 91 distant candidates, which included closures, suspended
+services, bus conversions and relocated stations. Four verified omissions were
+restored: Doai, Tennoji-Ekimae, Kikugaoka and Sarakurayama Sanroku. The nine
+Linimo stations retain distinct operator identities at Fujigaoka and Yakusa.
+Nearby subway and Aichi Loop boarding places are preserved as separate objects.
+
+A broad guideway class does not imply magnetic levitation. The real Linimo
+service is maglev; other members include monorails, automated guideways and
+public access slope cars. Pedal cycles, go-karts and amusement-only circuits
+are outside the public transport selection. Funaoka's documented multi-year
+suspension is represented in the suspension layer.
+
+Ropeway point selection is tied to the curated network. Six scheduled public
+sightseeing lifts have positive operator evidence of non-ski operation. A
+rejected raw chairlift point is not a claim that the installation never carries
+sightseers; unknown calendars and unselected networks remain review priorities.
 
 Interchanges can contain multiple operator objects or overlapping platform
 representations. A count of point objects is not a count of distinct commercial
 stations. Similarly, route groups and way sections are not service counts or
 unique route-kilometres.
 
-The station popup's nearby-line list uses geographic proximity. It does not
+The station popup's nearby-line list uses geographic proximity plus a small
+number of explicitly reviewed station-to-line identities. It does not
 establish a boarding opportunity or a scheduled stop. The dataset contains
 neither a timetable nor a routable connection graph.
 
