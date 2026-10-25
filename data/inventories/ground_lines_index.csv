@@ -1,0 +1,1362 @@
+route_group,mode,operator,line_name,mapped_sections,geometry_quality,sources
+469,funicular,,Funicular,23,mapped,OpenStreetMap
+470,funicular,,こいのぼり号,1,mapped,OpenStreetMap
+471,funicular,,さくらレール,1,mapped,OpenStreetMap
+472,funicular,,どんどこ号,1,mapped,OpenStreetMap
+473,funicular,,もーりすカー,1,mapped,OpenStreetMap
+474,funicular,,インクライン,3,mapped,OpenStreetMap
+475,funicular,,グラバースカイロード,1,mapped,OpenStreetMap
+476,funicular,,伊豆箱根鉄道十国鋼索線,1,mapped,OpenStreetMap
+477,funicular,,大山ケーブル,7,mapped,OpenStreetMap
+478,funicular,,立山ケーブルカー,11,mapped,OpenStreetMap
+479,funicular,,筑波山ケーブルカー,2,mapped,OpenStreetMap
+480,funicular,,紀三井寺ケーブルカー,1,mapped,OpenStreetMap
+481,funicular,,西信貴ケーブル,2,mapped,OpenStreetMap
+482,funicular,,鞍馬寺ケーブル,3,mapped,OpenStreetMap
+483,funicular,Izu Ito Onsen Yokikan,Tozandensha,1,mapped,OpenStreetMap
+484,funicular,ホテル祖谷温泉,Funicular,2,mapped,OpenStreetMap
+485,funicular,丹後海陸交通,丹後海陸交通天橋立鋼索鉄道,2,mapped,OpenStreetMap
+486,funicular,丹後海陸交通,天橋立鋼索鉄道,1,mapped,OpenStreetMap
+487,funicular,京福電気鉄道,京福電気鉄道鋼索線,3,mapped,OpenStreetMap
+488,funicular,京阪電気鉄道,石清水八幡宮参道ケーブル,13,mapped,OpenStreetMap
+489,funicular,伊豆箱根鉄道,伊豆箱根鉄道十国鋼索線,1,mapped,OpenStreetMap
+490,funicular,伊豆箱根鉄道,十国鋼索線,1,mapped,OpenStreetMap
+491,funicular,六甲摩耶鉄道,六甲摩耶鉄道六甲ケーブル線,18,mapped,OpenStreetMap
+492,funicular,南海電気鉄道,南海電気鉄道鋼索線,9,mapped,OpenStreetMap
+493,funicular,四国ケーブル,八栗ケーブル,1,mapped,OpenStreetMap
+494,funicular,小田急箱根,小田急箱根鋼索線,7,mapped,OpenStreetMap
+495,funicular,岡本製作所,岡本製作所別府ラクテンチケーブル線,6,mapped,OpenStreetMap
+496,funicular,帆柱ケーブル,帆柱ケーブル帆柱ケーブル,1,mapped,OpenStreetMap
+497,funicular,御岳登山鉄道,御岳登山鉄道,9,mapped,OpenStreetMap
+498,funicular,比叡山鉄道,比叡山鉄道,11,mapped,OpenStreetMap
+499,funicular,神戸市都市整備公社,神戸市都市整備公社営摩耶ケーブル線,3,mapped,OpenStreetMap
+500,funicular,立山黒部貫光,黒部ケーブルカー,4,mapped,OpenStreetMap
+501,funicular,財団法人青函トンネル記念館,財団法人青函トンネル記念館営青函トンネル竜飛斜坑線,3,mapped,OpenStreetMap
+502,funicular,近畿日本鉄道,西信貴ケーブル,4,mapped,OpenStreetMap
+503,funicular,近畿日本鉄道,近畿日本鉄道生駒鋼索線,7,mapped,OpenStreetMap
+504,funicular,高尾登山電鉄,高尾登山電鉄,9,mapped,OpenStreetMap
+505,guideway,,Monorail / AGT / maglev,78,mapped,OpenStreetMap
+506,guideway,,Chiba Urban Monorail Line 1,1,mapped,OpenStreetMap
+507,guideway,,あすかパークレール,2,mapped,OpenStreetMap
+508,guideway,,てんとう虫のモノレール,3,mapped,OpenStreetMap
+509,guideway,,でんでんむし,2,mapped,OpenStreetMap
+510,guideway,,ゆりかもめ,5,mapped,OpenStreetMap
+511,guideway,,ゴーカート,1,mapped,OpenStreetMap
+512,guideway,,サイクルカー,1,mapped,OpenStreetMap
+513,guideway,,サイクルモノレール,5,mapped,OpenStreetMap
+514,guideway,,スカイサイクル,2,mapped,OpenStreetMap
+515,guideway,,スカイパンダ,1,mapped,OpenStreetMap
+516,guideway,,スカイビュートレイン,7,mapped,OpenStreetMap
+517,guideway,,スペースジェット,1,mapped,OpenStreetMap
+518,guideway,,チャレンジサイクル,1,mapped,OpenStreetMap
+519,guideway,,トゥ フラワー ヒル ライド,1,mapped,OpenStreetMap
+520,guideway,,フライングシップ,1,mapped,OpenStreetMap
+521,guideway,,メルヘン号,3,mapped,OpenStreetMap
+522,guideway,,モノレールカート,1,mapped,OpenStreetMap
+523,guideway,,ルンルンバルーン,2,mapped,OpenStreetMap
+524,guideway,,中組線,3,mapped,OpenStreetMap
+525,guideway,,亀山モノレール,1,mapped,OpenStreetMap
+526,guideway,,入山モノレール,1,mapped,OpenStreetMap
+527,guideway,,奥祖谷観光周遊モノレール,2,mapped,OpenStreetMap
+528,guideway,,小型モノレール,1,mapped,OpenStreetMap
+529,guideway,,小林家住宅モノレール,1,mapped,OpenStreetMap
+530,guideway,,日向平線,1,mapped,OpenStreetMap
+531,guideway,,日暮里・舎人ライナー,1,mapped,OpenStreetMap
+532,guideway,,空輸便スカイフィッシュExpress,1,mapped,OpenStreetMap
+533,guideway,,船岡城址公園モノレール,2,mapped,OpenStreetMap
+534,guideway,,英彦山花園スロープカー,2,mapped,OpenStreetMap
+535,guideway,,茶臼山モノレール,1,mapped,OpenStreetMap
+536,guideway,,面不動モノレール,1,mapped,OpenStreetMap
+537,guideway,Chiba Urban Monorail,Chiba Urban Monorail Line 1,1,mapped,OpenStreetMap
+538,guideway,Ikuseikai Yokohama Hospital,Ikuseikai Yokohama Hospital Monorail,1,mapped,OpenStreetMap
+539,guideway,ゆりかもめ,ゆりかもめ,35,mapped,OpenStreetMap
+540,guideway,北九州高速鉄道,北九州高速鉄道小倉線,15,mapped,OpenStreetMap
+541,guideway,千葉都市モノレール,Monorail / AGT / maglev,4,mapped,OpenStreetMap
+542,guideway,千葉都市モノレール,Chiba Urban Monorail Line 2,1,mapped,OpenStreetMap
+543,guideway,千葉都市モノレール,千葉都市モノレール1号線,22,mapped,OpenStreetMap
+544,guideway,千葉都市モノレール,千葉都市モノレール2号線,34,mapped,OpenStreetMap
+545,guideway,埼玉新都市交通,埼玉新都市交通伊奈線,6,mapped,OpenStreetMap
+546,guideway,多摩都市モノレール,多摩都市モノレール,17,mapped,OpenStreetMap
+547,guideway,大阪市高速電気軌道,Osaka Metroニュートラム,24,mapped,OpenStreetMap
+548,guideway,大阪高速鉄道,大阪モノレール彩都線,46,mapped,OpenStreetMap
+549,guideway,大阪高速鉄道,大阪モノレール本線,79,mapped,OpenStreetMap
+550,guideway,天橋立総合事業株式会社,天橋立ビューランドモノレール,1,mapped,OpenStreetMap
+551,guideway,広島高速交通,広島高速交通広島新交通1号線,17,mapped,OpenStreetMap
+552,guideway,弥生の丘自然聖園,モノライダー,1,mapped,OpenStreetMap
+553,guideway,愛知高速交通,Monorail / AGT / maglev,7,mapped,OpenStreetMap
+554,guideway,愛知高速交通,愛知高速交通東部丘陵線,11,mapped,OpenStreetMap
+555,guideway,新宮あじさいグループ,あじさいモノレール,1,mapped,OpenStreetMap
+556,guideway,東京モノレール,東京モノレール,54,mapped,OpenStreetMap
+557,guideway,東京都交通局,日暮里・舎人ライナー,12,mapped,OpenStreetMap
+558,guideway,横浜シーサイドライン,横浜シーサイドライン,3,mapped,OpenStreetMap
+559,guideway,横浜シーサイドライン,横浜シーサイドライン 金沢シーサイドライン,5,mapped,OpenStreetMap
+560,guideway,横浜シーサイドライン,横浜シーサイドライン金沢シーサイドライン,5,mapped,OpenStreetMap
+561,guideway,沖縄都市モノレール (Okinawa City Monorail),沖縄都市モノレール線,12,mapped,OpenStreetMap
+562,guideway,湘南モノレール,湘南モノレール江の島線,47,mapped,OpenStreetMap
+563,guideway,熊本市動植物園,モノレール,1,mapped,OpenStreetMap
+564,guideway,神戸新交通,ポートライナー,75,mapped,OpenStreetMap
+565,guideway,神戸新交通,六甲ライナー,11,mapped,OpenStreetMap
+566,guideway,舞浜リゾートライン,ディズニーリゾートライン,4,mapped,OpenStreetMap
+567,guideway,貞昌院,まいれ～る,1,mapped,OpenStreetMap
+568,guideway,鳴門市,すろっぴースロープカー,1,mapped,OpenStreetMap
+578,jr,,JR万葉まほろば線,1,mapped,OpenStreetMap
+579,jr,,JR仙山線,1,mapped,OpenStreetMap
+580,jr,,JR函館本線,10,mapped,OpenStreetMap
+581,jr,,JR函館線;桂川トンネル,1,mapped,OpenStreetMap
+582,jr,,JR和歌山線,7,mapped,OpenStreetMap
+583,jr,,JR奥羽本線,6,mapped,OpenStreetMap
+584,jr,,JR奥羽線,1,mapped,OpenStreetMap
+585,jr,,JR小浜線,5,mapped,OpenStreetMap
+586,jr,,JR山陰線,1,mapped,OpenStreetMap
+587,jr,,JR木次線,1,mapped,OpenStreetMap
+588,jr,,JR東北本線,2,mapped,OpenStreetMap
+589,jr,,JR東金線,1,mapped,OpenStreetMap
+590,jr,,JR根室本線,5,mapped,OpenStreetMap
+591,jr,,JR津軽線,1,mapped,OpenStreetMap
+592,jr,,JR草津線,6,mapped,OpenStreetMap
+593,jr,,JR関西本線,46,mapped,OpenStreetMap
+594,jr,,JR関西空港線,1,mapped,OpenStreetMap
+595,jr,,JR関西線,1,mapped,OpenStreetMap
+596,jr,,JR高徳線,2,mapped,OpenStreetMap
+597,jr,JR Kyushu,JR山陽本線,1,mapped,OpenStreetMap
+598,jr,JR Kyushu,JR日豊本線,1,mapped,OpenStreetMap
+599,jr,JR Kyushu,JR鹿児島本線,1,mapped,OpenStreetMap
+600,jr,JR Kyushu,小倉,3,mapped,OpenStreetMap
+601,jr,JR West,JR湖西線,180,mapped,OpenStreetMap
+602,jr,JR West,サンダーバード: 敦賀 -> 大阪,2,mapped,OpenStreetMap
+603,jr,JR West,山陰本線,1,mapped,OpenStreetMap
+604,jr,JR West,山陽本線,11,mapped,OpenStreetMap
+605,jr,JR West,東海道本線,14,mapped,OpenStreetMap
+606,jr,JR四国,JR本四備讃線,28,mapped,OpenStreetMap
+607,jr,JR四国,本四備讃線,1,mapped,OpenStreetMap
+608,jr,JR東日本,JR信越線,2,mapped,OpenStreetMap
+609,jr,JR東日本,JR南武線 各駅停車,2,mapped,OpenStreetMap
+610,jr,JR東日本,JR奥羽本線,16,mapped,OpenStreetMap
+611,jr,JR西日本,JR関西空港線,2,mapped,OpenStreetMap
+612,jr,JR西日本,JR阪和線,4,mapped,OpenStreetMap
+613,jr,JR西日本,関空快速,2,mapped,OpenStreetMap
+614,jr,九州旅客鉄道,JR conventional,8,mapped,OpenStreetMap
+615,jr,九州旅客鉄道,JR三角線,63,mapped,OpenStreetMap
+616,jr,九州旅客鉄道,JR久大本線,2,mapped,OpenStreetMap
+617,jr,九州旅客鉄道,JR久大線,427,mapped,OpenStreetMap
+618,jr,九州旅客鉄道,JR佐世保線,187,mapped,OpenStreetMap
+619,jr,九州旅客鉄道,JR吉都線,114,mapped,OpenStreetMap
+620,jr,九州旅客鉄道,JR唐津線,77,mapped,OpenStreetMap
+621,jr,九州旅客鉄道,JR唐津線;JR筑肥線,6,mapped,OpenStreetMap
+622,jr,九州旅客鉄道,JR大村線,135,mapped,OpenStreetMap
+623,jr,九州旅客鉄道,JR宮崎空港線,4,mapped,OpenStreetMap
+624,jr,九州旅客鉄道,JR山陽本線,14,mapped,OpenStreetMap
+625,jr,九州旅客鉄道,JR山陽線,3,mapped,OpenStreetMap
+626,jr,九州旅客鉄道,JR後藤寺線,41,mapped,OpenStreetMap
+627,jr,九州旅客鉄道,JR指宿枕崎線,186,mapped,OpenStreetMap
+628,jr,九州旅客鉄道,JR日南線,185,mapped,OpenStreetMap
+629,jr,九州旅客鉄道,JR日田彦山線,134,mapped,OpenStreetMap
+630,jr,九州旅客鉄道,JR日豊本線,225,mapped,OpenStreetMap
+631,jr,九州旅客鉄道,JR日豊線,1515,mapped,OpenStreetMap
+632,jr,九州旅客鉄道,JR福北ゆたか線,15,mapped,OpenStreetMap
+633,jr,九州旅客鉄道,JR筑肥線,212,mapped,OpenStreetMap
+634,jr,九州旅客鉄道,JR筑肥線玉島川橋,1,mapped,OpenStreetMap
+635,jr,九州旅客鉄道,JR筑豊本線,309,mapped,OpenStreetMap
+636,jr,九州旅客鉄道,JR篠栗線,138,mapped,OpenStreetMap
+637,jr,九州旅客鉄道,JR肥薩線,93,mapped,OpenStreetMap
+638,jr,九州旅客鉄道,JR豊肥本線,296,mapped,OpenStreetMap
+639,jr,九州旅客鉄道,JR豊肥線,63,mapped,OpenStreetMap
+640,jr,九州旅客鉄道,JR長崎本線,32,mapped,OpenStreetMap
+641,jr,九州旅客鉄道,JR長崎線,659,mapped,OpenStreetMap
+642,jr,九州旅客鉄道,JR香椎線,81,mapped,OpenStreetMap
+643,jr,九州旅客鉄道,JR鹿児島本線,1121,mapped,OpenStreetMap
+644,jr,九州旅客鉄道,中州ガード,1,mapped,OpenStreetMap
+645,jr,九州旅客鉄道,二ノ尾トンネル,1,mapped,OpenStreetMap
+646,jr,九州旅客鉄道,仏崎トンネル,2,mapped,OpenStreetMap
+647,jr,九州旅客鉄道,博多臨港線,2,mapped,OpenStreetMap
+648,jr,九州旅客鉄道,市浜ガード,1,mapped,OpenStreetMap
+649,jr,九州旅客鉄道,新立石トンネル,1,mapped,OpenStreetMap
+650,jr,九州旅客鉄道,日豊本線,12,mapped,OpenStreetMap
+651,jr,九州旅客鉄道,特急「にちりん」,5,mapped,OpenStreetMap
+652,jr,九州旅客鉄道,茅場トンネル,2,mapped,OpenStreetMap
+653,jr,九州旅客鉄道,葛トンネル,1,mapped,OpenStreetMap
+654,jr,九州旅客鉄道,長崎本線 普通,1,mapped,OpenStreetMap
+655,jr,九州旅客鉄道,陣田我王トンネル,1,mapped,OpenStreetMap
+656,jr,九州旅客鉄道,高崎山トンネル,1,mapped,OpenStreetMap
+657,jr,九州旅客鉄道,鹿児島本線,2,mapped,OpenStreetMap
+658,jr,井原鉄道;西日本旅客鉄道,井原鉄道井原線,3,mapped,OpenStreetMap
+659,jr,北海道旅客鉄道,JR conventional,39,mapped,OpenStreetMap
+660,jr,北海道旅客鉄道,JR函館本線,885,mapped,OpenStreetMap
+661,jr,北海道旅客鉄道,JR函館本線伊納第一トンネル,2,mapped,OpenStreetMap
+662,jr,北海道旅客鉄道,JR函館本線伊納第三トンネル,2,mapped,OpenStreetMap
+663,jr,北海道旅客鉄道,JR函館本線伊納第二トンネル,2,mapped,OpenStreetMap
+664,jr,北海道旅客鉄道,JR函館本線嵐山トンネル,2,mapped,OpenStreetMap
+665,jr,北海道旅客鉄道,JR函館本線神居トンネル,2,mapped,OpenStreetMap
+666,jr,北海道旅客鉄道,JR函館線;JR函館線桂川トンネル,1,mapped,OpenStreetMap
+667,jr,北海道旅客鉄道,JR函館線;桂川トンネル,1,mapped,OpenStreetMap
+668,jr,北海道旅客鉄道,JR函館線;池田園トンネル,1,mapped,OpenStreetMap
+669,jr,北海道旅客鉄道,JR千歳線,10,mapped,OpenStreetMap
+670,jr,北海道旅客鉄道,JR宗谷本線,348,mapped,OpenStreetMap
+671,jr,北海道旅客鉄道,JR富良野線,75,mapped,OpenStreetMap
+672,jr,北海道旅客鉄道,JR日高本線,24,mapped,OpenStreetMap
+673,jr,北海道旅客鉄道,JR札沼線,3,mapped,OpenStreetMap
+674,jr,北海道旅客鉄道,JR根室本線,395,mapped,OpenStreetMap
+675,jr,北海道旅客鉄道,JR石勝線,224,mapped,OpenStreetMap
+676,jr,北海道旅客鉄道,JR石北本線,238,mapped,OpenStreetMap
+677,jr,北海道旅客鉄道,JR石北線 北見トンネル,1,mapped,OpenStreetMap
+678,jr,北海道旅客鉄道,JR釧網本線,1,mapped,OpenStreetMap
+679,jr,北海道旅客鉄道,元室蘭トンネル,2,mapped,OpenStreetMap
+680,jr,北海道旅客鉄道,函館本線,9,mapped,OpenStreetMap
+681,jr,北海道旅客鉄道,千歳線,217,mapped,OpenStreetMap
+682,jr,北海道旅客鉄道,大岸トンネル,2,mapped,OpenStreetMap
+683,jr,北海道旅客鉄道,室蘭本線,520,mapped,OpenStreetMap
+684,jr,北海道旅客鉄道,快速 エアポート,2,mapped,OpenStreetMap
+685,jr,北海道旅客鉄道,日本最北端の線路,1,mapped,OpenStreetMap
+686,jr,北海道旅客鉄道,札沼線,56,mapped,OpenStreetMap
+687,jr,北海道旅客鉄道,海峡線,24,mapped,OpenStreetMap
+688,jr,北海道旅客鉄道,特急 おおぞら,1,mapped,OpenStreetMap
+689,jr,北海道旅客鉄道,特急 北斗,45,mapped,OpenStreetMap
+690,jr,北海道旅客鉄道,石勝線,63,mapped,OpenStreetMap
+691,jr,北海道旅客鉄道,釧網本線,100,mapped,OpenStreetMap
+692,jr,四国旅客鉄道,JR conventional,6,mapped,OpenStreetMap
+693,jr,四国旅客鉄道,JR予土線,176,mapped,OpenStreetMap
+694,jr,四国旅客鉄道,JR予讃線,889,mapped,OpenStreetMap
+695,jr,四国旅客鉄道,JR予讃線;北山トンネル,1,mapped,OpenStreetMap
+696,jr,四国旅客鉄道,JR予讃線・JR内子線,28,mapped,OpenStreetMap
+697,jr,四国旅客鉄道,JR内子線,1,mapped,OpenStreetMap
+698,jr,四国旅客鉄道,JR土讃線,481,mapped,OpenStreetMap
+699,jr,四国旅客鉄道,JR土讃線 伊予川橋梁,1,mapped,OpenStreetMap
+700,jr,四国旅客鉄道,JR土讃線 第一吉野川橋梁,1,mapped,OpenStreetMap
+701,jr,四国旅客鉄道,JR徳島線,232,mapped,OpenStreetMap
+702,jr,四国旅客鉄道,JR本四備讃線,6,mapped,OpenStreetMap
+703,jr,四国旅客鉄道,JR牟岐線,335,mapped,OpenStreetMap
+704,jr,四国旅客鉄道,JR高徳線,210,mapped,OpenStreetMap
+705,jr,四国旅客鉄道,JR鳴門線,22,mapped,OpenStreetMap
+706,jr,四国旅客鉄道,うずしお,9,mapped,OpenStreetMap
+707,jr,四国旅客鉄道,しおかぜ,6,mapped,OpenStreetMap
+708,jr,四国旅客鉄道,予讃線,23,mapped,OpenStreetMap
+709,jr,四国旅客鉄道,内子線,18,mapped,OpenStreetMap
+710,jr,四国旅客鉄道,南風,2,mapped,OpenStreetMap
+711,jr,四国旅客鉄道,吉野川橋梁,1,mapped,OpenStreetMap
+712,jr,四国旅客鉄道,大杉トンネル,1,mapped,OpenStreetMap
+713,jr,四国旅客鉄道,穂岐山トンネル,1,mapped,OpenStreetMap
+714,jr,四国旅客鉄道,高徳線,74,mapped,OpenStreetMap
+715,jr,四国旅客鉄道,鳥越トンネル,1,mapped,OpenStreetMap
+716,jr,四国旅客鉄道株式会社,JR予讃線,1,mapped,OpenStreetMap
+717,jr,東日本旅客鉄道,JR conventional,61,mapped,OpenStreetMap
+718,jr,東日本旅客鉄道,EF63基地線,1,mapped,OpenStreetMap
+719,jr,東日本旅客鉄道,JR中央線,3,mapped,OpenStreetMap
+720,jr,東日本旅客鉄道,JR五能線,178,mapped,OpenStreetMap
+721,jr,東日本旅客鉄道,JR京浜東北線,14,mapped,OpenStreetMap
+722,jr,東日本旅客鉄道,JR京葉線,123,mapped,OpenStreetMap
+723,jr,東日本旅客鉄道,JR仙山線,136,mapped,OpenStreetMap
+724,jr,東日本旅客鉄道,JR仙山線仙山トンネル,1,mapped,OpenStreetMap
+725,jr,東日本旅客鉄道,JR仙石線,200,mapped,OpenStreetMap
+726,jr,東日本旅客鉄道,JR仙石線・東北本線接続線,1,mapped,OpenStreetMap
+727,jr,東日本旅客鉄道,JR伊東線,3,mapped,OpenStreetMap
+728,jr,東日本旅客鉄道,JR信越線,8,mapped,OpenStreetMap
+729,jr,東日本旅客鉄道,JR八戸線,80,mapped,OpenStreetMap
+730,jr,東日本旅客鉄道,JR内房線,338,mapped,OpenStreetMap
+731,jr,東日本旅客鉄道,JR北上線,107,mapped,OpenStreetMap
+732,jr,東日本旅客鉄道,JR南武線,195,mapped,OpenStreetMap
+733,jr,東日本旅客鉄道,JR南武線;府中本町;1番線,1,mapped,OpenStreetMap
+734,jr,東日本旅客鉄道,JR南武線;府中本町;4番線,1,mapped,OpenStreetMap
+735,jr,東日本旅客鉄道,JR南武線;稲城長沼;1番線,1,mapped,OpenStreetMap
+736,jr,東日本旅客鉄道,JR南武線;稲城長沼;4番線,1,mapped,OpenStreetMap
+737,jr,東日本旅客鉄道,JR南武線浜川崎支線 普通,6,mapped,OpenStreetMap
+738,jr,東日本旅客鉄道,JR只見線,297,mapped,OpenStreetMap
+739,jr,東日本旅客鉄道,JR埼京線,10,mapped,OpenStreetMap
+740,jr,東日本旅客鉄道,JR外房・内房線,21,mapped,OpenStreetMap
+741,jr,東日本旅客鉄道,JR外房線,255,mapped,OpenStreetMap
+742,jr,東日本旅客鉄道,JR大湊線,26,mapped,OpenStreetMap
+743,jr,東日本旅客鉄道,JR大糸線,163,mapped,OpenStreetMap
+744,jr,東日本旅客鉄道,JR大船渡線,93,mapped,OpenStreetMap
+745,jr,東日本旅客鉄道,JR奥羽本線,756,mapped,OpenStreetMap
+746,jr,東日本旅客鉄道,JR奥羽本線、JR仙山線,1,mapped,OpenStreetMap
+747,jr,東日本旅客鉄道,JR奥羽線,12,mapped,OpenStreetMap
+748,jr,東日本旅客鉄道,JR宇都宮線,4,mapped,OpenStreetMap
+749,jr,東日本旅客鉄道,JR小海線,166,mapped,OpenStreetMap
+750,jr,東日本旅客鉄道,JR山田線,201,mapped,OpenStreetMap
+751,jr,東日本旅客鉄道,JR山田線 第一門神トンネル,1,mapped,OpenStreetMap
+752,jr,東日本旅客鉄道,JR山田線 第三門神トンネル,1,mapped,OpenStreetMap
+753,jr,東日本旅客鉄道,JR山田線 第二門神トンネル,1,mapped,OpenStreetMap
+754,jr,東日本旅客鉄道,JR左沢線,45,mapped,OpenStreetMap
+755,jr,東日本旅客鉄道,JR常磐線,15,mapped,OpenStreetMap
+756,jr,東日本旅客鉄道,JR成田線,26,mapped,OpenStreetMap
+757,jr,東日本旅客鉄道,JR成田線 我孫子支線,2,mapped,OpenStreetMap
+758,jr,東日本旅客鉄道,JR日光線,61,mapped,OpenStreetMap
+759,jr,東日本旅客鉄道,JR東北本線,2106,mapped,OpenStreetMap
+760,jr,東日本旅客鉄道,JR東北線,26,mapped,OpenStreetMap
+761,jr,東日本旅客鉄道,JR東海道本線,1,mapped,OpenStreetMap
+762,jr,東日本旅客鉄道,JR東金線,21,mapped,OpenStreetMap
+763,jr,東日本旅客鉄道,JR横浜線,196,mapped,OpenStreetMap
+764,jr,東日本旅客鉄道,JR横浜線;橋本;1番線,2,mapped,OpenStreetMap
+765,jr,東日本旅客鉄道,JR横浜線;橋本;3番線,2,mapped,OpenStreetMap
+766,jr,東日本旅客鉄道,JR横須賀線,168,mapped,OpenStreetMap
+767,jr,東日本旅客鉄道,JR武蔵野線,427,mapped,OpenStreetMap
+768,jr,東日本旅客鉄道,JR気仙沼線,32,mapped,OpenStreetMap
+769,jr,東日本旅客鉄道,JR水戸線,115,mapped,OpenStreetMap
+770,jr,東日本旅客鉄道,JR水郡線,228,mapped,OpenStreetMap
+771,jr,東日本旅客鉄道,JR津軽線,31,mapped,OpenStreetMap
+772,jr,東日本旅客鉄道,JR烏山線,65,mapped,OpenStreetMap
+773,jr,東日本旅客鉄道,JR田沢湖線,7,mapped,OpenStreetMap
+774,jr,東日本旅客鉄道,JR男鹿線,16,mapped,OpenStreetMap
+775,jr,東日本旅客鉄道,JR白新線,89,mapped,OpenStreetMap
+776,jr,東日本旅客鉄道,JR相模線,5,mapped,OpenStreetMap
+777,jr,東日本旅客鉄道,JR相模線;橋本;4番線,2,mapped,OpenStreetMap
+778,jr,東日本旅客鉄道,JR石巻線,64,mapped,OpenStreetMap
+779,jr,東日本旅客鉄道,JR磐越東線,158,mapped,OpenStreetMap
+780,jr,東日本旅客鉄道,JR磐越西線,217,mapped,OpenStreetMap
+781,jr,東日本旅客鉄道,JR磐越西線 沼田こ道橋,1,mapped,OpenStreetMap
+782,jr,東日本旅客鉄道,JR篠ノ井線,40,mapped,OpenStreetMap
+783,jr,東日本旅客鉄道,JR米坂線,237,mapped,OpenStreetMap
+784,jr,東日本旅客鉄道,JR羽越本線,1,mapped,OpenStreetMap
+785,jr,東日本旅客鉄道,JR羽越線,998,mapped,OpenStreetMap
+786,jr,東日本旅客鉄道,JR花輪線,178,mapped,OpenStreetMap
+787,jr,東日本旅客鉄道,JR越後線,111,mapped,OpenStreetMap
+788,jr,東日本旅客鉄道,JR釜石線,115,mapped,OpenStreetMap
+789,jr,東日本旅客鉄道,JR陸羽東線,137,mapped,OpenStreetMap
+790,jr,東日本旅客鉄道,JR陸羽西線,72,mapped,OpenStreetMap
+791,jr,東日本旅客鉄道,JR青梅短絡線,9,mapped,OpenStreetMap
+792,jr,東日本旅客鉄道,JR青梅線,143,mapped,OpenStreetMap
+793,jr,東日本旅客鉄道,JR飯山線,145,mapped,OpenStreetMap
+794,jr,東日本旅客鉄道,JR高崎線,10,mapped,OpenStreetMap
+795,jr,東日本旅客鉄道,JR鶴見線,41,mapped,OpenStreetMap
+796,jr,東日本旅客鉄道,JR鶴見線 大川支線,3,mapped,OpenStreetMap
+797,jr,東日本旅客鉄道,JR鶴見線 海芝浦支線,2,mapped,OpenStreetMap
+798,jr,東日本旅客鉄道,QT線,3,mapped,OpenStreetMap
+799,jr,東日本旅客鉄道,Sotetsu: Shinjuku,1,mapped,OpenStreetMap
+800,jr,東日本旅客鉄道,こまち列車,1,mapped,OpenStreetMap
+801,jr,東日本旅客鉄道,しなの,1,mapped,OpenStreetMap
+802,jr,東日本旅客鉄道,たにがわ: 越後湯沢,2,mapped,OpenStreetMap
+803,jr,東日本旅客鉄道,ゆうゆうあぶくまライン,1,mapped,OpenStreetMap
+804,jr,東日本旅客鉄道,ミニシャトル,3,mapped,OpenStreetMap
+805,jr,東日本旅客鉄道,上越線,552,mapped,OpenStreetMap
+806,jr,東日本旅客鉄道,上野東京ライン,1,mapped,OpenStreetMap
+807,jr,東日本旅客鉄道,両毛線,191,mapped,OpenStreetMap
+808,jr,東日本旅客鉄道,中央・総武緩行線,4,mapped,OpenStreetMap
+809,jr,東日本旅客鉄道,中央本線,1057,mapped,OpenStreetMap
+810,jr,東日本旅客鉄道,中央緩行線,218,mapped,OpenStreetMap
+811,jr,東日本旅客鉄道,中山トンネル,2,mapped,OpenStreetMap
+812,jr,東日本旅客鉄道,五日市線,19,mapped,OpenStreetMap
+813,jr,東日本旅客鉄道,京浜東北線,379,mapped,OpenStreetMap
+814,jr,東日本旅客鉄道,京浜東北線;佐久間架道橋,2,mapped,OpenStreetMap
+815,jr,東日本旅客鉄道,仙山線,1,mapped,OpenStreetMap
+816,jr,東日本旅客鉄道,伊東線,50,mapped,OpenStreetMap
+817,jr,東日本旅客鉄道,信越本線,460,mapped,OpenStreetMap
+818,jr,東日本旅客鉄道,八高線,252,mapped,OpenStreetMap
+819,jr,東日本旅客鉄道,内房線,20,mapped,OpenStreetMap
+820,jr,東日本旅客鉄道,原谷トンネル,1,mapped,OpenStreetMap
+821,jr,東日本旅客鉄道,吾妻線,171,mapped,OpenStreetMap
+822,jr,東日本旅客鉄道,外房線,73,mapped,OpenStreetMap
+823,jr,東日本旅客鉄道,大崎支線,31,mapped,OpenStreetMap
+824,jr,東日本旅客鉄道,奥羽本線,23,mapped,OpenStreetMap
+825,jr,東日本旅客鉄道,山手線,431,mapped,OpenStreetMap
+826,jr,東日本旅客鉄道,山手線;佐久間架道橋,2,mapped,OpenStreetMap
+827,jr,東日本旅客鉄道,山手線;新宿大ガード,2,mapped,OpenStreetMap
+828,jr,東日本旅客鉄道,山手貨物線,295,mapped,OpenStreetMap
+829,jr,東日本旅客鉄道,山田線,2,mapped,OpenStreetMap
+830,jr,東日本旅客鉄道,川越線,87,mapped,OpenStreetMap
+831,jr,東日本旅客鉄道,常磐快速線,38,mapped,OpenStreetMap
+832,jr,東日本旅客鉄道,常磐線,1343,mapped,OpenStreetMap
+833,jr,東日本旅客鉄道,常磐緩行線,3,mapped,OpenStreetMap
+834,jr,東日本旅客鉄道,弥彦線,49,mapped,OpenStreetMap
+835,jr,東日本旅客鉄道,成田線,130,mapped,OpenStreetMap
+836,jr,東日本旅客鉄道,新榎峠トンネル,1,mapped,OpenStreetMap
+837,jr,東日本旅客鉄道,早戸トンネル,1,mapped,OpenStreetMap
+838,jr,東日本旅客鉄道,東京臨海高速鉄道りんかい線,2,mapped,OpenStreetMap
+839,jr,東日本旅客鉄道,東北本線,74,mapped,OpenStreetMap
+840,jr,東日本旅客鉄道,東海道本線,506,mapped,OpenStreetMap
+841,jr,東日本旅客鉄道,東海道貨物線,28,mapped,OpenStreetMap
+842,jr,東日本旅客鉄道,東金線,1,mapped,OpenStreetMap
+843,jr,東日本旅客鉄道,根岸線,224,mapped,OpenStreetMap
+844,jr,東日本旅客鉄道,榎峠トンネル,1,mapped,OpenStreetMap
+845,jr,東日本旅客鉄道,武豊線,2,mapped,OpenStreetMap
+846,jr,東日本旅客鉄道,津軽線,52,mapped,OpenStreetMap
+847,jr,東日本旅客鉄道,湘南新宿ライン,3,mapped,OpenStreetMap
+848,jr,東日本旅客鉄道,滝原トンネル,1,mapped,OpenStreetMap
+849,jr,東日本旅客鉄道,相模線,1,mapped,OpenStreetMap
+850,jr,東日本旅客鉄道,相鉄・JR直通線,1,mapped,OpenStreetMap
+851,jr,東日本旅客鉄道,着発9番,1,mapped,OpenStreetMap
+852,jr,東日本旅客鉄道,神奈川臨海鉄道本牧線,1,mapped,OpenStreetMap
+853,jr,東日本旅客鉄道,第1和賀川橋梁,1,mapped,OpenStreetMap
+854,jr,東日本旅客鉄道,第2和賀川橋梁,1,mapped,OpenStreetMap
+855,jr,東日本旅客鉄道,第5和賀川橋梁,1,mapped,OpenStreetMap
+856,jr,東日本旅客鉄道,篠ノ井線,78,mapped,OpenStreetMap
+857,jr,東日本旅客鉄道,米山第一トンネル,1,mapped,OpenStreetMap
+858,jr,東日本旅客鉄道,米山第二トンネル,1,mapped,OpenStreetMap
+859,jr,東日本旅客鉄道,総武本線,264,mapped,OpenStreetMap
+860,jr,東日本旅客鉄道,総武緩行線,151,mapped,OpenStreetMap
+861,jr,東日本旅客鉄道,西田架道橋,2,mapped,OpenStreetMap
+862,jr,東日本旅客鉄道,赤羽線,58,mapped,OpenStreetMap
+863,jr,東日本旅客鉄道,越中島支線,69,mapped,OpenStreetMap
+864,jr,東日本旅客鉄道,越後線,8,mapped,OpenStreetMap
+865,jr,東日本旅客鉄道,鉄道博物館 ミニ運転列車,5,mapped,OpenStreetMap
+866,jr,東日本旅客鉄道,青梅線,1,mapped,OpenStreetMap
+867,jr,東日本旅客鉄道,飯山線,1,mapped,OpenStreetMap
+868,jr,東日本旅客鉄道,高崎線,183,mapped,OpenStreetMap
+869,jr,東日本旅客鉄道,鹿島線,54,mapped,OpenStreetMap
+870,jr,東日本旅客鉄道,鹿島臨海鉄道大洗鹿島線,3,mapped,OpenStreetMap
+871,jr,東日本旅客鉄道 (East Japan Railway),JR conventional,2,mapped,OpenStreetMap
+872,jr,東日本旅客鉄道 (East Japan Railway),JR京葉線,9,mapped,OpenStreetMap
+873,jr,東日本旅客鉄道 (East Japan Railway),JR外房線,1,mapped,OpenStreetMap
+874,jr,東日本旅客鉄道 (East Japan Railway),JR東北本線,7,mapped,OpenStreetMap
+875,jr,東日本旅客鉄道 (East Japan Railway),JR東北線,5,mapped,OpenStreetMap
+876,jr,東日本旅客鉄道 (East Japan Railway),JR横浜線,3,mapped,OpenStreetMap
+877,jr,東日本旅客鉄道 (East Japan Railway),JR相模線,90,mapped,OpenStreetMap
+878,jr,東日本旅客鉄道 (East Japan Railway),JR青梅線,4,mapped,OpenStreetMap
+879,jr,東日本旅客鉄道 (East Japan Railway),JR鹿島線,1,mapped,OpenStreetMap
+880,jr,東日本旅客鉄道 (East Japan Railway),大崎支線,2,mapped,OpenStreetMap
+881,jr,東日本旅客鉄道 (East Japan Railway),常磐線,61,mapped,OpenStreetMap
+882,jr,東日本旅客鉄道 (East Japan Railway),御殿場線,1,mapped,OpenStreetMap
+883,jr,東日本旅客鉄道 (East Japan Railway),東北本線,24,mapped,OpenStreetMap
+884,jr,東日本旅客鉄道 (East Japan Railway),東海道本線,202,mapped,OpenStreetMap
+885,jr,東日本旅客鉄道 (East Japan Railway),湘南新宿ライン;新宿大ガード,1,mapped,OpenStreetMap
+886,jr,東日本旅客鉄道 (East Japan Railway),相模線,4,mapped,OpenStreetMap
+887,jr,東日本旅客鉄道 (JR East),JR久留里線,26,mapped,OpenStreetMap
+888,jr,東日本旅客鉄道 (JR East),R久留里線,9,mapped,OpenStreetMap
+889,jr,東海旅客鉄道,JR conventional,12,mapped,OpenStreetMap
+890,jr,東海旅客鉄道,JR中央線,2,mapped,OpenStreetMap
+891,jr,東海旅客鉄道,JR参宮線,52,mapped,OpenStreetMap
+892,jr,東海旅客鉄道,JR名松線,119,mapped,OpenStreetMap
+893,jr,東海旅客鉄道,JR太多線,56,mapped,OpenStreetMap
+894,jr,東海旅客鉄道,JR御殿場線,1,mapped,OpenStreetMap
+895,jr,東海旅客鉄道,JR東海道本線,6,mapped,OpenStreetMap
+896,jr,東海旅客鉄道,JR武豊線,46,mapped,OpenStreetMap
+897,jr,東海旅客鉄道,JR紀勢本線,7,mapped,OpenStreetMap
+898,jr,東海旅客鉄道,JR紀勢線,430,mapped,OpenStreetMap
+899,jr,東海旅客鉄道,JR身延線,390,mapped,OpenStreetMap
+900,jr,東海旅客鉄道,JR関西本線,236,mapped,OpenStreetMap
+901,jr,東海旅客鉄道,JR関西線,8,mapped,OpenStreetMap
+902,jr,東海旅客鉄道,JR飯田線,696,mapped,OpenStreetMap
+903,jr,東海旅客鉄道,JR高山線,5,mapped,OpenStreetMap
+904,jr,東海旅客鉄道,ひだ,1,mapped,OpenStreetMap
+905,jr,東海旅客鉄道,中央本線,901,mapped,OpenStreetMap
+906,jr,東海旅客鉄道,名古屋臨海高速鉄道西名古屋港線,1,mapped,OpenStreetMap
+907,jr,東海旅客鉄道,名古屋鉄道名古屋本線,3,mapped,OpenStreetMap
+908,jr,東海旅客鉄道,名古屋鉄道常滑線,5,mapped,OpenStreetMap
+909,jr,東海旅客鉄道,名鉄名古屋本線,3,mapped,OpenStreetMap
+910,jr,東海旅客鉄道,大原トンネル,1,mapped,OpenStreetMap
+911,jr,東海旅客鉄道,岳南電車岳南線,1,mapped,OpenStreetMap
+912,jr,東海旅客鉄道,御殿場線,152,mapped,OpenStreetMap
+913,jr,東海旅客鉄道,東海道本線,1547,mapped,OpenStreetMap
+914,jr,東海旅客鉄道,武豊線,11,mapped,OpenStreetMap
+915,jr,東海旅客鉄道,飯田線,36,mapped,OpenStreetMap
+916,jr,東海旅客鉄道,高山本線,495,mapped,OpenStreetMap
+917,jr,東海旅客鉄道株式会社,のぞみ,11,mapped,OpenStreetMap
+918,jr,西日本旅客鉄道,JR conventional,39,mapped,OpenStreetMap
+919,jr,西日本旅客鉄道,JR Akō Line,4,mapped,OpenStreetMap
+920,jr,西日本旅客鉄道,JR 山陰本線,1,mapped,OpenStreetMap
+921,jr,西日本旅客鉄道,JRおおさか東線,40,mapped,OpenStreetMap
+922,jr,西日本旅客鉄道,JRゆめ咲線,1,mapped,OpenStreetMap
+923,jr,西日本旅客鉄道,JR七尾線,87,mapped,OpenStreetMap
+924,jr,西日本旅客鉄道,JR万葉まほろば線,202,mapped,OpenStreetMap
+925,jr,西日本旅客鉄道,JR伯備線,415,mapped,OpenStreetMap
+926,jr,西日本旅客鉄道,JR伯備線;佐川トンネル,1,mapped,OpenStreetMap
+927,jr,西日本旅客鉄道,JR伯備線;白尾トンネル,1,mapped,OpenStreetMap
+928,jr,西日本旅客鉄道,JR加古川線,75,mapped,OpenStreetMap
+929,jr,西日本旅客鉄道,JR北陸本線,4,mapped,OpenStreetMap
+930,jr,西日本旅客鉄道,JR可部線,71,mapped,OpenStreetMap
+931,jr,西日本旅客鉄道,JR吉備線,141,mapped,OpenStreetMap
+932,jr,西日本旅客鉄道,JR呉線,352,mapped,OpenStreetMap
+933,jr,西日本旅客鉄道,JR呉線;小松原トンネル,1,mapped,OpenStreetMap
+934,jr,西日本旅客鉄道,JR和歌山線,261,mapped,OpenStreetMap
+935,jr,西日本旅客鉄道,JR因美線,198,mapped,OpenStreetMap
+936,jr,西日本旅客鉄道,JR因美線;大ヶ原トンネル,1,mapped,OpenStreetMap
+937,jr,西日本旅客鉄道,JR因美線;物見トンネル,1,mapped,OpenStreetMap
+938,jr,西日本旅客鉄道,JR城端線,52,mapped,OpenStreetMap
+939,jr,西日本旅客鉄道,JR境線,23,mapped,OpenStreetMap
+940,jr,西日本旅客鉄道,JR大和路線,317,mapped,OpenStreetMap
+941,jr,西日本旅客鉄道,JR大糸線,100,mapped,OpenStreetMap
+942,jr,西日本旅客鉄道,JR大阪環状線,1,mapped,OpenStreetMap
+943,jr,西日本旅客鉄道,JR奈良線,323,mapped,OpenStreetMap
+944,jr,西日本旅客鉄道,JR姫新線,450,mapped,OpenStreetMap
+945,jr,西日本旅客鉄道,JR姫新線; 傍示トンネル,1,mapped,OpenStreetMap
+946,jr,西日本旅客鉄道,JR姫新線;才乢トンネル,2,mapped,OpenStreetMap
+947,jr,西日本旅客鉄道,JR学研都市線,1,mapped,OpenStreetMap
+948,jr,西日本旅客鉄道,JR宇部線,105,mapped,OpenStreetMap
+949,jr,西日本旅客鉄道,JR宇野線,210,mapped,OpenStreetMap
+950,jr,西日本旅客鉄道,JR宇野線 島田高架橋,3,mapped,OpenStreetMap
+951,jr,西日本旅客鉄道,JR小浜線,212,mapped,OpenStreetMap
+952,jr,西日本旅客鉄道,JR小野田線,34,mapped,OpenStreetMap
+953,jr,西日本旅客鉄道,JR山口線,205,mapped,OpenStreetMap
+954,jr,西日本旅客鉄道,JR山陰本線,9,mapped,OpenStreetMap
+955,jr,西日本旅客鉄道,JR山陰線,1955,mapped,OpenStreetMap
+956,jr,西日本旅客鉄道,JR山陰線;中山トンネル,1,mapped,OpenStreetMap
+957,jr,西日本旅客鉄道,JR山陰線;仏坂トンネル,1,mapped,OpenStreetMap
+958,jr,西日本旅客鉄道,JR山陰線;仕立トンネル,1,mapped,OpenStreetMap
+959,jr,西日本旅客鉄道,JR山陰線;佐古峠トンネル,1,mapped,OpenStreetMap
+960,jr,西日本旅客鉄道,JR山陰線;円山川橋りょう,1,mapped,OpenStreetMap
+961,jr,西日本旅客鉄道,JR山陰線;夜久野トンネル,1,mapped,OpenStreetMap
+962,jr,西日本旅客鉄道,JR山陰線;大刈トンネル,1,mapped,OpenStreetMap
+963,jr,西日本旅客鉄道,JR山陰線;尾ヶ崎トンネル,1,mapped,OpenStreetMap
+964,jr,西日本旅客鉄道,JR山陰線;居組トンネル,1,mapped,OpenStreetMap
+965,jr,西日本旅客鉄道,JR山陰線;於伊呂トンネル,1,mapped,OpenStreetMap
+966,jr,西日本旅客鉄道,JR山陰線;暮坂トンネル,1,mapped,OpenStreetMap
+967,jr,西日本旅客鉄道,JR山陰線;木与トンネル,1,mapped,OpenStreetMap
+968,jr,西日本旅客鉄道,JR山陰線;桃観トンネル,1,mapped,OpenStreetMap
+969,jr,西日本旅客鉄道,JR山陰線;第一釜屋トンネル,1,mapped,OpenStreetMap
+970,jr,西日本旅客鉄道,JR山陰線;花見峠トンネル,1,mapped,OpenStreetMap
+971,jr,西日本旅客鉄道,JR山陰線;虫尾トンネル,1,mapped,OpenStreetMap
+972,jr,西日本旅客鉄道,JR山陰線　陸上鉄橋,1,mapped,OpenStreetMap
+973,jr,西日本旅客鉄道,JR山陽本線,1646,mapped,OpenStreetMap
+974,jr,西日本旅客鉄道,JR山陽線,70,mapped,OpenStreetMap
+975,jr,西日本旅客鉄道,JR岩徳線,110,mapped,OpenStreetMap
+976,jr,西日本旅客鉄道,JR播但線,89,mapped,OpenStreetMap
+977,jr,西日本旅客鉄道,JR木次線,219,mapped,OpenStreetMap
+978,jr,西日本旅客鉄道,JR本四備讃線,35,mapped,OpenStreetMap
+979,jr,西日本旅客鉄道,JR東海道本線,18,mapped,OpenStreetMap
+980,jr,西日本旅客鉄道,JR東海道本線普通,4,mapped,OpenStreetMap
+981,jr,西日本旅客鉄道,JR東海道線,10,mapped,OpenStreetMap
+982,jr,西日本旅客鉄道,JR東西線,55,mapped,OpenStreetMap
+983,jr,西日本旅客鉄道,JR氷見線,40,mapped,OpenStreetMap
+984,jr,西日本旅客鉄道,JR津山線,196,mapped,OpenStreetMap
+985,jr,西日本旅客鉄道,JR湖西線,464,mapped,OpenStreetMap
+986,jr,西日本旅客鉄道,JR福塩線,246,mapped,OpenStreetMap
+987,jr,西日本旅客鉄道,JR福知山線,410,mapped,OpenStreetMap
+988,jr,西日本旅客鉄道,JR紀勢線,742,mapped,OpenStreetMap
+989,jr,西日本旅客鉄道,JR舞鶴線,71,mapped,OpenStreetMap
+990,jr,西日本旅客鉄道,JR舞鶴線・京都丹後鉄道宮舞線,1,mapped,OpenStreetMap
+991,jr,西日本旅客鉄道,JR芸備線,404,mapped,OpenStreetMap
+992,jr,西日本旅客鉄道,JR草津線,107,mapped,OpenStreetMap
+993,jr,西日本旅客鉄道,JR赤穂線,163,mapped,OpenStreetMap
+994,jr,西日本旅客鉄道,JR越美北線,146,mapped,OpenStreetMap
+995,jr,西日本旅客鉄道,JR関西本線,27,mapped,OpenStreetMap
+996,jr,西日本旅客鉄道,JR関西空港線,18,mapped,OpenStreetMap
+997,jr,西日本旅客鉄道,JR関西空港線;南海電気鉄道空港線,25,mapped,OpenStreetMap
+998,jr,西日本旅客鉄道,JR関西線,158,mapped,OpenStreetMap
+999,jr,西日本旅客鉄道,JR阪和線,452,mapped,OpenStreetMap
+1000,jr,西日本旅客鉄道,JR阪和線東羽衣支線,7,mapped,OpenStreetMap
+1001,jr,西日本旅客鉄道,SLスチーム号線路,2,mapped,OpenStreetMap
+1002,jr,西日本旅客鉄道,いなば,1,mapped,OpenStreetMap
+1003,jr,西日本旅客鉄道,おおさか東線,183,mapped,OpenStreetMap
+1004,jr,西日本旅客鉄道,きのさき:,1,mapped,OpenStreetMap
+1005,jr,西日本旅客鉄道,こうのとり,1,mapped,OpenStreetMap
+1006,jr,西日本旅客鉄道,はまかぜ,1,mapped,OpenStreetMap
+1007,jr,西日本旅客鉄道,スーパーおき3号,15,mapped,OpenStreetMap
+1008,jr,西日本旅客鉄道,スーパーおき4号,4,mapped,OpenStreetMap
+1009,jr,西日本旅客鉄道,スーパーおき6号,9,mapped,OpenStreetMap
+1010,jr,西日本旅客鉄道,二重坂トンネル,1,mapped,OpenStreetMap
+1011,jr,西日本旅客鉄道,余部橋梁,1,mapped,OpenStreetMap
+1012,jr,西日本旅客鉄道,北方貨物線,8,mapped,OpenStreetMap
+1013,jr,西日本旅客鉄道,北陸本線,290,mapped,OpenStreetMap
+1014,jr,西日本旅客鉄道,城端線,2,mapped,OpenStreetMap
+1015,jr,西日本旅客鉄道,大阪環状線,190,mapped,OpenStreetMap
+1016,jr,西日本旅客鉄道,山陰本線,15,mapped,OpenStreetMap
+1017,jr,西日本旅客鉄道,山陰線;第二釜屋トンネル,1,mapped,OpenStreetMap
+1018,jr,西日本旅客鉄道,山陽本線,861,mapped,OpenStreetMap
+1019,jr,西日本旅客鉄道,新岸田川橋梁,1,mapped,OpenStreetMap
+1020,jr,西日本旅客鉄道,明年トンネル,1,mapped,OpenStreetMap
+1021,jr,西日本旅客鉄道,東下谷トンネル,1,mapped,OpenStreetMap
+1022,jr,西日本旅客鉄道,東海道本線,1437,mapped,OpenStreetMap
+1023,jr,西日本旅客鉄道,桜島線,32,mapped,OpenStreetMap
+1024,jr,西日本旅客鉄道,梅田貨物線,61,mapped,OpenStreetMap
+1025,jr,西日本旅客鉄道,榎峠トンネル,1,mapped,OpenStreetMap
+1026,jr,西日本旅客鉄道,構内トンネル,1,mapped,OpenStreetMap
+1027,jr,西日本旅客鉄道,湖西線,17,mapped,OpenStreetMap
+1028,jr,西日本旅客鉄道,片町線,256,mapped,OpenStreetMap
+1029,jr,西日本旅客鉄道,特急はるか,35,mapped,OpenStreetMap
+1030,jr,西日本旅客鉄道,矢田川橋梁,1,mapped,OpenStreetMap
+1031,jr,西日本旅客鉄道,福知山線,11,mapped,OpenStreetMap
+1032,jr,西日本旅客鉄道,第1足羽川橋梁,1,mapped,OpenStreetMap
+1033,jr,西日本旅客鉄道,第2足羽川橋梁,1,mapped,OpenStreetMap
+1034,jr,西日本旅客鉄道,第3足羽川橋梁,1,mapped,OpenStreetMap
+1035,jr,西日本旅客鉄道,第4足羽川橋梁,1,mapped,OpenStreetMap
+1036,jr,西日本旅客鉄道,紀州路快速,1,mapped,OpenStreetMap
+1037,jr,西日本旅客鉄道,芦屋トンネル,1,mapped,OpenStreetMap
+1038,jr,西日本旅客鉄道,袋川橋梁,1,mapped,OpenStreetMap
+1039,jr,西日本旅客鉄道,西川橋梁,1,mapped,OpenStreetMap
+1040,jr,西日本旅客鉄道,赤島トンネル,1,mapped,OpenStreetMap
+1041,jr,西日本旅客鉄道,長等山トンネル,1,mapped,OpenStreetMap
+1042,jr,西日本旅客鉄道,陸上トンネル,1,mapped,OpenStreetMap
+1043,jr,西日本旅客鉄道,高山本線,75,mapped,OpenStreetMap
+1044,jr,西日本旅客鉄道;井原鉄道,JR伯備線,3,mapped,OpenStreetMap
+1045,jr,西日本旅客鉄道会社,SLスチーム号線路,1,mapped,OpenStreetMap
+1046,metro,,Metro,9,mapped,OpenStreetMap
+1047,metro,,仙台市営南北線,2,mapped,OpenStreetMap
+1048,metro,,名古屋市営3号線鶴舞線,1,mapped,OpenStreetMap
+1049,metro,,東京メトロ有楽町線,1,mapped,OpenStreetMap
+1050,metro,operator,東京メトロ半蔵門線,1,mapped,OpenStreetMap
+1051,metro,京都市,京都市営地下鉄東西線,38,mapped,OpenStreetMap
+1052,metro,京都市,京都市営地下鉄烏丸線,66,mapped,OpenStreetMap
+1053,metro,京都市交通局;京都市,京都市営地下鉄東西線,4,mapped,OpenStreetMap
+1054,metro,京都市交通局;京都市,京都市営地下鉄烏丸線,4,mapped,OpenStreetMap
+1055,metro,仙台市,仙台市営南北線,1,mapped,OpenStreetMap
+1056,metro,仙台市交通局,仙台市地下鉄南北線,59,mapped,OpenStreetMap
+1057,metro,仙台市交通局,仙台市地下鉄東西線,16,mapped,OpenStreetMap
+1058,metro,仙台市営地下鉄,仙台市営南北線,4,mapped,OpenStreetMap
+1059,metro,名古屋市,名古屋市交通局名港線,14,mapped,OpenStreetMap
+1060,metro,名古屋市,名古屋市営1号線東山線,47,mapped,OpenStreetMap
+1061,metro,名古屋市,名古屋市営2号線名城線,6,mapped,OpenStreetMap
+1062,metro,名古屋市,名古屋市営3号線鶴舞線,20,mapped,OpenStreetMap
+1063,metro,名古屋市,名古屋市営4号線名城線,6,mapped,OpenStreetMap
+1064,metro,名古屋市,名古屋市営6号桜通線,2,mapped,OpenStreetMap
+1065,metro,名古屋市,名古屋市営6号線桜通線,44,mapped,OpenStreetMap
+1066,metro,名古屋市,名古屋市営地下鉄名城線,6,mapped,OpenStreetMap
+1067,metro,名古屋市,名古屋市営地下鉄名港線,10,mapped,OpenStreetMap
+1068,metro,名古屋市,名古屋市営地下鉄桜通線,2,mapped,OpenStreetMap
+1069,metro,名古屋市交通局,名古屋市営4号線名城線,1,mapped,OpenStreetMap
+1070,metro,名古屋市交通局,名古屋市営上飯田線,4,mapped,OpenStreetMap
+1071,metro,大阪市高速電気軌道,Osaka Metro中央線,59,mapped,OpenStreetMap
+1072,metro,大阪市高速電気軌道,Osaka Metro今里筋線,6,mapped,OpenStreetMap
+1073,metro,大阪市高速電気軌道,Osaka Metro千日前線,30,mapped,OpenStreetMap
+1074,metro,大阪市高速電気軌道,Osaka Metro四つ橋線,18,mapped,OpenStreetMap
+1075,metro,大阪市高速電気軌道,Osaka Metro堺筋線,26,mapped,OpenStreetMap
+1076,metro,大阪市高速電気軌道,Osaka Metro御堂筋線,61,mapped,OpenStreetMap
+1077,metro,大阪市高速電気軌道,Osaka Metro谷町線,21,mapped,OpenStreetMap
+1078,metro,大阪市高速電気軌道,Osaka Metro長堀鶴見緑地線,40,mapped,OpenStreetMap
+1079,metro,札幌市交通局,札幌市営地下鉄南北線,8,mapped,OpenStreetMap
+1080,metro,札幌市交通局,札幌市営地下鉄東西線,40,mapped,OpenStreetMap
+1081,metro,札幌市交通局,札幌市営地下鉄東豊線,10,mapped,OpenStreetMap
+1082,metro,東京地下鉄,Metro,3,mapped,OpenStreetMap
+1083,metro,東京地下鉄,東京メトロ,2,mapped,OpenStreetMap
+1084,metro,東京地下鉄,東京メトロ丸ノ内線,108,mapped,OpenStreetMap
+1085,metro,東京地下鉄,東京メトロ丸ノ内線;新宿御苑前;1番線,1,mapped,OpenStreetMap
+1086,metro,東京地下鉄,東京メトロ丸ノ内線;新宿御苑前;2番線,1,mapped,OpenStreetMap
+1087,metro,東京地下鉄,東京メトロ副都心線,23,mapped,OpenStreetMap
+1088,metro,東京地下鉄,東京メトロ千代田線,113,mapped,OpenStreetMap
+1089,metro,東京地下鉄,東京メトロ半蔵門線,49,mapped,OpenStreetMap
+1090,metro,東京地下鉄,東京メトロ南北線,30,mapped,OpenStreetMap
+1091,metro,東京地下鉄,東京メトロ南北線;四ツ谷;3番線,1,mapped,OpenStreetMap
+1092,metro,東京地下鉄,東京メトロ南北線;四ツ谷;4番線,1,mapped,OpenStreetMap
+1093,metro,東京地下鉄,東京メトロ日比谷線,59,mapped,OpenStreetMap
+1094,metro,東京地下鉄,東京メトロ有楽町線,87,mapped,OpenStreetMap
+1095,metro,東京地下鉄,東京メトロ有楽町線;有楽町;1番線,1,mapped,OpenStreetMap
+1096,metro,東京地下鉄,東京メトロ有楽町線;有楽町;2番線,1,mapped,OpenStreetMap
+1097,metro,東京地下鉄,東京メトロ東西線,57,mapped,OpenStreetMap
+1098,metro,東京地下鉄,東京メトロ銀座線,85,mapped,OpenStreetMap
+1099,metro,東京地下鉄;東京都交通局,東京メトロ南北線,2,mapped,OpenStreetMap
+1100,metro,東京地下鉄株式会社,東京メトロ日比谷線,2,mapped,OpenStreetMap
+1101,metro,東京都交通局,都営三田線,1,mapped,OpenStreetMap
+1102,metro,東京都交通局,都営地下鉄三田線,27,mapped,OpenStreetMap
+1103,metro,東京都交通局,都営地下鉄大江戸線,96,mapped,OpenStreetMap
+1104,metro,東京都交通局,都営地下鉄新宿線,44,mapped,OpenStreetMap
+1105,metro,東京都交通局,都営地下鉄浅草線,66,mapped,OpenStreetMap
+1106,metro,東京都交通局 (Tokyo Metropolitan Bureau of Transportation),Metro,2,mapped,OpenStreetMap
+1107,metro,東京都交通局 (Tokyo Metropolitan Bureau of Transportation),都営地下鉄三田線,2,mapped,OpenStreetMap
+1108,metro,横浜市,ブルーライン,6,mapped,OpenStreetMap
+1109,metro,横浜市,横浜市営1号線,30,mapped,OpenStreetMap
+1110,metro,横浜市,横浜市営3号線,42,mapped,OpenStreetMap
+1111,metro,横浜市,横浜市営地下鉄 ブルーライン,15,mapped,OpenStreetMap
+1112,metro,横浜市,横浜市営地下鉄ブルーライン,14,mapped,OpenStreetMap
+1113,metro,横浜市,横浜市営地下鉄４号線,2,mapped,OpenStreetMap
+1114,metro,横浜市交通局,横浜市営1号線,2,mapped,OpenStreetMap
+1115,metro,横浜市交通局,横浜市営3号線,5,mapped,OpenStreetMap
+1116,metro,横浜市交通局,横浜市営地下鉄グリーンライン,31,mapped,OpenStreetMap
+1117,metro,横浜市交通局,横浜市営地下鉄ブルーライン,2,mapped,OpenStreetMap
+1118,metro,神戸市交通局,神戸市営地下鉄北神線,11,mapped,OpenStreetMap
+1119,metro,神戸市交通局,神戸市営地下鉄海岸線,14,mapped,OpenStreetMap
+1120,metro,神戸市交通局,神戸市営地下鉄西神・山手線,76,mapped,OpenStreetMap
+1121,metro,福岡市交通局,Metro,3,mapped,OpenStreetMap
+1122,metro,福岡市交通局,福岡市地下鉄七隈線,8,mapped,OpenStreetMap
+1123,metro,福岡市交通局,福岡市地下鉄空港線,3,mapped,OpenStreetMap
+1124,metro,福岡市交通局,福岡市地下鉄箱崎線,4,mapped,OpenStreetMap
+1125,private,,Private / third-sector,100,mapped,OpenStreetMap
+1126,private,,KATO Railway Park・関水本線,1,mapped,OpenStreetMap
+1127,private,,SL,3,mapped,OpenStreetMap
+1128,private,,あぷとくん,8,mapped,OpenStreetMap
+1129,private,,おとぎ列車あかしのポッポちゃん,3,mapped,OpenStreetMap
+1130,private,,こども汽車,3,mapped,OpenStreetMap
+1131,private,,ディズニーシー・エレクトリックレールウェイ,3,mapped,OpenStreetMap
+1132,private,,プテラサイクル,1,mapped,OpenStreetMap
+1133,private,,ミニSL,5,mapped,OpenStreetMap
+1134,private,,リリートレイン,1,mapped,OpenStreetMap
+1135,private,,レールトレイン,3,mapped,OpenStreetMap
+1136,private,,ロムニー鉄道,6,mapped,OpenStreetMap
+1137,private,,三蟠軽便鐵道線路跡,1,mapped,OpenStreetMap
+1138,private,,中尾トンネル,1,mapped,OpenStreetMap
+1139,private,,京成電鉄千葉線,2,mapped,OpenStreetMap
+1140,private,,京王電鉄高尾線;北野;1番線,1,mapped,OpenStreetMap
+1141,private,,京葉臨海鉄道臨海本線,11,mapped,OpenStreetMap
+1142,private,,京葉臨海鉄道臨海本線 京葉市原支線,1,mapped,OpenStreetMap
+1143,private,,京阪電気鉄道京阪本線,11,mapped,OpenStreetMap
+1144,private,,南風,1,mapped,OpenStreetMap
+1145,private,,博多臨港線,14,mapped,OpenStreetMap
+1146,private,,叡山電鉄叡山本線,2,mapped,OpenStreetMap
+1147,private,,名古屋鉄道常滑線,1,mapped,OpenStreetMap
+1148,private,,吾妻線,2,mapped,OpenStreetMap
+1149,private,,四日市あすなろう鉄道内部線,42,mapped,OpenStreetMap
+1150,private,,太陽の恵み鉄道パークライン,3,mapped,OpenStreetMap
+1151,private,,奥のとトロッコ鉄道,2,mapped,OpenStreetMap
+1152,private,,富山地方鉄道本線,1,mapped,OpenStreetMap
+1153,private,,山田線,1,mapped,OpenStreetMap
+1154,private,,岳南鉄道,1,mapped,OpenStreetMap
+1155,private,,岳南電車岳南線,33,mapped,OpenStreetMap
+1156,private,,弘南鉄道大鰐線,2,mapped,OpenStreetMap
+1157,private,,打除鉄橋,1,mapped,OpenStreetMap
+1158,private,,東海道本線,9,mapped,OpenStreetMap
+1159,private,,波賀森林鉄道,1,mapped,OpenStreetMap
+1160,private,,特急サザン,1,mapped,OpenStreetMap
+1161,private,,神奈川臨海鉄道本牧線,2,mapped,OpenStreetMap
+1162,private,,神戸電鉄神戸高速線,1,mapped,OpenStreetMap
+1163,private,,福島臨海鉄道,3,mapped,OpenStreetMap
+1164,private,,芝山鉄道線,1,mapped,OpenStreetMap
+1165,private,,西武多摩川線,1,mapped,OpenStreetMap
+1166,private,,遠山森林鉄道 梨元貯木場跡,1,mapped,OpenStreetMap
+1167,private,,鉱山観光鉄道,1,mapped,OpenStreetMap
+1168,private,,長野電鉄長野線,8,mapped,OpenStreetMap
+1169,private,,関東鉄道竜ヶ崎線,1,mapped,OpenStreetMap
+1170,private,,馬車鉄道,3,mapped,OpenStreetMap
+1171,private,,高千穂あまてらす鉄道,14,mapped,OpenStreetMap
+1172,private,,鹿島臨港線,1,mapped,OpenStreetMap
+1173,private,IRいしかわ鉄道,IRいしかわ鉄道線,318,mapped,OpenStreetMap
+1174,private,Meitetsu,名古屋鉄道常滑線,17,mapped,OpenStreetMap
+1175,private,あいの風とやま鉄道,あいの風とやま鉄道線,469,mapped,OpenStreetMap
+1176,private,いすみ鉄道,いすみ線,1,mapped,OpenStreetMap
+1177,private,いすみ鉄道,いすみ鉄道 いすみ線,44,mapped,OpenStreetMap
+1178,private,えちごトキめき鉄道,北しなの線,2,mapped,OpenStreetMap
+1179,private,えちごトキめき鉄道,妙高はねうまライン,51,mapped,OpenStreetMap
+1180,private,えちごトキめき鉄道,日本海ひすいライン,188,mapped,OpenStreetMap
+1181,private,えちぜん鉄道,えちぜん鉄道三国芦原線,125,mapped,OpenStreetMap
+1182,private,えちぜん鉄道,えちぜん鉄道勝山永平寺線,72,mapped,OpenStreetMap
+1183,private,くま川鉄道,くま川鉄道湯前線,47,mapped,OpenStreetMap
+1184,private,しなの鉄道,しなの鉄道線,216,mapped,OpenStreetMap
+1185,private,しなの鉄道,北しなの線,93,mapped,OpenStreetMap
+1186,private,のと鉄道,のと鉄道七尾線,52,mapped,OpenStreetMap
+1187,private,ひたちなか海浜鉄道,ひたちなか海浜鉄道湊線,22,mapped,OpenStreetMap
+1188,private,わたらせ渓谷鐵道,わたらせ渓谷線,71,mapped,OpenStreetMap
+1189,private,アイジーアールいわて銀河鉄道,いわて銀河鉄道線,233,mapped,OpenStreetMap
+1190,private,アイジーアールいわて銀河鉄道,アイジーアールいわて銀河鉄道線,3,mapped,OpenStreetMap
+1191,private,アイジーアールいわて銀河鉄道,山田線,4,mapped,OpenStreetMap
+1192,private,アルピコ交通,松本電鉄上高地線,34,mapped,OpenStreetMap
+1193,private,オリエンタルランド,ウエスタンリバー鉄道,14,mapped,OpenStreetMap
+1194,private,ハピラインふくい,ハピラインふくい線,190,mapped,OpenStreetMap
+1195,private,ハピラインふくい,北陸本線,11,mapped,OpenStreetMap
+1196,private,一畑電車,一畑電車北松江線,69,mapped,OpenStreetMap
+1197,private,一畑電車,一畑電車大社線,12,mapped,OpenStreetMap
+1198,private,三岐鉄道,三岐鉄道三岐線,83,mapped,OpenStreetMap
+1199,private,三岐鉄道,三岐鉄道北勢線,54,mapped,OpenStreetMap
+1200,private,三岐鉄道,三岐鉄道近鉄連絡線,13,mapped,OpenStreetMap
+1201,private,三陸鉄道,三陸鉄道リアス線,419,mapped,OpenStreetMap
+1202,private,上信電鉄,Private / third-sector,15,mapped,OpenStreetMap
+1203,private,上信電鉄,上信電鉄,58,mapped,OpenStreetMap
+1204,private,上士幌町,森のトロッコ鉄道 エコレール,1,mapped,OpenStreetMap
+1205,private,上毛電気鉄道,上毛電気鉄道上毛線,84,mapped,OpenStreetMap
+1206,private,上田電鉄,上田電鉄別所線,49,mapped,OpenStreetMap
+1207,private,井原鉄道,井原鉄道井原線,120,mapped,OpenStreetMap
+1208,private,京成電鉄,Private / third-sector,2,mapped,OpenStreetMap
+1209,private,京成電鉄,京成 松戸線,1,mapped,OpenStreetMap
+1210,private,京成電鉄,京成千原線,37,mapped,OpenStreetMap
+1211,private,京成電鉄,京成千葉線,50,mapped,OpenStreetMap
+1212,private,京成電鉄,京成成田空港線,8,mapped,OpenStreetMap
+1213,private,京成電鉄,京成本線,364,mapped,OpenStreetMap
+1214,private,京成電鉄,京成東成田線,6,mapped,OpenStreetMap
+1215,private,京成電鉄,京成松戸線,35,mapped,OpenStreetMap
+1216,private,京成電鉄,京成金町線,9,mapped,OpenStreetMap
+1217,private,京成電鉄,京成電鉄押上線,34,mapped,OpenStreetMap
+1218,private,京成電鉄,京成電鉄本線,14,mapped,OpenStreetMap
+1219,private,京成電鉄,新京成線,2,mapped,OpenStreetMap
+1220,private,京成電鉄,芝山鉄道線,4,mapped,OpenStreetMap
+1221,private,京浜急行電鉄,京浜急行電鉄久里浜線,115,mapped,OpenStreetMap
+1222,private,京浜急行電鉄,京浜急行電鉄大師線,2,mapped,OpenStreetMap
+1223,private,京浜急行電鉄,京浜急行電鉄本線,569,mapped,OpenStreetMap
+1224,private,京浜急行電鉄,京浜急行電鉄空港線,32,mapped,OpenStreetMap
+1225,private,京浜急行電鉄,京浜急行電鉄逗子線,11,mapped,OpenStreetMap
+1226,private,京浜急行電鉄,逗子線,22,mapped,OpenStreetMap
+1227,private,京浜急行電鉄 (Keikyu Corporation),京浜急行電鉄大師線,11,mapped,OpenStreetMap
+1228,private,京浜急行電鉄 (Keikyu Corporation),京浜急行電鉄逗子線,25,mapped,OpenStreetMap
+1229,private,京王電鉄,Private / third-sector,2,mapped,OpenStreetMap
+1230,private,京王電鉄,京王新線,19,mapped,OpenStreetMap
+1231,private,京王電鉄,京王新線;笹塚;2番線,5,mapped,OpenStreetMap
+1232,private,京王電鉄,京王新線;笹塚;3番線,5,mapped,OpenStreetMap
+1233,private,京王電鉄,京王相模原線;京王多摩センター;2番線,1,mapped,OpenStreetMap
+1234,private,京王電鉄,京王相模原線;京王多摩センター;3番線,1,mapped,OpenStreetMap
+1235,private,京王電鉄,京王線,2,mapped,OpenStreetMap
+1236,private,京王電鉄,京王電鉄井の頭線,102,mapped,OpenStreetMap
+1237,private,京王電鉄,京王電鉄井の頭線;三鷹台1号踏切,2,mapped,OpenStreetMap
+1238,private,京王電鉄,京王電鉄井の頭線;三鷹台;1番線,1,mapped,OpenStreetMap
+1239,private,京王電鉄,京王電鉄井の頭線;三鷹台;2番線,1,mapped,OpenStreetMap
+1240,private,京王電鉄,京王電鉄京王線,181,mapped,OpenStreetMap
+1241,private,京王電鉄,京王電鉄京王線 : 京王八王子→新宿,10,mapped,OpenStreetMap
+1242,private,京王電鉄,京王電鉄京王線 : 新宿→京王八王子,24,mapped,OpenStreetMap
+1243,private,京王電鉄,京王電鉄京王線;つつじヶ丘;2番線,1,mapped,OpenStreetMap
+1244,private,京王電鉄,京王電鉄京王線;つつじヶ丘;3番線,1,mapped,OpenStreetMap
+1245,private,京王電鉄,京王電鉄京王線;下高井戸;1番線,2,mapped,OpenStreetMap
+1246,private,京王電鉄,京王電鉄京王線;下高井戸;2番線,2,mapped,OpenStreetMap
+1247,private,京王電鉄,京王電鉄京王線;八幡山;1番線,1,mapped,OpenStreetMap
+1248,private,京王電鉄,京王電鉄京王線;八幡山;2番線,1,mapped,OpenStreetMap
+1249,private,京王電鉄,京王電鉄京王線;北野;2番線,2,mapped,OpenStreetMap
+1250,private,京王電鉄,京王電鉄京王線;北野;3番線,1,mapped,OpenStreetMap
+1251,private,京王電鉄,京王電鉄京王線;北野;4番線,1,mapped,OpenStreetMap
+1252,private,京王電鉄,京王電鉄京王線;多磨霊園;1番線,1,mapped,OpenStreetMap
+1253,private,京王電鉄,京王電鉄京王線;多磨霊園;2番線,1,mapped,OpenStreetMap
+1254,private,京王電鉄,京王電鉄京王線;府中;2番線,1,mapped,OpenStreetMap
+1255,private,京王電鉄,京王電鉄京王線;府中;3番線,1,mapped,OpenStreetMap
+1256,private,京王電鉄,京王電鉄京王線;東府中;3番線,1,mapped,OpenStreetMap
+1257,private,京王電鉄,京王電鉄京王線;東府中;4番線,1,mapped,OpenStreetMap
+1258,private,京王電鉄,京王電鉄京王線;桜上水;2番線,1,mapped,OpenStreetMap
+1259,private,京王電鉄,京王電鉄京王線;桜上水;3番線,1,mapped,OpenStreetMap
+1260,private,京王電鉄,京王電鉄京王線;笹塚;1番線,6,mapped,OpenStreetMap
+1261,private,京王電鉄,京王電鉄京王線;笹塚;4番線,6,mapped,OpenStreetMap
+1262,private,京王電鉄,京王電鉄京王線;飛田給;1番線,2,mapped,OpenStreetMap
+1263,private,京王電鉄,京王電鉄京王線;飛田給;2番線,2,mapped,OpenStreetMap
+1264,private,京王電鉄,京王電鉄京王線;高幡不動;3番線,1,mapped,OpenStreetMap
+1265,private,京王電鉄,京王電鉄京王線;高幡不動;4番線,1,mapped,OpenStreetMap
+1266,private,京王電鉄,京王電鉄動物園線,12,mapped,OpenStreetMap
+1267,private,京王電鉄,京王電鉄動物園線 : 多摩動物公園→高原不動,1,mapped,OpenStreetMap
+1268,private,京王電鉄,京王電鉄動物園線;高幡不動;1番線,1,mapped,OpenStreetMap
+1269,private,京王電鉄,京王電鉄相模原線,138,mapped,OpenStreetMap
+1270,private,京王電鉄,京王電鉄相模原線;京王よみうりランド;1番線,2,mapped,OpenStreetMap
+1271,private,京王電鉄,京王電鉄相模原線;京王よみうりランド;2番線,1,mapped,OpenStreetMap
+1272,private,京王電鉄,京王電鉄相模原線;京王多摩川;1番線,1,mapped,OpenStreetMap
+1273,private,京王電鉄,京王電鉄相模原線;京王多摩川;2番線,1,mapped,OpenStreetMap
+1274,private,京王電鉄,京王電鉄相模原線;橋本;1番線,1,mapped,OpenStreetMap
+1275,private,京王電鉄,京王電鉄相模原線;橋本;2番線,1,mapped,OpenStreetMap
+1276,private,京王電鉄,京王電鉄相模原線;稲城;1番線,1,mapped,OpenStreetMap
+1277,private,京王電鉄,京王電鉄相模原線;若葉台;2番線,1,mapped,OpenStreetMap
+1278,private,京王電鉄,京王電鉄相模原線;若葉台;3番線,2,mapped,OpenStreetMap
+1279,private,京王電鉄,京王電鉄競馬場線,4,mapped,OpenStreetMap
+1280,private,京王電鉄,京王電鉄競馬場線;府中競馬正門前;1番線,1,mapped,OpenStreetMap
+1281,private,京王電鉄,京王電鉄競馬場線;府中競馬正門前;2番線,1,mapped,OpenStreetMap
+1282,private,京王電鉄,京王電鉄競馬場線;東府中;1番線,1,mapped,OpenStreetMap
+1283,private,京王電鉄,京王電鉄高尾線,52,mapped,OpenStreetMap
+1284,private,京王電鉄,京王電鉄高尾線;北野;1番線,2,mapped,OpenStreetMap
+1285,private,京葉臨海鉄道,京葉臨海鉄道臨海本線,4,mapped,OpenStreetMap
+1286,private,京都丹後鉄道,京都丹後鉄道宮津線,1,mapped,OpenStreetMap
+1287,private,京都丹後鉄道,京都丹後鉄道宮福線,147,mapped,OpenStreetMap
+1288,private,京都丹後鉄道,京都丹後鉄道宮福線;普甲トンネル,4,mapped,OpenStreetMap
+1289,private,京都丹後鉄道,京都丹後鉄道宮舞線,66,mapped,OpenStreetMap
+1290,private,京都丹後鉄道,京都丹後鉄道宮舞線;下山トンネル,1,mapped,OpenStreetMap
+1291,private,京都丹後鉄道,京都丹後鉄道宮豊線,196,mapped,OpenStreetMap
+1292,private,京阪電気鉄道,京阪電気鉄道中之島線,11,mapped,OpenStreetMap
+1293,private,京阪電気鉄道,京阪電気鉄道交野線,66,mapped,OpenStreetMap
+1294,private,京阪電気鉄道,京阪電気鉄道京津線,26,mapped,OpenStreetMap
+1295,private,京阪電気鉄道,京阪電気鉄道京阪本線,495,mapped,OpenStreetMap
+1296,private,京阪電気鉄道,京阪電気鉄道宇治線,77,mapped,OpenStreetMap
+1297,private,京阪電気鉄道,京阪電気鉄道石山坂本線,80,mapped,OpenStreetMap
+1298,private,京阪電気鉄道,京阪電気鉄道鴨東線,5,mapped,OpenStreetMap
+1299,private,仙台空港鉄道,仙台空港鉄道仙台空港線,29,mapped,OpenStreetMap
+1300,private,伊予鉄道,横河原線,66,mapped,OpenStreetMap
+1301,private,伊予鉄道,郡中線,57,mapped,OpenStreetMap
+1302,private,伊予鉄道,高浜線,30,mapped,OpenStreetMap
+1303,private,伊勢鉄道,伊勢鉄道伊勢線,116,mapped,OpenStreetMap
+1304,private,伊豆急行,伊豆急行,138,mapped,OpenStreetMap
+1305,private,伊豆箱根鉄道,伊豆箱根鉄道大雄山線,33,mapped,OpenStreetMap
+1306,private,伊豆箱根鉄道,伊豆箱根鉄道駿豆線,59,mapped,OpenStreetMap
+1307,private,伊賀鉄道,伊賀鉄道伊賀線,27,mapped,OpenStreetMap
+1308,private,会津鉄道,会津鉄道会津線,100,mapped,OpenStreetMap
+1309,private,会津鉄道,桑原トンネル,1,mapped,OpenStreetMap
+1310,private,信楽高原鐵道,信楽高原鐵道信楽線,47,mapped,OpenStreetMap
+1311,private,北大阪急行電鉄,北大阪急行電鉄南北線,34,mapped,OpenStreetMap
+1312,private,北条鉄道,北条鉄道北条線,32,mapped,OpenStreetMap
+1313,private,北総鉄道,北総線,95,mapped,OpenStreetMap
+1314,private,北総鉄道,北総線・京成成田空港線,18,mapped,OpenStreetMap
+1315,private,北越急行,ほくほく線,126,mapped,OpenStreetMap
+1316,private,北陸鉄道,北陸鉄道石川線,26,mapped,OpenStreetMap
+1317,private,北陸鉄道株式会社,北陸鉄道浅野川線,105,mapped,OpenStreetMap
+1318,private,南海電気鉄道,南海加太線 普通,5,mapped,OpenStreetMap
+1319,private,南海電気鉄道,南海本線,3,mapped,OpenStreetMap
+1320,private,南海電気鉄道,南海本線 急行,1,mapped,OpenStreetMap
+1321,private,南海電気鉄道,南海泉北線,85,mapped,OpenStreetMap
+1322,private,南海電気鉄道,南海電気鉄道加太線,38,mapped,OpenStreetMap
+1323,private,南海電気鉄道,南海電気鉄道南海本線,449,mapped,OpenStreetMap
+1324,private,南海電気鉄道,南海電気鉄道和歌山港線,13,mapped,OpenStreetMap
+1325,private,南海電気鉄道,南海電気鉄道多奈川線,18,mapped,OpenStreetMap
+1326,private,南海電気鉄道,南海電気鉄道汐見橋線,25,mapped,OpenStreetMap
+1327,private,南海電気鉄道,南海電気鉄道空港線,13,mapped,OpenStreetMap
+1328,private,南海電気鉄道,南海電気鉄道高師浜線,4,mapped,OpenStreetMap
+1329,private,南海電気鉄道,南海電気鉄道高野線,266,mapped,OpenStreetMap
+1330,private,南海電気鉄道,南海高野線,14,mapped,OpenStreetMap
+1331,private,南海電気鉄道,特急サザン,2,mapped,OpenStreetMap
+1332,private,南海電鉄,JR関西空港線;南海電気鉄道空港線,1,mapped,OpenStreetMap
+1333,private,南海電鉄,南海電気鉄道南海本線,68,mapped,OpenStreetMap
+1334,private,南阿蘇鉄道,南阿蘇鉄道高森線,44,mapped,OpenStreetMap
+1335,private,南阿蘇鉄道,戸下トンネル,1,mapped,OpenStreetMap
+1336,private,叡山電鉄,叡山電鉄叡山本線,31,mapped,OpenStreetMap
+1337,private,叡山電鉄,叡山電鉄鞍馬線,62,mapped,OpenStreetMap
+1338,private,叡山電鉄株式会社,叡山電鉄叡山本線,26,mapped,OpenStreetMap
+1339,private,名古屋市,名古屋鉄道名古屋本線,30,mapped,OpenStreetMap
+1340,private,名古屋臨海高速鉄道,あおなみ線,6,mapped,OpenStreetMap
+1341,private,名古屋臨海高速鉄道,名古屋臨海高速鉄道西名古屋港線,49,mapped,OpenStreetMap
+1342,private,名古屋鉄道,μSKY Limited Express,3,mapped,OpenStreetMap
+1343,private,名古屋鉄道,名古屋鉄道三河線,122,mapped,OpenStreetMap
+1344,private,名古屋鉄道,名古屋鉄道各務原線,53,mapped,OpenStreetMap
+1345,private,名古屋鉄道,名古屋鉄道名古屋本線,516,mapped,OpenStreetMap
+1346,private,名古屋鉄道,名古屋鉄道小牧線,88,mapped,OpenStreetMap
+1347,private,名古屋鉄道,名古屋鉄道尾西線,88,mapped,OpenStreetMap
+1348,private,名古屋鉄道,名古屋鉄道尾西線;名古屋鉄道津島線,1,mapped,OpenStreetMap
+1349,private,名古屋鉄道,名古屋鉄道常滑線,137,mapped,OpenStreetMap
+1350,private,名古屋鉄道,名古屋鉄道広見線,81,mapped,OpenStreetMap
+1351,private,名古屋鉄道,名古屋鉄道河和線,124,mapped,OpenStreetMap
+1352,private,名古屋鉄道,名古屋鉄道津島線,68,mapped,OpenStreetMap
+1353,private,名古屋鉄道,名古屋鉄道瀬戸線,64,mapped,OpenStreetMap
+1354,private,名古屋鉄道,名古屋鉄道犬山線,93,mapped,OpenStreetMap
+1355,private,名古屋鉄道,名古屋鉄道知多新線,69,mapped,OpenStreetMap
+1356,private,名古屋鉄道,名古屋鉄道空港線,13,mapped,OpenStreetMap
+1357,private,名古屋鉄道,名古屋鉄道竹鼻線,32,mapped,OpenStreetMap
+1358,private,名古屋鉄道,名古屋鉄道築港線,3,mapped,OpenStreetMap
+1359,private,名古屋鉄道,名古屋鉄道羽島線,3,mapped,OpenStreetMap
+1360,private,名古屋鉄道,名古屋鉄道蒲郡線,46,mapped,OpenStreetMap
+1361,private,名古屋鉄道,名古屋鉄道西尾線,72,mapped,OpenStreetMap
+1362,private,名古屋鉄道,名古屋鉄道豊川線,24,mapped,OpenStreetMap
+1363,private,名古屋鉄道,名古屋鉄道豊田線,104,mapped,OpenStreetMap
+1364,private,名古屋鉄道,名鉄名古屋本線,69,mapped,OpenStreetMap
+1365,private,名古屋鉄道,梨の木隧道,1,mapped,OpenStreetMap
+1366,private,名古屋鉄道,西尾線,1,mapped,OpenStreetMap
+1367,private,名古屋鉄道,飯田線,15,mapped,OpenStreetMap
+1368,private,和歌山電鐵,和歌山電鐵貴志川線,34,mapped,OpenStreetMap
+1369,private,四日市あすなろう鉄道,四日市あすなろう鉄道八王子線,3,mapped,OpenStreetMap
+1370,private,土佐くろしお鉄道,土佐くろしお鉄道中村線,189,mapped,OpenStreetMap
+1371,private,土佐くろしお鉄道,土佐くろしお鉄道宿毛線,62,mapped,OpenStreetMap
+1372,private,土佐くろしお鉄道,土佐くろしお鉄道阿佐線,132,mapped,OpenStreetMap
+1373,private,埼玉高速鉄道,埼玉高速鉄道線,24,mapped,OpenStreetMap
+1374,private,大井川鐵道,大井川鐵道井川線,195,mapped,OpenStreetMap
+1375,private,大井川鐵道,大井川鐵道井川線: 井川,2,mapped,OpenStreetMap
+1376,private,大井川鐵道,大井川鐵道大井川本線,89,mapped,OpenStreetMap
+1377,private,天竜浜名湖鉄道,天竜浜名湖鉄道天竜浜名湖線,215,mapped,OpenStreetMap
+1378,private,富士山麓電気鉄道株式会社,富士急行線,94,mapped,OpenStreetMap
+1379,private,富士急行,富士急行線,10,mapped,OpenStreetMap
+1380,private,富山地方鉄道,富山地方鉄道上滝線,18,mapped,OpenStreetMap
+1381,private,富山地方鉄道,富山地方鉄道不二越線,4,mapped,OpenStreetMap
+1382,private,富山地方鉄道,富山地方鉄道本線,129,mapped,OpenStreetMap
+1383,private,富山地方鉄道,富山地方鉄道立山線,48,mapped,OpenStreetMap
+1384,private,小湊鐵道,小湊鉄道線,10,mapped,OpenStreetMap
+1385,private,小湊鐵道,小湊鐵道,2,mapped,OpenStreetMap
+1386,private,小湊鐵道 (Kominato Railway),小湊鐵道,57,mapped,OpenStreetMap
+1387,private,小田急箱根,小田急箱根鉄道線,98,mapped,OpenStreetMap
+1388,private,小田急箱根,箱根登山線,29,mapped,OpenStreetMap
+1389,private,小田急電鉄,はこね,1,mapped,OpenStreetMap
+1390,private,小田急電鉄,小田急小田原線,487,mapped,OpenStreetMap
+1391,private,小田急電鉄,小田急電鉄多摩線,101,mapped,OpenStreetMap
+1392,private,小田急電鉄,小田急電鉄江ノ島線,118,mapped,OpenStreetMap
+1393,private,山形鉄道,山形鉄道フラワー長井線,62,mapped,OpenStreetMap
+1394,private,山陽電気鉄道,山陽電気鉄道本線,372,mapped,OpenStreetMap
+1395,private,山陽電気鉄道,山陽電気鉄道網干線,51,mapped,OpenStreetMap
+1396,private,島原鉄道,島原鉄道,158,mapped,OpenStreetMap
+1397,private,嵯峨野観光鉄道,嵯峨野観光鉄道,25,mapped,OpenStreetMap
+1398,private,平成筑豊鉄道,平成筑豊鉄道伊田線,69,mapped,OpenStreetMap
+1399,private,平成筑豊鉄道,平成筑豊鉄道田川線,83,mapped,OpenStreetMap
+1400,private,平成筑豊鉄道,平成筑豊鉄道糸田線,12,mapped,OpenStreetMap
+1401,private,平成筑豊鉄道,平成筑豊鉄道門司港レトロ観光線,5,mapped,OpenStreetMap
+1402,private,弘南鉄道,弘南鉄道大鰐線,38,mapped,OpenStreetMap
+1403,private,弘南鉄道,弘南鉄道弘南線,41,mapped,OpenStreetMap
+1404,private,愛知環状鉄道,愛知環状鉄道線,369,mapped,OpenStreetMap
+1405,private,成田空港高速鉄道,JR成田線,1,mapped,OpenStreetMap
+1406,private,成田空港高速鉄道,京成成田空港線,18,mapped,OpenStreetMap
+1407,private,成田空港高速鉄道線,京成成田空港線,1,mapped,OpenStreetMap
+1408,private,成田高速鉄道アクセス,京成成田空港線,13,mapped,OpenStreetMap
+1409,private,明知鉄道,明知鉄道明知線,88,mapped,OpenStreetMap
+1410,private,智頭急行,智頭トンネル,2,mapped,OpenStreetMap
+1411,private,智頭急行,智頭急行智頭線,240,mapped,OpenStreetMap
+1412,private,智頭急行,毛谷トンネル,1,mapped,OpenStreetMap
+1413,private,智頭急行,篠坂トンネル,1,mapped,OpenStreetMap
+1414,private,有限会社ヤマダ金属商会鉄道事業部,ヤマダ高速鉄道山田線,1,mapped,OpenStreetMap
+1415,private,東京急行電鉄,東京急行電鉄田園都市線,1,mapped,OpenStreetMap
+1416,private,東京臨海高速鉄道,東京臨海高速鉄道りんかい線,51,mapped,OpenStreetMap
+1417,private,東吾妻町役場 まちづくり推進課,吾妻峡レールバイク アガッタン,8,mapped,OpenStreetMap
+1418,private,東吾妻町役場 まちづくり推進課,吾妻峡レールバイク アガッタン・樽沢トンネル,1,mapped,OpenStreetMap
+1419,private,東急電鉄,東急こどもの国線,16,mapped,OpenStreetMap
+1420,private,東急電鉄,東急多摩川線,48,mapped,OpenStreetMap
+1421,private,東急電鉄,東急大井町線,86,mapped,OpenStreetMap
+1422,private,東急電鉄,東急新横浜線,8,mapped,OpenStreetMap
+1423,private,東急電鉄,東急東横線,137,mapped,OpenStreetMap
+1424,private,東急電鉄,東急池上線,118,mapped,OpenStreetMap
+1425,private,東急電鉄,東急田園都市線,225,mapped,OpenStreetMap
+1426,private,東急電鉄,東急目黒線,53,mapped,OpenStreetMap
+1427,private,東急電鉄,相鉄新横浜線,2,mapped,OpenStreetMap
+1428,private,東武鉄道,Private / third-sector,1,mapped,OpenStreetMap
+1429,private,東武鉄道,伊勢崎線,58,mapped,OpenStreetMap
+1430,private,東武鉄道,東武アーバンパークライン,1,mapped,OpenStreetMap
+1431,private,東武鉄道,東武亀戸線,18,mapped,OpenStreetMap
+1432,private,東武鉄道,東武伊勢崎線,287,mapped,OpenStreetMap
+1433,private,東武鉄道,東武佐野線,70,mapped,OpenStreetMap
+1434,private,東武鉄道,東武大師線,5,mapped,OpenStreetMap
+1435,private,東武鉄道,東武宇都宮線,84,mapped,OpenStreetMap
+1436,private,東武鉄道,東武小泉線,34,mapped,OpenStreetMap
+1437,private,東武鉄道,東武日光線,308,mapped,OpenStreetMap
+1438,private,東武鉄道,東武東上線,364,mapped,OpenStreetMap
+1439,private,東武鉄道,東武越生線,43,mapped,OpenStreetMap
+1440,private,東武鉄道,東武野田線,209,mapped,OpenStreetMap
+1441,private,東武鉄道,東武鉄道大師線,2,mapped,OpenStreetMap
+1442,private,東武鉄道,東武鬼怒川線,46,mapped,OpenStreetMap
+1443,private,東武鉄道,桐生線,40,mapped,OpenStreetMap
+1444,private,東武鉄道 (Tobu Railway),東武鬼怒川線,15,mapped,OpenStreetMap
+1445,private,東海交通事業,東海交通事業城北線,37,mapped,OpenStreetMap
+1446,private,東葉高速鉄道,東葉高速線,39,mapped,OpenStreetMap
+1447,private,松浦鉄道,松浦鉄道西九州線,377,mapped,OpenStreetMap
+1448,private,横浜高速鉄道,横浜高速鉄道みなとみらい21線,25,mapped,OpenStreetMap
+1449,private,樽見鉄道,樽見鉄道樽見線,74,mapped,OpenStreetMap
+1450,private,水島臨海鉄道,水島臨海鉄道水島本線,33,mapped,OpenStreetMap
+1451,private,水間鉄道,水間鉄道水間線,16,mapped,OpenStreetMap
+1452,private,津軽鉄道,津軽鉄道,27,mapped,OpenStreetMap
+1453,private,津軽鉄道,津軽鉄道線,4,mapped,OpenStreetMap
+1454,private,流鉄,流鉄流山線,18,mapped,OpenStreetMap
+1455,private,熊本市動植物園,子ども列車,5,mapped,OpenStreetMap
+1456,private,熊本電気鉄道,熊本電気鉄道菊池線,42,mapped,OpenStreetMap
+1457,private,熊本電気鉄道,熊本電気鉄道藤崎線,9,mapped,OpenStreetMap
+1458,private,甘木鉄道,甘木鉄道甘木線,51,mapped,OpenStreetMap
+1459,private,由利高原鉄道,滝沢橋梁,1,mapped,OpenStreetMap
+1460,private,由利高原鉄道,由利高原鉄道鳥海山ろく線,25,mapped,OpenStreetMap
+1461,private,由利高原鉄道,鮎川橋梁,1,mapped,OpenStreetMap
+1462,private,相模鉄道,相模鉄道厚木線,6,mapped,OpenStreetMap
+1463,private,相模鉄道,相模鉄道本線,114,mapped,OpenStreetMap
+1464,private,相模鉄道,相鉄いずみ野線,60,mapped,OpenStreetMap
+1465,private,相模鉄道,相鉄・JR直通線,5,mapped,OpenStreetMap
+1466,private,相模鉄道,相鉄新横浜線,20,mapped,OpenStreetMap
+1467,private,真岡鐵道,真岡鐵道真岡線,43,mapped,OpenStreetMap
+1468,private,神奈川臨海鉄道,神奈川臨海鉄道本牧線,1,mapped,OpenStreetMap
+1469,private,神奈川臨海鉄道,神奈川臨海鉄道浮島線,6,mapped,OpenStreetMap
+1470,private,神戸電鉄,神戸電鉄三田線,86,mapped,OpenStreetMap
+1471,private,神戸電鉄,神戸電鉄公園都市線,30,mapped,OpenStreetMap
+1472,private,神戸電鉄,神戸電鉄有馬線,167,mapped,OpenStreetMap
+1473,private,神戸電鉄,神戸電鉄神戸高速線,14,mapped,OpenStreetMap
+1474,private,神戸電鉄,神戸電鉄粟生線,114,mapped,OpenStreetMap
+1475,private,神戸高速鉄道,山陽電気鉄道本線,2,mapped,OpenStreetMap
+1476,private,神戸高速鉄道,阪急電鉄神戸高速線,12,mapped,OpenStreetMap
+1477,private,神戸高速鉄道,阪神電気鉄道神戸高速線,17,mapped,OpenStreetMap
+1478,private,福島交通,福島交通飯坂線,37,mapped,OpenStreetMap
+1479,private,秋田内陸縦貫鉄道,秋田内陸縦貫鉄道秋田内陸線,235,mapped,OpenStreetMap
+1480,private,秩父鉄道,秩父鉄道,139,mapped,OpenStreetMap
+1481,private,空知鉄道,空知鉄道,2,mapped,OpenStreetMap
+1482,private,箱根登山鉄道,箱根登山鉄道鉄道線,8,mapped,OpenStreetMap
+1483,private,紀州鉄道,紀州鉄道線,7,mapped,OpenStreetMap
+1484,private,羅須地人鉄道協会,まきば線,1,mapped,OpenStreetMap
+1485,private,肥薩おれんじ鉄道,JR鹿児島本線,1,mapped,OpenStreetMap
+1486,private,肥薩おれんじ鉄道,肥薩おれんじ鉄道線,322,mapped,OpenStreetMap
+1487,private,能勢電鉄,能勢電鉄妙見線,117,mapped,OpenStreetMap
+1488,private,能勢電鉄,能勢電鉄日生線,26,mapped,OpenStreetMap
+1489,private,若桜鉄道,若桜鉄道若桜線,47,mapped,OpenStreetMap
+1490,private,蓮沼海浜公園,ミニトレイン,8,mapped,OpenStreetMap
+1491,private,西日本鉄道,西日本鉄道天神大牟田線,446,mapped,OpenStreetMap
+1492,private,西日本鉄道,西日本鉄道太宰府線,9,mapped,OpenStreetMap
+1493,private,西日本鉄道,西日本鉄道甘木線,60,mapped,OpenStreetMap
+1494,private,西日本鉄道,西日本鉄道貝塚線,68,mapped,OpenStreetMap
+1495,private,西武園ゆうえんち,レオとライオの夕日列車,1,mapped,OpenStreetMap
+1496,private,西武鉄道,Private / third-sector,2,mapped,OpenStreetMap
+1497,private,西武鉄道,箱根ヶ崎架道橋,1,mapped,OpenStreetMap
+1498,private,西武鉄道,西武国分寺線,31,mapped,OpenStreetMap
+1499,private,西武鉄道,西武園線,8,mapped,OpenStreetMap
+1500,private,西武鉄道,西武多摩川線,20,mapped,OpenStreetMap
+1501,private,西武鉄道,西武多摩湖線,48,mapped,OpenStreetMap
+1502,private,西武鉄道,西武拝島線,64,mapped,OpenStreetMap
+1503,private,西武鉄道,西武新宿線,166,mapped,OpenStreetMap
+1504,private,西武鉄道,西武有楽町線,17,mapped,OpenStreetMap
+1505,private,西武鉄道,西武池袋線,250,mapped,OpenStreetMap
+1506,private,西武鉄道,西武池袋線霞川橋梁,2,mapped,OpenStreetMap
+1507,private,西武鉄道,西武狭山線,1,mapped,OpenStreetMap
+1508,private,西武鉄道,西武秩父線,130,mapped,OpenStreetMap
+1509,private,西武鉄道,西武豊島線,5,mapped,OpenStreetMap
+1510,private,西武鉄道,西武鉄道拝島線,2,mapped,OpenStreetMap
+1511,private,西武鉄道,野火止用水橋梁,1,mapped,OpenStreetMap
+1512,private,西武鉄道 (Seibu Railway),西武池袋線,29,mapped,OpenStreetMap
+1513,private,西武鉄道 (Seibu Railway),西武狭山線,20,mapped,OpenStreetMap
+1514,private,西武鉄道 (Seibu Railway),西武豊島線,2,mapped,OpenStreetMap
+1515,private,西武鉄道株式会社,西武新宿線,1,mapped,OpenStreetMap
+1516,private,豊橋鉄道,豊橋鉄道渥美線,66,mapped,OpenStreetMap
+1517,private,近江鉄道,近江鉄道八日市線,34,mapped,OpenStreetMap
+1518,private,近江鉄道,近江鉄道多賀線,11,mapped,OpenStreetMap
+1519,private,近江鉄道,近江鉄道本線,172,mapped,OpenStreetMap
+1520,private,近畿日本鉄道,近畿日本鉄道けいはんな線,67,mapped,OpenStreetMap
+1521,private,近畿日本鉄道,近畿日本鉄道京都線,155,mapped,OpenStreetMap
+1522,private,近畿日本鉄道,近畿日本鉄道信貴線,13,mapped,OpenStreetMap
+1523,private,近畿日本鉄道,近畿日本鉄道南大阪線,153,mapped,OpenStreetMap
+1524,private,近畿日本鉄道,近畿日本鉄道南大阪線 普通,1,mapped,OpenStreetMap
+1525,private,近畿日本鉄道,近畿日本鉄道吉野線,93,mapped,OpenStreetMap
+1526,private,近畿日本鉄道,近畿日本鉄道名古屋線,527,mapped,OpenStreetMap
+1527,private,近畿日本鉄道,近畿日本鉄道大阪線,478,mapped,OpenStreetMap
+1528,private,近畿日本鉄道,近畿日本鉄道天理線,24,mapped,OpenStreetMap
+1529,private,近畿日本鉄道,近畿日本鉄道奈良線,131,mapped,OpenStreetMap
+1530,private,近畿日本鉄道,近畿日本鉄道山田線,152,mapped,OpenStreetMap
+1531,private,近畿日本鉄道,近畿日本鉄道御所線,43,mapped,OpenStreetMap
+1532,private,近畿日本鉄道,近畿日本鉄道志摩線,81,mapped,OpenStreetMap
+1533,private,近畿日本鉄道,近畿日本鉄道橿原線,125,mapped,OpenStreetMap
+1534,private,近畿日本鉄道,近畿日本鉄道湯の山線,40,mapped,OpenStreetMap
+1535,private,近畿日本鉄道,近畿日本鉄道生駒線,57,mapped,OpenStreetMap
+1536,private,近畿日本鉄道,近畿日本鉄道田原本線,50,mapped,OpenStreetMap
+1537,private,近畿日本鉄道,近畿日本鉄道道明寺線,11,mapped,OpenStreetMap
+1538,private,近畿日本鉄道,近畿日本鉄道鈴鹿線,17,mapped,OpenStreetMap
+1539,private,近畿日本鉄道,近畿日本鉄道長野線,46,mapped,OpenStreetMap
+1540,private,近畿日本鉄道,近畿日本鉄道難波線,7,mapped,OpenStreetMap
+1541,private,近畿日本鉄道,近畿日本鉄道鳥羽線,83,mapped,OpenStreetMap
+1542,private,近畿日本鉄道,近鉄名古屋線,51,mapped,OpenStreetMap
+1543,private,近畿日本鉄道,近鉄特急,2,mapped,OpenStreetMap
+1544,private,近畿日本鉄道,近鉄特急しまかぜ,1,mapped,OpenStreetMap
+1545,private,道南いさりび鉄道,道南いさりび鉄道線,105,mapped,OpenStreetMap
+1546,private,遠州鉄道,遠州鉄道鉄道線,50,mapped,OpenStreetMap
+1547,private,野岩鉄道,野岩鉄道会津鬼怒川線,62,mapped,OpenStreetMap
+1548,private,銚子電気鉄道,銚子電気鉄道線,9,mapped,OpenStreetMap
+1549,private,錦川鉄道,柳瀬トンネル,1,mapped,OpenStreetMap
+1550,private,錦川鉄道,錦川鉄道錦川清流線,155,mapped,OpenStreetMap
+1551,private,長良川鉄道,長良川鉄道越美南線,164,mapped,OpenStreetMap
+1552,private,長野電鉄,長野電鉄長野線,72,mapped,OpenStreetMap
+1553,private,関東鉄道,関東鉄道常総線,128,mapped,OpenStreetMap
+1554,private,関東鉄道,関東鉄道竜ヶ崎線,6,mapped,OpenStreetMap
+1555,private,阪急電鉄,阪急電鉄京都線,608,mapped,OpenStreetMap
+1556,private,阪急電鉄,阪急電鉄今津線,77,mapped,OpenStreetMap
+1557,private,阪急電鉄,阪急電鉄伊丹線,17,mapped,OpenStreetMap
+1558,private,阪急電鉄,阪急電鉄千里線,126,mapped,OpenStreetMap
+1559,private,阪急電鉄,阪急電鉄宝塚本線,36,mapped,OpenStreetMap
+1560,private,阪急電鉄,阪急電鉄宝塚線,99,mapped,OpenStreetMap
+1561,private,阪急電鉄,阪急電鉄嵐山線,36,mapped,OpenStreetMap
+1562,private,阪急電鉄,阪急電鉄甲陽線,23,mapped,OpenStreetMap
+1563,private,阪急電鉄,阪急電鉄神戸線,357,mapped,OpenStreetMap
+1564,private,阪急電鉄,阪急電鉄神戸高速線,3,mapped,OpenStreetMap
+1565,private,阪急電鉄,阪急電鉄箕面線,13,mapped,OpenStreetMap
+1566,private,阪神電気鉄道,阪神電気鉄道なんば線,102,mapped,OpenStreetMap
+1567,private,阪神電気鉄道,阪神電気鉄道本線,314,mapped,OpenStreetMap
+1568,private,阪神電気鉄道,阪神電気鉄道武庫川線,9,mapped,OpenStreetMap
+1569,private,阿佐海岸鉄道,阿佐海岸鉄道阿佐東線,90,mapped,OpenStreetMap
+1570,private,阿武隈急行,阿武隈急行線,245,mapped,OpenStreetMap
+1571,private,青い森鉄道,青い森鉄道線,276,mapped,OpenStreetMap
+1572,private,静岡鉄道,静岡鉄道静岡清水線,52,mapped,OpenStreetMap
+1573,private,養老鉄道,養老鉄道養老線,107,mapped,OpenStreetMap
+1574,private,首都圏新都市鉄道,つくばエクスプレス,161,mapped,OpenStreetMap
+1575,private,高松琴平電気鉄道,琴平線,5,mapped,OpenStreetMap
+1576,private,高松琴平電気鉄道,高松琴平電気鉄道志度線,57,mapped,OpenStreetMap
+1577,private,高松琴平電気鉄道,高松琴平電気鉄道琴平線,139,mapped,OpenStreetMap
+1578,private,高松琴平電気鉄道,高松琴平電気鉄道長尾線,51,mapped,OpenStreetMap
+1579,private,鹿島臨海鉄道,鹿島臨海鉄道大洗鹿島線,97,mapped,OpenStreetMap
+1580,private,黒部峡谷鉄道,Private / third-sector,3,mapped,OpenStreetMap
+1581,private,黒部峡谷鉄道,黒部峡谷鉄道本線,104,mapped,OpenStreetMap
+1589,ropeway,,1 蔵王ロープウェイ山麓線,1,mapped; public/sightseeing classification,OpenStreetMap
+1590,ropeway,,2 蔵王ロープウェイ山頂線,1,mapped; public/sightseeing classification,OpenStreetMap
+1591,ropeway,,Eve Gondola,1,mapped; public/sightseeing classification,OpenStreetMap
+1592,ropeway,,HANAZONO シンフォニーゴンドラ,1,mapped; public/sightseeing classification,OpenStreetMap
+1593,ropeway,,Unnamed passenger ropeway,7,mapped; public/sightseeing classification,OpenStreetMap
+1594,ropeway,,あわぎん眉山ロープウエイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1595,ropeway,,かんざんじロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1596,ropeway,,もいわ山ロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1597,ropeway,,アタミロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1598,ropeway,,アッパービレッジゴンドラ,1,mapped; public/sightseeing classification,OpenStreetMap
+1599,ropeway,,エースゴンドラ,1,mapped; public/sightseeing classification,OpenStreetMap
+1600,ropeway,,カーレーター,1,mapped; public/sightseeing classification,OpenStreetMap
+1601,ropeway,,キロロゴンドラ,1,mapped; public/sightseeing classification,OpenStreetMap
+1602,ropeway,,ゲートウェイエクスプレス,1,mapped; public/sightseeing classification,OpenStreetMap
+1603,ropeway,,ゴンドラ,1,mapped; public/sightseeing classification,OpenStreetMap
+1604,ropeway,,ゴンドラすずらん,1,mapped; public/sightseeing classification,OpenStreetMap
+1605,ropeway,,サミットキャビン,1,mapped; public/sightseeing classification,OpenStreetMap
+1606,ropeway,,サンライズエクスプレス,1,mapped; public/sightseeing classification,OpenStreetMap
+1607,ropeway,,ドラゴンドラ,1,mapped; public/sightseeing classification,OpenStreetMap
+1608,ropeway,,ニセコゴンドラ,1,mapped; public/sightseeing classification,OpenStreetMap
+1609,ropeway,,ノア,1,mapped; public/sightseeing classification,OpenStreetMap
+1610,ropeway,,パルキャビン,1,mapped; public/sightseeing classification,OpenStreetMap
+1611,ropeway,,ビレッジエクスプレス,1,mapped; public/sightseeing classification,OpenStreetMap
+1612,ropeway,,ブナ平ゴンドラリフト,1,mapped; public/sightseeing classification,OpenStreetMap
+1613,ropeway,,ヘブンスそのはらゴンドラ,1,mapped; public/sightseeing classification,OpenStreetMap
+1614,ropeway,,ランドー,1,mapped; public/sightseeing classification,OpenStreetMap
+1615,ropeway,,七飯ゴンドラ,1,mapped; public/sightseeing classification,OpenStreetMap
+1616,ropeway,,五竜テレキャビン,1,mapped; public/sightseeing classification,OpenStreetMap
+1617,ropeway,,伊豆の国パノラマパークロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1618,ropeway,,伊香保ロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1619,ropeway,,八幡山ロープウェー,1,mapped; public/sightseeing classification,OpenStreetMap
+1620,ropeway,,八方ゴンドラリフト「アダム」,1,mapped; public/sightseeing classification,OpenStreetMap
+1621,ropeway,,八海山ロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1622,ropeway,,八甲田ロープウェー,1,mapped; public/sightseeing classification,OpenStreetMap
+1623,ropeway,,六甲有馬ロープウェイ裏六甲線,1,mapped; public/sightseeing classification,OpenStreetMap
+1624,ropeway,,函館山ロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1625,ropeway,,北八ヶ岳ロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1626,ropeway,,叡山ロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1627,ropeway,,城崎温泉ロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1628,ropeway,,大室山登山リフト,1,mapped; public/sightseeing classification,OpenStreetMap
+1629,ropeway,,天元台ロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1630,ropeway,,天狗山ゴンドラ,1,mapped; public/sightseeing classification,OpenStreetMap
+1631,ropeway,,太龍寺ロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1632,ropeway,,妙高高原スカイケーブル,1,mapped; public/sightseeing classification,OpenStreetMap
+1633,ropeway,,安比ゴンドラ,1,mapped; public/sightseeing classification,OpenStreetMap
+1634,ropeway,,宝登山ロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1635,ropeway,,宮島ロープウエー,4,mapped; public/sightseeing classification,OpenStreetMap
+1636,ropeway,,富良野ロープウェー,1,mapped; public/sightseeing classification,OpenStreetMap
+1637,ropeway,,寒霞渓ロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1638,ropeway,,小室山観光リフト,1,mapped; public/sightseeing classification,OpenStreetMap
+1639,ropeway,,岩国城ロープウェー,1,mapped; public/sightseeing classification,OpenStreetMap
+1640,ropeway,,御岳ロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1641,ropeway,,志賀高原リゾートゴンドラ,1,mapped; public/sightseeing classification,OpenStreetMap
+1642,ropeway,,新井ゴンドラ,1,mapped; public/sightseeing classification,OpenStreetMap
+1643,ropeway,,新穂高ロープウェイ,2,mapped; public/sightseeing classification,OpenStreetMap
+1644,ropeway,,日光白根山ロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1645,ropeway,,日本平ロープウェイ,2,mapped; public/sightseeing classification,OpenStreetMap
+1646,ropeway,,昇仙峡ロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1647,ropeway,,明智平ロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1648,ropeway,,書写山ロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1649,ropeway,,東館山ゴンドラリフト,1,mapped; public/sightseeing classification,OpenStreetMap
+1650,ropeway,,松山城リフト,1,mapped; public/sightseeing classification,OpenStreetMap
+1651,ropeway,,松山城ロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1652,ropeway,,栂池ロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1653,ropeway,,湯沢高原ロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1654,ropeway,,獅子吼ゴンドラ,1,mapped; public/sightseeing classification,OpenStreetMap
+1655,ropeway,,田代ロープウェー,1,mapped; public/sightseeing classification,OpenStreetMap
+1656,ropeway,,石鎚登山ロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1657,ropeway,,神戸布引ロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1658,ropeway,,立山ロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1659,ropeway,,竜王RW,1,mapped; public/sightseeing classification,OpenStreetMap
+1660,ropeway,,筑波山ロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1661,ropeway,,箱館山ゴンドラ,1,mapped; public/sightseeing classification,OpenStreetMap
+1662,ropeway,,箸蔵山ロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1663,ropeway,,蓼科牧場ゴンドラリフト,1,mapped; public/sightseeing classification,OpenStreetMap
+1664,ropeway,,蔵王スカイケーブル,1,mapped; public/sightseeing classification,OpenStreetMap
+1665,ropeway,,蔵王中央ケーブル,1,mapped; public/sightseeing classification,OpenStreetMap
+1666,ropeway,,観光リフト,3,mapped; public/sightseeing classification,OpenStreetMap
+1667,ropeway,,観光ロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1668,ropeway,,谷川岳ロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1669,ropeway,,那須ゴンドラ,1,mapped; public/sightseeing classification,OpenStreetMap
+1670,ropeway,,那須ロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1671,ropeway,,金華山ロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1672,ropeway,,鋸山ロープウェー,1,mapped; public/sightseeing classification,OpenStreetMap
+1673,ropeway,,長坂ゴンドラ,1,mapped; public/sightseeing classification,OpenStreetMap
+1674,ropeway,,長崎ロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1675,ropeway,,阿仁ゴンドラ,1,mapped; public/sightseeing classification,OpenStreetMap
+1676,ropeway,,雲仙ロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1677,ropeway,,雲海テラスゴンドラ,1,mapped; public/sightseeing classification,OpenStreetMap
+1678,ropeway,,雲辺寺ロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1679,ropeway,,須磨浦ロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1680,ropeway,,駒ヶ岳ロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1681,ropeway,,鬼怒川温泉ロープウェイ,2,mapped; public/sightseeing classification,OpenStreetMap
+1682,ropeway,おのみちバス,千光寺ロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1683,ropeway,よみうりランド,スカイシャトル,1,mapped; public/sightseeing classification,OpenStreetMap
+1684,ropeway,ハンターマウンテン塩原,ゴンドラリフト,1,mapped; public/sightseeing classification,OpenStreetMap
+1685,ropeway,プリンスホテル,箱根駒ヶ岳ロープウェー,1,mapped; public/sightseeing classification,OpenStreetMap
+1686,ropeway,ワカサリゾート株式会社,大雪山旭岳ロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1687,ropeway,ワカサリゾート株式会社,有珠山ロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1688,ropeway,下田ロープウェイ,下田ロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1689,ropeway,丹後海陸交通,丹後海陸交通天橋立リフト,1,mapped; public/sightseeing classification,OpenStreetMap
+1690,ropeway,吉野大峯ケーブル自動車,吉野ロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1691,ropeway,天橋立総合事業株式会社,天橋立ビューランドリフト,1,mapped; public/sightseeing classification,OpenStreetMap
+1692,ropeway,富士山麓電気鉄道,〜河口湖〜 富士山パノラマロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1693,ropeway,弥彦観光索道,弥彦山ロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1694,ropeway,御在所ロープウェイ,御在所ロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1695,ropeway,御在所ロープウェイ,御在所岳 山上公園 観光リフト,1,mapped; public/sightseeing classification,OpenStreetMap
+1696,ropeway,株式会社りんゆう観光,大雪山層雲峡黒岳ロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1697,ropeway,株式会社小田急箱根,箱根ロープウェイ,2,mapped; public/sightseeing classification,OpenStreetMap
+1698,ropeway,泉陽興業株式会社,YOKOHAMA AIR CABIN,1,mapped; public/sightseeing classification,OpenStreetMap
+1699,ropeway,谷川岳ロープウェイ,榛名山ロープウェイ,1,mapped; public/sightseeing classification,OpenStreetMap
+1700,ropeway,高尾登山電鉄,高尾山エコーリフト,2,mapped,https://www.takaotozan.co.jp/timeprice/index.php
+1701,shinkansen,,北海道新幹線,70,mapped,OpenStreetMap
+1702,shinkansen,,東海道新幹線,2,mapped,OpenStreetMap
+1703,shinkansen,九州旅客鉄道,九州新幹線,557,mapped,OpenStreetMap
+1704,shinkansen,九州旅客鉄道,西九州新幹線,246,mapped,OpenStreetMap
+1705,shinkansen,北海道旅客鉄道,北海道新幹線,57,mapped,OpenStreetMap
+1706,shinkansen,北海道旅客鉄道,海峡線・北海道新幹線,130,mapped,OpenStreetMap
+1707,shinkansen,東日本旅客鉄道,JR奥羽本線,444,mapped,OpenStreetMap
+1708,shinkansen,東日本旅客鉄道,JR奥羽本線;秋田新幹線,5,mapped,OpenStreetMap
+1709,shinkansen,東日本旅客鉄道,JR奥羽本線・山形新幹線,9,mapped,OpenStreetMap
+1710,shinkansen,東日本旅客鉄道,JR奥羽線,5,mapped,OpenStreetMap
+1711,shinkansen,東日本旅客鉄道,JR奥羽線;秋田新幹線,1,mapped,OpenStreetMap
+1712,shinkansen,東日本旅客鉄道,JR田沢湖線;秋田新幹線,151,mapped,OpenStreetMap
+1713,shinkansen,東日本旅客鉄道,とき: 東京,1,mapped,OpenStreetMap
+1714,shinkansen,東日本旅客鉄道,上越新幹線,204,mapped,OpenStreetMap
+1715,shinkansen,東日本旅客鉄道,上越線,1,mapped,OpenStreetMap
+1716,shinkansen,東日本旅客鉄道,北陸新幹線,271,mapped,OpenStreetMap
+1717,shinkansen,東日本旅客鉄道,山形新幹線,5,mapped,OpenStreetMap
+1718,shinkansen,東日本旅客鉄道,東北新幹線,1220,mapped,OpenStreetMap
+1719,shinkansen,東日本旅客鉄道,榛名トンネル,1,mapped,OpenStreetMap
+1720,shinkansen,東日本旅客鉄道,秋田新幹線,58,mapped,OpenStreetMap
+1721,shinkansen,東日本旅客鉄道,那須塩原,2,mapped,OpenStreetMap
+1722,shinkansen,東日本旅客鉄道 (JR East),東北新幹線,20,mapped,OpenStreetMap
+1723,shinkansen,東日本旅客鉄道株式会社,北陸新幹線,40,mapped,OpenStreetMap
+1724,shinkansen,東海旅客鉄道,東海道新幹線,333,mapped,OpenStreetMap
+1725,shinkansen,東海旅客鉄道 (JR Central),のぞみ,3,mapped,OpenStreetMap
+1726,shinkansen,東海旅客鉄道 (JR Central),東海道新幹線,6159,mapped,OpenStreetMap
+1727,shinkansen,東海旅客鉄道株式会社,のぞみ,2,mapped,OpenStreetMap
+1728,shinkansen,東海旅客鉄道株式会社,山陽新幹線,3,mapped,OpenStreetMap
+1729,shinkansen,東海旅客鉄道株式会社,山陽新幹線;檀特トンネル,1,mapped,OpenStreetMap
+1730,shinkansen,東海旅客鉄道株式会社,東海道新幹線,361,mapped,OpenStreetMap
+1731,shinkansen,熊本市動植物園,新幹線さくら,3,mapped,OpenStreetMap
+1732,shinkansen,西日本旅客鉄道,九州新幹線,2,mapped,OpenStreetMap
+1733,shinkansen,西日本旅客鉄道,北陸新幹線,291,mapped,OpenStreetMap
+1734,shinkansen,西日本旅客鉄道,博多南線・九州新幹線,21,mapped,OpenStreetMap
+1735,shinkansen,西日本旅客鉄道,山陽新幹線,1698,mapped,OpenStreetMap
+1736,shinkansen,西日本旅客鉄道,山陽新幹線;広島;11番線,2,mapped,OpenStreetMap
+1737,shinkansen,西日本旅客鉄道,山陽新幹線;広島;14番線,2,mapped,OpenStreetMap
+1738,shinkansen,西日本旅客鉄道,山陽新幹線;新欽明路トンネル,1,mapped,OpenStreetMap
+1739,shinkansen,西日本旅客鉄道,山陽新幹線;檀特トンネル,1,mapped,OpenStreetMap
+1740,shinkansen,西日本旅客鉄道,山陽新幹線;相生トンネル,2,mapped,OpenStreetMap
+1741,shinkansen,西日本旅客鉄道,山陽新幹線;石原トンネル,2,mapped,OpenStreetMap
+1742,shinkansen,西日本旅客鉄道,山陽新幹線;赤穂トンネル,2,mapped,OpenStreetMap
+1743,shinkansen,西日本旅客鉄道,山陽新幹線;酒津トンネル,1,mapped,OpenStreetMap
+1744,shinkansen,西日本旅客鉄道,山陽新幹線;野口トンネル,2,mapped,OpenStreetMap
+1745,shinkansen,西日本旅客鉄道,山陽新幹線・博多南線・九州新幹線,4,mapped,OpenStreetMap
+1746,shinkansen,西日本旅客鉄道;九州旅客鉄道,九州新幹線,12,mapped,OpenStreetMap
+1747,shinkansen,西日本旅客鉄道;東海旅客鉄道,東海道新幹線,2,mapped,OpenStreetMap
+1748,shinkansen,西日本旅客鉄道山陽新幹線統括本部,山陽新幹線,1,mapped,OpenStreetMap
+1749,shinkansen,西日本旅客鉄道株式会社,北陸新幹線,6,mapped,OpenStreetMap
+1750,tram,,Tram / light rail,58,mapped,OpenStreetMap
+1751,tram,,とさでん交通伊野線,1,mapped,OpenStreetMap
+1752,tram,,ウイングシャトル,8,mapped,OpenStreetMap
+1753,tram,,京都市電,1,mapped,OpenStreetMap
+1754,tram,,子供汽車,7,mapped,OpenStreetMap
+1755,tram,,江ノ島電鉄,1,mapped,OpenStreetMap
+1756,tram,,福井鉄道福武線,4,mapped,OpenStreetMap
+1757,tram,,豆汽車弁慶号,1,mapped,OpenStreetMap
+1758,tram,とさでん交通,Tram / light rail,6,mapped,OpenStreetMap
+1759,tram,とさでん交通,とさでん交通伊野線,15,mapped,OpenStreetMap
+1760,tram,とさでん交通,とさでん交通後免線,14,mapped,OpenStreetMap
+1761,tram,とさでん交通,桟橋線,10,mapped,OpenStreetMap
+1762,tram,万葉線,Tram / light rail,4,mapped,OpenStreetMap
+1763,tram,万葉線,万葉線新湊港線,15,mapped,OpenStreetMap
+1764,tram,万葉線,万葉線高岡軌道線,35,mapped,OpenStreetMap
+1765,tram,京福電気鉄道,京福電気鉄道北野線,31,mapped,OpenStreetMap
+1766,tram,京福電気鉄道,京福電気鉄道嵐山本線,87,mapped,OpenStreetMap
+1767,tram,伊予鉄道,伊予鉄道城北線,17,mapped,OpenStreetMap
+1768,tram,伊予鉄道,伊予鉄道城南線,32,mapped,OpenStreetMap
+1769,tram,伊予鉄道,伊予鉄道大手町線,13,mapped,OpenStreetMap
+1770,tram,伊予鉄道,伊予鉄道本町線,3,mapped,OpenStreetMap
+1771,tram,伊予鉄道,伊予鉄道花園線,7,mapped,OpenStreetMap
+1772,tram,函館市,函館市電宝来・谷地頭線,3,mapped,OpenStreetMap
+1773,tram,函館市企業局交通部,函館市電大森線,2,mapped,OpenStreetMap
+1774,tram,函館市企業局交通部,函館市電本線,5,mapped,OpenStreetMap
+1775,tram,函館市企業局交通部,函館市電湯の川線,11,mapped,OpenStreetMap
+1776,tram,埼玉新都市交通,埼玉新都市交通伊奈線,26,mapped,OpenStreetMap
+1777,tram,宇都宮ライトレール株式会社,宇都宮芳賀ライトレール線,76,mapped,OpenStreetMap
+1778,tram,富山地方鉄道,Tram / light rail,1,mapped,OpenStreetMap
+1779,tram,富山地方鉄道,富山地方鉄道6系統,1,mapped,OpenStreetMap
+1780,tram,富山地方鉄道,富山地方鉄道呉羽線,8,mapped,OpenStreetMap
+1781,tram,富山地方鉄道,富山地方鉄道安野屋線,2,mapped,OpenStreetMap
+1782,tram,富山地方鉄道,富山地方鉄道富山市内軌道線,11,mapped,OpenStreetMap
+1783,tram,富山地方鉄道,富山地方鉄道富山港線,38,mapped,OpenStreetMap
+1784,tram,富山地方鉄道,富山地方鉄道富山都心線,2,mapped,OpenStreetMap
+1785,tram,富山地方鉄道,富山地方鉄道支線,11,mapped,OpenStreetMap
+1786,tram,富山地方鉄道,富山地方鉄道本線,15,mapped,OpenStreetMap
+1787,tram,山万,山万ユーカリが丘線,13,mapped,OpenStreetMap
+1788,tram,山万株式会社,山万ユーカリが丘線,1,mapped,OpenStreetMap
+1789,tram,岡山電気軌道,東山本線,27,mapped,OpenStreetMap
+1790,tram,岡山電気軌道,清輝橋線,3,mapped,OpenStreetMap
+1791,tram,広島電鉄,Tram / light rail,3,mapped,OpenStreetMap
+1792,tram,広島電鉄,広島電鉄1号線,2,mapped,OpenStreetMap
+1793,tram,広島電鉄,広島電鉄2号線,4,mapped,OpenStreetMap
+1794,tram,広島電鉄,広島電鉄5号線,2,mapped,OpenStreetMap
+1795,tram,広島電鉄,広島電鉄7号線,2,mapped,OpenStreetMap
+1796,tram,広島電鉄,広島電鉄9号線,1,mapped,OpenStreetMap
+1797,tram,広島電鉄,広島電鉄宇品線,20,mapped,OpenStreetMap
+1798,tram,広島電鉄,広島電鉄宮島線,100,mapped,OpenStreetMap
+1799,tram,広島電鉄,広島電鉄循環線,5,mapped,OpenStreetMap
+1800,tram,広島電鉄,広島電鉄循環線外回り,1,mapped,OpenStreetMap
+1801,tram,広島電鉄,広島電鉄本線,45,mapped,OpenStreetMap
+1802,tram,広島電鉄,広島電鉄横川線,12,mapped,OpenStreetMap
+1803,tram,広島電鉄,広島電鉄江波線,7,mapped,OpenStreetMap
+1804,tram,広島電鉄,広島電鉄白島線,5,mapped,OpenStreetMap
+1805,tram,広島電鉄,広島電鉄皆実線,3,mapped,OpenStreetMap
+1806,tram,広島高速交通,Tram / light rail,5,mapped,OpenStreetMap
+1807,tram,札幌市交通局,札幌市電一条線,2,mapped,OpenStreetMap
+1808,tram,札幌市交通局,札幌市電山鼻線,2,mapped,OpenStreetMap
+1809,tram,札幌市交通局,札幌市電山鼻西線,2,mapped,OpenStreetMap
+1810,tram,札幌市交通局,札幌市電都心線,2,mapped,OpenStreetMap
+1811,tram,東京急行電鉄,東京急行電鉄世田谷線,2,mapped,OpenStreetMap
+1812,tram,東京都交通局,都電荒川線,17,mapped,OpenStreetMap
+1813,tram,東急電鉄,東急電鉄世田谷線,4,mapped,OpenStreetMap
+1814,tram,東急電鉄,東急電鉄世田谷線;下高井戸,2,mapped,OpenStreetMap
+1815,tram,江ノ島電鉄,江ノ島電鉄,49,mapped,OpenStreetMap
+1816,tram,江ノ島電鉄株式会社,江ノ島電鉄,4,mapped,OpenStreetMap
+1817,tram,熊本市,熊本市営田崎線,3,mapped,OpenStreetMap
+1818,tram,熊本市,熊本市電上熊本線,9,mapped,OpenStreetMap
+1819,tram,熊本市,熊本市電健軍線,8,mapped,OpenStreetMap
+1820,tram,熊本市,熊本市電幹線,9,mapped,OpenStreetMap
+1821,tram,熊本市,熊本市電水前寺線,10,mapped,OpenStreetMap
+1822,tram,熊本市,熊本市電田崎線,3,mapped,OpenStreetMap
+1823,tram,福井鉄道,Tram / light rail,1,mapped,OpenStreetMap
+1824,tram,福井鉄道,福井鉄道福武線,81,mapped,OpenStreetMap
+1825,tram,筑豊電気鉄道,筑豊電気鉄道,96,mapped,OpenStreetMap
+1826,tram,西武鉄道,西武山口線,7,mapped,OpenStreetMap
+1827,tram,西武鉄道,西武遊園地第１隧道,1,mapped,OpenStreetMap
+1828,tram,西武鉄道,西武遊園地第２隧道,1,mapped,OpenStreetMap
+1829,tram,西武鉄道,西武遊園地第３隧道,1,mapped,OpenStreetMap
+1830,tram,西武鉄道,西武遊園地第４隧道,1,mapped,OpenStreetMap
+1831,tram,西武鉄道,西武遊園地第５隧道,1,mapped,OpenStreetMap
+1832,tram,豊橋鉄道,豊橋鉄道東田本線,36,mapped,OpenStreetMap
+1833,tram,長崎電気軌道,長崎電気軌道大浦支線,4,mapped,OpenStreetMap
+1834,tram,長崎電気軌道,長崎電気軌道本線,42,mapped,OpenStreetMap
+1835,tram,長崎電気軌道,長崎電気軌道桜町支線,6,mapped,OpenStreetMap
+1836,tram,長崎電気軌道,長崎電気軌道蛍茶屋支線,32,mapped,OpenStreetMap
+1837,tram,長崎電気軌道,長崎電気軌道赤迫支線,4,mapped,OpenStreetMap
+1838,tram,阪堺電気軌道,阪堺電車阪堺線,2,mapped,OpenStreetMap
+1839,tram,阪堺電気軌道 (Hankai denki kidō),阪堺電車上町線,12,mapped,OpenStreetMap
+1840,tram,阪堺電気軌道 (Hankai denki kidō),阪堺電車阪堺線,56,mapped,OpenStreetMap
+1841,tram,鹿児島市,鹿児島市営谷山線,1,mapped,OpenStreetMap
+1842,tram,鹿児島市交通局,鹿児島市営第一期線,3,mapped,OpenStreetMap
+1843,tram,鹿児島市交通局,鹿児島市電第一期線,22,mapped,OpenStreetMap
+1844,tram,鹿児島市交通局,鹿児島市電第二期線,10,mapped,OpenStreetMap
+1845,tram,鹿児島市交通局,鹿児島市電谷山線,40,mapped,OpenStreetMap

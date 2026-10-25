@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "dataset_id": "japan-rail-water-atlas-v0.1.0",
+  "coordinate_reference_system": "EPSG:4326",
+  "counts": {
+    "station_objects": 11251,
+    "rail_station_objects": 9335,
+    "water_services": 587,
+    "active_water_services": 565,
+    "route_groups": 1846
+  },
+  "geometry_sections": 96099,
+  "baselines": {
+    "osm": "2026-10-24T20:20:51Z",
+    "mlit_rail": "2022-12-31",
+    "ferry_inventory": "2026-09-13"
+  },
+  "files": {
+    "data/atlas.json.gz": {
+      "bytes": 5282830,
+      "sha256": "8d4414944900b3f51b7911c09ab895cfbfcdc29affd80894a997c71172fa1b46"
+    },
+    "data/network.geojson.gz": {
+      "bytes": 7950882,
+      "sha256": "412b7a7acaa8c281e3b5a836fdec52439ebb1d64a08a79646b697036d0fea881"
+    },
+    "data/inventories/ground_lines_index.csv": {
+      "bytes": 106531,
+      "sha256": "63c4e3c961bf7be40aa05ea1743fa05727c5ff5be643a49070d8878a95cd91f1"
+    },
+    "data/inventories/stations_and_terminals.csv": {
+      "bytes": 1170835,
+      "sha256": "1008fa798ef4a451e4e4258f647248150f6798b67f430b9630eb2fe831385123"
+    },
+    "data/inventories/water_services.csv": {
+      "bytes": 209571,
+      "sha256": "cb99464393dc3d4d90f3e85da45d7ca23caa0654691b2bca2905085cd8f21ed2"
+    },
+    "data/audits/mlit_ferry_operator_audit.csv": {
+      "bytes": 29127,
+      "sha256": "f8fe97b3076400eca78543dab9d6373702b31b6bd849708d4ca1334b812645e0"
+    },
+    "data/audits/rail_2022_coverage_audit.csv": {
+      "bytes": 27924,
+      "sha256": "6250b47209e27391773d682d8773a4e1b56babc70aac85615784677d89ec3cea"
+    }
+  },
+  "licenses": {
+    "original_code": "MIT",
+    "OSM_derived_database": "ODbL-1.0",
+    "renderer": "BSD-3-Clause; see LICENSES/MapLibre-BSD-3-Clause.txt"
+  },
+  "limitations": [
+    "Nationwide completeness is not certified.",
+    "Station/terminal objects are not a count of distinct commercial stations.",
+    "Route groups and geometry sections are not service counts or unique route-kilometres.",
+    "Some water connections are approximate or partial; some sightseeing services have departure markers only."
+  ]
+}

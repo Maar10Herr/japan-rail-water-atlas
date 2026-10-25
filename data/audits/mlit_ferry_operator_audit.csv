@@ -1,0 +1,205 @@
+MLIT_operator,official_directory_URL,inventory_route_ids,match_method
+青函フェリー,https://www.seikan-ferry.co.jp/,02-aomori-hakodate-seikan,official URL/domain match
+津軽海峡フェリー,https://www.tsugarukaikyo.co.jp/,02-oma-hakodate | 02-aomori-hakodate-tsugaru | 02-aomori-muroran,official URL/domain match
+ハートランドフェリー・オクシリアイランドフェリー,https://heartlandferry.jp/status/,02-kutsugata-kafuka | 02-oshidomari-kafuka | 02-esashi-okushiri | 02-wakkanai-oshidomari | 02-wakkanai-kafuka,official URL/domain match
+羽幌沿海フェリー,https://haboro-enkai.com/,02-haboro-yagishiri-teuri,official URL/domain match
+塩竈市,https://urato-island.jp/,02-shiogama-urato,official URL/domain match
+酒田市,https://sakata-kankou.com/tobishima/,02-sakata-tobishima,explicit operator/route-name match; directory uses an alternative URL
+網地島ライン,http://ajishimaline.com/index.html,02-ishinomaki-ajishima,official URL/domain match
+シーパル女川汽船,http://seapal-kisen.co.jp/,02-onagawa-enoshima,official URL/domain match
+川崎近海汽船（シルバーフェリー）,https://www.silverferry.jp/,01-silver-hachinohe-tomakomai,official URL/domain match
+商船三井さんふらわあ,https://www.sunflower.co.jp/,01-sunflower-oarai-tomakomai,official URL/domain match
+小笠原海運,https://www.ogasawarakaiun.co.jp/,03-ogasawara-maru | 03-izushoto-hahajima,official URL/domain match
+東京湾フェリー,https://www.tokyowanferry.com/diagram/,03-tokyowan-ferry,official URL/domain match
+ポートサービス,https://www.yokohama-cruising.jp/#shipinformation,03-seabass-yokohama,official URL/domain match
+箱根観光船,https://www.hakonenavi.jp/transportation/,03-hakone-kaizokusen,official URL/domain match
+箱根遊船,https://www.hakone-yuransen.jp/,03-hakone-yuransen,official URL/domain match
+神新汽船,https://shinshin-kisen.jp/,03-shinshin-shimoda-izu,official URL/domain match
+東海汽船,https://www.tokaikisen.co.jp/schedule/,03-tokai-takeshiba-izu-jet | 03-tokai-takeshiba-hachijo | 03-tokai-takeshiba-izu-large | 03-tokai-atami-oshima,official URL/domain match
+東京都観光汽船,https://www.suijobus.co.jp/today-operation/,03-urbanlaunch-asakusa-loop | 03-tokyocruise-hinode-odaiba | 03-tokyocruise-hinode-bigsight | 03-tokyocruise-asakusa-odaiba | 03-tokyocruise-asakusa-hinode | 03-urbanlaunch-asakusa-toyosu,official URL/domain match
+伊豆諸島開発,https://www.tokaikisen.co.jp/schedule/,03-tokai-takeshiba-izu-jet | 03-tokai-takeshiba-hachijo | 03-tokai-takeshiba-izu-large | 03-tokai-atami-oshima,official URL/domain match
+東京都公園協会,https://www.tokyo-park.or.jp/water/waterbus/,03-tokyo-mizube-line,official URL/domain match
+粟島汽船,https://awashimakisen.co.jp/,04-awashima,official URL/domain match
+へぐら航路,https://hegura.com/,04-hegura,official URL/domain match
+佐渡汽船,https://www.sadokisen.co.jp/service-status,04-sado-niigata-ryotsu | 04-sado-naoetsu-ogi,official URL/domain match
+太平洋フェリー,https://www.taiheiyo-ferry.co.jp/index.html,01-taiheiyo-sendai-tomakomai | 01-taiheiyo-nagoya-sendai-tomakomai,official URL/domain match
+ふじさん駿河湾フェリー,https://www.223-ferry.or.jp/,03-suruga-bay-ferry,official URL/domain match
+津エアポートライン,https://www.tsu-airportline.co.jp/,04-tsu-airport-line,official URL/domain match
+鳥羽市,https://www.city.toba.mie.jp/soshiki/t_kanri/gyomu/doro_kotsu/kokyo_kotsu/1913.html,04-toba-toshi | 04-toba-sugashima | 04-toba-sakate | 04-toba-momotori | 04-toba-kamishima,official URL/domain match
+伊勢湾フェリー,https://www.isewanferry.co.jp/,04-isewan-ferry,official URL/domain match
+富士急マリンリゾート,https://www.hatsushima.jp/,03-hatsushima,official URL/domain match
+西尾市,https://sakushima.com/,04-sakushima,official URL/domain match
+志摩マリンレジャー,https://shima-marineleisure.com/,04-ago-bay-teikisen | 04-kashikojima-espana | 04-toba-bay-iruka,official URL/domain match
+名鉄海上観光船,http://www.meikaijo.co.jp/,04-meitetsu-morozaki-himaka-ferry | 04-meitetsu-morozaki-shinojima-ferry | 04-meitetsu-morozaki-hs | 04-meitetsu-kowa-irago,official URL/domain match
+名門大洋フェリー,https://www.cityline.co.jp/,01-meimon-osaka-shinmoji,official URL/domain match
+新日本海フェリー,https://www.snf.jp/,01-snf-tsuruga-niigata-akita-tomakomai | 01-snf-tsuruga-tomakomai | 01-snf-niigata-otaru | 01-snf-maizuru-otaru,official URL/domain match
+南海フェリー,https://nankai-ferry.co.jp/,05-nankai-ferry,official URL/domain match
+商船三井さんふらわあ,https://www.ferry-sunflower.co.jp/,01-sunflower-osaka-beppu | 01-sunflower-osaka-shibushi | 01-sunflower-kobe-oita,official URL/domain match
+大阪市,https://www.city.osaka.lg.jp/kensetsu/page/0000011244.html,05-osaka-senbonmatsu | 05-osaka-chitose | 05-osaka-tenpozan | 05-osaka-kizugawa | 05-osaka-jinbe | 05-osaka-funamachi | 05-osaka-ochiai-kami | 05-osaka-ochiai-shimo,official URL/domain match
+琵琶湖汽船,https://www.biwakokisen.co.jp/,05-michigan-cruise | 05-chikubushima-cruise,official URL/domain match
+丹後海陸交通,https://www.tankai.jp/,05-ine-bay-boat | 05-amanohashidate-boat | 05-ine-kouro,official URL/domain match
+ジャンボフェリー,https://ferry.co.jp/,05-jumbo-kobe-takamatsu,official URL/domain match
+淡路ジェノバライン,http://www.jenova-line.co.jp/,05-jenova-akashi-iwaya,official URL/domain match
+こうべ未来都市機構,https://www.kobe-access.jp/,05-kobe-kix-bay-shuttle,official URL/domain match
+沼島汽船,https://nushima-yoshijin.jp/go_kisen,05-nushima-kisen,official URL/domain match
+高速いえしま,https://kousoku-ieshima.jp/,05-ieshima-liner,official URL/domain match
+髙福ライナー,https://h-ieshima.jp/liner.html,05-ieshima-liner | 05-bouze-tosen-amide,official URL/domain match
+坊勢輝汽船,https://bouzehikarikisen.moo.jp/,05-bouze-hikari-kisen,official URL/domain match
+坊勢渡船,https://www.heart-y.ne.jp/tosen/,05-bouze-tosen-amide,official URL/domain match
+瀬戸内海汽船,https://setonaikaikisen.co.jp/#section-ride,07-kure-koyo | 07-hiroshima-kure-matsuyama-ferry | 07-ujina-mitaka-ferry | 07-miyajima-kure-blueline | 07-hiroshima-kure-matsuyama-jet | 07-ujina-kirikushi-koyo-sealine | 07-hiroshima-miyajima-sealine | 07-ujina-takata-nakamachi | 07-seaspica-setouchi-shimatabi,official URL/domain match
+ＪＲ西日本宮島フェリー,https://jr-miyajimaferry.co.jp/,07-miyajima-jr,official URL/domain match
+宮島松大汽船,https://miyajima-matsudai.co.jp/,07-miyajima-matsudai,official URL/domain match
+上村汽船,http://kamimurakisen.com/osirase.html,07-ujina-kirikushi-kamimura,official URL/domain match
+似島汽船,https://ninoshimakisen.jp/,07-ujina-ninoshima,official URL/domain match
+大崎汽船,http://www.oktravel.co.jp/,07-takehara-shiromizu,official URL/domain match
+山陽商船,http://sanyo-shosen.jp/,07-akitsu-onishi | 07-tadanoumi-okunoshima-sakari | 07-takehara-tarumi | 07-takehara-shiromizu,official URL/domain match
+隠岐汽船,https://www.oki-kisen.co.jp/situation/,08-oki-ferry-sakaiminato-dozen-saigo | 08-oki-rainbowjet | 08-oki-ferry-shichirui-saigo-dozen,official URL/domain match
+国際両備フェリー,https://ryobi-shodoshima.jp/,06-shinokayama-tonosho | 06-takamatsu-ikeda,official URL/domain match
+周防灘フェリー,https://www.suonada.co.jp/index.html,08-suonada-tokuyama-taketsu,official URL/domain match
+防予フェリー,https://www.boyoferry.co.jp/,08-suooshima-matsuyama-ferry | 08-boyo-yanai-matsuyama,official URL/domain match
+周防大島松山フェリー,https://www.suo-oshima-matsuyamaferry.com/,08-suooshima-matsuyama-ferry,official URL/domain match
+阿多田島汽船,https://atatajimakisen.sakura.ne.jp/,07-ogata-atatajima,official URL/domain match
+土生商船,https://habushosen.jp/,07-akashi-konaga | 07-sunami-mukaeda-sawa | 07-mihara-sunami-okunoshima | 07-habu-mihara-highspeed | 07-setoda-mihara-yuba,official URL/domain match
+安芸津フェリー,http://sanyo-shosen.jp/akitsu/,07-akitsu-onishi | 07-tadanoumi-okunoshima-sakari | 07-takehara-tarumi | 07-takehara-shiromizu,official URL/domain match
+大三島フェリー,http://sanyo-shosen.jp/omishima/,07-akitsu-onishi | 07-tadanoumi-okunoshima-sakari | 07-takehara-tarumi | 07-takehara-shiromizu,official URL/domain match
+備後商船,http://bingoshosen.co.jp/,07-onomichi-tsuneishi-bingo,official URL/domain match
+走島汽船,https://www.tomotetsu.co.jp/?page_id=156,07-tomo-hashirijima,official URL/domain match
+家老渡フェリー汽船,https://karouto-ferry.com/,07-karoto-kamiyuge,official URL/domain match
+大崎上島町,https://www.town.osakikamijima.hiroshima.jp/soshiki/kensetsu/1/2/1/1308.html,07-imabari-munakata-kinoe | 07-shiromizu-ikunoshima-keijima | 07-takehara-tarumi | 07-takehara-shiromizu,official URL/domain match
+尾道市因島総合支所,https://www.city.onomichi.hiroshima.jp/soshiki/39/69388.html,07-onomichi-tsuneishi-bingo | 07-nishihama-hosojima | 07-onomichi-setoda-scruise | 07-onomichi-tomonoura | 07-onomichi-tsuchido-kaneyoshi | 07-onomichi-ekimae-tomihama | 07-uta-tosaki,official URL/domain match
+弓場汽船,https://habushosen.jp/,07-akashi-konaga | 07-sunami-mukaeda-sawa | 07-mihara-sunami-okunoshima | 07-habu-mihara-highspeed | 07-setoda-mihara-yuba,official URL/domain match
+さくら海運,https://sakurakaiun.jimdofree.com/,07-tenno-kirikushi,official URL/domain match
+島前町村組合,https://www.okikankou.com/,08-dozen-naikosen | 08-kuniga-teiki-kankousen,official URL/domain match
+瀬戸内市緑の村公社,https://www.maejima-island.info/index.html,06-ushimado-maejima,official URL/domain match
+大生汽船,https://taiseikisen.com/,06-hinase-otabu-kashirajima,official URL/domain match
+岩国柱島海運,http://www4.et.tiki.ne.jp/~suisei-ihk/,08-hashirajima,explicit operator/route-name match; directory uses an alternative URL
+萩海運,http://hagikaiun.co.jp/,08-hagi-oshima | 08-hagi-aishima | 08-hagi-mishima,official URL/domain match
+大津島巡航,http://www.ccsnet.ne.jp/~jyunkou/,08-ozushima,official URL/domain match
+上関航運,https://www.town.kaminoseki.lg.jp/%E9%9B%A2%E5%B3%B6%E8%88%AA%E8%B7%AF.html,08-yashima | 08-iwaishima,official URL/domain match
+熊南総合事務組合,https://www.town.tabuse.lg.jp/soshiki/35/,08-umashima-sagoujima,official URL/domain match
+平郡航路,https://www.city-yanai.jp/soshiki/15/heigunferry.html,08-heigun,official URL/domain match
+牛島海運,http://www.kvision.ne.jp/~ushima-kaiun/,08-ushima,official URL/domain match
+上関町,https://www.town.kaminoseki.lg.jp/%E9%9B%A2%E5%B3%B6%E8%88%AA%E8%B7%AF.html,08-yashima | 08-iwaishima,official URL/domain match
+野島海運,http://noshimakaiun.com/,08-noshima,official URL/domain match
+瀬戸内シーライン,https://setonaikaikisen.co.jp/#section-ride,07-kure-koyo | 07-hiroshima-kure-matsuyama-ferry | 07-ujina-mitaka-ferry | 07-miyajima-kure-blueline | 07-hiroshima-kure-matsuyama-jet | 07-ujina-kirikushi-koyo-sealine | 07-hiroshima-miyajima-sealine | 07-ujina-takata-nakamachi | 07-seaspica-setouchi-shimatabi,official URL/domain match
+しまなみ海運,https://habushosen.jp/timetable,07-akashi-konaga | 07-sunami-mukaeda-sawa | 07-mihara-sunami-okunoshima | 07-habu-mihara-highspeed | 07-setoda-mihara-yuba,official URL/domain match
+斎島汽船,https://www.city.kure.lg.jp/soshiki/28/kouro-ituki.html,07-kuhi-mikado | 07-kure-koyo | 07-akashi-konaga | 07-kuhi-saijima | 07-miyajima-kure-blueline | 07-hiroshima-kure-matsuyama-jet | 07-aga-nasakejima,official URL/domain match
+周防大島町,https://www.town.suo-oshima.lg.jp/,08-maejima | 08-nasakejima | 08-kasasajima | 08-ukashima,official URL/domain match
+三洋汽船,https://sanyo-kisen.jp/,06-kasaoka-hishima-mushima | 06-kasaoka-manabejima-sanagi,official URL/domain match
+四国フェリー,https://www.shikokuferry.com/,05-shodoshima-ferry-himeji-fukuda | 06-shinokayama-tonosho | 06-takamatsu-tonosho,official URL/domain match
+国際両備フェリー,https://ryobi-shodoshima.jp/,06-shinokayama-tonosho | 06-takamatsu-ikeda,official URL/domain match
+小豆島豊島フェリー,https://www.shodoshima-ferry.co.jp/,06-uno-teshima-tonosho,official URL/domain match
+雌雄島海運,https://meon.co.jp/news,06-takamatsu-megijima-ogijima,official URL/domain match
+備讃フェリー,https://bisan-ferry.jp/,06-marugame-hiroshima-teshima,official URL/domain match
+豊島フェリー,https://www.t-ferry.com/,06-takamatsu-honmura-ieura,official URL/domain match
+本島汽船,https://honjima-kisen.com/,06-marugame-ushijima-honjima,official URL/domain match
+粟島汽船,https://www.city.mitoyo.lg.jp/kakuka/seisaku/koutsuu/1_1/1_3/2670.html,06-suda-awashima | 06-nio-tsutajima | 06-awashima-shishijima-miyanoshita,official URL/domain match
+たどつ汽船,https://tadotsu-kisen.jp/,06-tadotsu-takami-sanagi,official URL/domain match
+真鍋海運,https://www.city.kanonji.kagawa.jp/soshiki/14/423.html,06-kanonji-ibukijima,official URL/domain match
+出羽島連絡事業,https://www.town.tokushima-mugi.lg.jp/docs/2012021500122/,06-muki-tebajima,explicit operator/route-name match; directory uses an alternative URL
+伊島連絡交通事業,https://www.city.anan.tokushima.jp/docs/2010112900042/,06-kotajima-ishima,official URL/domain match
+石崎汽船,http://www.ishizakikisen.co.jp/,07-hiroshima-kure-matsuyama-ferry | 07-hiroshima-kure-matsuyama-jet,explicit operator/route-name match; directory uses an alternative URL
+中島汽船,http://www.nakajimakisen.co.jp/index.shtml,09-nakajima-east | 09-nakajima-west,official URL/domain match
+ごごしま,http://gogoshima-ferry.com/,09-takahama-tomari | 09-takahama-yura,official URL/domain match
+新喜峰,https://www.pref.ehime.jp/site/chuyo/4770.html,09-hojo-aijima | 09-hojo-kashima,official URL/domain match
+青島海運,https://www.city.ozu.ehime.jp/soshiki/nagahamash/0375.html,09-nagahama-aoshima,official URL/domain match
+四国開発フェリー,https://www.orange-ferry.co.jp/,01-orange-osaka-toyo | 09-yawatahama-usuki-orange,official URL/domain match
+新居浜市,https://www.city.niihama.lg.jp/soshiki/koutsu/tokaisenunkoujoukyou.html,09-niihama-kuroshima-oshima,official URL/domain match
+大三島ブルーライン,https://omishima-bl.net/,07-imabari-munakata-kinoe | 09-munakata-okamura | 09-sekizen-tobishima,official URL/domain match
+芸予汽船,https://geiyokisen.com/,07-imabari-habu-geiyo,explicit operator/route-name match; directory uses an alternative URL
+九四オレンジフェリー,https://www.orange-ferry.co.jp/,01-orange-osaka-toyo | 09-yawatahama-usuki-orange,official URL/domain match
+田中輸送,https://tanakayuso.co.jp/,09-yawatahama-oshima,official URL/domain match
+盛運汽船,http://www.seiunkisen.co.jp/,09-uwajima-shirasagi | 09-uwajima-hiburijima | 09-uwajima-komobuchi-tojima-kashima,official URL/domain match
+須崎市,https://www.city.susaki.lg.jp/,06-susaki-junkosen,official URL/domain match
+宿毛市,https://www.city.sukumo.kochi.jp/docs-05/p0325.html,06-sukumo-okinoshima-ugurushima,official URL/domain match
+高知県,https://www.pref.kochi.lg.jp/doc/tosen1/,06-kochi-nagahama-tanesaki,official URL/domain match
+小豆島フェリー,https://www.shikokuferry.com/,05-shodoshima-ferry-himeji-fukuda | 06-shinokayama-tonosho | 06-takamatsu-tonosho,official URL/domain match
+四国汽船,https://www.shikokukisen.com/,06-uno-miyanoura | 06-uno-honmura | 06-miyanoura-ieura-inujima | 06-takamatsu-miyanoura,official URL/domain match
+鳴門市,https://www.city.naruto.tokushima.jp/docs/index.p2.html,06-naruto-okazaki-tosadomari | 06-naruto-shimada-doura | 06-naruto-kurosaki-takashima,explicit operator/route-name match; directory uses an alternative URL
+岡村～今治,https://www.city.imabari.ehime.jp/chiiki/tosen/sekizen/,09-sekizen-ferry | 09-munakata-okamura | 09-miyakubo-ushima-oura | 09-sekizen-tobishima | 09-sachi-tsushima | 09-hashihama-umashima | 09-tsushima-imabari | 09-shimanami-kurushima-cruise,official URL/domain match
+津島～幸,https://www.city.imabari.ehime.jp/chiiki/tosen/sazanami/,09-sekizen-ferry | 09-munakata-okamura | 09-miyakubo-ushima-oura | 09-sekizen-tobishima | 09-sachi-tsushima | 09-hashihama-umashima | 09-tsushima-imabari | 09-shimanami-kurushima-cruise,official URL/domain match
+魚島～弓削～土生,https://www.town.kamijima.lg.jp/site/access/5640.html,07-habu-tateishi-ikina | 07-karoto-kamiyuge | 07-sunoe-okogi | 07-imabari-habu-geiyo | 07-habu-uoshima | 07-habu-mihara-highspeed,official URL/domain match
+立石～長崎,https://www.town.kamijima.lg.jp/site/access/5639.html,07-habu-tateishi-ikina | 07-karoto-kamiyuge | 07-sunoe-okogi | 07-imabari-habu-geiyo | 07-habu-uoshima | 07-habu-mihara-highspeed,official URL/domain match
+宇和島運輸,https://www.uwajimaunyu.co.jp/,09-yawatahama-beppu | 09-yawatahama-usuki-uwajimaunyu,official URL/domain match
+https://www.norimono-info.com/,https://www.norimono-info.com/,10-kyuyu-hakata-hitakatsu | 10-kyuyu-hakata-ashibe-izuhara | 10-kyuyu-hakata-gonoura-izuhara | 10-yamasa-miike-shimabara | 10-kyuyu-karatsu-indoji | 10-yobuko-kakarashima | 10-yobuko-madarashima | 10-yobuko-ogawashima | 10-yobuko-matsushima | 10-karatsu-takashima | 10-hoshika-mukaishima | 10-kaneko-uranosaki-fukushima | 10-minato-kashiwajima | 10-sakito-sasebo-tomosumi | 10-kumamotoferry-shimabara-kumamoto | 10-takashimakisen-tononoura-imafuku | 10-saikaiengan-seto-ikeshima-konoura | 10-kiguchi-hisakajima | 10-gotoryokaku-wakamatsu-fukue | 10-saikaiengan-sasebo-ikeshima | 10-tsuyoshi-maetsuyoshi-sasebo | 10-oushima-fukue-akashima | 10-sagashima-kaitsu | 10-gotosangyo-nagasaki-tainoura | 10-takashimakisen-ao-mikuriya,official URL/domain match
+オーシャントランス（オーシャン東急フェリー）,https://www.otf.jp/,01-otf-tokyo-tokushima-shinmoji,official URL/domain match
+東京九州フェリー,https://tqf.co.jp/shipstatus/,01-tqf-yokosuka-shinmoji,official URL/domain match
+新宮町,https://www.town.shingu.fukuoka.jp/soshiki/sangyo_shinko/8/1/2/1844.html,10-shingu-ainoshima,official URL/domain match
+国道九四フェリー,https://www.koku94.jp/,09-misaki-saganoseki,official URL/domain match
+大入島観光フェリー,http://www.oitasima.net/ohnyujima/access.html,11-ohnyujima-ferry | 11-joeimaru-marinebus | 11-saiki-oshima | 11-tsukumi-hotojima | 11-tsukumi-mukujima | 11-kamae-yakatajima-fukashima,official URL/domain match
+姫島村,https://www.himeshima.jp/,11-himeshima-ferry,official URL/domain match
+有明海自動車航送船組合（有明フェリー）,http://www.ariake-ferry.com/,10-ariake-taira-nagasu,official URL/domain match
+三和商船（三和フェリー）,https://ezax.co.jp/,11-sanwa-ferry,official URL/domain match
+島原鉄道,https://www.shimatetsu.co.jp/,10-shimatetsu-kuchinotsu-oniike,official URL/domain match
+熊本フェリー,https://www.kumamotoferry.co.jp/,10-kumamotoferry-shimabara-kumamoto,official URL/domain match
+九商フェリー,https://www.kyusho-ferry.co.jp/,10-kyushoferry-shimabara-kumamoto,official URL/domain match
+佐賀玄海漁業共同組合,https://www.jf-sagagenkai.or.jp/,10-karatsu-takashima,explicit operator/route-name match; directory uses an alternative URL
+崎戸商船,https://www.saryokyo.com/member/member-02.html,10-sakito-sasebo-tomosumi | 10-takashimakisen-tononoura-imafuku | 10-saikaiengan-seto-ikeshima-konoura | 10-saikaiengan-sasebo-ikeshima | 10-takashimakisen-ao-mikuriya,official URL/domain match
+西海沿岸商船,https://www.saryokyo.com/member/member-01.html,10-sakito-sasebo-tomosumi | 10-takashimakisen-tononoura-imafuku | 10-saikaiengan-seto-ikeshima-konoura | 10-saikaiengan-sasebo-ikeshima | 10-takashimakisen-ao-mikuriya,official URL/domain match
+黒島旅客船,https://kuroshimakanko.com/index.php/view/172,10-kuroshima-ainoura,explicit operator/route-name match; directory uses an alternative URL
+平戸市,https://www.city.hirado.nagasaki.jp/kurashi/life/sumai/koutu/ferry/2019-0225-1640-88.html,10-hirado-oshima | 10-takeyama-hirado-takushima | 10-tsuyoshi-maetsuyoshi-sasebo,official URL/domain match
+木口汽船,https://www.kiguchi-kisen.jp/,10-kiguchi-kabashima | 10-kiguchi-hisakajima,official URL/domain match
+江崎海陸運送,https://www.ezakikaiun.com/,10-ezaki-seto-matsushima,official URL/domain match
+宮崎カーフェリー,https://www.miyazakicarferry.com/,01-miyazaki-kobe-miyazaki,official URL/domain match
+マリックスライン,https://marixline.com/,01-marix-kagoshima-naha,official URL/domain match
+奄美海運,https://www.aline-ferry.com/amami/,01-aline-kagoshima-naha | 11-amami-kaiun-ferry-kikai,official URL/domain match
+折田汽船,https://ferryyakusima2.com/,11-orita-ferry-yakushima2,official URL/domain match
+マルエーフェリー,https://www.aline-ferry.com/,01-aline-kagoshima-naha | 11-amami-kaiun-ferry-kikai,official URL/domain match
+鹿児島市船舶局（桜島フェリー）,https://www.city.kagoshima.lg.jp/sakurajima-ferry/index.html,11-sakurajima-ferry,official URL/domain match
+甑島商船,https://www.koshikisho.co.jp/,11-koshiki-ferry-yuiline | 11-koshiki-jetfoil-koshikishima,official URL/domain match
+コスモライン,https://cosmoline.jp/,11-cosmoline-princess-wakasa,official URL/domain match
+種子屋久高速船,https://www.tykousoku.jp/,11-toppy-nishinoomote-anbo | 11-toppy-nishinoomote-miyanoura | 11-toppy-kagoshima-miyanoura | 11-toppy-kagoshima-nishinoomote,official URL/domain match
+鹿児島交通（垂水フェリー）,https://www.iwasaki-corp.com/kagoshima_kotsu/tarumizuferry/,11-tarumizu-ferry,official URL/domain match
+岩崎産業,https://www.iwasaki-corp.com/,11-tarumizu-ferry,official URL/domain match
+三島村,http://mishimamura.com/ferry/,11-ferry-mishima,official URL/domain match
+十島村,http://www.tokara.jp/ferryinfo/ferrytoshima/,11-ferry-toshima2,official URL/domain match
+屋久島町,https://www.town.yakushima.kagoshima.jp/ferry-taiyou/,11-taiyo2-miyanoura-kuchinoerabu | 11-taiyo2-miyanoura-shimama,official URL/domain match
+西海市,https://www.city.saikai.nagasaki.jp/kurashi/kotsu/3/index.html,10-saikai-seto-kamaura,official URL/domain match
+壱岐市,https://www.city.iki.nagasaki.jp/kurashi/mishima/2925.html,10-iki-mishima,official URL/domain match
+竹山運輸,https://www.city.hirado.nagasaki.jp/kurashi/life/sumai/koutu/ferry/fe02.html,10-hirado-oshima | 10-takeyama-hirado-takushima | 10-tsuyoshi-maetsuyoshi-sasebo,official URL/domain match
+共同フェリー,https://kyodoferry.com/,11-kyodo-goshoura-odo | 11-kyodo-goshoura-tanasoko | 11-kyodo-goshoura-misumi | 11-kyodo-goshoura-koyagochi | 11-kyodo-goshoura-hondo,official URL/domain match
+日豊汽船,https://www.city.nobeoka.miyazaki.jp/soshiki/4/2870.html,11-nippo-kisen-shimanoura,official URL/domain match
+糸島市,https://www.city.itoshima.lg.jp/s006/010/020/020/090/tosen.html,10-kishi-himeshima,official URL/domain match
+郵正丸,https://www.city.karatsu.lg.jp/koutsuu/machi/kotsu/koro/jikokuhyou-madarashima.html,10-yobuko-kakarashima | 10-yobuko-madarashima | 10-yobuko-ogawashima | 10-yobuko-matsushima | 10-karatsu-takashima | 10-hoshika-mukaishima | 10-minato-kashiwajima,official URL/domain match
+川口汽船,https://www.city.karatsu.lg.jp/koutsuu/machi/kotsu/koro/jikokuhyou-ogawashima.html,10-yobuko-kakarashima | 10-yobuko-madarashima | 10-yobuko-ogawashima | 10-yobuko-matsushima | 10-karatsu-takashima | 10-hoshika-mukaishima | 10-minato-kashiwajima,official URL/domain match
+加唐島汽船,https://www.city.karatsu.lg.jp/koutsuu/machi/kotsu/koro/jikokuhyou-kakarashima.html,10-yobuko-kakarashima | 10-yobuko-madarashima | 10-yobuko-ogawashima | 10-yobuko-matsushima | 10-karatsu-takashima | 10-hoshika-mukaishima | 10-minato-kashiwajima,official URL/domain match
+唐津汽船,http://web.people-i.ne.jp/~karatsu-maru/,10-minato-kashiwajima,explicit operator/route-name match; directory uses an alternative URL
+対馬市,https://www.city.tsushima.nagasaki.jp/gyousei/soshiki/nakatsushima/chiikisinkou/tokaisen/index.html,10-ikitsushimaferry-hakata-ashibe-izuhara | 10-tsushima-umisachihiko,official URL/domain match
+佐世保市,https://www.city.sasebo.lg.jp/benrimap/shisetsu/sonota/270.html,10-sasebo-mitsushima,official URL/domain match
+五島旅客船,https://shinkamigoto.nagasaki-tabinet.com/transportation/10351,10-gotoryokaku-wakamatsu-fukue,explicit operator/route-name match; directory uses an alternative URL
+黄島海運,https://www.city.goto.nagasaki.jp/s014/020/020/050/20220831171546.html,10-goto-naru-maeshima,official URL/domain match
+津吉商船,https://www.nomo.co.jp/tsuyoshi/tsuyoshi/,10-nomo-taiko | 10-nagasaki-ioujima-takashima,official URL/domain match
+嵯峨島旅客船,https://www.city.goto.nagasaki.jp/s014/020/020/050/20220831171546.html,10-goto-naru-maeshima,official URL/domain match
+津久見市,https://www.city.tsukumi.oita.jp/soshiki/10/21233.html,11-tsukumi-hotojima,official URL/domain match
+天長フェリー,https://tenchou-ferry.co.jp/,11-tenchou-ferry,official URL/domain match
+苓北観光汽船,https://www.reihoku-kisen.jp/,10-reihoku-mogi-tomioka,official URL/domain match
+野母商船,https://www.nomo.co.jp/,10-nomo-taiko | 10-nagasaki-ioujima-takashima,official URL/domain match
+福岡市,https://www.city.fukuoka.lg.jp/kowan/kyakusen/hakata-port/hyo.html,10-meinohama-nokonoshima | 10-hakata-genkaijima | 10-hakata-shikanoshima | 10-meinohama-oronoshima,official URL/domain match
+北九州市,https://www.city.kitakyushu.lg.jp/shisei/menu_00060.html,10-kokura-ainoshima | 10-wakato-tosen,official URL/domain match
+阪九フェリー,https://www.han9f.co.jp/,01-hankyu-izumiotsu-shinmoji | 01-hankyu-kobe-shinmoji,official URL/domain match
+宗像市,https://www.city.munakata.lg.jp/w050/040/040/050/050/oosima/index.html,10-kaminato-jinoshima | 10-kaminato-oshima,official URL/domain match
+九州郵船,https://www.kyu-you.co.jp/,10-kyuyu-hakata-hitakatsu | 10-kyuyu-hakata-ashibe-izuhara | 10-kyuyu-hakata-gonoura-izuhara | 10-kyuyu-karatsu-indoji,official URL/domain match
+九州商船,https://kyusho.co.jp/,10-kyusho-sasebo-kamigoto | 10-kyusho-nagasaki-goto | 10-kyusho-nagasaki-arikawa,official URL/domain match
+鷹島汽船,https://www.city-matsuura.jp/top/soshikikarasagasu/chiikikeizaikasseika/shokoshinkogakari/2/1014.html,10-takashimakisen-tononoura-imafuku | 10-takashimakisen-ao-mikuriya,explicit operator/route-name match; directory uses an alternative URL
+瀬戸内町,https://www.town.setouchi.lg.jp/cho/kurashi/kotsu/senpaku/index.html,11-setouchi-ferry-kakeroma | 11-setouchi-setonami | 11-amami-seto-semisub,official URL/domain match
+下関市,https://www.shimonoseki-port.com/list13-65.html,08-ganryujima-karato | 08-futaoijima | 08-mutsurejima | 08-kanmon-renrakusen,official URL/domain match
+小値賀町,http://ojika.net/tourism/transportation/,10-ojika-rokushima-nozaki | 10-ojika-oshima | 10-ojika-yanagi-nojima,explicit operator/route-name match; directory uses an alternative URL
+佐伯市,https://www.city.saiki.oita.jp/kiji0033261/index.html,11-saiki-oshima | 11-kamae-yakatajima-fukashima,official URL/domain match
+五島産業汽船,https://www.goto-sangyo.co.jp/,10-gotosangyo-nagasaki-tainoura,official URL/domain match
+八重山観光フェリー,https://yaeyama.co.jp/,12-ykf-kohama | 12-ykf-taketomi | 12-ykf-uehara | 12-ykf-ohara | 12-ykf-hatoma | 12-ykf-kuroshima | 12-ykf-uehara-hatoma,official URL/domain match
+伊江村,https://www.iejima.org/,12-ie-motobu,official URL/domain match
+渡嘉敷村,https://tokashiki-ferry.jp/Senpaku/portal,12-tokashiki,official URL/domain match
+座間味村,https://www.vill.zamami.okinawa.jp/,12-zamami | 12-zamami-mitsushima | 12-zamami-mitsushima-aharen,official URL/domain match
+久米商船,http://www.kumeline.com/,12-kume-tonaki,official URL/domain match
+伊平屋村,https://www.vill.iheya.okinawa.jp/,12-iheya,official URL/domain match
+伊是名村,https://vill.izena.okinawa.jp/,12-izena,official URL/domain match
+粟国村,https://www.vill.aguni.okinawa.jp/index.html,12-aguni,official URL/domain match
+神谷観光,http://tsuken.shimatabi.jp/,12-tsuken,official URL/domain match
+福山海運,https://fukuyamakaiun.ti-da.net/,12-yonaguni,explicit operator/route-name match; directory uses an alternative URL
+多良間海運,http://www.taramakaiun.com/,12-tarama,official URL/domain match
+大神海運,https://oogamikaiun.com/,12-ogami,official URL/domain match
+久高海運,https://kudakakaiun.jimdofree.com/,12-kudaka,official URL/domain match
+船浮海運,https://funaukikaiun.wixsite.com/top-jp,12-funauki,official URL/domain match
+大東海運,https://daitoline.co.jp/,12-daito,official URL/domain match
+水納海運,https://www7b.biglobe.ne.jp/~minna/,12-minna,official URL/domain match
+安栄観光,https://aneikankou.co.jp/,12-anei-kohama | 12-anei-hateruma | 12-anei-taketomi | 12-anei-uehara | 12-anei-ohara | 12-anei-hatoma | 12-anei-kuroshima | 12-anei-uehara-hatoma | 12-anei-ohara-taketomi,official URL/domain match
